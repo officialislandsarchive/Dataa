@@ -1,0 +1,45 @@
+Source: https://robloxislands.fandom.com/wiki/Coconut
+
+----------------------------------------
+
+Coconut Dropped by Angry Crab Heals 10 HP Sell price 48 coins A coconut is a fruit grown on palm trees .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Coconuts grow every season on palm trees , and can be obtained by harvesting them. There can be up to three coconuts on a tree at a time, and whenever a coconut is harvested, there is a 4% chance of getting an additional palm tree sapling . Harvesting a coconut yields 6 Farming XP (24 XP with the 4x daily bonus).
+
+It takes 6 minutes for a coconut to grow and 18 minutes for all three coconuts to grow.
+
+Coconuts were also obtainable by harvesting them from naturally generated palm trees on Skull Island during the Godzilla vs. Kong event, and when harvested, there was a 4% chance of getting a palm tree sapling.
+
+Mob drop [ ]
+
+Angry crabs have a 50% chance of dropping a coconut upon defeat.
+
+Usage [ ]
+
+Crate-packing [ ]
+
+Image Name Recipe Crafting station Crate of Coconuts 100 Coconut Crate Packer Large Crate of Coconuts 250 Coconut Tier 2 Crate Packer
+
+Quest [ ]
+
+Bosco required the player to harvest 10 coconuts on Skull Island in a questline to obtain the Kong's axe .
+
+Eating [ ]
+
+Eating a coconut restores 10 HP.
+
+Selling [ ]
+
+Coconuts can be sold to Tom for 48 coins each.
+
+History [ ]
+
+March 19, 2021 Added coconuts. April 4, 2021 Coconuts can no longer be obtained by harvesting palm trees on Skull Island . July 17, 2021 Coconuts can now be dropped by angry crabs . August 21, 2021 Coconuts can now be packed into crates and large crates . June 3, 2022 Coconuts can now be sold to Cletus instead of to Tom . July 23, 2022 Changed the sell price of coconuts from 45 coins to 48 coins. October 15, 2022 Coconuts can now be sold to Tom instead of to Cletus.
+
+Trivia [ ]
+
+This is one of the six crops that cannot be used to craft a food item, the others being pumpkins , watermelons , radishes , blackberries , and plums . Upon the release of the Godzilla vs. Kong event, players were able to cut down the palm trees on Skull Island , making it impossible to complete the first quest. It was fixed shortly after discovery, and the trees can no longer be chopped in the event area. At the same time, harvesting coconuts on player islands would not reward any XP. This was later found out and was quickly fixed by the developers. If a palm tree is chopped down while having coconuts on it, it will only drop the sapling and not any of the coconuts.

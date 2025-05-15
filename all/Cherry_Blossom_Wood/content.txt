@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Cherry_Blossom_Wood
+
+----------------------------------------
+
+Cherry Blossom Wood Type of block Solid block Sell price 40 coins Best tool Luminous Transparent Cherry blossom wood is a block that can be obtained by cutting down cherry blossom trees .
+
+Obtaining [ ]
+
+Cutting [ ]
+
+Cutting down a cherry blossom trees will drop 3 - 4 cherry blossom wood along with a cherry blossom sapling .
+
+Breaking [ ]
+
+Cherry Blossom Wood Breaking Data Hardness 7 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 11 Wooden 11 21 Stone 7 12 Iron 5 7 Gilded Steel 4 5 Diamond 3 4 Opal 2 3 Void Mattock 2
+
+Usage [ ]
+
+Transforming [ ]
+
+Input Item transformer Output 1 Cherry Blossom Wood ➡ Sawmill ➡ 4 Cherry Blossom Plank ➡ Industrial Sawmill ➡
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Trap Door Cherry Blossom 5 Cherry Blossom Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Fueling [ ]
+
+Cherry blossom wood can be used to fuel campfires , small furnaces , or desert furnaces . The fuel lasts for about 20 seconds.
+
+Selling [ ]
+
+Cherry blossom wood can be sold to John for 40 coins each.
+
+History [ ]
+
+January 20, 2023 Added cherry blossom wood.

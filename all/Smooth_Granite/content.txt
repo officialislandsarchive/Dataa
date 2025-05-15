@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Smooth_Granite
+
+----------------------------------------
+
+Smooth Granite Type of block Solid block Recipe 1 Granite Crafted with Polishing Station Industrial Polishing Station Best tool Luminous Transparent Smooth granite is the smooth version of granite .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Granite can be transformed into smooth granite in a polishing station or an industrial polishing station .
+
+Input Item transformer Output 1 Granite ➡ Polishing Station ➡ 1 Smooth Granite ➡ Industrial Polishing Station ➡
+
+Breaking [ ]
+
+Smooth Granite Breaking Data Hardness 12 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 18 Wooden 36 36 Stone 20 20 Iron 12 12 Gilded Steel 9 9 Diamond 6 6 Opal 5 5 Void Mattock 3
+
+History [ ]
+
+March 6, 2022 Added smooth granite.

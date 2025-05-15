@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Solar_Panel
+
+----------------------------------------
+
+Solar Panel Type of block Solid block; Electrical Recipe 10 Steel Ingot 100 Electrite 10 Copper Bolt Crafted with Electrical Workbench (Level 2) Best tool Luminous Transparent Description Feel the power of the sun!
+
+The Solar Panel is an electrical component that can be crafted with 10 Steel Ingots , 100 Electrite , and 10 Copper Bolts in a level 2 Electrical Workbench . It only releases Electricity when the sun is out. The amount of power created depends on the time of day. The maximum amount of power is 26. Along with Coal Generators and Steam Generators , it's one of the three power sources in-game.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Solar Panels can only be crafted in an Electrical Workbench that has been upgraded to level 2.
+
+Name Recipe Crafting station Solar Panel 10 Steel Ingot 100 Electrite 10 Copper Bolt Electrical Workbench (Level 2)
+
+Breaking [ ]
+
+Solar Panel Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Solar Panels are one of the three Electric power sources in game, the others being the Coal Generator and Steam Generator . It is used to power electrical items such as LED Lights . The Solar Panel can only emit electricity when it is in direct contact with sunlight. It can produce 26 energy at any given time.
+
+History [ ]
+
+December 11, 2020 Added solar panels.
+
+Trivia [ ]
+
+Players were formerly able to place a significant amount of Solar Panels without needing a Electrical Workbench Tier 3 before a power source limit was added. Currently the power source limit is removed.

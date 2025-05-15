@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Pig_Spawn_Egg
+
+----------------------------------------
+
+Pig Spawn Egg Buy cost Tier 1: 12,500 coins Required skill Tier 1: Level 31 Animal Care Description Spawn a pig with tier 1/2/3 trait maximums. Eats carrots. A pig spawn egg is a spawn egg used to spawn pigs on player islands . It exists in 3 tiers.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Tier 1 pig spawn eggs can be purchased from Taliyah for 12,500 coins after reaching level 31 in the Animal Care skill.
+
+Breeding [ ]
+
+Feeding two pigs potions of fertility during the day will create a spawn egg whose tier is based on the two "parent" animals' stats.
+
+Usage [ ]
+
+Spawning [ ]
+
+To spawn a pig, the player must hatch the egg by selecting and holding anywhere on their screen if their small animal limit has not been reached.
+
+History [ ]
+
+February 5, 2021 Added pig spawn eggs.

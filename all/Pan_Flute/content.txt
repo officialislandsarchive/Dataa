@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Pan_Flute
+
+----------------------------------------
+
+Pan Flute Recipe 10 Iron Ingot 10 Oak Wood Crafted with Instrument Workbench The pan flute is an instrument .
+
+Obtaining [ ]
+
+Melody [ ]
+
+The player will receive a pan flute and a kalimba upon first interacting with Melody .
+
+Crafting [ ]
+
+The instrument workbench gamepass is required to craft the pan flute.
+
+Name Recipe Crafting station Gamepass required Pan Flute 10 Iron Ingot 10 Oak Wood Instrument Workbench
+
+Usage [ ]
+
+The player can play a song by using the pan flute.
+
+Audio [ ]
+
+History [ ]
+
+July 9, 2021 Added pan flutes.
+
+Gallery [ ]

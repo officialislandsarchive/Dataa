@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Inventory
+
+----------------------------------------
+
+The inventory allows players to access all their unplaced possessions. The maximum space in the inventory is unknown, and possibly infinite, as no player has reached it.
+
+Accessing [ ]
+
+To open the inventory, click on the backpack icon at the right side of the hotbar . PC players can tap the "E" key to open/close the inventory. Clicking outside of the inventory box will close it. Selecting an item will send it to an empty slot in the player's hotbar. Empty slots have a centered circle as a place-marker. If the hotbar is full, then players must swap out items to make space. Desktop players can hover their mouse to show an item's name.
+
+Features [ ]
+
+Sorting [ ]
+
+A player's inventory can be sorted into six categories.
+
+Button Holds All items Any item that can be placed on a Player's Island Seeds , Crops , Fish , Bait , Fertilizer , Leaves , and Potions Food Pickaxes , Axes , Weapons , and Farming Tools Miscellaneous (includes Mob Drops , Pearls , Propellers , Blueprints and minerals)
+
+Search Bar [ ]
+
+The search bar is located at the top right of the inventory UI. It allows players to find a specific item with a keyword.
+
+Season Indicator [ ]
+
+The current season in-game is stated above the search bar. Fall Winter Spring Summer
+
+Wallet [ ]
+
+A player's coin amount is shown at the top left of the inventory UI. Any coins deposited into vending machines will not be counted here.
+
+History [ ]
+
+April 24, 2020 The original inventory UI was black and gray. August 30, 2020 Search and sorting features are added. The inventory was redesigned with a tan color scheme. August 30, 2020 The amount of Coins a player has is now displayed above the sorting tabs. February 12, 2021 The "Backpack" icon was added. March 13, 2021 Added an indicator for the current season . August 28, 2021 The button to access the inventory was moved to the right of the hotbar . This update also refreshed the sorting buttons. April 1, 2022 Added food category. June 25, 2022 Seasons now have icons next to them. August 27, 2022 Differentiated all seeds in the inventory. October 15, 2022 Changed the icon for the inventory button.
+
+Trivia [ ]
+
+Using the /reset command no longer erases a player's inventory. Nowadays, typing /reset in the chat only gets rid of all the blocks placed on the Player's Island and replaces it with a current version of the starter island.

@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Ruby_Skorp_Claw
+
+----------------------------------------
+
+Ruby Skorp Claw Dropped by Ruby Skorp A ruby skorp claw is an item that has a chance to be obtained from ruby skorps and Desert Island treasure chests . It currently has no use.
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Ruby skorps have a 10% chance of dropping a ruby skorp claw upon defeat.
+
+Desert Island treasure [ ]
+
+Opening a Desert Island treasure chest has a small chance of rewarding a ruby skorp claw, having a rarity of 'legendary'.
+
+History [ ]
+
+August 9, 2020 Added ruby skorp claws. April 16, 2022 Ruby skorp claws now have a chance to be opened from a Desert Island treasure chest . June 18, 2022 Ruby skorps are now able to drop ruby skorp claws upon defeat.

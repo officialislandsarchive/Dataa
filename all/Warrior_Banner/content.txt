@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Warrior_Banner
+
+----------------------------------------
+
+Warrior Banner Standing Hanging Type of block Solid block Recipe 5 Oak Wood 1 Orange Flower 1 Black Flower Crafted with Banner Workbench (requires gamepass) Best tool Luminous Transparent The warrior banner is a decorative banner block .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+The banner workbench gamepass is required to craft this block.
+
+Name Recipe Crafting station Gamepass required Warrior Banner 5 Oak Wood 1 Orange Flower 1 Black Flower Banner Workbench
+
+Breaking [ ]
+
+Warrior Banner Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+May 8, 2021 Added warrior banners.

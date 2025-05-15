@@ -1,0 +1,53 @@
+Source: https://robloxislands.fandom.com/wiki/Onion
+
+----------------------------------------
+
+Onion Onion Oily Seed cost 2,000 coins Planted on Farmland Sell price 30 coins Required skill Level 31 Farming (to sell) Oily description A crop that is covered in motor oil. Must be washed before selling Edible An onion is a crop that grows on farmland from onion seeds .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting an onion plant yields 1 - 3 onions, 1 - 2 onion seeds , and 15 Farming XP (63 XP with the 4x daily bonus). The chance of obtaining more than one onion per plant is increased by the player's Farming level and for owners of the VIP gamepass . The 5% chance of obtaining an extra onion seed is increased for owners of the pro gamepass .
+
+Totems [ ]
+
+An onion totem will collect and replant onions in a 3-block radius, which can then be collected by interacting it. An onion totem placed next to a conveyor belt will drop the onions onto the conveyor, but doing so will make them oily. This process cannot yield extra onion seeds.
+
+Washing [ ]
+
+Name Recipe Crafting station Onion 1 Oily Onion Washing Station
+
+Input Item transformer Output 1 Oily Onion ➡ Industrial Washing Station ➡ 1 Onion
+
+Growth [ ]
+
+The growth time of onions can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Onion Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 40s 3m 20s 4m 50s Note: The durations of time above are on an unfertilized and unwatered plant Onion Growth Time Type Growth Time Normal 4m 50s Fertilized 3m 52s Watered 3m 52s Watered + Fertilized 3m 23s
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Tomato Soup 8 Tomato Sauce 4 Onion 1 Milk Bucket Cooking Table Food Processor Level 36 Cooking
+
+Crate-packing [ ]
+
+Image Name Recipe Crafting station Crate of Onions 100 Onion Crate Packer Large Crate of Onions 250 Onion Tier 2 Crate Packer
+
+Eating [ ]
+
+Eating an onion restores 8 HP.
+
+Selling [ ]
+
+Onions can be sold to Cletus for 30 coins each.
+
+History [ ]
+
+April 10, 2020 Added onions. May 10, 2020 Changed the sell price of onions from 35 coins to 30 coins . June 15, 2020 Added oily onions. Onions will now become oily when dropped onto a conveyor belt from a totem . Onions can now be obtained by washing oily onions. January 22, 2021 Onions now grant 15 Farming XP when harvested. Onions now require level 31 Farming to be sold to Tom . February 26, 2021 Oily onions can no longer be sold for coins . June 4, 2021 Onions can be packed into crates of onions . August 15, 2021 Onions can be packed into large crates of onions . June 3, 2022 Onions can now be sold to Cletus instead of Tom . August 27, 2022 Changed the sell price of onions from 30 coins to 24 coins . ? Changed the sell price of onions from 24 coins to 30 coins . October 8, 2022 Changed the sell price of onions from 30 coins to 25 coins . October 15, 2022 Onions can now be sold to Tom instead of Cletus. November 4, 2022 Onions can now be sold to Cletus instead of Tom.
+
+Trivia [ ]
+
+The name of the item in-game is "Onions". This was the highest-selling crop before starfruit was added.

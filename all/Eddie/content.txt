@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Eddie
+
+----------------------------------------
+
+Eddie Location Hub Purpose Sells Christmas-themed items and provides match queue for snowball fights. Occupation Snowman Eddie was a limited-time villager located in the Hub during the Christmas 2022 event.
+
+Shop [ ]
+
+Selling [ ]
+
+Image Name Price Christmas Present 2022 450 snowflake tickets Blue Gnome Bag 25 snowflake tickets Yellow Gnome Bag 25 snowflake tickets Red Gnome Bag 25 snowflake tickets Blue Standing Gnome 25 snowflake tickets Yellow Standing Gnome 25 snowflake tickets Red Standing Gnome 25 snowflake tickets Blue Cup Gnome 25 snowflake tickets Yellow Cup Gnome 25 snowflake tickets Red Cup Gnome 25 snowflake tickets Santa Stocking 35 snowflake tickets Elf Stocking 35 snowflake tickets Snowman Stocking 35 snowflake tickets Snowflake Stocking 35 snowflake tickets Cookie Stocking 35 snowflake tickets Candy Cane Fence 25 snowflake tickets Candy Cane Light Fence 25 snowflake tickets Christmas Fence Light 25 snowflake tickets Red Christmas Street Light 25 snowflake tickets Green Christmas Street Light 25 snowflake tickets Black Christmas Street Light 25 snowflake tickets Rainbow Candy Cluster 25 snowflake tickets Red Candy Cluster 25 snowflake tickets Green Candy Cluster 25 snowflake tickets Red and White Christmas Lantern 25 snowflake tickets Green and White Christmas Lantern 25 snowflake tickets Red and Green Christmas Lantern 25 snowflake tickets
+
+Dialogue [ ]
+
+"Brrrr, it's quite chilly out huh? Haha, what can I do for you?" >View shop Leads to shop. >Event Info "Youu can queue with up to 4 people and will head to the Snowball Fight arena. There, you'll have only snowballs as your weapons! Not to worry, your items are safe and will be there when you return home. Hit the enemy with snowballs, earn your team points, win tickets! Afterwards, come back to me and see my shop to spend those tickets on some Christmas goodies!" >Done End. >Queue match Queues snowball fight match.
+
+History [ ]
+
+December 16, 2022 Added Eddie. December 23, 2022 Eddie can now sell Christmas street lights , candy clusters , and Christmas lanterns .

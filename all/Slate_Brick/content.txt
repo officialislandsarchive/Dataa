@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Slate_Brick
+
+----------------------------------------
+
+Slate Brick Type of block Solid block Recipe 1 Slate Crafted with Stonecutter Industrial Stonecutter Best tool Luminous Transparent Slate bricks are the brick variant of slate .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Slate can be transformed into slate bricks in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Slate ➡ Stonecutter ➡ 1 Slate Brick ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Slate Brick Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Slate Brick Stair 1 Slate Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Slate Brick Slab 1 Slate Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Slate bricks can be transformed into slate tiles in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Slate Brick ➡ Stonecutter ➡ 1 Slate Tiles ➡ Industrial Stonecutter ➡
+
+History [ ]
+
+April 4, 2021 Added slate bricks. May 8, 2021 Changed texture of slate bricks. February 19, 2022 Slate bricks can now be cut into slate tiles .

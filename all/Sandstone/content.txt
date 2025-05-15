@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Sandstone
+
+----------------------------------------
+
+Sandstone Sandstone Rock Type of block Solid block Spawns Desert Island Best tool Luminous Transparent Sandstone is a block that can be mined from sandstone rocks .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Sandstone rocks naturally spawn in the Hub Desert and Desert Island . Mining a sandstone rock grants the player 1 - 2 sandstone and 8 Mining XP (33 with the 4x daily bonus) per stage, resulting in a total of 2 - 4 sandstone and 16 Mining XP (66 with the 4x daily bonus) per full rock.
+
+Totems [ ]
+
+A sandstone totem will spawn sandstone rocks in a 5 block radius. After the totem has spawned 6 sandstone rocks or has run out of space, the totem will begin to mine the rocks and hold rewards equivalent to a half of an ore rock, which can be collected by interacting with the totem.
+
+A sandstone totem placed next to a conveyor belt will drop sandstone onto the conveyor belt.
+
+Breaking [ ]
+
+Sandstone Block Breaking Data Hardness 5 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 8 Wooden 15 8 Stone 8 5 Iron 5 4 Gilded Steel 4 3 Diamond 3 2 Opal 2 1 Void Mattock 1 Sandstone Rock Breaking Data Hardness 55 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 83 Wooden 165 83 Stone 88 55 Iron 55 35 Gilded Steel 39 28 Diamond 28 17 Opal 22 11 Void Mattock 11
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Sandstone Stair 1 Sandstone Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Sandstone Slab 1 Sandstone Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Sandstone can be transformed into sandstone bricks in a stonecutter or an industrial stonecutter , or into smooth sandstone in a polishing station or an industrial polishing station .
+
+Input Item transformer Output 1 Sandstone ➡ Stonecutter ➡ 1 Sandstone Brick ➡ Industrial Stonecutter ➡ 1 Sandstone ➡ Polishing Station ➡ 1 Smooth Sandstone ➡ Industrial Polishing Station ➡
+
+History [ ]
+
+April 24, 2021 Added sandstone. June 4, 2021 Sandstone can now be polished into smooth sandstone . October 9, 2021 Sandstone can now be obtained from sandstone totems . March 6, 2022 Sandstone can no longer be used to craft sandstone stairs . March 25, 2022 Sandstone can now be used to craft sandstone stairs once again. April 9, 2022 Sandstone rocks can now spawn in Hub .

@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Rock
+
+----------------------------------------
+
+Rock Type of block Non-solid block Spawns On top of Grass and Stone Best tool Drops Stone Luminous Transparent
+
+Rocks are naturally generating blocks that spawn on top of grass .
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+Rocks naturally spawn on top of grass at random occasions. Breaking the block will drop stone , and not the block itself.
+
+Breaking [ ]
+
+Rock Breaking Data Hardness 5 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 8 Wooden 15 15 Stone 8 8 Iron 5 5 Gilded Steel 4 4 Diamond 3 3 Opal 2 2 Void Mattock 1
+
+Trivia [ ]
+
+Breaking these rocks was previously required in a quest , but quests have since been removed. The only time when rocks can spawn on top of stone is when a resource island generates.

@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Bush_Pot
+
+----------------------------------------
+
+Bush Pot Small Medium Tall Type of block Solid block Buy cost 75 Spirit Jars Best tool Luminous Transparent Description Small/Medium/Tall Decorative Garden Piece A bush pot is a furniture block that can be purchased from Catherine . It comes in three variants: small, medium, and tall.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Bush pots can be purchased from Catherine on Spirit Island for 75 spirit jars each.
+
+Breaking [ ]
+
+Bush Pot Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+September 10, 2022 Added small, medium, and tall bush pots. October 10, 2022 Bush pots can now be traded .

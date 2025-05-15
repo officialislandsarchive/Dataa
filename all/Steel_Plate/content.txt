@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Steel_Plate
+
+----------------------------------------
+
+Steel Plate Recipe 50 Steel Ingot Crafted with Steel Press (requires mold) Description Solid plating made of steel. Used for crafting The steel plate is an item used to craft various factory items.
+
+Obtaining [ ]
+
+Molding [ ]
+
+Input Machinery + mold Output 50 Steel Ingot Steel Press + Plate Factory Mold 1 Steel Plate
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Red Bronze Refinery 100 Steel Plate 250 Copper Rod 25 Steel Rod Workbench Tier 3 Workbench Tier 4 None Personal Orb 5 Matching Colored Flower 5 Steel Plate 10 Glass Block Workbench Tier 3 Workbench Tier 4 None Tier 2 Crate Packer 15 Steel Plate 25 Red Bronze Ingot Workbench Tier 4 None Industrial Merchant Teleseller 200 Red Bronze Ingot 10 Steel Plate 1 Pink Sticky Gear Workbench Tier 4 None Gearbox 10 Copper Rod 50 Steel Bolt 25 Steel Plate Anvil None Infernal Hammer 1 Infernal Flame 200 Magma Block 5 Gilded Steel Rod 50 Steel Plate Anvil Level 55 Heavy Melee Large Diamond Chest 30 Diamond 5 Enchanted Diamond 20 Steel Plate 15 Steel Bolt Workbench Tier 4 None Expanded Diamond Chest 50 Diamond 10 Enchanted Diamond 40 Steel Plate 30 Steel Bolt Workbench Tier 4 None Sewing Station 50 Iron Ingot 50 Oak Wood 5 Steel Plate Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Blueprint required Syrup Bottler 1 Pink Sticky Gear 3 Steel Plate 20 Copper Ingot Maple Workbench None
+
+History [ ]
+
+September 18, 2020 Added steel plates. August 15, 2021 Steel plates can now be used to craft crate packer tier 2s . November 27, 2021 Steel plates can now be used to craft syrup bottlers . April 16, 2022 Steel plates can now be used to craft black personal orbs , green personal orbs , yellow personal orbs , blue personal orbs , lime personal orbs , purple personal orbs , pink personal orbs , cyan personal orbs , orange personal orbs , and red personal orbs . April 22, 2022 Steel plates can now be used to craft infernal hammers . June 25, 2022 Steel plates can now be used to craft industrial merchant telesellers . November 4, 2022 Steel plates can now be used to craft large diamond chests and expanded diamond chests . November 11, 2022 Steel plates can now be used to craft sewing stations .

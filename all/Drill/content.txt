@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Drill
+
+----------------------------------------
+
+Drill Type of block Solid block; Interactable Recipe 1 Crystallized Iron 1 Blue Sticky Gear 8 Steel Rod Crafted with Workbench Tier 3 Workbench Tier 4 Required skill Level 18 Forging Best tool Luminous Transparent Description Autominer that extracts from resource deposit islands. Powered by coal. A drill is an industrial machine used to drill copper and gold ore from copper and gold deposits .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Drill 1 Crystallized Iron 1 Blue Sticky Gear 8 Steel Rod Workbench Tier 3 Workbench Tier 4 Level 18 Forging
+
+Breaking [ ]
+
+Drill Breaking Data Hardness 50 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 75 Wooden 150 150 Stone 80 80 Iron 50 50 Gilded Steel 35 35 Diamond 25 25 Opal 20 20 Void Mattock 10
+
+Usage [ ]
+
+Drilling [ ]
+
+To use a drill, it first must be powered with coal or petrified petroleum , either manually or via its conveyor input with a coal totem . Doing so will power the drill for approximately 30 seconds. Drills can only drill copper or gold deposits , and after placing it on top of a deposit and powering it, it will start extracting copper or gold ore respectively and output it from its output conveyor. It takes 5 seconds to extract a copper ore and 2 minutes to extract a gold ore.
+
+History [ ]
+
+September 18, 2020 Added drills.
+
+Trivia [ ]
+
+The drill animations will break if the player starts and stops it twice without leaving the game or breaking it. The drill has small meters that start to move around once the drill is fueled. Before the January 22, 2021 update, the drill used to take 50 seconds to drill out gold ore from a gold deposit .

@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Nutcracker
+
+----------------------------------------
+
+Nutcracker Red Green Blue Type of block Solid block Best tool Luminous Transparent The nutcracker is a furniture block that has a chance to be obtained from Christmas present 2021s . It comes in three color variants: red, green, and blue.
+
+Obtaining [ ]
+
+Christmas presents [ ]
+
+Opening a Christmas present 2021 has an 18% chance of rewarding a red, green, or blue nutcracker.
+
+Breaking [ ]
+
+Nutcracker Breaking Data Hardness 5 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 8 Wooden 15 15 Stone 8 8 Iron 5 5 Gilded Steel 4 4 Diamond 3 3 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+December 29, 2021 Added nutcrackers.

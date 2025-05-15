@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Wire_Tool
+
+----------------------------------------
+
+Wire Tool Type Tool Recipe 10 Iron Ingot Crafted with Electrical Workbench Description Used to configure wiring on electrical items. The wire tool is a tool used to configure wiring on electrical items.
+
+Usage [ ]
+
+The wire tool is used to wire electrical items. Players can connect two sockets by clicking on the first and then clicking on the socket of the desired destination. The wire can pass through blocks and there is no length restriction.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Wire Tool 10 Iron Ingot Electrical Workbench
+
+History [ ]
+
+December 11, 2020 Added wire tools.

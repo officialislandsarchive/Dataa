@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Hannah
+
+----------------------------------------
+
+Hannah Location Hub ( Arius ' tower) Pirate Island (pirate ship) Purpose Lets the player travel between the Hub and Pirate Island. Occupation Pirate Captain Hannah is a villager whose purpose is to teleport a player to different locations.
+
+Dialogue [ ]
+
+The Hub [ ]
+
+"Yarr user ! Would you like to travel to Pirate Island?" >Travel to Pirate Island Player teleports to Pirate Island.
+
+Pirate Island [ ]
+
+"Lookin' to return home, user ?" >Travel to Hub Player teleports to the Hub.
+
+History [ ]
+
+July 17, 2021 Added Hannah.
+
+Trivia [ ]
+
+The model of Hannah is similar to the model of the Hannah kit in BedWars.

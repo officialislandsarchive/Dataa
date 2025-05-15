@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Apple
+
+----------------------------------------
+
+Apple Heals 10 HP Sell price 26 coins An apple is a fruit grown on apple trees .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Apples grow every season on apple trees and can be obtained by harvesting them. There can be up to three apples on a tree at a time. When harvested, the player will obtain 1 apple, 6 Farming XP (24 with the 4x daily bonus), and a 3% chance for an additional apple tree sapling .
+
+It takes 5 minutes and 30 seconds for an apple to grow and 16 minutes and 30 seconds for the three apples to grow.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Uncooked Apple Pie 1 Dough 3 Apple Cooking Table Food Processor Level 22 Cooking Candy Apple 3 Jar of Honey 1 Apple Cooking Table Food Processor Level 60 Cooking
+
+Crate-packing [ ]
+
+Image Name Recipe Crafting station Crate of Apples 100 Apple Crate Packer Large Crate of Apples 250 Apple Tier 2 Crate Packer
+
+Eating [ ]
+
+Eating an apple restores 10 HP.
+
+Selling [ ]
+
+Apples can be sold to Tom for 20 coins .
+
+Animals [ ]
+
+Apples can be a cow's , sheep's , or pig's favorite food.
+
+History [ ]
+
+June 26, 2020 Added apples. August 30, 2020 Apples can now be used to craft candy apples . October 3, 2020 Apples can now be a cow's favorite food. January 22, 2021 Apples now grant 6 Farming XP when harvested. Apples can now be a sheep's favorite food. February 5, 2021 Apples can now be a pig's favorite food. August 21, 2021 Apples can now be packed into crates and large crates . June 3, 2022 Apples can now be sold to Cletus instead of to Tom . June 18, 2022 Changed the sell price of apples from 20 coins to 24 coins. ? Changed the sell price of apples from 24 coins to 20 coins. September 10, 2022 Changed the sell price of apples from 20 coins to 25 coins. October 15, 2022 Apples can now be sold to Tom instead of to Cletus .
+
+Trivia [ ]
+
+If an apple tree is chopped down while having apples on it, it will only drop the sapling and not any of the apples.

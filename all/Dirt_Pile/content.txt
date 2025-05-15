@@ -1,0 +1,17 @@
+Source: https://robloxislands.fandom.com/wiki/Dirt_Pile
+
+----------------------------------------
+
+Dirt Pile Type of block Solid block Spawns Near trees Best tool Drops Grass Luminous Transparent
+
+A dirt pile is a block created when pigs dig for truffles .
+
+Obtaining [ ]
+
+Dirt piles cannot be obtained as an inventory item. Pigs dig close to trees and create dirt piles at the digging location.
+
+Breaking [ ]
+
+Breaking a dirt pile will give the player a piece of grass and not the block itself.
+
+Dirt Pile Breaking Data Hardness 2 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 6 Stone 4 4 Iron 2 2 Gilded Steel 2 2 Diamond 1 1 Opal 1 1 Void Mattock 1

@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Oil_Refinery
+
+----------------------------------------
+
+Oil Refinery Type of block Solid block; Interactable Recipe 10 Red Bronze Ingot 30 Steel Rod Crafted with Workbench Tier 4 Best tool Luminous Transparent An oil refinery is an industrial item transformer used to convert oil fuel into petroleum fuel .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Oil Refinery 10 Red Bronze Ingot 30 Steel Rod Workbench Tier 4
+
+Breaking [ ]
+
+Oil Refinery Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Transforming [ ]
+
+Oil refineries can be used to convert oil fuel into petroleum fuel . The oil refinery has one slot that can only hold up one oil fuel at a time, which must be inputted through the left input pipe at the front. The refinery, along with the petroleum petrifier , fuel barrel filler , and fuel barrel extractor , does not require fuel. As a result, the back conveyor belt currently serves no practical purpose. It takes 10 seconds to convert oil fuel into petroleum, which is then exported through the right pipe at the front.
+
+Input Output 1 Oil Fuel ➡ 1 Petroleum Fuel
+
+History [ ]
+
+August 15, 2021 Added oil refineries. ? The oil refinery no longer needs to be fueled with coal or petrified petroleum to function.

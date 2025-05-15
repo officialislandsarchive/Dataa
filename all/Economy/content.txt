@@ -1,0 +1,15 @@
+Source: https://robloxislands.fandom.com/wiki/Economy
+
+----------------------------------------
+
+Economy Class Gathering Base Stats None Unlocks Lowest Unlock LVL 25 Highest Unlock LVL 70 Economy is a skill that can be used to interact with vending machines . Experience can be gained by selling items to various villager NPCs.
+
+Roadmap [ ]
+
+Level Unlock Level 25 Vending Buying Player Market Level 35 Vending Selling Player Market Level 40 Direct Trading Player Peer Trading Level 45 Vending Machine Crafting Recipe Level 70 Tier 2 Vending Machine Crafting Recipe
+
+Trivia [ ]
+
+Before the April 10, 2021 update, the player needed level 30 to buy/sell from vending machines and level 60 to craft/edit vending machines. The Economy skill tree. Like Forging skill, the Economy skill doesn't have any base stats. Economy Level 40 is now required to unlock player trading instead of needing a total skill level of 390 having the average of 30 in skills
+
+Contrary to popular belief, The best way to gain economy level is not to sell bones, but instead to sell deviled eggs to Petur (Baker located in Hub)

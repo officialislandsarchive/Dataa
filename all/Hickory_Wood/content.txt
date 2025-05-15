@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Hickory_Wood
+
+----------------------------------------
+
+Hickory Wood Type of block Solid block Sell price 28 Coins Best tool Luminous Transparent Hickory wood is a block that can be obtained from cutting down hickory trees .
+
+Obtaining [ ]
+
+Cutting [ ]
+
+Cutting down a hickory tree will drop 3 - 4 hickory wood along with a hickory sapling . If Auto Plant Saplings: On, you don't take any sapling and the sapling still on the place that the Hickory Tree being chopped.
+
+Breaking [ ]
+
+Hickory Wood Breaking Data Hardness 16 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 24 Wooden 24 48 Stone 16 26 Iron 10 16 Gilded Steel 8 12 Diamond 5 8 Opal 4 7 Void Mattock 4
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Hickory Sign 3 Hickory Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Trap Door Hickory 5 Hickory Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Workbench Tier 4 250 Red Bronze Ingot 250 Hickory Wood Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Input Item transformer Output 1 Hickory Wood ➡ Sawmill ➡ 4 Hickory Plank 1 Hickory Wood ➡ Industrial Sawmill ➡ 4 Hickory Plank
+
+Fueling [ ]
+
+Hickory wood can be used to fuel campfires , small furnaces , and desert furnaces for 20 seconds per log.
+
+Selling [ ]
+
+Hickory wood can be sold to John for 28 coins .
+
+History [ ]
+
+August 2, 2020 Added hickory wood. April 16, 2021 Hickory wood can now be sold to John for 28 coins . August 15, 2021 Hickory wood can now be used to craft the workbench tier 4 . December 10, 2021 Hickory wood can now be used to craft trap door hickories .

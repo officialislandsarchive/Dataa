@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Industrial_Oven
+
+----------------------------------------
+
+Industrial Oven Type of block Solid block; Interactable Recipe 3 Green Sticky Gear 8 Steel Rod Crafted with Workbench Tier 3 Workbench Tier 4 Required skill Level 17 Forging Best tool Luminous Transparent
+
+The industrial oven is an industrial machine used to cook food . Anything that can be cooked, such as dough and berry dough , can be put inside.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Industrial Oven 8 Steel Rod 3 Green Sticky Gear Workbench Tier 3 Workbench Tier 4 Level 17 Forging
+
+Breaking [ ]
+
+Industrial Oven Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+The industrial oven is used to cook food items. It has 6 slots, 3 top ones for food items, and 3 bottom ones for fuel. The oven requires a fuel such as coal as power to cook any food items.
+
+The industrial oven takes 10 seconds to cook an item , and rewards cooking xp once cooked.
+
+Cooking [ ]
+
+Input Output 1 Dough 1 Bread 1 Carrot 1 Roasted Carrot 1 Berry Dough 1 Berry Pie 1 Uncooked Pizza 1 Pizza 1 Carrot Cake Batter 1 Carrot Cake 1 Potato 1 Baked Potato 1 Uncooked Apple Pie 1 Apple Pie 1 Orange Cake Batter 1 Orange Cake 1 Lemon Bread Dough 1 Lemon Bread 1 Uncooked Starfruit Cake 1 Starfruit Cake 1 Uncooked Pineapple Pizza 1 Pineapple Pizza
+
+History [ ]
+
+May 2, 2020 Added industrial ovens. January 8, 2022 Industrial ovens can now cook uncooked pineapple pizzas into cooked pineapple pizzas.
+
+Trivia [ ]
+
+This is widely considered the second easiest industrial item to create, as green slimes are abundant on Slime Island .

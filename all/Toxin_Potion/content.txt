@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Toxin_Potion
+
+----------------------------------------
+
+Toxin Potion Recipe 6 Crystalline 1 Empty Potion Bottle Crafted with Brewing Stand Required skill Level 40 Cooking Description Gain resistance to poison attacks for 20 seconds. A toxin potion is an item that grants toxin resistance when consumed. Drinking the potion will not return the potion bottle .
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Toxin Potion 6 Crystalline 1 Empty Potion Bottle Brewing Stand Level 40 Cooking
+
+Usage [ ]
+
+Drinking [ ]
+
+Drinking a toxin potion grants the player 20 seconds of 25% damage reduction when fighting the Azarathian Serpent . This does not decrease damage dealt by any other mob .
+
+History [ ]
+
+March 31, 2023 Added toxin potions.

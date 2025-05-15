@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Luxury_Table
+
+----------------------------------------
+
+Luxury Table Type of block Solid block Buy cost 100,000 coins Best tool Luminous Transparent The luxury table is a luxury furniture block that can be purchased from John .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+The luxury table can be purchased for 100,000 coins from John, who is located in the Hub .
+
+Breaking [ ]
+
+Luxury Table Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+January 29, 2021 Added luxury tables.
+
+Trivia [ ]
+
+This item is tied with the luxury sofa for the forth-highest purchase price out of any other villager in the game.

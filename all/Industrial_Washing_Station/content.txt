@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Industrial_Washing_Station
+
+----------------------------------------
+
+Industrial Washing Station Type of block Solid block; Interactable Recipe 1 Propeller 3 Blue Sticky Gear 10 Steel Rod Crafted with Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description Cleans oily crops. The industrial washing station is an industrial item transformer used to wash oily crops .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Industrial Washing Station 1 Propeller 3 Blue Sticky Gear 10 Steel Rod Workbench Tier 3 Workbench Tier 4 Level 27 Forging
+
+Breaking [ ]
+
+Industrial Washing Station Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Auto-washing crops [ ]
+
+Industrial washing stations can be used to automatically wash oily crops into their respective clean crop variant. Oily crops and fuel can be inputted through the conveyor belt opening at the front. It has six slots able to hold one item each in its user interface—three for oily crops and three for fuel. When powered with coal or petrified petroleum , the industrial washing station will activate for approximately 20 seconds. During this time, it will begin washing any oily crops inside, taking 1.5 seconds per crop.
+
+Once done, the washed crops will be outputted through the conveyor belt at the other side of the machine.
+
+Transforming [ ]
+
+Input Output 1 Oily Tomato ➡ 1 Tomato 1 Oily Potato ➡ 1 Potato 1 Oily Onion ➡ 1 Onion 1 Oily Carrot ➡ 1 Carrot
+
+History [ ]
+
+June 15, 2020 Added industrial washing stations. June 16, 2020 Industrial washing stations now wash crops in 1.5 seconds, down from 5 seconds. January 22, 2021 Level 27 Forging is now required to craft industrial washing stations. ? Changed the color of the conveyor lines from white to gray.
+
+Trivia [ ]
+
+This is the only industrial machine that does not have smoke particles coming out when fueled as it has tiny water and bubble particles instead. The industrial washing station's conveyor lines used to be white instead of gray. The industrial washing station does not wash faster than the manual washing station ; it washes slightly slower.

@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Opal_Sword_Hilt
+
+----------------------------------------
+
+Opal Sword Hilt Description The hilt for an opal sword , crafted on the anvil . An opal sword hilt is an item used to craft the dragonslayer .
+
+Obtaining [ ]
+
+Dragon eggs [ ]
+
+Opening an infernal dragon egg has a 3.5% chance of rewarding an opal sword hilt, having a rarity of 'mythic'.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill The Dragonslayer 1 Opal Sword Hilt 60 Opal 100 Iron Ingot Anvil Level 55 Combat
+
+History [ ]
+
+September 11, 2021 Added opal sword hilts.

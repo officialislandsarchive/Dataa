@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Diamond_War_Hammer
+
+----------------------------------------
+
+Diamond War Hammer Type Heavy Melee Physical class Striking Attack damage 32 HP (Base) +16 HP (Critical) Recipe 80 Diamond 5 Gilded Steel Rod 10 Enchanted Diamond Crafted with Anvil Required skill Level 46 Heavy Melee Description Artifact hammer forged from enchanted diamonds. The diamond war hammer is a heavy melee weapon in the striking class.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Diamond War Hammer 80 Diamond 5 Gilded Steel Rod 10 Enchanted Diamond Anvil Level 46 Heavy Melee
+
+Attacking [ ]
+
+At Heavy Melee level 1, the diamond war hammer deals a base damage of 32 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 16 HP of damage. Its damage can be increased by leveling up the Heavy Melee skill and it is in the striking class.
+
+Like other melee weapon , only one player can hit damage in each hostile mob. Multiple players cannot hit damage together.
+
+History [ ]
+
+February 12, 2021 Added diamond war hammers. September 17, 2022 Diamond war hammers are now a striking weapon.
+
+Trivia [ ]
+
+The diamond war hammer shares the same crafting recipe as the diamond great sword .

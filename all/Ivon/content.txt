@@ -1,0 +1,63 @@
+Source: https://robloxislands.fandom.com/wiki/Ivon
+
+----------------------------------------
+
+Ivon Location Hub , Slime Island Purpose Buys certain items found on mob islands. Occupation Adventurer Ivon is a villager located in the Hub next to the portal to Slime Island . Players can exchange various items found on mob islands for coins .
+
+Shop [ ]
+
+Ivon buys certain items found on mob islands. He also sells a variety of arrows.
+
+Buying [ ]
+
+Image Name Sell price Acorn 2 coins Horseradish 2 coins Green Slime Ball 5 coins Blue Slime Ball 35 coins Pink Slime Ball 125 coins Empty Potion Bottle 20 coins Iron Skorp Scale 75 coins Gold Skorp Scale 250 coins Ruby Skorp Scale 1,000 coins
+
+Selling [ ]
+
+Image Name Sell price Stone Short Arrow 100 coins Iron Short Arrow 150 coins Steel Short Arrow 200 coins Stone Long Arrow 150 coins Iron Long Arrow 250 coins Steel Long Arrow 350 coins Long Crossbow Bolt 1,000 coins
+
+Dialogue [ ]
+
+In the February 26, 2021 update, Ivon received a new NPC UI.
+
+Current [ ]
+
+"What brings ya here user ?" >View Shop Opens shop. >Ask about scepter "Those pink lights turned out to be this massive pink slime! A queen! She was mighty tough but I finally beat her! She dropped some Pink Slime Crystals and I made a scepter out of 'em! You could make one too!" >Hmm End.
+
+During Godzilla vs. Kong Event [ ]
+
+"The titans are near! What brings ya here user ?" >View Shop Opens shop.
+
+On Fishing Festival Island [ ]
+
+Ivon would say one of the two lines below:
+
+"Real fishing is done with spearguns." >Okay End.
+
+"Fishing is fun until the fish are stronger than you." >Okay End.
+
+On Farming Festival Island [ ]
+
+Ivon would say one of the two lines below:
+
+"This farm may look peaceful, but I assure you there could be foes lurking in any corner!" >Sure... End.
+
+"Cletus brought me here to keep this farm free of slimes!"
+
+>Why? "Don't you know!? Nothing worse than sticky wheat!" >Yeah... End.
+
+At Slime Dungeon ( Slime Island ) [ ]
+
+Upon clicking the option on his avatar to "Talk", he following general dialogues appear:
+
+"Who do you think will win the fight between me and the Primordial Slime?" "I bet I could take the Primordial Slime in a one-on-one fight!" "Have you heard of the Primordial Slime? He seems like a big, scary guy!" "Not that I am scared but the Primordial Slime seems like a big, scary dude!" "Hi there! Just a warning, the last humans I saw enter the dungeons, never made it out!" "The last humans that went into the slime dungeon, never came back!" "I've heard that as much as a creator the Primordial is, he is also an agent of chaos!"
+
+Legacy Quests [ ]
+
+Prior to February 26, 2021 , Ivon offered legacy quests . The next quest would only be given after a player finished their current assigned quest. Completing a quest created a stronger bond with Ivon. With each Adventurer level gained, Ivon would randomly award blocks, seeds, or a furniture blueprint .
+
+Quest Hit 100 star strikes on enemies . Defeat 10 enemies . Defeat 1 pink or blue slime . Sell 10 slimeballs taken off of slimes . Defeat 25 enemies . Defeat 5 pink or blue slimes . Sell 30 slimeballs taken off of slimes . Defeat 10 buffalkor . Defeat 100 enemies . Defeat 20 pink or blue slimes . Sell 100 slimeballs taken off of slimes . Defeat 25 buffalkor .
+
+History [ ]
+
+April 10, 2020 Added the Adventurer. May 4, 2020 The Adventurer now buys slime balls . May 26, 2020 Changed the Adventurer's appearance. July 11, 2020 Slime island keys are no longer sold by the Adventurer. August 9, 2020 The Adventurer now buys skorp scales. February 26, 2021 The Adventurer has been renamed to "Ivon". Ivon no longer offers quests . Ivon now has dialogue rather than opening the shop instantly. September 5, 2021 Ivon is given new dialogue about the "mystery". October 18, 2021 Changed Ivon's appearance. Removed Ivon's dialogue about the "mystery". July 2, 2022 Added new dialogue. October 22, 2022 Ivon now sells arrows .

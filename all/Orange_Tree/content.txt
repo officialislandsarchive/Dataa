@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Orange_Tree
+
+----------------------------------------
+
+Orange Tree Sapling Spring Summer Fall Winter Type of block Solid block Spawns Player's Island Best tool Drops 3 - 4 Oak Wood 1 Orange Tree Sapling Luminous Transparent The orange tree is a fruit tree added in the June 26, 2020 update.
+
+The canopies of orange trees change color based on the current in-game season ; dark green in spring , light green in summer , dark red in fall , and white in winter , but its sapling always has light green leaves on its canopy.
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+Players have a 25% chance of starting with an orange tree on their island upon island creation.
+
+Harvesting [ ]
+
+Orange tree saplings have a 3% chance of dropping whenever an orange is harvested from the tree. It can be planted on grass to be grown into an orange tree. It takes 1 minute and 50 seconds for an orange tree sapling to grow into an orange tree.
+
+Breaking [ ]
+
+Orange Tree Breaking Data Hardness 8 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 12 24 Stone 8 13 Iron 5 8 Gilded Steel 4 6 Diamond 3 4 Opal 2 4 Void Mattock 2
+
+Drops [ ]
+
+When cut down, the player will recieve:
+
+3 - 4 oak wood 1 orange tree sapling
+
+Usage [ ]
+
+Harvesting [ ]
+
+Oranges grow every season on orange trees and can be obtained by harvesting them from the tree. There can be up to three oranges on a tree at a time, and whenever an orange is harvested, there is a 3% chance of getting an additional orange tree sapling. Harvesting an orange yields 6 Farming XP (24 XP with the 4x daily bonus). It takes x minutes for an orange tree to grow an orange, adding up to a total of xx minutes to grow three oranges.
+
+Orange trees can be harvested with leaf clippers to drop 2 leaves .
+
+History [ ]
+
+June 26, 2020 Added orange trees.
+
+Trivia [ ]
+
+If an orange tree is chopped down while having oranges on it, it will only drop the sapling and not any of the oranges.

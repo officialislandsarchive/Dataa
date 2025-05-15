@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Avocado_Toast
+
+----------------------------------------
+
+Avocado Toast Recipe 2 Avocado 1 Bread Crafted with Cooking Table Food Processor Heals 15 HP Sell price 92 - 138 coins Hot sell price 138 - 207 coins Required skill Level 33 Cooking An avocado toast is a food item.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Avocado Toast 2 Avocado 1 Bread Cooking Table Food Processor Level 33 Cooking
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Truffle Avocado Toast 1 Avocado Toast 1 Black Truffle Cooking Table Food Processor Level 70 Cooking
+
+Eating [ ]
+
+Eating an avocado toast restores 15 HP.
+
+Selling [ ]
+
+Avocado toast can be sold to Petur for 92 - 138 coins each, or 138 - 207 coins if avocado toast is a hot offer.
+
+History [ ]
+
+June 26, 2020 Added avocado toast. January 22, 2021 Level 33 Cooking is now required to craft avocado toast. November 13, 2021 Avocado toast can now be used to craft truffle avocado toast . January 8, 2022 Changed the base selling price from 115 coins to 138 - 207 coins. January 15, 2022 Changed the base selling price from 138 - 207 coins to 92 - 138 coins.
+
+Trivia [ ]
+
+This is the only food recipe that uses avocados . Avocado toast only heals 15 HP despite the fact that bread heals 20.

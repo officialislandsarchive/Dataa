@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Pottery_Bench
+
+----------------------------------------
+
+Pottery Bench Type of block Solid block; Interactable Buy cost 180 flower tokens Best tool Luminous Transparent Description Make pots for your flowers The pottery bench is a crafting station used to craft flower pots .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Pottery benches can be purchased from Fulco for 180 flower tokens each.
+
+Breaking [ ]
+
+Pottery Bench Breaking Data Hardness 8 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 12 24 Stone 8 13 Iron 5 8 Gilded Steel 4 6 Diamond 3 4 Opal 2 4 Void Mattock 2
+
+Usage [ ]
+
+Crafting recipes [ ]
+
+Image Name Recipe Flower Pot 20 Brick 1 Grass Flower Pot 20 Brick 1 Grass Flower Pot 20 Brick 1 Grass Flower Pot 20 Brick 1 Grass
+
+History [ ]
+
+November 20, 2020 Added pottery benches. June 3, 2022 Pottery benches can no longer be purchased from Fulco . June 18, 2022 Pottery benches can be purchased from Fulco again. Pottery benches can now be bought for 180 flower tokens .
+
+Trivia [ ]
+
+The pottery bench is the most expensive item Fulco offers. The pottery bench features a lavender-colored lily, which is a flower color variation that cannot be obtained.

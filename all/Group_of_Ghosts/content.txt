@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Group_of_Ghosts
+
+----------------------------------------
+
+Group of Ghosts Type of block Solid block; Luminous Best tool Luminous Transparent Description A small pile of ghosts in a circle Group of ghosts are luminous furniture blocks that can be obtained from cauldrons .
+
+Obtaining [ ]
+
+Cauldron [ ]
+
+Opening a cauldron has a 10% chance of rewarding a group of ghosts, having a rarity of 'common'.
+
+Breaking [ ]
+
+Group of Ghosts Breaking Data Hardness 2 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 3 Stone 4 2 Iron 2 2 Gilded Steel 2 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+History [ ]
+
+October 15, 2022 Added group of ghosts. October 22, 2022 Group of ghosts no longer break when the block beneath them is broken.

@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Diner_Booth
+
+----------------------------------------
+
+Diner Booth Blue Red Purple Type of block Solid block Recipe 1 Colored Solid 5 Iron Ingot 5 Electrite Crafted with Furniture Workbench Best tool Luminous Transparent Description A diner booth for decor A diner booth is a furniture block that comes in three color variants: blue, red, and purple.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Blue Diner Booth 1 Solid Blue 5 Iron Ingot 5 Electrite Furniture Workbench Red Diner Booth 1 Solid Red 5 Iron Ingot 5 Electrite Purple Diner Booth 1 Solid Purple 5 Iron Ingot 5 Electrite
+
+Breaking [ ]
+
+Diner Booth Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+January 6, 2023 Added diner booths.

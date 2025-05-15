@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Fhanhorn_Pet_Spawn_Egg
+
+----------------------------------------
+
+Fhanhorn Pet Spawn Egg Dropped by Fhanhorn The Fhanhorn pet spawn egg is a spawn egg used to spawn a Fhanhorn pet . It cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Fhanhorn has a 0.33% chance of dropping a Fhanhorn pet spawn egg upon defeat.
+
+Usage [ ]
+
+Spawning [ ]
+
+To spawn a Fhanhorn pet , the player must be the owner of the island they are currently on. While holding the egg, clicking or tapping anywhere on their screen will spawn a Fhanhorn pet.
+
+History [ ]
+
+November 27, 2021 Added Fhanhorn pet spawn eggs.

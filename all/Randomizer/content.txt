@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Randomizer
+
+----------------------------------------
+
+Randomizer Type of block Solid block Recipe 1 Crystallized Iron 4 Steel Rod 5 Iron Ingot Crafted with Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description Accepts an input item and randomly outputs to one of two exits. A randomizer is a conveyor block that randomly outputs inputted items to one of two conveyor outputs. Note that the output on the right side can not be switched to the left input side.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Randomizer 1 Crystallized Iron 4 Steel Rod 5 Iron Ingot Workbench Tier 3 Workbench Tier 4 Before ? Randomizer 1 Crystallized Iron 3 Steel Rod 5 Iron Ingot Workbench Tier 3 Workbench Tier 4 Before December 11, 2020 Randomizer 1 Buffalkor Crystal 3 Steel Rod 5 Iron Ingot Workbench Tier 3
+
+Breaking [ ]
+
+Randomizer Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Randomizing [ ]
+
+Any item/block that gets input into a randomizers has a 50% chance of getting outputted on the right conveyor output and a 50% chance of the back conveyor output. It can be used to load balance auto-farms or just split one conveyor line into two.
+
+History [ ]
+
+November 7, 2020 Added randomizers. December 11, 2020 Changed the crafting recipe to require 1 crystallized iron instead of 1 buffalkor crystal . ? Changed the crafting recipe to require 4 steel rods instead of 3.
+
+Trivia [ ]
+
+The split conveyor and merger have the exact same model but with different designs at the top. The randomizer shares the same crafting recipe as the merger.

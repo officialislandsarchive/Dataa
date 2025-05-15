@@ -1,0 +1,67 @@
+Source: https://robloxislands.fandom.com/wiki/Slime_King
+
+----------------------------------------
+
+Slime King Health 1,500 HP Behavior Hostile Attack strength 25 HP (Lunge) 5 - 15 HP (Bite) Drops Green Slime Ball Green Sticky Gear Blue Sticky Gear Pink Sticky Gear Mysterious Fragment #1 Slime King Pet Spawn Egg Slime Queen Token Jukebox Disk Location Slime Island (Any Combat levels) The Slime King is a boss that was added in the March 13, 2021 update. It has 1,500 health and can be summoned on Slime Island . It has a summon cooldown of 15 minutes when being summoned. It also can be summoned without any Combat level requirement.
+
+As of September 18, 2021 , its summon cooldown can be bypassed with at least 500 Slime King tokens .
+
+Description [ ]
+
+The Slime King is a boss that specializes in melee attacks. It has 1,500 health and can be summoned in its spawn area at the far end of Slime island. It can be summoned once every 15 minutes without any Combat level requirement.
+
+As of September 18, 2021 , the summon cooldown of the Slime King can be bypassed by using at least 500 Slime King tokens .
+
+When a player summons the Slime King, a blue message appears in chat, reading:
+
+"[SERVER] Slime King summoning in 5 seconds!"
+
+After 5 seconds, another blue message appears in chat, reading:
+
+"[SERVER] Slime King has summoned!"
+
+If a player attempts to summon the Slime King while has less than 500 Slime King tokens and on cooldown, the notification appears the screen, reading:
+
+"Failed to Summon - You need 500x Slime King Tokens to summon this boss!"
+
+Like other bosses , if there are no players in the battle area, the Slime King will despawn and the player will have to wait another 15 minutes or spend at least 500 Slime King tokens before being able to summon it again.
+
+Attacks [ ]
+
+Lunge [ ]
+
+Aims for the spot where a player is for 3 seconds and jumps over to that location. If a player is near to the Slime King when the attack is performed, it does 25 damage.
+
+Bite [ ]
+
+Does 5 - 15 damage when the Slime King is close to a player.
+
+Drops [ ]
+
+The Slime King rewards 39 Combat XP (150 with the 4x daily bonus) and 39 Light Melee , Heavy Melee , Magic , or Archery XP (150 with the 4x daily bonus) depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Green Slime Ball 2000% Green Sticky Gear 100% Blue Sticky Gear 50% Pink Sticky Gear 10% Mysterious Fragment #1 10% Slime King Pet Spawn Egg 0.33% Slime Queen Token [ 1 ] 1 - 3 Jukebox Disks Red Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Green Jukebox Disk 0.01% Purple Jukebox Disk 0.01% Orange Jukebox Disk 0.01%
+
+Damage reduction [ ]
+
+The Slime King reduces the amount of damage dealt to it by 10% to 55% depending on the number of players in the arena.
+
+Number of players Damage reduction 1 0% 2 10% 3 25% 4 35% 5 45% 6+ 55%
+
+Bugs & glitches [ ]
+
+The Slime King may despawn if two or more players are fighting with it simultaneously, or if the player is riding an animal. Riding an animal may also make the Slime King unable to attack the player. Due to knockback, it is possible for the Slime King to knock the player to Buffalkor Island . If multiple players stand around the Slime King, they can prevent it from moving and dealing damage. When the Slime King uses the lunge attack, it can possibly land on top of the player and glitch them into the ground. It can also fling and ragdoll players if the lunge hits a player. Sometimes, the respawn timer is missing, and the player has to rejoin for the timer to reappear. If multiple players summon the Slime King at once, more than one Slime King may spawn.
+
+Resistances and Weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical Striking Hydro Slashing Inferno
+
+History [ ]
+
+March 13, 2021 Added Slime King. July 2, 2021 The Slime King now has a damage reduction up to 55%. September 5, 2021 The Slime King is now able to drop mysterious fragment #1s . September 18, 2021 The cooldown of the Slime King can now be bypassed with Slime King tokens . The Slime King is now able to drop Slime King pet spawn eggs . December 18, 2021 The Slime King is now able to drop slime ornaments . January 15, 2022 The Slime King is no longer able to drop slime ornaments. July 2, 2022 The Slime King is now able to drop Slime Queen tokens . July 9, 2022 Buffed the Slime KIng's health from 1,000 HP to 1,500 HP and damage.
+
+Trivia [ ]
+
+On March 13, 2021 , the game's thumbnail showcased a Slime King with eyes. However, the in-game one does not have any. When slimes were given a new appearance with eyes on July 9, 2021 , the Slime King was not given them. The Slime King is the first and only solid boss in Islands . The Slime King is the weakest boss in Islands in terms of health. The Slime King used to be the only boss whose health was lower than that of a mob , with the ruby skorp having 200 more HP. The Slime King rewards the least XP out of all the bosses in the game (39 XP, or 150 XP with the 4x daily bonus). The Slime King resembles the King Slime from Terraria. The Slime King, Fhanhorn , Percival the Pumpkin King , Zombie Cletus , and the Lunar Rabbit are the only five bosses that can be summoned without a Combat level requirement. Prior to September 18, 2021 , the summon cooldown of the Slime King couldn't be bypassed with tokens and do not have any token.
+
+Gallery [ ]

@@ -1,0 +1,67 @@
+Source: https://robloxislands.fandom.com/wiki/Horse
+
+----------------------------------------
+
+Horse Behavior Passive Effect Speed and Jump (Currently doesn't indicate when mounted) Location Player's Island A horse is a large passive mob that was added in the June 3, 2022 update. Players can ride it to receive a 100% speed boost and a 50% jump boost. Like vulture and unlike duck or yak , the status effect is not indicated when mounted due to its permanently boost.
+
+It is the eighth animal passive mob in Islands .
+
+Spawning [ ]
+
+The number of horses that can exist on the player's island varies depending on their level in Animal Care .
+
+Horse Spawn Egg [ ]
+
+Horses can be spawned with horse spawn eggs . Horse spawn eggs can be obtained by breeding horses or purchasing them from Taliyah who is at the barn right of the center portal in the hub.
+
+Behavior [ ]
+
+A horse can be lured with carrots and can sleep on hay beds .
+
+Breeding [ ]
+
+After two horses have been given a potion of fertility each, they will breed, creating a horse spawn egg . The egg will be of a tier between 1 and 3.
+
+Sleeping [ ]
+
+When it becomes night in-game, horses will go to sleep. While they can sleep anywhere and sometimes will, they prefer to sleep on a hay bed.
+
+Inspecting [ ]
+
+Horses can be inspected to show a menu that allows the player to see information about the horse, listed below:
+
+Mount Sell value Information Food level Favorite foods Happiness level Traits (fertility, productivity, and friendliness) Personality
+
+Feeding [ ]
+
+Horses can be fed approximately every 90 - 100 seconds. Horses eat carrots and roasted carrots , but will also each have its own favorite foods. The foods a horse can have as its favorite food are apples , baked potatoes , and bread .
+
+Feeding a horse will increase its food and friendliness level. The food level is necessary to keep above 20% or the horse will lose happiness.
+
+A wooden trough , metal trough , or automated trough can be used to feed horses.
+
+Like other animals , if no troughs are in its vicinity, it will eat from a grass block , but doing so will not replenish its hunger meter nor give Animal Care XP.
+
+Petting [ ]
+
+A horse can be pet every 5 minutes, which increases its happiness level. The action yields 5 Animal Care XP (18 XP with the 4x daily bonus).
+
+Mounting [ ]
+
+Horses can be mounted via the button in the inspect menu if the player is level 8 or higher in Animal Care. A mounted horse can be ridden anywhere within the server. If the horse is dismounted outside the player's island or falls into the void, the horse will respawn on the island spawn point. Mounting a horse will grant a 100% or 2x speed boost and a 50% or 1.5x jump boost that stacks with other items that grant bonus movement speed and jump power. When the player taking any damage while mounting a horse, it will no longer automatically be dismounted. Contrary to its info, breeding higher tier of horse will doesn't raise its permanently boost either the speed or jump boost.
+
+Like mounting a vulture and unlike mounting a duck or yak , the status effect icon of horse is doesn't indicate when mounted due to its permanently boost.
+
+Personality [ ]
+
+Horses are assigned a personality upon spawning. All personalities have the same possibility, except for resourceful which is more uncommon.
+
+Personality Description Effects Trivia Lazy "Your horse is lazy. They sleep for a long time, but gain a bit of happiness while sleeping." Horse will sleep during the afternoon and evening, but will still gain happiness while sleeping. Level-headed "Your horse is level-headed. They will not gain or lose happiness quickly." Self-explanatory. Loyal "Your horse is loyal. They are extra happy around players and animals but can become very lonely when left alone." Horse will gain happiness faster if players and/or animals are within an unknown number of blocks, but will lose happiness fast if they are further than that threshold. Friendly "Your horse is friendly. They will bring you extra gifts." Unknown. Resourceful "Woah! Your horse is resourceful. They will produce items faster than other animals." Horse will make products faster than normal. This is the rarest personality.
+
+History [ ]
+
+June 3, 2022 Added horses. Introduced where horses are now able to eat grass blocks if no troughs are nearby. Introduced where the status effect icon doesn't indicate when mounting a horse. June 10, 2022 Horses can now be fed spinach . Baked potatoes and bread may now be a horse's favorite food.
+
+Trivia [ ]
+
+Like all other animals, horses may eat from a grass block instead of from troughs, but doing so will not replenish their hunger meter nor give Animal Care XP. This was likely can be done if no troughs are nearby. The eating sound of horses is reduced when eating grass blocks. Unlike most animals, horses doesn't have an eating animation when eating grass blocks. Horses are the tallest animal model in Islands , with the second-tallest being the old model of cows . Horses doesn't have most animations, including idle, tail wag, blinking, running, jumping, petting, eating, awake, and looking animations. Horses only have walking and sleeping animations instead. Horses are the first and only animal that doesn't have or give any resources. Horses share many things with other animals . Horses share the same eating sound as cows, sheep , pigs , turkeys , and yaks . Horses have the same eye model as turkeys, ducks , yaks, and the old model of cows. Like lunar mooncakes and Lunar Rabbit Statue , there was a bug where its jump boost granted when mounting a horse doesn't stack when bouncing on slime blocks . Like ducks and yaks, there was a bug where the extra boosts granted when mounting a horse will wear off when joining other servers. This was fixed in the July 9, 2022 update. Unlike cows, turkeys, yaks, and vultures, the hitbox of players were increased when mounting a horse. As such, if the player using any melee weapon , the hitbox of the player's melee weapon is increased. Due to hitbox increasing, the player can also cross a block without jumping on the player's island. Horses, pigs, and vultures have the lowest number of favorite foods . Horses, turkeys, and vultures are the only three animals that doesn't have a looking or petted animation. Like mounting a turkey or vulture, the horse able to turn around while camera lock or first-person view then jumping and mounting. Unlike mounting a duck or yak, the horse is the first animal mount that doesn't indicate a status effect icon when mounted due to its permanently boost, with the second being vulture. Horses are the third animal that grants a speed boost when mounted, the others being ducks and yaks. Horses grant the highest speed boost when mounting an animal. The speed boost of horse is possibly 100% (150% while sprinting). Horses are the first and only animal mount that grants a jump boost when mounted. The jump boost of horse is possibly 50%. Horses are the fastest animal mount in Islands , even faster when consuming chili peppers , potato and duck egg scrambles , and sweet rice desserts or while sprinting. Mounting a horse without sprinting: When the player consuming a chili pepper, the player's movement speed is increased by 125%. When the player consuming a potato and duck egg scramble, the player's movement speed is increased by 140%. When the player consuming a sweet rice dessert, the player's movement speed is increased by 130%. When the player consuming a chili pepper and a potato and duck egg scramble, the player's movement speed is increased by 165%. When the player consuming a chili pepper and a sweet rice dessert, the player's movement speed is increased by 155%. When the player consuming a chili pepper, a potato and duck egg scramble, and a sweet rice dessert, the player's movement speed is increased by 195%. Mounting a horse with sprinting: When the player consuming a chili pepper, the player's movement speed is increased by 175%. When the player consuming a potato and duck egg scramble, the player's movement speed is increased by 190%. When the player consuming a sweet rice dessert, the player's movement speed is increased by 180%. When the player consuming a chili pepper and a potato and duck egg scramble, the player's movement speed is increased by 215%. When the player consuming a chili pepper and a sweet rice dessert, the player's movement speed is increased by 205%. When the player consuming a chili pepper, a potato and duck egg scramble, and a sweet rice dessert, the player's movement speed is increased by 245%.

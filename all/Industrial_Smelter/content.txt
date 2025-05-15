@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Industrial_Smelter
+
+----------------------------------------
+
+Industrial Smelter Type of block Solid Block; Interactable Recipe 8 Steel Rod 1 Pink Sticky Gear Crafted with Workbench Tier 3 Workbench Tier 4 Required skill Level 8 Forging Best tool Luminous Transparent Description Industrial grade ore smelter with conveyor attachments. The industrial smelter is an industrial heating device used to smelt raw ores and clay .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Industrial Smelter 8 Steel Rod 1 Pink Sticky Gear Workbench Tier 3 Workbench Tier 4 Level 8 Forging
+
+Breaking [ ]
+
+Industrial Smelter Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Auto-smelting [ ]
+
+The industrial smelter can be used to automatically smelt items. It has 6 slots able to hold one item each in its user interface — 3 for the raw material and 3 for fuel, both of which can be inputted manually or through the conveyor opening at the back. When powered with coal or petrified petroleum , the industrial smelter will activate for approximately 30 seconds. During this time, it will begin smelting any item inside, taking 10 seconds per item, and will output the smelted item through the conveyor output at the front.
+
+The industrial smelter rewards 4 Forging XP (18 with the 4x daily bonus) for each item smelted.
+
+Input Output 1 Iron Ore 1 Iron Ingot 1 Gold Ore 1 Gold Ingot 1 Copper Ore 1 Copper Ingot 1 Clay 1 Brick
+
+History [ ]
+
+May 2, 2020 Added industrial smelters. May 17, 2020 Industrial smelters can now smelt gold ore . September 18, 2020 Industrial smelters can now smelt copper ore . Changed the industrial smelter's appearance. ? Animated the industrial smelter. ? Changed the particles emitted from the industrial smelter. January 22, 2021 Level 8 Forging is now required to craft industrial smelters. May 20, 2022 1 pink sticky gear is now required to craft industrial smelters, down from 3.
+
+Trivia [ ]
+
+This is the only heating device capable of smelting copper ore . Despite requiring a pink sticky gear since its release, the animated gears on the sides of industrial smelters were not present until the September 18, 2020 update.

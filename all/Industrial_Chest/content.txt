@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Industrial_Chest
+
+----------------------------------------
+
+Industrial Chest Type of block Solid block; Interactable Recipe 1 Conveyor Belt 30 Iron Ingot 1 Medium Chest Crafted with Workbench Tier 3 Workbench Tier 4 Required skill Level 8 Forging Best tool Luminous Transparent Description Medium sized chest with a conveyor attachment. Industrial chests are one of the two ways to have automatic storage, they were added in the May 2, 2020 Automation update. The chest can be changed from a chest to a dispenser by pressing the direction button. It can hold up to five items per slot and contains 12 slots meaning it can hold a maximum of 60 items.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Industrial Chest 1 Conveyor Belt 30 Iron Ingot 1 Medium Chest Workbench Tier 3 Workbench Tier 4 Level 8 Forging
+
+Jack [ ]
+
+Upon creating the first steel mill , Jack will visit the player's island and will reward the player with one industrial chest and eight conveyor belts .
+
+Breaking [ ]
+
+Industrial Chest Breaking Data Hardness 5.5 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 17 9 Stone 9 6 Iron 6 4 Gilded Steel 4 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Storage [ ]
+
+To store items set the chest's "Direction: In" and hook up any conveyor output to the chest's input. To dispense items/blocks change the "Direction:Out" and any item/block filled inside of it will be outputted, about one item a second.
+
+History [ ]
+
+May 2, 2020 Added industrial chests. May 10, 2020 Saved industrial chest's output direction when rejoining. December 29, 2021 Disabled manually placing items into industrial chests. April 22, 2022 Fixed the collision box of the industrial chest. May 20, 2022 Industrial chests can no longer dispense items. May 21, 2022 Industrial chests can dispense items again.
+
+Trivia [ ]
+
+The conveyor attachment's arrows will always point inwards even if the mode is set to "out". Despite being crafted with a medium chest which can hold 60 items per slot, this chest can only hold 5 items per slot. This is currently the only way to get rid of wooden tools, since they cannot be dropped. There is a bug that makes ingots fall to the bottom of the chest if the chest is full, even when it is empty. Due to a bug, scroll-clicking on an industrial chest adds the Small Chest to the hotbar, instead of the industrial chest.

@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Candy_Cane_Seeds
+
+----------------------------------------
+
+Candy Cane Seeds Planted on Trellis Description Plant in a trellis to grow candy canes. Candy cane seeds are seeds used to grow candy canes .
+
+Obtaining [ ]
+
+Christmas presents [ ]
+
+Opening a Christmas present 2021 has a 2% of rewarding a candy cane seed.
+
+Harvesting [ ]
+
+Harvesting a candy cane crop will give 1 - 3 candy canes and 1 candy cane seed.
+
+Usage [ ]
+
+Planting [ ]
+
+Candy cane seeds can be planted in trellises to be grown into candy canes.
+
+Growth [ ]
+
+The growth time of candy canes are not affected by water nor basic fertilizer .
+
+Candy Cane Seeds Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 2s 2m 5s 3m 10s Note: The durations of time above are on an unfertilized and unwatered plant Candy Cane Seeds Growth Time Type Growth Time Normal 3m 10s Fertilized 3m 10s Watered 3m 10s Watered + Fertilized 3m 10s
+
+History [ ]
+
+December 18, 2021 Added candy cane seeds. December 29, 2021 Harvesting candy canes no longer has a 5% chance of rewarding an extra candy cane seed.
+
+Trivia [ ]
+
+Candy canes were the first event crop that could have dropped an extra seed . However, since December 29, 2021 , candy canes could no longer drop extra candy cane seeds.

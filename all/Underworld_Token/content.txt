@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Underworld_Token
+
+----------------------------------------
+
+Underworld Token Dropped by Magma Blob Magma Golem Description A token obtained from the Underworld! The underworld token is an item used to summon the Infernal Dragon in the Underworld .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Underworld tokens can be obtained by mining opal rocks in the Underworld . 1 - 5 tokens is guaranteed to drop alongside opal when the rock is fully broken.
+
+Mob drop [ ]
+
+Magma blobs and magma golems are guaranteed to drop 5 underworld tokens upon defeat.
+
+Dragon eggs [ ]
+
+Opening an infernal dragon egg has a 23% chance of rewarding 300 - 1,000 underworld tokens, having a rarity of 'common'.
+
+Usage [ ]
+
+Summoning [ ]
+
+At least 750 underworld tokens are required to summon the Infernal Dragon in its spawn area in the Underworld .
+
+History [ ]
+
+September 11, 2021 Added underworld tokens. February 7, 2022 Underworld tokens can now be dropped, traded , and put into vending machines and chests . July 23, 2022 Underworld tokens can now be dropped from defeating magma golems .

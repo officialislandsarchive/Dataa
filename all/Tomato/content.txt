@@ -1,0 +1,57 @@
+Source: https://robloxislands.fandom.com/wiki/Tomato
+
+----------------------------------------
+
+Tomato Tomato Oily Seed cost 250 coins Planted on Farmland Sell price 4 coins Required skill Level 5 Farming (to sell) Oily description A crop that is covered in motor oil. Must be washed before selling. Edible A tomato is a crop that grows on farmland from tomato seeds and naturally spawns on Buffalkor Island as foliage .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting a tomato plant yields 1 - 3 tomatoes, 1 - 2 tomato seeds , and 9 Farming XP (36 XP with the 4x daily bonus). The chance of obtaining more than one tomato per plant is increased by the player's Farming level and for owners of the VIP gamepass . The 5% chance of obtaining an extra tomato seed is increased for owners of the pro gamepass .
+
+Tomatoes also naturally spawn throughout Buffalkor Island as foliage , but harvesting these cannot yield tomato seeds.
+
+Totems [ ]
+
+A tomato totem will collect and replant tomatoes in a 3-block radius, which can then be collected by interacting it. A tomato totem placed next to a conveyor belt will drop the tomatoes onto the conveyor, but doing so will make them oily. This process cannot yield extra tomato seeds.
+
+Washing [ ]
+
+Name Recipe Crafting station Tomato 1 Oily Tomato Washing Station
+
+Input Item transformer Output 1 Oily Tomato ➡ Industrial Washing Station ➡ 1 Tomato
+
+Growth [ ]
+
+The growth time of tomatoes can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Tomato Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 2m 10s 4m 15s 6m 20s Note: The durations of time above are on an unfertilized and unwatered plant Tomato Growth Time Type Growth Time Normal 6m 20s Fertilized 5m 4s Watered 5m 4s Watered + Fertilized 4m 26s
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Tier 1 Bait 10 Tomato Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Tomato Sauce 3 Tomato Cooking Table Food Processor Level 3 Cooking Potato Salad 12 Potato 4 Tomato 4 Mayonnaise Jar Cooking Table Food Processor Level 13 Cooking Gondo Datshi 1 Tomato 1 Yak Butter 2 Chili Pepper 1 Egg Cooking Table Food Processor Level 49 Cooking
+
+Crate-packing [ ]
+
+Image Name Recipe Crafting station Crate of Tomatoes 100 Tomato Crate Packer Large Crate of Tomatoes 250 Tomato Tier 2 Crate Packer
+
+Eating [ ]
+
+Eating a tomato restores 10 HP.
+
+Selling [ ]
+
+Tomatoes can be sold to Cletus for 9 coins each after reaching level 3 Farming .
+
+History [ ]
+
+April 27, 2020 Added tomatoes. May 17, 2020 Tomatoes now naturally spawn on Buffalkor Island . May 26, 2020 Tomatoes can now be used to craft potato salads . June 15, 2020 Tomatoes now become oily when dropped onto a conveyor belt . ? Tomatoes on Buffalkor Island can no longer yield a tomato seed . January 22, 2021 Tomatoes now grant 9 Farming XP when harvested. Level 3 Farming is now required to sell tomatoes to Tom . June 4, 2021 Tomatoes can be packed into crates of tomatoes . August 15, 2021 Tomatoes can be packed into large crates of tomatoes . November 13, 2021 4 tomatoes are now required to craft potato salads, up from 1. March 6, 2022 Changed the model of tomatoes. March 25, 2022 Changed the sell price of tomatoes from 8 coins to 15 coins. Tomatoes can now be used to craft gondo datshis . April 22, 2022 Changed the sell price of tomatoes from 15 coins to 9 coins. May 13, 2022 Tomatoes can now be used to craft tier 1 bait . June 18, 2022 Tomatoes can now be sold to Cletus instead of Tom . June 25, 2022 Changed the sell price of tomatoes from 9 coins to 14 coins. July 2, 2022 Changed the sell price of tomatoes from 14 coins to 9 coins. September 10, 2022 Changed the sell price of tomatoes from 9 coins to 5 coins. October 1, 2022 Changed the sell price of tomatoes from 9 coins to 4 coins. October 15, 2022 Tomatoes can now be sold to Tom instead of to Cletus . November 4, 2022 Tomatoes can now be sold to Cletus again. November 25, 2022 Changed the sell price of tomatoes from 9 coins to 14 coins.
+
+Trivia [ ]
+
+Oily tomatoes were the only oily oily crop that didn't sell for 40% of its clean crop value to the Oily Crops villager . Instead, it sold for 33.3% of its clean crop value (i.e. 3 coins ). Tomatoes on Buffalkor Island used to have a chance to grant tomato seeds .
+
+Gallery [ ]

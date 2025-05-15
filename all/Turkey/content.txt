@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Turkey
+
+----------------------------------------
+
+Turkey Behavior Passive Location Maple Isles (5 turkeys) Player's Island (3 turkeys) A turkey is a medium passive mob found on the Maple Isles and can be spawned on the player's island using a turkey spawn egg . It is the only way to harvest raspberries from raspberry bushes. Players can only have 3 turkeys on their island at a time. One turkey can harvest up to 3 - 4 berries before dropping them off at a berry basket or industrial berry basket or being spooked.
+
+It is the fifth animal passive mob or the first and only medium animal passive mob in Islands .
+
+Uses [ ]
+
+Turkeys will go to a red berry bush, blueberry bush, blackberry bush, and raspberry bush and harvest it if they are not hungry. If the turkey's hunger is 25% or less, it will consume it and you will not receive the berry. If a player has a berry basket or an industrial berry basket , it will proceed to put the berries in the basket.
+
+Spooking [ ]
+
+Player's island [ ]
+
+Spooking turkeys on the player's island will give the player any berries that have not been put inside of a berry basket or industrial berry basket .
+
+Maple Isles [ ]
+
+Spooking turkeys on Maple Isles will reward the player with 1 - 2 red berries or raspberries . They also reward no token when Fhanhorn is added.
+
+Behavior [ ]
+
+Like all animals, turkeys can breed. They can be lured and fed with any berry, but will have berry pie , honey toast , bread , and tomato soup as their favorite food. It takes 5 in-game days (1 hour and 40 minutes) for a baby turkey to grow into an adult. If they fall into the void, they will respawn at the player's spawn point.
+
+Like other animals , if no troughs are in its vicinity, it will eat from a grass block , but doing so will not replenish its hunger meter nor give Animal Care XP.
+
+Mounting [ ]
+
+After reaching level 8 Animal Care , turkeys can be mounted by the player through the inspection menu, located next to the "Sell Animal" button.
+
+A turkey can be rode on any island in the player's server. To get off, press the dismount button on the right of the screen. Players can still place/use blocks and tools while mounting. Mounting a turkey does not grant any speed boost or jump boost.
+
+Dismounting a turkey while outside of the player's island will teleport the turkey to the player's island spawn point.
+
+History [ ]
+
+November 27, 2021 Added turkeys. December 10, 2021 Fixed a bug that prevented turkeys from dropping berries into berry baskets and industrial berry baskets .
+
+Trivia [ ]
+
+Turkeys are the first spawn egg that cannot be purchased from Taliyah , with the second being vultures . Turkeys attempt to flee from players in the Maple Isles or sometimes in the player's island . Like all other animals, turkeys may eat from a grass block instead of from troughs, but doing so will not replenish their hunger meter nor give Animal Care XP. The eating sound of turkeys is reduced when eating grass blocks. This was likely can be done if no trough are nearby. A turkey being spooked by the player while asleep. When a player spooks a turkey while asleep, it will still be spooked. However, the turkey will continue sleeping after being spooked by the player. Turkeys are able to move with sleeping animation, but this can be fixed by mounting and dismounting them. Turkeys share many things with other animals . Turkeys share the same eating sound as cows , sheep , pigs , yaks , and horses . Unlike cows, sheep, pigs, yaks, and horses, turkeys only have manually feed sound. Turkeys have the same type of favorite foods as cows or award the same amount of XP as cows and yaks. Turkeys have the same eye model as ducks , yaks, horses, and the old model of cows. Turkeys walk slightly faster on player islands than on the Maple Isles. Turkeys doesn't have some animations, including idle, petted, awake, and looking animations. Turkeys doesn't reward Farming XP or extra berry seeds when harvesting berry bushes . The hitbox of players is slightly increased when mounting a turkey. Turkeys, horses, and vultures are the only three animals that doesn't have a looking or petted animation. Like mounting a horse or vulture, the turkey able to turn around while camera lock or first-person view then jumping and mounting. Turkeys doesn't harvest berry bushes when mounted. Turkeys are the first and only medium animal passive mob in Islands . As such, turkeys are the first and only animal that doesn't count as the player's large animal limit or small animal limit. Unlike most animals, turkeys doesn't have any animation when mounted. Turkeys, cows, and yaks have the same number of favorite foods. Turkeys award the lowest amount of Animal Care XP, tied with cows and yaks. When a player spooks a turkey, it doesn't reward Animal Care XP nor Fhanhorn tokens . Unlike most animals with an error message, if a player attempts to spawn more than 3 turkeys due to medium animal, nothing happens.

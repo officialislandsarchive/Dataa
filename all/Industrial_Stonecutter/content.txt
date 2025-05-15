@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Industrial_Stonecutter
+
+----------------------------------------
+
+Industrial Stonecutter Type of block Solid block; Interactable Recipe 8 Steel Rod 1 Buffalkor Crystal Crafted with Workbench Tier 3 Workbench Tier 4 Required skill Level 22 Forging Best tool Luminous Transparent The industrial stonecutter is an industrial machine that can automatically cut blocks into their brick, tiled, or carved variant.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Industrial Stonecutter 8 Steel Rod 1 Buffalkor Crystal Workbench Tier 3 Workbench Tier 4 Level 22 Forging
+
+Breaking [ ]
+
+Industrial Stonecutter Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Transforming [ ]
+
+Industrial stonecutters can be used to automatically cut certain blocks into their brick, tiled, or carved variant when powered with coal or petrified petroleum . It has two slots able to hold one item each in its user interface—one for an unprocessed block and one for fuel. Unprocessed blocks and fuel can be inputted through the conveyor belt at one side of the industrial stonecutter, powering the machine for 50 seconds per fuel source. It takes 16 seconds to fully cut a block, and once cut, the block variant is outputted through the conveyor belt at the other side.
+
+Input Output 1 Stone ➡ 1 Stone Brick 1 Aquamarine Block ➡ 1 Aquamarine Brick 1 Sandstone ➡ 1 Sandstone Brick 1 Red Sandstone ➡ 1 Red Sandstone Brick 1 Slate ➡ 1 Slate Brick 1 Marble ➡ 1 Marble Brick 1 Smooth Aquamarine ➡ 1 Smooth Aquamarine Brick 1 Smooth Sandstone ➡ 1 Smooth Sandstone Brick 1 Smooth Red Sandstone ➡ 1 Smooth Red Sandstone Brick 1 Compact Ice ➡ 1 Ice Brick 1 Andesite ➡ 1 Andesite Brick 1 Diorite ➡ 1 Diorite Brick 1 Granite ➡ 1 Granite Brick 1 Basalt ➡ 1 Basalt Brick 1 Void Stone Block ➡ 1 Void Stone Brick 1 Stone Brick ➡ 1 Stone Tiles 1 Aquamarine Brick ➡ 1 Aquamarine Tiles 1 Slate Brick ➡ 1 Slate Tiles 1 Marble Brick ➡ 1 Marble Tiles 1 Andesite Brick ➡ 1 Andesite Tiles 1 Diorite Brick ➡ 1 Diorite Tiles 1 Granite Brick ➡ 1 Granite Tiles 1 Basalt Brick ➡ 1 Basalt Tiles 1 Stone Tiles ➡ 1 Stone Carved 1 Aquamarine Tiles ➡ 1 Aquamarine Carved 1 Slate Tiles ➡ 1 Slate Carved 1 Marble Tiles ➡ 1 Marble Carved 1 Andesite Tiles ➡ 1 Andesite Carved 1 Diorite Tiles ➡ 1 Diorite Carved 1 Granite Tiles ➡ 1 Granite Carved 1 Basalt Tiles ➡ 1 Basalt Carved 1 Void Stone Brick ➡ 1 Void Stone Cobble 1 Void Stone Cobble ➡ 1 Void Stone Polished 1 Void Stone Polished ➡ 1 Void Stone Carved 1 Void Stone Carved ➡ 1 Void Stone Tiled
+
+History [ ]
+
+May 17, 2020 Added industrial stonecutters. July 11, 2020 Industrial stonecutters can now cut aquamarine blocks . August 9, 2020 Industrial stonecutters can now cut red sandstone . September 6, 2020 Added a progress bar for blocks being transformed in the industrial stonecutter. Added a quick collect shortcut. January 22, 2021 Level 22 Forging is now required to craft industrial stonecutters. April 4, 2021 Industrial stonecutters can now cut slate and marble . April 24, 2021 Industrial stonecutters can now cut sandstone . June 4, 2021 Industrial stonecutters can now cut smooth aquamarine , smooth sandstone , and smooth red sandstone . August 15, 2021 Industrial stonecutters can now be powered with petrified petroleum . August 16, 2021 Fixed an issue preventing the progress bars of blocks from updating. December 18, 2021 Industrial stonecutters can now cut compact ice . February 19, 2022 Industrial stonecutters can now cut stone bricks , aquamarine bricks , slate bricks , marble bricks , stone tiles , aquamarine tiles , slate tiles , and marble tiles . March 6, 2022 Industrial stonecutters can now cut andesite , diorite , granite , andesite bricks , diorite bricks , granite bricks , andesite tiles , diorite tiles , and granite tiles . June 18, 2022 Industrial stonecutters can now cut basalt , basalt bricks , and basalt tiles . August 27, 2022 Industrial stonecutters can now cut void stone blocks , void stone bricks , void stone cobbles , void stone polished , and void stone carved .
+
+Trivia [ ]
+
+The industrial stonecutter's conveyor belt is slightly taller than the regular conveyor belt .

@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Spring_Rolls
+
+----------------------------------------
+
+Spring Rolls Recipe 1 Dough 1 Carrot 2 Spinach Crafted with Cooking Table Food Processor Heals 40 HP Spring rolls are a food item that heals 40 HP when consumed. It can be crafted without any Cooking level requirement.
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Spring Rolls 1 Dough 1 Carrot 2 Spinach Cooking Table Food Processor
+
+Usage [ ]
+
+Eating [ ]
+
+Eating spring rolls restores 40 HP.
+
+History [ ]
+
+February 7, 2022 Added spring rolls. Introduced where spring rolls now cannot be sold to Petur .
+
+Trivia [ ]
+
+Spring rolls heal the same amount of HP as berry pies , gondo datshis , orange cakes , pizzas , and potato and duck egg scrambles when consumed. Spring rolls can be crafted without any Cooking level requirement. Spring rolls currently cannot be sold to Petur .

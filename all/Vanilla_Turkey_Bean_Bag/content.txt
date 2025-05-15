@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Vanilla_Turkey_Bean_Bag
+
+----------------------------------------
+
+Vanilla Turkey Bean Bag Type of block Solid block; Seat Buy cost 500 coins Best tool Luminous Transparent The vanilla turkey bean bag is a furniture block that can be purchased from Bailey .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Vanilla turkey bean bags can be purchased from Bailey for 500 coins each.
+
+Breaking [ ]
+
+Vanilla Turkey Bean Bag Breaking Data Hardness 5 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 8 Wooden 15 15 Stone 8 8 Iron 5 5 Gilded Steel 4 4 Diamond 3 3 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Sitting [ ]
+
+The vanilla turkey bean bag has a seat, which means players, mobs , and villagers are able to sit on the bean bag chair.
+
+History [ ]
+
+November 27, 2021 Added vanilla turkey bean bags.

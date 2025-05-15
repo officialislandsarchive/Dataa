@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Sandstone_Brick
+
+----------------------------------------
+
+Sandstone Brick Type of block Solid block Recipe 1 Sandstone Crafted with Stonecutter Industrial Stonecutter Best tool Luminous Transparent Sandstone bricks are the brick variant of sandstone .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Sandstone can be transformed into sandstone bricks in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Sandstone ➡ Stonecutter ➡ 1 Sandstone Brick ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Sandstone Brick Breaking Data Hardness 3 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 5 Stone 5 3 Iron 3 2 Gilded Steel 3 2 Diamond 2 1 Opal 2 1 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Sandstone Brick Stair 1 Sandstone Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Sandstone Brick Slab 1 Sandstone Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4

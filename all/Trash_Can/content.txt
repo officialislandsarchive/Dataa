@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Trash_Can
+
+----------------------------------------
+
+Trash Can Type of block Solid block; Interactable Recipe 200 Iron Ingot Best tool Luminous Transparent Description Used to discard any item permanently. The trash can is a block that permanently discards items from the player's inventory .
+
+Obtaining [ ]
+
+Name Recipe Crafting station Trash Can 200 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Trash Can Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Discarding [ ]
+
+Trash cans can be used to permanently discard all items in the inventory except for the wooden axe , wooden pickaxe , and workbench . A trash can has 12 slots that can fit up to 150 items per slot, adding up to a total of 1,800 items per can. After placing items in the slots and clicking "Clear Trash", a warning will pop up, prompting the player to confirm that they are willing to permanently discard the items in the can.
+
+History [ ]
+
+July 2, 2022 Added trash cans. July 9, 2022 Trash cans now allow treasure maps to be discarded. July 16, 2022 Items inside the trash can will now be returned to the player's inventory if the UI is exited without the player discarding the items. September 10, 2022 Other players can no longer able to take out items that are inside of the trash can. October 23, 2022 Fixed a bug that caused players to input trade-locked items inside trash cans. Fixed a bug that allowed other players to take out items that are inside of the trash can. October 28, 2022 Fixed another trash can trading glitch.

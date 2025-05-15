@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/GrandPat
+
+----------------------------------------
+
+GrandPat Location Hub Purpose Giving a quest for the Patrick Star Event .
+
+GrandPat was an NPC who could be found in the Hub , next to the ledge to the right of the fishing pond . He was part of the Patrick Star Event and his only purpose was to give quests for the event.
+
+Dialogue [ ]
+
+Hey user , would you help me fetch my cookies? They're on that island, aa-hahaha Will do! End
+
+When giving him the box of cookies [ ]
+
+Wuh! You didn't fall? Well, thanks! No problem! End
+
+Dialogue after the player finishes the quest [ ]
+
+I'll get the next person.. Cya! End
+
+History [ ]
+
+July 2, 2021 Added GrandPat. July 17, 2021 Removed GrandPat.

@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Mushroom_Golem
+
+----------------------------------------
+
+Mushroom Golem Health 365 HP Behavior Hostile Attack strength 9HP Drops Jukebox Disk Location Mushroom Obby A mushroom golem is a hostile mob that is found on the third island of the Mushroom Obby .
+
+Spawning [ ]
+
+Mushroom golems are found on the third island of the Mushroom Obby during the "Defeat 10 Mushroom Golems" quest.
+
+Drops [ ]
+
+A mushroom golem rewards 5 (18 with the 4x daily bonus) Light Melee, Heavy Melee, Magic, or Archery XP depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Blue Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Red Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+History [ ]
+
+August 18, 2023 Added mushroom golems.

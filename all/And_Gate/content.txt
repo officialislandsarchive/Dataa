@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/And_Gate
+
+----------------------------------------
+
+And Gate Type of block Solid block; Electrical Recipe 10 Iron Ingot 15 Electrite Crafted with Electrical Workbench (Level 2) Best tool Luminous Transparent Description A logic gate that allows electrical pass through if BOTH inputs receives power, pass through amount is the greater of either power source. The and gate is a logic gate block that is crafted in the electrical workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station And Gate 10 Iron Ingot 15 Electrite Electrical Workbench (Level 2)
+
+Breaking [ ]
+
+And Gate Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Electronics [ ]
+
+For the electricity from the input(s) to pass through, BOTH inputs need to have at least one power unit. This is sometimes confused with the combiner , which only needs ONE input to be on to work. It is usually accompanied with the or gate , xor gate , combiner, and/or splitter .
+
+Truth Table Input A Input B Output 0 0 0 1 0 0 0 1 0 1 1 1
+
+History [ ]
+
+December 11, 2020 Added and gates.

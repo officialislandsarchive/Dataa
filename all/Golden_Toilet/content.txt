@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Golden_Toilet
+
+----------------------------------------
+
+Golden Toilet Type of block Solid block; Seat Recipe 30 Gold Ingot Crafted with Furniture Workbench Best tool Luminous Transparent The golden toilet is a furniture block that can crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Golden Toilet 30 Gold Ingot Furniture Workbench
+
+Breaking [ ]
+
+Golden Toilet Breaking Data Hardness 5 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 8 Wooden 15 15 Stone 8 8 Iron 5 5 Gilded Steel 4 4 Diamond 3 3 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Sitting [ ]
+
+The golden toilet has a seat, which means players, mobs , and villagers are able to sit on the toilet.
+
+History [ ]
+
+January 4, 2021 Added golden toilets.
+
+Trivia [ ]
+
+There is an iron version of the toilet crafted with iron ingots instead, called the toilet . Unlike toilets, the golden toilet doesn’t have water inside.

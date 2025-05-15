@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Maple_Sap
+
+----------------------------------------
+
+Maple Sap Maple sap is a liquid item that can be pumped out of a maple tree using a tree tap .
+
+Obtaining [ ]
+
+Pumping [ ]
+
+Maple sap can be pumped out of maple trees by placing a tree tap on the tree. Every 90 seconds, the tree tap will produce one maple sap that can be collected by clicking F on computers or tapping it on mobile. It can also be transported using wood tubes from the maple tree to a sap boiler .
+
+Usage [ ]
+
+Transforming [ ]
+
+Input Item transformer Output 1 Maple Sap ➡ Sap Boiler ➡ 1 Maple Syrup
+
+History [ ]
+
+November 27, 2021 Added maple sap.
+
+Trivia [ ]
+
+There is a visual bug where maple sap in a wood tube will turn black, similar to pipes .

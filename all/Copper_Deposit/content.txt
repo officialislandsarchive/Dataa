@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Copper_Deposit
+
+----------------------------------------
+
+Copper Deposit Type of block Solid block Spawns Copper Resource Island Best tool Drops 30 - 40 Copper Ore Luminous Transparent A copper deposit is a resource block which generates in copper resource islands spawned using a copper resource deed . Prior to June 3, 2022 , copper resource islands could spawn naturally.
+
+Spawning [ ]
+
+Resource islands [ ]
+
+One permanent copper deposit naturally generates as part of copper resource islands spawned using copper resource deeds . Copper resource deeds will only spawn a copper resource island if the limit of 15 resource islands of any kind has not been reached. Copper resource deeds can be purchased from Jade for 150,000 coins, every 4 hours.
+
+Breaking [ ]
+
+Breaking a copper deposit will drop 30 - 40 copper ore , but not the deposit itself.
+
+Copper Deposit Breaking Data Hardness 100 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 150 Wooden 300 150 Stone 160 100 Iron 100 63 Gilded Steel 70 50 Diamond 50 30 Opal 40 20 Void Mattock 20
+
+Drilling [ ]
+
+Placing a drill on top of a copper deposit and fuelling it with coal or petrified petroleum will produce one copper ore every 5 seconds.
+
+History [ ]
+
+September 18, 2020 Added copper deposits. September 18, 2021 Introduced a bug prevented copper resource islands from spawning if a workbench tier 4 is placed down. September 25, 2021 Introduced a bug causing the possibility of a third copper resource island to spawn. June 3, 2022 Copper deposits no longer naturally spawn. Copper deposits now require copper resource deeds to spawn. June 10, 2022 Fixed a bug that didn't allow copper deposits to spawn when using a copper resource deed. Increased the limit of copper deposits from 2 to 15.
+
+Trivia [ ]
+
+The copper deposit was the first deposit block to be added into the game, followed by the gold deposit .

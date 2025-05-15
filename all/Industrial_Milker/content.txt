@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Industrial_Milker
+
+----------------------------------------
+
+Industrial Milker Type of block Solid block; Interactable Recipe 1 Medium Chest 2 Blue Sticky Gear 80 Iron Ingot Crafted with Animal Bench Required skill Level 36 Animal Care Best tool Luminous Transparent Description Fill with buckets to milk cows. An industrial milker is an industrial machine that automates the milking process on cows and yaks .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Industrial Milker 1 Medium Chest 2 Blue Sticky Gear 80 Iron Ingot Animal Bench Level 36 Animal Care
+
+Breaking [ ]
+
+Industrial Milker Breaking Data Hardness 4.5 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 7 Wooden 14 7 Stone 8 5 Iron 5 3 Gilded Steel 4 3 Diamond 3 2 Opal 2 1 Void Mattock 1
+
+Usage [ ]
+
+Milking [ ]
+
+The industrial milker can be used to automatically milk cows and yaks when ready. It has 2 slots able to hold 12 empty bucket each, and when a cow or yak is ready to be milked, it will automatically go towards the small milk bucket icon near the output conveyor of a nearby industrial milker and get milked, provided that there are empty buckets inside the milker. The milk bucket / yak milk bucket will be outputted through the conveyor belt at the back and the player will receive 11 Animal Care XP (45 with the 4x daily bonus).
+
+History [ ]
+
+January 22, 2021 Added industrial milkers. December 10, 2021 Increased industrial milker's capacity from 3 to 6. Fixed a bug preventing the industrial milker from functioning if 6 buckets are inside it. March 25, 2022 Industrial milkers can now milk yaks . July 30, 2022 Increased the capacity of industrial milkers from 6 to 12. February 17, 2023 Increased number of slots of industrial milkers from 1 to 2.

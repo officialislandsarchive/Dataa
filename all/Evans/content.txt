@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Evans
+
+----------------------------------------
+
+Evans Location Pirate Island Purpose Buys and sells items and offers combat-based quests. Evans is an NPC added in the July 17, 2021 update. Evans is located in the Pirate Island village near the docks. He is one of the four Pirate NPCs in the game, having a moderately difficult collection of quests that reward players with 5-30 Doubloons , which can be redeemed for items in his shop. His title is "Pirate Slayer."
+
+Quests [ ]
+
+Evans will ask the player to defeat mobs in return for Doubloons, The quests consist of:
+
+Quest Reward Defeat 3 bandits . 5 Doubloons Defeat 10 bandits . 10 Doubloons Defeat 15 bandits . 15 Doubloons Defeat 30 bandits . 30 Doubloons Defeat 3 crabs . 5 Doubloons Defeat 20 crabs . 10 Doubloons Defeat 30 crabs . 15 Doubloons
+
+Dialogue [ ]
+
+"Yarr user ! Reckon' you got what it takes to slay some foes around here!?" >View offers Leads to the shop. >Show me quests Leads to quests.
+
+Shop [ ]
+
+Buy [ ]
+
+Image Name Cost Crystallized Obsidian 10 Doubloons Obsidian Hilt 250 Doubloons
+
+Sell [ ]
+
+Image Name Sell Price Bone 22 Coins
+
+History [ ]
+
+July 17, 2021 Added Evans. June 3, 2022 Removed Evans' quests
+
+Trivia [ ]
+
+Evans could be knocked over to the ground by approaching him with an item equipped. The same bug also occurs with Ruby and Davey on Pirate Island . This was patched in the July 23, 2021 update.

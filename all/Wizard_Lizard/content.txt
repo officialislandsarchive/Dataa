@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Wizard_Lizard
+
+----------------------------------------
+
+Wizard Lizard Health 120 HP Behavior Hostile Attack strength 30 HP Drops Empty Potion Bottle Blue Page Green Page Red Page Wizard Portal Shard Wizard Boss Token Jukebox Disk Location Wizard Island A wizard lizard is a hostile mob that spawns on Wizard Island .
+
+Spawning [ ]
+
+Wizard lizards spawn on Wizard Island , which is accessible through the portal on the Buffalkor Island or through a Wizard Portal . Level 20 Combat is required to go through the portal.
+
+Drops [ ]
+
+A wizard lizard rewards 51 Combat XP (198 with the 4x daily bonus) and 51 Light Melee , Heavy Melee , Magic , or Archery XP (198 with the 4x daily bonus) depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Empty Potion Bottle 150% Blue Page 0.5% Green Page 0.5% Red Page 0.5% Wizard Portal Shard 0.02% Wizard Boss Token 500% Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Weaknesses and Resistances [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical None Inferno Piercing Hydro
+
+Trivia [ ]
+
+The desert island key was removed from the Wizard Lizard’s drop table after the January 22, 2021 update as keys were replaced in favor of the newly-added Combat system. After the January 22, 2021 update, there was a bug where the wizard lizard cannot damage the player even though its attacking animation is played. This was patched 2 days later. The wizard lizard wields a spellbook that deals less damage than the spellbook players can craft. A picture of the wizard lizard can be seen in the explore menu . Unlike projectiles shot from players, projectiles shot from wizard lizards have a collision hitbox.

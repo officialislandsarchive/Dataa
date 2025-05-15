@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/School_Bell
+
+----------------------------------------
+
+School Bell Red White Type of block Solid block; Interactable Recipe Red: 1 Solid Red , 15 Iron Ingot White: 1 Solid White , 15 Iron Ingot Crafted with Furniture Workbench Best tool Luminous Transparent Description A school bell to hang on walls A school bell is a furniture block that comes in two color variants: red and white.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Red School Bell 1 Solid Red 15 Iron Ingot Furniture Workbench White School Bell 1 Solid White 15 Iron Ingot
+
+Breaking [ ]
+
+School Bell Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+Usage [ ]
+
+Interacting [ ]
+
+A school bell can be interacted with to make a ringing sound.
+
+History [ ]
+
+December 2, 2022 Added school bells.

@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Desert_Portal
+
+----------------------------------------
+
+Desert Portal Type of block Solid block; Interactable Recipe 1 Desert Portal Shard 120 Red Sandstone Brick 5 Cactus Crafted with Workbench Tier 3 Workbench Tier 4 Required skill Level 36 Combat (to use) Best tool Luminous Transparent Description A placeable portal that allows quick-travel to Desert Island. A desert portal is a block that allows players to directly travel to Desert Island from a player island .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Desert Portal 1 Desert Portal Shard 120 Red Sandstone Brick 5 Cactus Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Desert Portal Breaking Data Hardness 35 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 53 Wooden 105 105 Stone 56 56 Iron 35 35 Gilded Steel 25 25 Diamond 18 18 Opal 14 14 Void Mattock 7
+
+Usage [ ]
+
+Traveling [ ]
+
+Desert portals can be used to transport players to Desert Island from a player's island after reaching Combat level 36. If the skill prerequisite is not met, a UI element will pop up, stating that the player does not meet the required skill level.
+
+History [ ]
+
+February 5, 2021 Added desert portals.

@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Candy_Cane_(crop)
+
+----------------------------------------
+
+Candy Cane Planted on Trellis Sell price 24 coins Edible A candy cane is a crop that grows on a trellis from candy cane seeds .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting a candy cane yields 1 - 3 candy canes, 1 candy cane seed , and 27 Farming XP (108 XP with the 4x daily bonus). The chance of obtaining more than one candy cane per plant is increased by the player's Farming level and for owners of the VIP gamepass . Extra candy cane seeds cannot be yielded.
+
+Growth [ ]
+
+The growth time of candy canes are not affected by water nor basic fertilizer .
+
+Candy Cane (crop) Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 2s 2m 5s 3m 10s Note: The durations of time above are on an unfertilized and unwatered plant Candy Cane (crop) Growth Time Type Growth Time Normal 3m 10s Fertilized 3m 10s Watered 3m 10s Watered + Fertilized 3m 10s
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Candy Cane 2 Candy Cane Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Eating [ ]
+
+Eating a candy cane restores 45 HP.
+
+Selling [ ]
+
+Candy canes can be sold to Tom for 24 coins each.
+
+History [ ]
+
+December 18, 2021 Added candy canes. December 29, 2021 Harvesting candy canes no longer has a 5% chance of rewarding an extra candy cane seed . June 3, 2022 Candy canes can now be sold to Cletus instead of to Tom . October 15, 2022 Candy canes can now be sold to Tom instead of to Cletus.
+
+Trivia [ ]
+
+Candy canes were the first event crop that could have dropped an extra seed . However, since December 29, 2021 , candy canes could no longer drop extra candy cane seeds . They are the only crop to have the ability to drop seeds changed. Candy canes are the first and only event crop that can be sold to Cletus .

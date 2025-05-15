@@ -1,0 +1,13 @@
+Source: https://robloxislands.fandom.com/wiki/Bean_Seeds
+
+----------------------------------------
+
+Bean Seeds Bean seeds are an unimplemented type of seeds in Islands .
+
+Information [ ]
+
+If properly implemented, bean seeds would be planted on trellises to grow beans . They are not obtainable through normal gameplay and can only be spawned in via commands.
+
+History [ ]
+
+June 26, 2020 Added bean seeds.

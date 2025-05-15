@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Train_Bed
+
+----------------------------------------
+
+Train Bed Type of block Solid block; Seat Best tool Luminous Transparent The train bed is a furniture block that has a chance to be obtained from Christmas present 2021s .
+
+Obtaining [ ]
+
+Christmas presents [ ]
+
+Opening a Christmas present 2021 has a 1% chance of rewarding a train bed.
+
+Breaking [ ]
+
+Train Bed Breaking Data Hardness 5 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 8 Wooden 15 15 Stone 8 8 Iron 5 5 Gilded Steel 4 4 Diamond 3 3 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Sitting [ ]
+
+The train bed has a seat, which means players, mobs , and villagers are able to sit on the bed.
+
+History [ ]
+
+December 29, 2021 Added train beds.

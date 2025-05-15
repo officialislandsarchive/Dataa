@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Copper_Press
+
+----------------------------------------
+
+Copper Press Type of block Solid block; Interactable Recipe 500 Copper Ingot 5 Steel Rod Crafted with Workbench Tier 3 Workbench Tier 4 Required skill Level 30 Forging Best tool Luminous Transparent The copper press is an item transformer used to make copper parts from copper ingots using factory molds .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Copper Press 5 Steel Rod 500 Copper Ingot Workbench Tier 3 Workbench Tier 4 Level 30 Forging
+
+Breaking [ ]
+
+Copper Press Breaking Data Hardness 5.5 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 17 9 Stone 9 6 Iron 6 4 Gilded Steel 4 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Transforming [ ]
+
+Copper presses require a factory mold before accepting any copper ingots and requires no fuel to power the item transformation. When equipped with a mold, copper presses can convert a sum of copper ingots into the respective copper part. Once an ingot is inside the press, it cannot be removed and its only function is to be turned into a component.
+
+If a player breaks the copper press with ingots still inside, the ingots will not be returned to the player. Ingots inside the press can however despawn given enough time or distance when not in use.
+
+Input Mold Output 15 Copper Ingot ➡ Bolt Factory Mold ➡ 1 Copper Bolt 25 Copper Ingot ➡ Rod Factory Mold ➡ 1 Copper Rod 50 Copper Ingot ➡ Plate Factory Mold ➡ 1 Copper Plate
+
+History [ ]
+
+September 18, 2020 Added copper presses. February 19, 2021 Copper presses no longer disposes copper when switching molds. December 29, 2021 Disabled manually placing items into copper presses.
+
+Bugs and glitches [ ]
+
+Presses have a bug caused by switching press molds. For example, let's say you have a press with a plate factory mold attached and have it partially filled with 45 ingots. If you then take the plate factory mold out and put a bolt factory mold in, the counter will read 45/10. Once a press is in this state it cannot make parts or accept additional ingots. The only fix is to destroy and replace the press or to wait for the ingots to despawn or add another ingot inside the machine to receive the copper bolt (according to the example).
+
+Trivia [ ]
+
+This is one of the two machines that can use molds , the other being the steel press .

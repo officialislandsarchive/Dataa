@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Coloring_Station
+
+----------------------------------------
+
+Coloring Station Type of block Solid block; Interactable Recipe 40 Iron Ingot 50 Oak Wood Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description Used to produce colorful decoration blocks. The coloring station is a crafting station used to make decorative blocks .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Coloring Station 40 Iron Ingot 50 Oak Wood Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Coloring Station Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Crafting recipes [ ]
+
+Image Name Recipe White Clay 1 Clay 1 White Flower Red Clay 1 Clay 1 Red Flower Orange Clay 1 Clay 1 Orange Flower Yellow Clay 1 Clay 1 Yellow Flower Dark Green Clay 1 Clay 1 Dark Green Flower Light Green Clay 1 Clay 1 Light Green Flower Cyan Clay 1 Clay 1 Cyan Flower Blue Clay 1 Clay 1 Blue Flower Purple Clay 1 Clay 1 Purple Flower Black Clay 1 Clay 1 Black Flower Pink Clay 1 Clay 1 Pink Flower Red Glass Pane 1 Glass Pane 1 Red Flower Black Glass Pane 1 Glass Pane 1 Black Flower Orange Glass Pane 1 Glass Pane 1 Orange Flower Yellow Glass Pane 1 Glass Pane 1 Yellow Flower Light Green Glass Pane 1 Glass Pane 1 Light Green Flower Dark Green Glass Pane 1 Glass Pane 1 Dark Green Flower Cyan Glass Pane 1 Glass Pane 1 Cyan Flower Blue Glass Pane 1 Glass Pane 1 Blue Flower Purple Glass Pane 1 Glass Pane 1 Purple Flower Pink Glass Pane 1 Glass Pane 1 Pink Flower Red Glass Block 1 Glass Block 1 Red Flower Black Glass Block 1 Glass Block 1 Black Flower Orange Glass Block 1 Glass Block 1 Orange Flower Yellow Glass Block 1 Glass Block 1 Yellow Flower Light Green Glass Block 1 Glass Block 1 Light Green Flower Dark Green Glass Block 1 Glass Block 1 Dark Green Flower Cyan Glass Block 1 Glass Block 1 Cyan Flower Blue Glass Block 1 Glass Block 1 Blue Flower Purple Glass Block 1 Glass Block 1 Purple Flower Pink Glass Block 1 Glass Block 1 Pink Flower Chrome Glass Block 1 Glass Block 1 (Fertile) Chrome Chrysanthemum 3 Red Carpet 1 Red Wool 3 Yellow Carpet 1 Yellow Wool 3 Blue Carpet 1 Blue Wool 3 Orange Carpet 1 Orange Wool 3 Light Green Carpet 1 Light Green Wool 3 Dark Green Carpet 1 Dark Green Wool 3 Cyan Carpet 1 Cyan Wool 3 Purple Carpet 1 Purple Wool 3 Pink Carpet 1 Pink Wool 3 Black Carpet 1 Black Wool Red Wool 1 White Wool 1 Red Flower Yellow Wool 1 White Wool 1 Yellow Flower Blue Wool 1 White Wool 1 Blue Flower Orange Wool 1 White Wool 1 Orange Flower Light Green Wool 1 White Wool 1 Light Green Flower Dark Green Wool 1 White Wool 1 Dark Green Flower Cyan Wool 1 White Wool 1 Cyan Flower Purple Wool 1 White Wool 1 Purple Flower Pink Wool 1 White Wool 1 Pink Flower Black Wool 1 White Wool 1 Black Flower Neon White 4 Spirit Crystal 1 White Flower Neon Blue 4 Spirit Crystal 1 Blue Flower Neon Cyan 4 Spirit Crystal 1 Cyan Flower Neon Dark Green 4 Spirit Crystal 1 Dark Green Flower Neon Light Green 4 Spirit Crystal 1 Light Green Flower Neon Orange 4 Spirit Crystal 1 Orange Flower Neon Pink 4 Spirit Crystal 1 Pink Flower Neon Purple 4 Spirit Crystal 1 Purple Flower Neon Red 4 Spirit Crystal 1 Red Flower Neon Black 4 Spirit Crystal 1 Black Flower Neon Yellow 4 Spirit Crystal 1 Yellow Flower Solid White 1 White Flower Solid Black 1 Black Flower Solid Pink 1 Pink Flower Solid Red 1 Red Flower Solid Orange 1 Orange Flower Solid Yellow 1 Yellow Flower Solid Light Green 1 Light Green Flower Solid Dark Green 1 Dark Green Flower Solid Cyan 1 Cyan Flower Solid Blue 1 Blue Flower Solid Purple 1 Purple Flower
+
+History [ ]
+
+April 10, 2020 Added coloring stations. November 1, 2020 Added recipes for white, orange, dark green, light green, cyan, purple, pink, and black clay and carpets . January 22, 2021 Added recipes for white, orange, yellow, dark green, light green, cyan, blue, purple, pink, red, and black wool . July 1, 2021 Added recipes for white, orange, yellow, dark green, light green, cyan, blue, purple, pink, red, and black neon . September 18, 2021 Added recipes for white, orange, dark green, light green, cyan, purple, pink, and black glass blocks . July 9, 2022 Added the recipe for chrome glass blocks . November 11, 2022 Added the recipe for white, orange, dark green, light green, cyan, blue, purple, red, pink, and black solids .

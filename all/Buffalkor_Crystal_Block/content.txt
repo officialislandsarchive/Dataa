@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Buffalkor_Crystal_Block
+
+----------------------------------------
+
+Buffalkor Crystal Block Type of block Solid block; Musical Recipe 10 Buffalkor Crystal Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent A buffalkor crystal block is a decorative block crafted with 10 buffalkor crystals . It cannot be turned back into buffalkor crystals once it has been crafted.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Buffalkor Crystal Block 10 Buffalkor Crystal Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Buffalkor Crystal Block Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+History [ ]
+
+June 18, 2022 Added buffalkor crystal blocks.
+
+Trivia [ ]
+
+Buffalkor crystal blocks produce unique sounds when placed or walked on.

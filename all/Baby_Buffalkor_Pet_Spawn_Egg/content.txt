@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Baby_Buffalkor_Pet_Spawn_Egg
+
+----------------------------------------
+
+Baby Buffalkor Pet Spawn Egg Dropped by Buffalkor The baby buffalkor pet spawn egg is a spawn egg used to spawn a baby buffalkor pet . It cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Buffalkors have a 0.02% chance of dropping a baby buffalkor pet spawn egg upon defeat.
+
+Usage [ ]
+
+Spawning [ ]
+
+To spawn a baby buffalkor pet , the player must be the owner of the island they are currently on. While holding the egg, clicking or tapping anywhere on their screen will spawn a baby buffalkor pet.
+
+History [ ]
+
+April 29, 2022 Added baby buffalkor pet spawn eggs. May 1, 2022 Decreased the drop chance from buffalkors from 0.33% to 0.02%. June 18, 2022 Buffalkors are no longer able to drop baby buffalkor pet spawn eggs upon defeat. June 25, 2022 Buffalkors are again able to drop baby buffalkor pet spawn eggs upon defeat.
+
+Trivia [ ]
+
+Baby buffalkor spawn eggs have the lowest drop chance of all pet spawn eggs . From June 18, 2022 - June 25, 2022 , buffalkors were able to drop Kor pet spawn eggs instead of baby buffalkor pet spawn eggs, thus making the spawn egg unobtainable during this time. Baby buffalkor eggs are the only eggs obtained from defeating a normal mob, instead of a boss mob or a roulette block.

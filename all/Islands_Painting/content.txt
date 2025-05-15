@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Islands_Painting
+
+----------------------------------------
+
+Islands Painting Type of block Solid block Buy cost 40,000 coins Best tool Luminous Transparent Description A community painting competition winner, by @Dimmy66 The Islands painting is a decorative block that was created as a part of the community painting competition.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+The Islands painting can be purchased from John for 40,000 coins .
+
+Breaking [ ]
+
+Islands Painting Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+History [ ]
+
+January 8, 2022 Added Islands paintings. ? Removed Option to buy Islands paintings. ? Re-Added Option to buy Islands paintings.

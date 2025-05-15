@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Category:Item_transformers
+
+----------------------------------------
+
+Item transformers are blocks that change certain items into others. Players cannot select what they intend to make, differing them from crafting stations or auto-crafters.
+
+Manual [ ]
+
+Manual item transformers requires the player to manually input the ingredient and fuel source if applicable, and manually take out the product. Some manual item transformers require logs , coal , or petrified petroleum to fuel the machine. There are currently 8 manual item transformers:
+
+Premium [ ]
+
+Premium item transformers can only be crafted and placed if the player owns the transformer's respective gamepass . There is currently one premium item transformer:
+
+Automatic [ ]
+
+Automatic item transformers allow for the automatic input and output of ingredients/products through either conveyor belts , pipes , or wood tubes . All automatic item transformers require coal or petrified petroleum to fuel the machine. There are currently 13 automatic item transformers:
+
+Details [ ]
+
+Name Sub-category Makes Use Stonecutter Manual Brick blocks Turns blocks from ore rocks into their respective brick types (e.g. stone into stone brick ). Sawmill Manual Plank Turns logs into their respective planks (e.g. birch wood into birch planks ). Honey Press Manual Jar of Honey Turns honeycombs into jars of honey . Cheesemaker Manual Cheese Turns milk buckets into cheese . Composter Manual Basic Fertilizer Turns carp and/or salmon into basic fertilizer . Cloth Loom Manual Cloth Turns wool into cloth . Churner Manual Mayonnaise Jar Turns eggs into mayonnaise jars & yak milk buckets into yak butter . Snowball Machine Premium (Manual) Snowball Turns snow into snowballs . Industrial Stonecutter Automatic Brick blocks Automatically turns blocks from ore rocks into their respective brick types. Industrial Sawmill Automatic Plank Automatically turns logs into their respective planks. Steel Mill Automatic Steel Ingot Automatically turns iron ingots into steel ingots . Industrial Washing Station Automatic Crops Automatically cleans oily crops to their normal crop counterparts. Oil Refinery Automatic Oil Fuel Automatically refines oil fuel into petroleum fuel . Petroleum Petrifier Automatic Petrified Petroleum Automatically petrifies petroleum fuel into petrified petroleum . Fuel Barrel Filler Automatic Oil Barrel Automatically turns oil fuel into oil barrels . Fuel Barrel Extractor Automatic Oil Fuel Automatically extracts oil fuel from oil barrels. Copper Press Automatic Copper items Automatically makes copper items from copper ingots using factory molds . Steel Press Automatic Steel items Automatically makes steel items from steel ingots using factory molds. Sap Boiler Automatic Maple Syrup Automatically boils maple sap into maple syrup . Syrup Bottler Automatic Maple Syrup Bottle Automatically bottles maple syrup into maple syrup bottles .

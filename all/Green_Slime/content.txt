@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Green_Slime
+
+----------------------------------------
+
+Green Slime Health 100 HP Behavior Hostile Attack strength 5 HP Drops Green Slime Ball Green Sticky Gear Ancient Slime String Fertile Yellow Daisy Fertile Red Daisy Slime Portal Shard Slime King Token Jukebox Disk Location Slime Island A green slime is a hostile mob and the most common variant of slimes .
+
+Spawning [ ]
+
+Green slimes spawn on Slime Island , which is accessible though the portal in the Hub located next to Ivon or through a Slime Portal .
+
+Drops [ ]
+
+A green slime rewards 3 (9 with the 4x daily bonus) Combat XP and 3 (9 with the 4x daily bonus) Light Melee , Heavy Melee , Magic , or Archery XP depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Green Slime Ball 150% Green Sticky Gear 10% Ancient Slime String 2% Fertile Red Daisy 1% Fertile Yellow Daisy 1% Slime Portal Shard 0.05% Slime King Token 500% Jukebox Disks Blue Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Red Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Resistances and Weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical None Hydro Slashing Inferno
+
+History [ ]
+
+May 2, 2020 Added green slimes. May 17, 2020 Green slimes are able to drop Buffalkor Island keys . August 9, 2020 Green slimes are able to drop ancient slime string and jukebox disks . November 1, 2020 Green slimes are able to drop fertile yellow daisies and fertile red daisies . January 22, 2021 Green slimes are no longer able to drop Buffalkor Island keys. February 5, 2021 Green slimes are able to drop slime portal shards . July 9, 2021 Updated the appearance of green slimes. September 18, 2021 Green slimes are able to drop Slime King tokens . September 17, 2022 Green slimes now have resistances and weaknesses. September 24, 2022 Changed the resistances and weaknesses of green slimes.

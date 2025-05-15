@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Mud_Pile
+
+----------------------------------------
+
+Mud Pile Type of block Solid block Recipe 2 Tall Grass 20 Grass 1 Black Truffle Crafted with Animal Bench Required skill Level 37 Animal Care Best tool Luminous Transparent The mud pile is the pig's counterpart of a hay bed , it is unlocked at level 37 in Animal Care . It was added in the February 5, 2021 Pigs and Portals update.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Mud Pile 2 Tall Grass 20 Grass 1 Black Truffle Animal Bench Level 37 Animal Care
+
+Breaking [ ]
+
+Mud Pile Breaking Data Hardness 1 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 2 Stone 2 1 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Pigs [ ]
+
+Mud piles positively affect a pig's happiness and also makes the pig muddy if it goes into it. Pigs sometimes sleep on them too.
+
+History [ ]
+
+February 5, 2021 Added mud piles.

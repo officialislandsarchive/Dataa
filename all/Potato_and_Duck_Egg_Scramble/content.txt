@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Potato_and_Duck_Egg_Scramble
+
+----------------------------------------
+
+Potato and Duck Egg Scramble Recipe 1 Scrambled Duck Eggs 1 Baked Potato Crafted with Cooking Table Food Processor Heals 40 HP Effect +40% movement speed Required skill Level 42 Cooking Description Consume for 40% movement speed increase. A potato and duck egg scramble is a food item that heals 40 HP and grants +40% movement speed when consumed.
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Potato and Duck Egg Scramble 1 Scrambled Duck Eggs 1 Baked Potato Cooking Table Food Processor Level 42 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a potato and duck egg scramble restores 40 HP and grants +40% movement speed for 90 seconds; 1 minute and 30 seconds.
+
+Its movement speed boost can be stacked with other movement speed boosts.
+
+History [ ]
+
+February 19, 2022 Added potato and duck egg scrambles. Introduced where potato and duck egg scrambles now cannot be sold to Petur .
+
+Trivia [ ]
+
+This is the second food item in Islands that grants a movement speed boost. Potato and duck egg scrambles currently cannot be sold to Petur .

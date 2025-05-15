@@ -1,0 +1,41 @@
+Source: https://robloxislands.fandom.com/wiki/Private_Servers
+
+----------------------------------------
+
+Freedom to Roam [ ]
+
+Private Servers allow you to visit any island within the game without switching servers. This is a huge advantage for tasks like trading, resource gathering, and exploration.
+
+Increased Item Limit [ ]
+
+These servers have an increased item limit, the specifics of which are not disclosed. This allows for more opportunities in building and inventory management.
+
+User Limit [ ]
+
+Private Servers have a reduced maximum number of players, capped at 20 instead of the standard 30.
+
+Restrictions [ ]
+
+You cannot join a Private Server if you're on a co-op or hardcore profile. Item dropping is disabled in Private Servers, also known as 'VIP servers.'
+
+Cost [ ]
+
+Initially priced at 300 Robux, Private Servers are now free, broadening their accessibility.
+
+How to Access [ ]
+
+To get into a Private Server, go to the Islands game page and look for the 'Private Servers' option. You can either join an existing one or create a new one.
+
+Pros and Cons [ ]
+
+Pros [ ]
+
+No need to switch servers More room for building and storage Exclusive environment due to reduced user limit
+
+Cons [ ]
+
+Cannot join with co-op or hardcore profiles Item dropping is disabled Reduced user limit to 20 players
+
+History [ ]
+
+April 10, 2020: Islands launched without Private Servers. April 24, 2020: Added Private servers with a cost of 300 Robux. June 4, 2020: Private servers are now free for all users

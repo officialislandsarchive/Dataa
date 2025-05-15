@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Obsidian
+
+----------------------------------------
+
+Obsidian Obsidian Rock Type of block Solid block Dropped by Magma Blob Magma Golem Spawns Pirate Island Underworld Best tool Luminous Transparent Description A strong rock found only in the hottest places. Obsidian is a block that can be obtained by mining obsidian rocks on Pirate Island or the Underworld .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Obsidian rocks naturally spawn on Pirate Island's Volcano and throughout the Underworld . Mining an obsidian rock grants the player 2 - 3 obsidian and 9 Mining XP (18 with the 4x daily bonus) per stage, resulting in a total of 4 - 6 obsidian and 39 Mining XP (78 with the 4x daily bonus) per full rock. The rock has a 4% chance to yield a crystallized obsidian when the rock gets fully broken.
+
+Totems [ ]
+
+An obsidian totem will spawn obsidian rocks in a 5 block radius. After the totem has spawned 6 obsidian rocks or has run out of space, the totem will begin to mine the rocks and hold rewards equivalent to a half of an ore rock, which can be collected by interacting with the totem.
+
+An obsidian totem placed next to a conveyor belt will drop obsidian onto the conveyor belt.
+
+Mob drop [ ]
+
+Magma blobs and magma golems have a 20% chance of dropping obsidian upon defeat.
+
+Breaking [ ]
+
+Obsidian Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2 Obsidian Rock Breaking Data Hardness 75 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 113 Wooden 225 113 Stone 120 75 Iron 75 47 Gilded Steel 53 38 Diamond 38 23 Opal 30 15 Void Mattock 15
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Respawn Block 10 Magma Block 5 Crystallized Obsidian 20 Obsidian Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+History [ ]
+
+July 17, 2021 Added obsidian. September 11, 2021 Obsidian can now be dropped from defeating magma blobs . October 9, 2021 Obsidian can now be obtained from obsidian totems . July 2, 2022 Obsidian can now be used to craft void blocks . July 23, 2022 Obsidian can now be dropped from defeating magma golems .

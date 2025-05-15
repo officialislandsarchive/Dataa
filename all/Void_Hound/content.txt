@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Void_Hound
+
+----------------------------------------
+
+Void Hound Health 200 HP Behavior Hostile Attack strength 15 HP Drops Void Serpent Token Amethyst Crystal Jukebox Disk Location Void Isles The void hound is a hostile mob that spawn in the Void Isles .
+
+Spawning [ ]
+
+Void Isles [ ]
+
+Void hounds spawn throughout the Void Isles , having 200 HP and dealing 15 HP of damage.
+
+Void Serpent [ ]
+
+The Void Serpent may summon 2 - 15 void hounds to aid it in battle, with the number summoned in proportion to the number of players fighting it.
+
+Behavior [ ]
+
+Void hounds attack with quick close combat hits and deal 15 HP. Void hounds are also immune to the attritional damage dealt when being in the presence of void smoke .
+
+Drops [ ]
+
+A void hound rewards 6 Combat XP (24 XP with the 4x daily bonus) and 6 Light Melee , Heavy Melee , Magic , or Archery XP (24 with the 4x daily bonus) depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Void Serpent Token [ 1 ] 0 - 3 Amethyst Crystal 1% Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+History [ ]
+
+August 13, 2022 Added void hounds. September 24, 2022 Void hounds no longer spawn on Desert Island .
+
+Trivia [ ]
+
+Void hounds that used to spawn on Desert Island dealt 8 HP to players and were smaller in size.

@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Plow
+
+----------------------------------------
+
+Plow Plow Lucky Type Farming Tool Recipe 5 Oak Wood 2 Stone Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Spawns Player's Island Description Normal: Tills soil to support seed planting Lucky: Limited edition plow earned only during the Farming Festival 2021 event! A plow is a farming tool that is used to turn grass into farmland and vice versa.
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+When the player first joins Islands , a plow will appear next to patches of wheat on their island , which can be picked up and used.
+
+Crafting [ ]
+
+Name Recipe Crafting station Plow 5 Oak Wood 2 Stone Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Purchasing [ ]
+
+Cletus' lucky plow could have been purchased from Cletus on Farming Festival Island for 7,500 crops .
+
+Usage [ ]
+
+The plow is used to till grass into farmland to allow the growth of most crops . To use the plow, simply click on a block of grass and the block will turn into farmland . Using the same method, farmland can also be turned back into grass.
+
+History [ ]
+
+April 10, 2020 Added plows. July 30, 2021 Added Cletus' lucky plow. August 3, 2021 Cletus' lucky plow is made unobtainable. September 25, 2021 Cletus' lucky plow can be purchased from Cletus again. September 29, 2021 Cletus' lucky plow is made unobtainable again.
+
+Trivia [ ]
+
+The plow that spawns upon the creation of an island cannot despawn. This is because of a block called the item port , which holds it in place.

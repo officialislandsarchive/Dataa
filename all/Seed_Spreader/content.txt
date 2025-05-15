@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Seed_Spreader
+
+----------------------------------------
+
+Seed Spreader Type Tool Description Use to speed up planting The seed spreader is an unimplemented item in Islands .
+
+Obtaining [ ]
+
+The seed spreader cannot be obtained by normal means. Only users with access to administrator commands can get this item.
+
+Usage [ ]
+
+Planting seeds [ ]
+
+The seed spreader can be used to plant wheat seeds . When the seed spreader is used, it will plant wheat seeds on farmland that is in range of the player. It'll plant up to 12 seeds per use, but may plant less if the player does not have enough wheat seeds or the player is not in range of enough farmland. Only wheat seeds can be planted with this tool.
+
+History [ ]
+
+October 9, 2021 Added seed spreaders.
+
+Trivia [ ]
+
+The seed spreader uses the model of the diamond sickle as a placeholder.

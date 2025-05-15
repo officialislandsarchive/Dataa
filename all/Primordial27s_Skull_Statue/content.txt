@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Primordial%27s_Skull_Statue
+
+----------------------------------------
+
+Primordial's Skull Statue Type of block Solid block Best tool Luminous Transparent Description Primordial's Skull Statue from the Dungeons
+
+The Primordial's skull statue is a furniture item that can be purchased using dungeon coins .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+A Primordial's skull statue can be purchased from Ivon for 500 dungeon coins .
+
+Breaking [ ]
+
+Primordial's Skull Statue Breaking Data Hardness 15 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 23 Wooden 45 45 Stone 24 24 Iron 15 15 Gilded Steel 11 11 Diamond 8 8 Opal 6 6 Void Mattock 3
+
+History [ ]
+
+June 23, 2023 Added Primordial's skull statues.

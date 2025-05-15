@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Bhutan_Butter_Tea
+
+----------------------------------------
+
+Bhutan Butter Tea Recipe 2 Yak Butter 1 Yak Milk Bucket 1 Water Bucket Crafted with Cooking Table Food Processor Heals 25 HP Effect +20% break speed (Currently cannot be stacked with Tomato Soup ) Required skill Level 49 Cooking Description Consume for +20% break speed. A Bhutan butter tea is a food item that heals 25 HP and grants +20% breaking speed when consumed.
+
+The breaking speed of Bhutan butter tea currently cannot be stacked with tomato soup 's breaking speed.
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Bhutan Butter Tea 2 Yak Butter 1 Yak Milk Bucket 1 Water Bucket Cooking Table Food Processor Level 49 Cooking
+
+Usage [ ]
+
+Drinking [ ]
+
+Drinking a Bhutan butter tea restores 25 HP and grants +20% breaking speed for 30 seconds.
+
+Its breaking speed of Bhutan butter tea currently cannot be stacked with tomato soup .
+
+History [ ]
+
+March 25, 2022 Added Bhutan butter tea. Introduced where the breaking speed of Bhutan butter tea now cannot be stacked with tomato soup . Introduced where Bhutan butter tea now cannot be sold to Petur .
+
+Trivia [ ]
+
+The breaking speed of Bhutan butter tea cannot be stacked with tomato soup . Bhutan butter tea currently cannot be sold to Petur .

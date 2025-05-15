@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Input/Output_Chest
+
+----------------------------------------
+
+Input/Output Chest Tier 1 Tier 2 Type of block Solid block; Interactable Recipe Tier 1: 1 Medium Chest 2 Conveyor Belt 50 Iron Ingot Tier 2: 1 Large Chest 2 Conveyor Belt Tier 2 5 Red Bronze Ingot Crafted with Workbench Tier 3 Workbench Tier 4 Required skill Tier 1: Level 40 Forging Tier 2: None Best tool Luminous Transparent Description Tier 1: Medium sized chest with double conveyor attachments. Tier 2: Large industrial chest with double conveyor attachments. The input/output chest is an automatable chest that dispenses items going through once it is full.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Input/Output Chest 1 Medium Chest 2 Conveyor Belt 50 Iron Ingot Workbench Tier 3 Workbench Tier 4 Level 40 Forging Input/Output Chest Tier 2 1 Large Chest 2 Conveyor Belt Tier 2 5 Red Bronze Ingot Workbench Tier 4 None
+
+Breaking [ ]
+
+Input/Output Chest Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Automatic storage [ ]
+
+Input/output chests can hold 9 stacks of 30 items, adding up to a total of 270 items, while input/output chest tier 2's can hold 12 stacks of 150 items, adding up to a total of 1,800 items. The items can be added in either manually or through a conveyor belt at the front. Once the chest reaches its item limit, it will begin to output any inputted items to the conveyor belt at the other side.
+
+History [ ]
+
+July 11, 2020 Added input/output chests. January 22, 2021 Level 62 Forging is now required to craft input/output chests. October 9, 2021 Added input/output chest tier 2's. December 29, 2021 Disabled manually placing items into input/output chests. January 6, 2022 Re-enabled manually placing items into input/output chests. May 27, 2022 Level 40 Forging is now required to craft input/output chests.
+
+Trivia [ ]
+
+If the player manages to get their camera inside the chest, it will appear that there is a strange colored texture inside it.

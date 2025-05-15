@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Iron_Skorp
+
+----------------------------------------
+
+Iron Skorp Health 500 HP Behavior Hostile Attack strength 35 HP Effect Food Poison Drops Iron Skorp Scale Desert Portal Shard Jukebox Disk Bhaa Token Location Desert Island The iron skorp is a hostile mob that spawns on the Desert Island along with the gold skorp and ruby skorp .
+
+Spawning [ ]
+
+Naturally [ ]
+
+The iron skorp spawns on the Desert Island and is the most common type of skorp to spawn with a 75% chance.
+
+Bhaa [ ]
+
+Bhaa can summon iron skorps to help him in battle.
+
+Behavior [ ]
+
+The iron skorp deals 35 HP in damage to the player. Like all other skorps, the player also receives the Food Poison effect, which stops the player from consuming food for a certain amount of time. A regen potion can still be used to regenerate a player's health during fights with the ruby skorp, and vamp bows and ruby staffs can still heal the player. It gives 75 combat XP or 300 combat XP with the Daily Bonus.
+
+Drops [ ]
+
+Icon Item Drop chance Iron Skorp Scale 150% Desert Portal Shard 0.02% Bhaa Token 500% Jukebox Disk drops Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Resistances and Weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical None Storm Slashing Quake
+
+Trivia [ ]
+
+This mob used to be 1 of 4 mobs that had a chance of dropping a blueprint prior to September 17, 2022 . This mob is the weakest, and most common of the 3 skorp variants. This is the only skorp variant that does not have its own claw variant.

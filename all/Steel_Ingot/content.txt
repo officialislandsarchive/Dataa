@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Steel_Ingot
+
+----------------------------------------
+
+Steel Ingot Recipe 1 Iron Ingot Crafted with Steel Mill Blast Furnace Description Refined steel ingot. Used for crafting. A steel ingot is a primary industrial material made with iron ingots in a steel mill or a blast furnace .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Iron ingots can be transformed into steel ingots in a steel mill or a blast furnace .
+
+Input Item transformer Output 1 Iron Ingot ➡ Steel Mill ➡ 1 Steel Ingot ➡ Blast Furnace ➡
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Teleporter Pad 20 Iron Ingot 10 Steel Ingot 30 Aquamarine Shard Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Pipe Junction 10 Steel Ingot 10 Glass Block Workbench Tier 4 None Petroleum Tank 100 Steel Ingot 100 Glass Block Workbench Tier 4 None Oil Tank 100 Steel Ingot 100 Glass Block Workbench Tier 4 None Ancient Longbow 100 Steel Ingot 100 Maple Wood 4 Ancient Slime String Anvil Level 25 Archery Azarathian Longbow 2 Ruby Skorp Stinger 70 Steel Ingot 20 Ruby Skorp Scale 5 Ancient Slime String Anvil Level 40 Archery 2 Steel Short Arrow 2 Maple Wood 1 Steel Ingot Anvil Level 33 Archery 2 Steel Long Arrow 4 Hickory Wood 2 Steel Ingot Anvil Level 37 Archery 4 Long Crossbow Bolt 4 Steel Ingot Anvil None Steel Rod 20 Steel Ingot Anvil None Rod Factory Mold 2500 Steel Ingot Anvil None Bolt Factory Mold 1000 Steel Ingot Anvil None Plate Factory Mold 5000 Steel Ingot Anvil None Solar Panel 10 Steel Ingot 10 Copper Bolt 100 Electrite Electrical Workbench (Level 2) None Orb Stand 5 Iron Ingot 5 Steel Ingot 5 Aquamarine Shard Furniture Workbench None Steel ATM 1 Pink Sticky Gear 3 Blue Sticky Gear 250 Steel Ingot 25 Electrite Workbench Tier 4 None
+
+Upgrading [ ]
+
+The steel ingot can be used to upgrade the electrical workbench to level 2 and 3.
+
+Level 2 Electrical Workbench upgrade Level 3 Electrical Workbench upgrade 20 Copper Bolt 250 Electrite 150 Steel Ingot 450 Steel Ingot 50 Steel Bolt 10 Copper Plate 750 Electrite
+
+Molding [ ]
+
+Steel ingots can be molded into steel bolts , rods , and plates with a steel press . The respective mold must be inserted into the steel press in order to process the steel ingot.
+
+Input Item transformer/ mold Output 10 Steel Ingot Steel Press Bolt Factory Mold 1 Steel Bolt 25 Steel Ingot Steel Press Rod Factory Mold 1 Steel Rod 50 Steel Ingot Steel Press Plate Factory Mold 1 Steel Plate
+
+History [ ]
+
+September 18, 2020 Added steel ingots. December 11, 2020 Steel ingots can now be used to upgrade the electrical workbench . August 15, 2021 Steel ingots can now be used to craft pipe junctions , petroleum tanks , and oil tanks . April 9, 2022 Steel ingots can now be used to craft teleporter pads and orb stands . May 20, 2022 Steel ingots can now be obtained through blast furnaces . 20 steel ingots are now required to craft steel rods , down from 25. September 17, 2022 Steel ingots can now be used to craft ancient longbows and azarathian longbows . September 24, 2022 Steel ingots can now be used to craft steel short arrows and steel long arrows . December 16, 2022 Steel ingots can now be used to craft steel ATMs .
+
+Trivia [ ]
+
+Before May 20, 2022 , the steel ingot used the same crafting recipe as the steel rod before September 18, 2020 .

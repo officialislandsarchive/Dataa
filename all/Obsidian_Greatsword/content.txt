@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Obsidian_Greatsword
+
+----------------------------------------
+
+Obsidian Greatsword Type Heavy Melee Physical class Slashing Attack damage 24 HP (Base) +12 HP (Critical) Recipe 1 Obsidian Hilt 6 Crystallized Obsidian Crafted with Anvil Required skill Level 36 Heavy Melee Description A very heavy sword The obsidian greatsword is a heavy melee weapon in the slashing class.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Obsidian Greatsword 1 Obsidian Hilt 6 Crystallized Obsidian Anvil Level 36 Heavy Melee
+
+Attacking [ ]
+
+At level 1 Heavy Melee , the obsidian greatsword deals a base damage of 24 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing and deals moderate knockback. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 12 HP of damage. Its damage can be increased by leveling up the Heavy Melee skill and it is in the slashing class.
+
+History [ ]
+
+July 17, 2021 Added obsidian greatswords. September 17, 2022 Obsidian greatswords are now a slashing weapon. October 1, 2022 Changed the model of obsidian greatswords.

@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Obby_Start
+
+----------------------------------------
+
+Obby Start Type of block Non-solid block; Interactable Recipe 10 Oak Wood 1 Yellow Flower Crafted with Obby Kit Best tool Luminous Transparent Description Starting flag for an obby. The obby start is a block used as a start point for obbies on player islands .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Obby Start 10 Oak Wood 1 Yellow Flower Obby Kit
+
+Breaking [ ]
+
+Obby Start Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Obbies [ ]
+
+The obby start can be used as a start point for obbies. Once touched, a timer is started and will stop when an obby finish is touched. If players have not reached an obby checkpoint , they will respawn at the obby start.
+
+History [ ]
+
+August 16, 2020 Added obby starts.

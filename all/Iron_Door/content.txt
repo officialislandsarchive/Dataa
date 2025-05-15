@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Iron_Door
+
+----------------------------------------
+
+Iron Door Type of block Solid block; Interactable Recipe 30 Iron Ingot 1 Green Sticky Gear Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent An iron door is a block that can only be opened by the owner of the player island it is placed on or by a player who has build permissions on that island.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Iron Door 30 Iron Ingot 1 Green Sticky Gear Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Iron Door Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Opening [ ]
+
+Iron doors can only be opened by the owner of the player island it is placed on, or by other players with build permission on that island. It can be opened by interacting with it.
+
+Trivia [ ]
+
+This was suggested by Nolt.io user JamielStuff in suggestion #46 Owner only door . There is a glitch where if you open the door, only one direction of the stripes will stay instead of both

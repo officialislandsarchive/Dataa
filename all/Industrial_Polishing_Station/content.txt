@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Industrial_Polishing_Station
+
+----------------------------------------
+
+Industrial Polishing Station Recipe 3 Steel Rod 1 Gearbox 10 Steel Bolt Crafted with Workbench Tier 3 Workbench Tier 4 Required skill Level 24 Forging Best tool Luminous Transparent Description Converts blocks into smooth blocks. The industrial polishing station is an item transformer used to automatically smooth blocks .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Industrial Polishing Station 3 Steel Rod 1 Gearbox 10 Steel Bolt Workbench Tier 3 Workbench Tier 4 Level 24 Forging
+
+Breaking [ ]
+
+Industrial Polishing Station Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Polishing [ ]
+
+Industrial polishing stations can be used to automatically polish certain blocks into their smooth variant when powered with coal or petrified petroleum . It has four slots able to hold one item each in its user interface—three for unprocessed blocks and one for fuel. Unprocessed blocks and fuel can be inputted through the conveyor belt at one side of the industrial stonecutter, powering the machine for 50 seconds per fuel source. It takes 10 seconds to fully polish a block, and once polished, the smooth variant is outputted through the conveyor belt at the other side.
+
+Input Output 1 Aquamarine Block ➡ 1 Smooth Aquamarine 1 Sandstone ➡ 1 Smooth Sandstone 1 Red Sandstone ➡ 1 Smooth Red Sandstone 1 Stone ➡ 1 Smooth Stone 1 Slate ➡ 1 Smooth Slate 1 Marble ➡ 1 Smooth Marble 1 Diorite ➡ 1 Smooth Diorite 1 Andesite ➡ 1 Smooth Andesite 1 Granite ➡ 1 Smooth Granite 1 Basalt ➡ 1 Smooth Basalt
+
+History [ ]
+
+June 4, 2021 Added industrial polishing stations. February 19, 2022 Industrial polishing stations can now polish stone , slate , and marble . March 6, 2022 Industrial polishing stations can now polish andesite , diorite , and granite . April 22, 2022 Fixed a bug causing the crank to fall off when using the industrial polishing station. June 18, 2022 Industrial polishing stations can now polish basalt .

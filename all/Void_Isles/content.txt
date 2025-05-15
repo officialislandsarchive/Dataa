@@ -1,0 +1,75 @@
+Source: https://robloxislands.fandom.com/wiki/Void_Isles
+
+----------------------------------------
+
+Void Isles Required skill N/A Resources Amethyst Crystal Void Stone Block Void Grass Void Sand Block Void Parasite Villagers Larry Bobalok Mobs Void Hound Void Serpent Fish Void Fish The Void Isles is an island accessible by going through the Void Isles portal on Desert Island , which only appears after completing the quest , "A strange formation...", or using a teleporter pad with a Void Isles orb or Void Serpent orb . Level 70 Combat is required to access the Void Isles.
+
+Resources [ ]
+
+Ores [ ]
+
+Resources 1 2 3 Mobs Void Hound The following ore rocks and piles spawn around the Void Isles:
+
+Amethyst Void Stone Void Grass Void Sand
+
+Void pools [ ]
+
+Void pools can be found throughout the Void Isles typically with waterfalls falling from or to the pools. Players can fish for salmon , carp , trout , red snappers , and void fish using any fishing rod . Using an empty bucket on a void pool will create a water bucket .
+
+Foilage [ ]
+
+The following foliage spawns around the Void Isles:
+
+Void Parasite
+
+Transport [ ]
+
+Transport The Void Isles only has one portal , which can be used to travel back to Desert Island . A teleporter pad is also located next to the portal, which can be used to teleport to various locations depending on the inserted orbs .
+
+Rift to Desert Island Teleporter Pad
+
+Mobs [ ]
+
+Hostile mobs [ ]
+
+Void hounds spawn throughout the Void Isles.
+
+Void Hound
+
+Boss mobs [ ]
+
+There is currently only 1 boss mob in the Void Isles — the Void Serpent . It can be summoned in its arena using 300 Void Serpent tokens .
+
+Villagers [ ]
+
+Larry [ ]
+
+Larry Larry is a villager that is located near the entrance of the isles. Players can interact with him to sell items for coins .
+
+Bobalok [ ]
+
+Bobalok Bobalok is a villager located in the far left of the isles. His sole purpose is to give dialogue in and outside of quests .
+
+Environment [ ]
+
+Void Smoke [ ]
+
+Void Smoke 1 2 Patches of blue void smoke are located throughout the entirety of the Void Isles, and the Void Serpent may also exhale some during its fight. Players standing inside of the void smoke will take 7 HP of damage every second, but drinking a void potion will cut down the damage done by 50%.
+
+Void Geyser [ ]
+
+Void Geyser 1 2 Mobs Fish Void Fish Void geysers are devices located around the Void Isles that can be used to boost players upwards to reach elevated platforms. Geysers can randomly activate or go dormant and using one will deal 5 HP of damage.
+
+Terrain [ ]
+
+Void Serpent Arena [ ]
+
+Void Serpent Arena 1 2 3 Mobs Void Serpent Void Hound The Void Serpent's arena is located at the far end of the Void Isles past a large arch. It can be summoned for 300 Void Serpent tokens with no cooldown in-between fights at the entryway, and the Void Serpent will spawn in the middle of the pillars. Void smoke summoned in the fight will deal the same amount of damage as the natural patches found throughout the isles but will dissipate after 30 seconds.
+
+History [ ]
+
+August 13, 2022 Added the Void Isles. August 20, 2022 Void parasites can now spawn in the Void Isles. Void fish can now be fished in the Void Isles.
+
+Trivia [ ]
+
+Before a certain update, if the player attempts to enter the void rift without completing the "A strange formation..." quest , they will be knocked back and 20 damage will be dealt.

@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Davey
+
+----------------------------------------
+
+Davey Location Player's Island and Pirate Island Davey is a pirate added in the July 17, 2021 update.
+
+Spawning [ ]
+
+There is a 50% chance for Davey to spawn on the player's island every in-game season . (1:00 PM EST / 10:00 AM PST)
+
+Shop [ ]
+
+Image Name Cost Treasure Map 120 Doubloons
+
+Dialogue [ ]
+
+When the player interacts with Pirate Davey on the player's island:
+
+"Yarr! My name's Davey! There's treasure buried somewhere and I need some help finding it! If you'd be so kind to help I'll let you keep the treasure!" >Maybe later End. >Help Davey (If the player has a treasure map) "Yar! Find your treasure and I'll be givin' you another map!" >Okay End. (If the player does not have a treasure map) "Yarr! use this map to find the treasure! You'll be needin' a shovel to dig it up. Good luck, I best be goin' then, my crew will be needin' me!" >Goodbye. Player receives a treasure map and Davey leaves the player's island. >Ask to leave island "Yarr! Best be goin' then, my crew will be needin' me!" >Nevermind, stay! Leaves the interface and Davey doesn't leave the player's island. >Goodbye. Davey leaves the player's island.
+
+When the player interacts with Pirate Davey on the Pirate Island:
+
+"Yarr user ! Could I be interestin' in you purchasin' a Treasure Map ?" >View Shop (If the player does not have a treasure map) Leads to the shop. (If the player has a treasure map) "Yarr, seems you already have a treasure hunt to be completin'!" >Okay End.
+
+History [ ]
+
+July 17, 2021 Davey is added. July 23, 2021 Fixed the issues causing Davey to visit the player's island more than once per day. Fixed Davey rag-dolling when approached by a player holding a sword in their hand. August 15, 2021 Correctly fixed the issue causing Davey to visit the player's island more than once per day. July 16, 2022 Fixed a bug that didn't allow Davey to give treasure maps after a treasure map was previously discarded in the trash can . August 20, 2022 Introduced a bug that prevented players from talking to Davey on player islands . Fixed the bug that prevented players from talking to Davey on player islands.
+
+Trivia [ ]
+
+New players will not get Davey on their island to prevent alt treasure farming. Before, there was a glitch where you could claim infinite Treasure Maps on someone else's island because Davey will not leave. However, this glitch was patched shortly after.
+
+Gallery [ ]

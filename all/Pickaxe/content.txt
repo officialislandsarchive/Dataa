@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Pickaxe
+
+----------------------------------------
+
+Pickaxe Wooden Stone Iron Gilded Steel Diamond Opal Recipe Wooden : 3 Oak Wood Stone : 20 Stone , 10 Oak Wood Iron : 20 Iron Ingot , 10 Oak Wood Gilded Steel : 3 Gilded Steel Rod , 40 Iron Ingot , 100 Gold Ingot Diamond : 50 Diamond , 5 Gilded Steel Rod Opal: 1 Opal Pickaxe Hilt , 50 Opal , 100 Iron Ingot Crafted with Wooden: Workbench Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Stone: Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Iron, Gilded Steel, Diamond, & Opal: Anvil Required skill Wooden & Stone: None Iron : Level 4 Mining Gilded Steel : Level 24 Mining Diamond : Level 48 Mining Opal : Level 55 Mining Description Iron: Crafted using an Anvil Pickaxes are one of the most commonly used tools in the game. They allow the player to mine blocks , and the speed increases depending on its material and the Mining skill.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Required skill Hardness[1] Wooden Pickaxe 3 Oak Wood Workbench Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None 2 Stone Pickaxe 20 Stone 10 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None 6 Iron Pickaxe 20 Iron Ingot 10 Oak Wood Anvil Level 4 Mining 9 Gilded Steel Pickaxe 3 Gilded Steel Rod 40 Iron Ingot 100 Gold Ingot Anvil Level 24 Mining 12 Diamond Pickaxe 50 Diamond 5 Gilded Steel Rod Anvil Level 48 Mining 18 Opal Pickaxe 1 Opal Pickaxe Hilt 50 Opal 100 Iron Ingot Anvil Level 55 Mining 22
+
+[1] Official doesn't release this data; it has been tested by players.
+
+Usage [ ]
+
+Mining [ ]
+
+Pickaxes can be used to break ore rocks and resource blocks . The number of hits required to break it is based on the player's Mining level. The rarity of the pickaxe also depend on the speed in which it breaks something, listed below from weakest to strongest:
+
+Wood Stone Iron Gilded Steel Diamond Opal Void Mattock
+
+Breaking blocks [ ]
+
+Pickaxes can be used to break general blocks on a player island's . A player's Mining level DOES affect the number of hits it takes to break them.
+
+Trivia [ ]
+
+Jed and Ruby have pickaxes with their own unique models on their backs. Pickaxes, along with axes , had an animation early on in the game but were removed in an unknown update. This was likely to reduce lag. The Void Mattock is both an Axe and a Pickaxe.

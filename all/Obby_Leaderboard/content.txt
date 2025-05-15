@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Obby_Leaderboard
+
+----------------------------------------
+
+Obby Leaderboard Type of block Solid block Recipe 40 Maple Wood 5 Gold Ingot Crafted with Obby Kit Best tool Luminous Transparent
+
+The obby leaderboard is a block used for obbies , built on Player Islands . It was added in the August 16, 2020 Obby update. It is used to display the top three players who beat an obby the fastest.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Gamepass required Obby Leaderboard 40 Maple Wood 5 Gold Ingot Obby Kit
+
+Breaking [ ]
+
+Obby Leaderboard Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Obbies [ ]
+
+When a player completes an obby by touching an obby finish the time it took them to get from the obby start to the finish is calculated and if it is less then one of the top three on the leaderboard it is added to the list. Gold is first place, Silver is second, and bronze third. To reset the leaderboard break the obby start, breaking the leaderboard will NOT reset it.
+
+Trivia [ ]
+
+Like all obby blocks, this can be used/placed by any player.

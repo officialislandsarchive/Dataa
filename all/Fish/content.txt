@@ -1,0 +1,59 @@
+Source: https://robloxislands.fandom.com/wiki/Fish
+
+----------------------------------------
+
+Fish are mobs that are found in bodies of water .
+
+Obtaining [ ]
+
+Fishing [ ]
+
+Fish can be found in the various bodies of water on the Hub , Slime Island , Buffalkor Island , Wizard Island , Desert Island , Spirit Island , Pirate Island , Underworld , and Void Isles . Higher-tier fish, such as swordfish, require an iron fishing rod to catch, but most fish are able to be caught with a wooden fishing rod . Treasure items may be caught in place of a fish when fishing.
+
+Since May 13, 2022 , certain fish can spawn exclusively in certain islands -- see table below.
+
+Treasure chests [ ]
+
+Opening a treasure chest has an 18% and 10% chance of rewarding a puffer fish or shark, with the fish having a rarity of 'common' and 'uncommon' respectively.
+
+Dragon eggs [ ]
+
+Opening an infernal dragon egg has a 23% chance of rewarding 25 - 100 infernal fish, having a rarity of 'common'.
+
+Serpent eggs [ ]
+
+Opening a serpent egg has a 5% chance of rewarding 3 void fish, having a rarity of 'rare'.
+
+Usage [ ]
+
+Transforming [ ]
+
+Salmon, carp, tuna, groupers, trout, and red snappers can be transformed into basic fertilizer in a composter .
+
+Input Item transformer Output Salmon ➡ Composter ➡ 1 Basic Fertilizer Carp ➡ Composter ➡ 1 Basic Fertilizer Tuna ➡ Composter ➡ 1 Basic Fertilizer Grouper ➡ Composter ➡ 1 Basic Fertilizer Trout ➡ Composter ➡ 1 Basic Fertilizer Red Snapper ➡ Composter ➡ 1 Basic Fertilizer
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Underworld Orb 10 Glass Block 20 Opal 5 Infernal Fish Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 55 Combat Cut Tuna 1 Tuna Cutting Table None Cut Eel 1 Eel Cutting Table None Cut Red Snapper 1 Red Snapper Cutting Table None Cut Salmon 1 Salmon Cutting Table None Cut Catfish 1 Catfish Cutting Table None Cut Carp 1 Carp Cutting Table None Cut Trout 1 Trout Cutting Table None
+
+Quests [ ]
+
+Fish tanks [ ]
+
+Fish can be placed inside fish tanks as decoration.
+
+Fishing Festival [ ]
+
+Catching fish during the 5-minute competitions during the Fishing Festival was the only way to get tickets, an exclusive currency used to purchase items from Oscar during the event. Placing in the top 8 would guarantee to award the player at least one ticket, but the amount of tickets earned varies depending on the number of fish caught, the final placing, and the number of participating players.
+
+Selling [ ]
+
+Fish can be sold to Thomas or Odlum in exchange for coins , as seen in the table below.
+
+List of fish [ ]
+
+Image Name Sell price Rods Rarity Island Wooden Iron Salmon 8 coins Yes Yes Common All Carp 8 coins Yes Yes Common All Trout 30 coins Yes Yes Common All Red Snapper 30 coins Yes Yes Common All Tuna 1,750 coins Yes Yes Mythic Slime Catfish 12 coins Yes Yes Common Buffalkor Grouper 90 coins Yes Yes Uncommon Wizard Eel 420 coins Yes Yes Uncommon Wizard Tilapia 100 coins No Yes Uncommon Desert Swordfish 850 coins No Yes Rare Desert Infernal Fish 1,200 coins Yes Yes Rare Underworld Void Fish 1,300 coins Yes Yes Rare Void Isles Spirit Fish 333 coins Yes Yes Rare Spirit Blue Tang 45 coins Yes Yes Common Pirate Clownfish 45 coins Yes Yes Common Pirate Puffer Fish 75 coins Yes Yes Uncommon Pirate Shark 1,000 coins Yes Yes Rare Pirate Koi None Yes Yes Legendary All
+
+Trivia [ ]
+
+Fish were the first passive mob released in Islands . Due to a bug, spirit fish, puffer fish and infernal fish used to turn invisible when put inside a fish tank . This was fixed on April 16, 2022 . There was another bug that caused rarer tiers of fish to appear significantly less often and even making them uncatchable. This was fixed on October 22, 2022 . Koi is the only un-sellable fish in Islands.

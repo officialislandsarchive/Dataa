@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Desert_Portal_Shard
+
+----------------------------------------
+
+Desert Portal Shard Dropped by Iron Skorp Gold Skorp Ruby Skorp Bhaa Description Rare elemental item used to craft portals. The desert portal shard is an item used to craft the desert portal .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Iron skorps , gold skorps , ruby skorps , and Bhaa have a chance to drop a desert portal shard upon defeat.
+
+Mob Drop chance Iron Skorp 0.02% Gold Skorp 0.025% Ruby Skorp 0.05% Bhaa 0.25%
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Desert Portal 1 Desert Portal Shard 120 Red Sandstone Brick 5 Cactus Workbench Tier 3 Workbench Tier 4
+
+History [ ]
+
+February 5, 2021 Added desert portal shards.
+
+Trivia [ ]
+
+This item uses the same model as the desert island key .

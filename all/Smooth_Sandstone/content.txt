@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Smooth_Sandstone
+
+----------------------------------------
+
+Smooth Sandstone Type of block Solid block Recipe 1 Sandstone Crafted with Polishing Station Industrial Polishing Station Best tool Luminous Transparent Smooth sandstone is the smooth version of sandstone .
+
+Obtaining [ ]
+
+Polishing [ ]
+
+Sandstone can be polished into smooth sandstone in a polishing station or an industrial polishing station .
+
+Input Item transformer Output 1 Sandstone ➡ Polishing Station ➡ 1 Smooth Sandstone ➡ Industrial Polishing Station ➡
+
+Breaking [ ]
+
+Smooth Sandstone Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Smooth Sandstone Stair 1 Smooth Sandstone Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Smooth Sandstone Slab 1 Smooth Sandstone Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Smooth sandstone can be transformed into smooth sandstone bricks in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Smooth Sandstone ➡ Stonecutter ➡ 1 Smooth Sandstone Brick ➡ Industrial Stonecutter ➡
+
+History [ ]
+
+June 4, 2021 Added smooth sandstone.

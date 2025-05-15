@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Syrup_Bottler
+
+----------------------------------------
+
+Syrup Bottler Type of block Solid block; Interactable Recipe 1 Pink Sticky Gear 3 Steel Plate 20 Copper Ingot Crafted with Maple Workbench Best tool Luminous Transparent The syrup bottler is an industrial machine used to bottle maple syrup into maple syrup bottles .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+The recipe for syrup bottlers will automatically be unlocked after completing Bailey 's second quest.
+
+Name Recipe Crafting station Blueprint required Syrup Bottler 1 Pink Sticky Gear 3 Steel Plate 20 Copper Ingot Maple Workbench
+
+Quests [ ]
+
+The player will receive a syrup bottler and a sap boiler from Bailey upon completion of her second quest.
+
+Breaking [ ]
+
+Syrup Bottler Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Transforming [ ]
+
+Syrup bottlers are used to bottle maple syrup into maple syrup bottles . It has six slots able to hold one maple syrup per slot. It takes about 5 seconds to bottle the syrup. As maple syrup cannot be collected to the player's inventory , the syrup must be directly transported from a sap boiler to the syrup bottler via wood tubes .
+
+Input Output 1 Maple Syrup ➡ 1 Maple Syrup Bottle
+
+History [ ]
+
+November 27, 2021 Added syrup bottlers.
+
+Trivia [ ]
+
+The conveyor part of the syrup bottler allows foilage such as tall grass , flowers , rocks , and dirt piles to spawn in it due to it not being a full block .

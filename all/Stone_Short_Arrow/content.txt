@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Stone_Short_Arrow
+
+----------------------------------------
+
+Stone Short Arrow Type Small arrow Physical class Piercing Attack damage 8 - 11 HP 14 - 19 HP (Fully charged) Recipe 2 Oak Wood 1 Stone Crafted with Anvil Description A basic arrow that can be shot from shortbows Stone short arrows are small arrows that can be shot from shortbows .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station 2 Stone Short Arrow 2 Oak Wood 1 Stone Anvil
+
+Usage [ ]
+
+Ammunition [ ]
+
+Stone short arrows are used as ammunition in shortbows , as at least one is required to be in the player's inventory in order for the shortbow to fire. Shooting a stone short arrow deals an extra 8 - 11 HP to mobs .
+
+Stone short arrows are a one-time use item , meaning they cannot be retrieved after they have been shot.
+
+History [ ]
+
+August 9, 2020 Added arrows. September 17, 2022 Changed the model of arrows. Renamed arrows to "Stone Short Arrow". Changed the description from "Can be shot out of a bow." to "A basic arrow that can be shot from shortbows". Stone short arrows can now only be fired from shortbows . September 24, 2022 Changed the recipe from 1 oak wood and 4 stone to 4 oak wood and 2 stone. ? Changed the recipe from 4 oak wood and 2 stone to 2 oak wood and 1 stone. ? Decreased the limit of stone short arrows from 20,000 to 2,000.
+
+Trivia [ ]
+
+Stone short arrows and long crossbow bolts are the only arrows that can be crafted without an Archery level requirement.
+
+See also [ ]
+
+Iron Short Arrow Steel Short Arrow

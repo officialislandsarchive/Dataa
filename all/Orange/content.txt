@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Orange
+
+----------------------------------------
+
+Orange Heals 10 HP Sell price 20 coins Oranges are a fruit crop .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Oranges grow every season on orange trees and can be obtained by harvesting the trees. There can be up to three oranges on a tree at a time. When harvested, the player will obtain 1 orange, 6 Farming XP (24 with the 4x daily bonus), and a 3% chance for an additional orange tree sapling .
+
+It takes 5 minutes for an orange to grow and 15 minutes for the three oranges to grow.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Orange Cake Batter 1 Dough 3 Orange Cooking Table Level 25 Cooking Orange Honeycomb 8 Honeycomb 8 Orange Cooking Table Level 65 Cooking
+
+Crate packing [ ]
+
+Image Name Recipe Crafting station Crate of Oranges 100 Orange Crate Packer Large Crate of Oranges 250 Orange Tier 2 Crate Packer
+
+Eating [ ]
+
+Oranges can be eaten to restore 10 HP.
+
+Animals [ ]
+
+Oranges can be a cow's , sheep's , or pig's favorite food.
+
+Selling [ ]
+
+Oranges can be sold to Tom in the Hub for 20 coins each.
+
+History [ ]
+
+June 26, 2020 Added oranges. August 30, 2020 Oranges can now be used to craft orange honeycombs . January 22, 2021 Oranges now grant 6 Farming XP when harvested. Oranges can now be a sheep's favorite food. February 5, 2021 Oranges can now be a pig's favorite food. February 26, 2021 Oranges can now be a cow's favorite food. August 21, 2021 Oranges can now be packed into crates and large crates . June 3, 2022 Oranges can now be sold to Cletus instead of to Tom . August 13, 2022 Changed the sell price of oranges from 20 coins to 16 coins. August 20, 2022 Changed the sell price of oranges from 16 coins to 20 coins. October 15, 2022 Oranges can now be sold to Tom instead of Cletus . November 4, 2022 Oranges can now be sold to Cletus again.
+
+Trivia [ ]
+
+If an orange tree is chopped down while having oranges on it, it will only drop its sapling and 3 - 4 oak wood and not any oranges.

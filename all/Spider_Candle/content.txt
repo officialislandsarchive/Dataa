@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Spider_Candle
+
+----------------------------------------
+
+Spider Candle Health 90 Behavior Hostile Attack strength 12 Drops Zombie Cletus Token Jukebox Disk Location Hub A spider candle was a hostile mob that spawned in the Hub during the Halloween 2022 event.
+
+Spawning [ ]
+
+Hub [ ]
+
+Spider candles spawned in the Hub during the Halloween 2022 event.
+
+Zombie Cletus [ ]
+
+Zombie Cletus may summon 1 - 7 spider candles to aid him in battle, with the amount summoned in proportion to the number of players fighting him.
+
+Behavior [ ]
+
+Spider candles are small mobs who have a moderate attack speed. They deal 12 damage per hit. Spider candles have a relatively small size which limits the feasibility in using melee weapons .
+
+Drops [ ]
+
+A spider candle rewards 5 Combat XP (18 XP with the 4x daily bonus) and 5 Light Melee , Heavy Melee , Magic , or Archery XP (18 with the 4x daily bonus) depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Zombie Cletus Token [ 1 ] 6 - 9 Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Resistances and weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical None Void , Inferno Slashing Ethereal , Hydro
+
+History [ ]
+
+October 22, 2022 Added spider candles. November 4, 2022 Spider candles no longer spawn in the Hub . Removed spider candles from the combat catalogue .
+
+Trivia [ ]
+
+Spider candles share the same magical resistances and weaknesses as the Infernal Dragon .

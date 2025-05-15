@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Or_Gate
+
+----------------------------------------
+
+Or Gate Type of block Solid block; Logic gate Recipe 10 Iron Ingot 15 Electrite Crafted with Level 2 Electrical Workbench Best tool Luminous Transparent Description A logic gate that allows electrical passthrough, if EITHER inputs receives power, passthrough amount is the greater of either power source.
+
+The or gate is a logic gate block that is crafted with the electrical workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Or Gate 10 Iron Ingot 15 Electrite Electrical Workbench (Level 2)
+
+Breaking [ ]
+
+Or Gate Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Players may connect an or gate to a power source from either input port to the succeeding electrical component from its passthrough (output) port using a wire tool .
+
+If either of its two input ports receive power , it will passthrough the amount of power supplied. If both of its input ports receive power, it will passthrough the higher of the power supplied from each port. If neither of its input ports receive power, it will not passthrough any power. Or gates will still passthrough power with at least one powered wire connection (very similar to the combiner , but not the same (presumably).
+
+History [ ]
+
+December 11, 2020 Added or gates.

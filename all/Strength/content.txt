@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Strength
+
+----------------------------------------
+
+Strength Causes The affected player to deal 30% more damage with any Melee Weapon . Source Strength Potion Type Drink
+
+Strength is one of the 5 Effects in Islands , it can be obtained by drinking Strength Potions or Fortune Cookies .
+
+Source [ ]
+
+Strength can be obtained by drinking Strength Potions for 1 minute and 30 seconds. You can also get Strength by eating Fortune Cookies .
+
+Causes [ ]
+
+The affected player will deal 30% more damage while active. For example a player at Light Melee Level 1 with Wooden Sword deals 10 damage normally and 15 critically, so with the Strength effect active that same player would deal 13 damage normally and 19.5 critically.
+
+Trivia [ ]
+
+This is one of the 3 Effects that can be obtained from Potions , the others being Polymorph , and Regeneration .

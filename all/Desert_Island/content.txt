@@ -1,0 +1,65 @@
+Source: https://robloxislands.fandom.com/wiki/Desert_Island
+
+----------------------------------------
+
+Desert Island Current Version 3 Version 2 Version 1 Required skill Level 36 Combat Resources Red Sandstone Sandstone Dead Bush Villagers Azur Amber Amir Maria Rick Mobs Iron Skorp Gold Skorp Ruby Skorp Fish Bhaa Desert Island is an island that can be accessed through the portal on Wizard Island , the void rift on Void Isles , a desert portal , or using a teleporter pad with a Desert Island orb or Bhaa orb after reaching level 36 Combat . It is inhabited by skorps and Bhaa and includes 4 fishing ponds.
+
+Resources [ ]
+
+Ores [ ]
+
+Resources 1 2 3 Resources Sandstone Red Sandstone Dead Bush Mobs Iron Skorp Gold Skorp Ruby Skorp The following ore rocks spawn on Desert Island that can be broken by the player:
+
+Sandstone Red Sandstone
+
+Foliage [ ]
+
+The following foliage spawn on Desert Island:
+
+Dead Bush
+
+Transport [ ]
+
+Transport Spawn Void Rift Desert Island has three travel devices: one portal located in front of Azarath used to travel to Wizard Island ; a rift located northeast of Azarath used to travel to the Void Isles that only appears after starting the quest , "A strange formation..."; and a teleporter pad is located next to the Wizard Island portal, which can be used to teleport to various locations depending on the inserted orbs .
+
+Portal to Wizard Island Rift to Void Isles Teleporter Pad
+
+Mobs [ ]
+
+Fish [ ]
+
+Fish can be caught in four bodies of water found in Azarath , the Desert Oasis , and in Bhaa's Arena by fishing .
+
+Hostile mobs [ ]
+
+Desert Island contains three different types of skorps that spawn throughout unpopulated areas of the island. Void hounds will only spawn near the void rift once the player has started the quest , "A strange formation...".
+
+Iron Skorp (75% chance of spawning) Gold Skorp (20% chance of spawning) Ruby Skorp (5% chance of spawning)
+
+Bhaa [ ]
+
+Bhaa is the boss of Desert island and can be found in his arena on a separate island accessed by crossing a fallen pillar across the spawn location of skorps .
+
+Azarathian Serpent [ ]
+
+The Azarathian Serpent is the mini-boss of Desert island and has a 20% chance of spawning every minute.
+
+Villagers [ ]
+
+Azarath [ ]
+
+Azarath Azarath Azur & Amir Amber Fishing Pond Villagers Amir Amber Azur Maria Rick Mobs Fish Azarath is a small city where Azur , Amber , Amir , Maria , and Rick reside, located in front of or behind certain stands. A small fishing pond can be used for fishing in the city.
+
+Terrain [ ]
+
+Desert Oasis [ ]
+
+Desert Oasis Mobs Fish The Desert Oasis is surrounded by patches of green vegetation and contains a large fishing pond.
+
+Bhaa's Arena [ ]
+
+Bhaa's Arena Mobs Bhaa Iron Skorp Gold Skorp Ruby Skorp Fish Bhaa 's arena is on an island across from the skorp spawn area.  The arena consists of temple-like ruins, an arch, and two small fishing ponds. Like the Wizard Boss , Bhaa 's arena doesn't have any spawning towers/pillars. A fallen pillar connects Bhaa's spawn area and the main island.
+
+Trivia [ ]
+
+Skorps have received many changes since the release of Desert Island. The number of skorps that can spawn has changed throughout revamps, going from 3, then down to 2, and then up to 4. Skorps used to despawn after a period of time. Desert Island still receives the same amount of rain as all other islands . Desert Island was the first mob island that was not named after the mob that inhabits it. On April 24, 2021 , dead bushes stopped spawning, yet Azur's quest to break 15 of them was not removed, rendering the quest impossible to complete until the May 8, 2021 update when they were re-added. From August 13, 2022 to September 24, 2022 , void hounds used to spawn on Desert Island. These void hounds only dealt 8 HP damage to players and were smaller in size than those on Void Isles .

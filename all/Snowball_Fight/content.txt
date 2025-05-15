@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Snowball_Fight
+
+----------------------------------------
+
+Snowball Fight Players 10 Teams 2 (Reindeers vs. Elves) Rewards 150-290 Snowflake Tickets, also 1 Christmas Present 2022 for the winning team. Location Hub; Gingerbread Town Duration December 16, 2022 - January 1, 2023 Type Combat
+
+Snowball Fight is a LTGM (Limited Time Game Mode) that takes place during the Christmas 2022 event. It can be accessed by interacting with Eddie in the Gingerbread Village.
+
+Layout [ ]
+
+Island Layout [ ]
+
+On the Snowball Fight Island, there are multiple fans with presents that spawn in specific locations every few seconds.
+The presents can be collected to gain abilities, and the fans can be interacted with to blow the player to wherever the fan is facing.
+
+Game Layout [ ]
+
+There are 2 teams, with a maximum of five players per team. When spawning in, each player gets 40 snowballs. For every player a team has defeated, the team gets a 1 point increment. When a team has 20 points, the game ends and the players on that team wins a Christmas Present 2022 . Both teams get 150-290 Snowflake Tickets depending on the assists and kills the player has.
+The player can interact with a fan to blow themselves to the desired location, or collect presents to get abilites.
+
+The player's entire inventory and passive health regen are disabled until the player leaves the game mode.
+
+Abilities [ ]
+
+The player can only equip 3 abilities at a time, 1 ability for each color.
+
+Adrenaline: The lower the player's health is, the more damage the player deals. Empowered: Deal 25% more damage. Healer: Hitting enemies will trigger AOE heal for teammates in range. Leader: Nearby teammates will take 15% less damage. Haste: Gain increased movement speed. Misfortune: Hitting enemies causes them to take more damage the more they are hit.
+
+Trivia [ ]
+
+Players can rarely drop jukebox discs upon death. If a player attempts to throw a snowball while still on death, the death animation will not played and glitched. This is the first mini game of the Party Mode .

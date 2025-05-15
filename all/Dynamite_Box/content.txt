@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Dynamite_Box
+
+----------------------------------------
+
+Dynamite Box Red Wooden Type of block Solid block Buy cost 30 emerald crystals Best tool Luminous Transparent Description A defective dynamite
+
+A dynamite box is a furniture block that comes in 2 variants: red and wooden.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Dynamite boxes can be purchased from Jade for 30 emerald crystals each during the Mining Event 2023 .
+
+Breaking [ ]
+
+Dynamite Box Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+April 28, 2023 Added dynamite boxes

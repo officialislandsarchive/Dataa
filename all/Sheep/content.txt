@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Sheep
+
+----------------------------------------
+
+Sheep Sheep Sheared Birthday Behavior Passive Location Player's Island
+
+A sheep is a large passive mob that can be spawned using a sheep spawn egg once the player is level 21 in Animal Care . It can grow up into adult sheep after roughly 12 hours.
+
+It is the second animal passive mob in Islands .
+
+Obtaining [ ]
+
+Sheep are obtainable by buying sheep spawn eggs at Taliyah's store at level 21 in Animal Care.
+
+Animal skin [ ]
+
+A sheep's skin can be changed to the birthday skin if the player bought it for 399 Robux .
+
+Interaction [ ]
+
+Shearing [ ]
+
+Using shears , players can shear a sheep for wool . Note: unlike the bucket , players do not lose the shears after using them. Wool blocks resemble a snow block and can be placed and used as a building or decoration block . Once players are level 24 in Animal Care, the cloth loom , which turns wool to cloth , is unlocked. Wool and cloth can be sold to Taliyah respectively for 120 and 350 coins. When a sheep's coat grows, it will walk to a scratching post and scratch it off, leaving one wool.
+
+Feeding [ ]
+
+Sheep can be fed approximately every 90-100 seconds (multiple times if its hunger is sufficiently depleted). Sheep eat potatoes , but will also each have its own favorite foods. The foods a sheep can have as their favorites are apple pie , lemon bread , candy apple , lemon puff , orange cake , and orange honeycomb . Feeding a sheep one of their favorite foods will increase the amount of wool the fed sheep produces, as well as increase the happiness/friendship status of the sheep.
+
+A wooden , metal trough , or automated trough can also be used to feed a sheep.
+
+Like other animals , if no troughs are in its vicinity, it will eat from a grass block , but doing so will not replenish its hunger meter nor give Animal Care XP.
+
+Mounting [ ]
+
+A sheep can be mounted using the inspection menu. When players level 8 in animal care, they can ride a sheep to anywhere when mounting including the hub, mob islands etc. To get off, press the dismount button on the right of the screen. Players can use tools / weapons when mounting. If a player falls in the void when riding, their animal will respawn. If a player dismounts their animal in other people's island or a mob island, it will respawn in their base. Mounting a sheep does not grant any boosts.
+
+History [ ]
+
+January 22, 2021 Added sheep. Introduced where sheep are now able to eat grass blocks if no troughs are nearby. January 25, 2021 Sheep fall asleep much later in the day. Sheep can no longer be fed while asleep. February 19, 2021 Added birthday sheep skin. Sheep can now be mounted. February 26, 2021 The birthday sheep skin is made unobtainable.
+
+Trivia [ ]
+
+Sheep are the first and only animal that when harvested directly gives a block. Like all other animals, sheep may eat from a grass block instead of from troughs, but doing so will not replenish their hunger meter nor give Animal Care XP. This can be done if no troughs are nearby. The eating sound of sheep is reduced when eating a grass block. Sheep are the second animal passive mob in Islands , the first being cows . Sheep share many things with other animals . Sheep share the same eating sound as cows, pigs , turkey , yaks , and horses . Sheep have the same animations as cows, pigs, and yaks. Sheep have the same eye model as cows, pigs, chickens , frogs , and rabbits . Sheep are able to move with the sleeping animation, but this can be fixed by mounting and dismounting them. The hitbox of players is slightly increased when mounting a sheep. Sheep have the highest number of favorite foods , with the second being chickens and ducks .

@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Copper_Bolt
+
+----------------------------------------
+
+Copper Bolt Recipe 15 Copper Crafted with Copper Press + Bolt Factory Mold Sell price 200 coins Description A basic copper bolt used for crafting. A copper bolt is an item molded with copper .
+
+Obtaining [ ]
+
+Molding [ ]
+
+Input Machinery + mold Output 15 Copper Ingot Copper Press + Bolt Factory Mold 1 Copper Bolt
+
+Usage [ ]
+
+Selling [ ]
+
+Copper bolts can be sold to Jack for 200 coins each.
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Solar Panel 10 Steel Ingot 100 Electrite 10 Copper Bolt Electrical Workbench (level 2) Steam Generator 20 Copper Bolt 1 Gearbox 150 Electrite Electrical Workbench (level 3) Sapling Automatic Planter 5 Red Bronze Ingot 2 Copper Plate 5 Copper Bolt Workbench Tier 4 Industrial Flower Picker 5 Red Bronze Ingot 2 Copper Plate 5 Copper Bolt 1 Blue Sticky Gear Workbench Tier 4 Large Chest 20 Red Bronze Ingot 6 Copper Plate 2 Copper Bolt Workbench Tier 4
+
+Upgrading [ ]
+
+The copper bolt can be used to upgrade the electrical workbench to level 2.
+
+Level 2 Electrical Workbench upgrade 150 Steel Ingot 20 Copper Bolt 250 Electrite
+
+History [ ]
+
+September 18, 2020 Added copper bolts. December 11, 2020 Copper bolts can now be used to upgrade the electrical workbench to level 2 and craft solar panels . April 4, 2021 Copper bolts can now be used to craft steam generators . August 15, 2021 Copper bolts can now be used to craft sapling automatic planters . October 9, 2021 Copper bolts can now be used to craft industrial flower pickers and large chests .

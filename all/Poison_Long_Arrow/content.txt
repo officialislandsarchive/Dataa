@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Poison_Long_Arrow
+
+----------------------------------------
+
+Poison Long Arrow Type Large arrow Physical class Piercing Magical class Toxin Attack damage 17 - 23 HP 29 - 39 HP (Fully charged) Recipe 1 Red Mushroom 3 Oak Wood 3 Vine Stem Crafted with Anvil Required skill Level 52 Archery Description A poisonous mushroom arrow shot from longbows. Poison long arrows are large arrows that can be shot from longbows .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill 2 Poison Long Arrow 1 Red Mushroom 3 Oak Wood 3 Vine Stem Anvil Level 52 Archery
+
+Usage [ ]
+
+Ammunition [ ]
+
+Poison long arrows are used as ammunition in longbows , as at least one is required to be in the player's inventory in order for the bow to fire. Shooting a poison long arrow deals an extra 17 - 23 HP to mobs .
+
+There is a decent chance that the poison arrow will inflict Toxin on the opponent, giving you extra damage.
+
+Poison long arrows are a one-time use item , meaning they cannot be retrieved after they have been shot.
+
+History [ ]
+
+August 18, 2023 Added poison long arrows.

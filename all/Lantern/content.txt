@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Lantern
+
+----------------------------------------
+
+Lantern Type of block Solid block; Interactable Recipe 5 Iron Ingot 2 Coal 2 Clay Crafted with Lighting Station Best tool Luminous Transparent A lantern is a decorative luminous block that can be crafted in the lighting station after purchasing the lighting station gamepass .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Gamepass required Lantern 5 Iron Ingot 2 Coal 2 Clay Lighting Station
+
+Breaking [ ]
+
+Lantern Breaking Data Hardness 1.5 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 5 3 Stone 3 2 Iron 2 1 Gilded Steel 2 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+History [ ]
+
+May 17, 2020 Added lanterns. ? Fixed a bug that caused lanterns to appear as candles when held.
+
+Trivia [ ]
+
+There was a bug that made lanterns to appear as a candle when equipped in the hotbar .

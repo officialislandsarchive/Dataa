@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Gold_Deposit
+
+----------------------------------------
+
+Gold Deposit Type of block Solid block Spawns Gold Resource Island Best tool Drops 15 - 20 Gold Ore Luminous Transparent A gold deposit is a resource block which generates in gold resource islands spawned using a gold resource deed . Prior to June 3, 2022 , gold resource islands could spawn naturally if two copper resource islands were already present.
+
+Obtaining [ ]
+
+Resource islands [ ]
+
+One permanent gold deposit naturally generates as part of gold resource islands spawned using gold resource deeds . Gold resource deeds will only spawn a gold resource island if the limit of 15 resource islands of any kind has not been reached. A gold resource island deposit deed can be purchased from Jade for 400,000 coins, once every 4 hours.
+
+Breaking [ ]
+
+Breaking a gold deposit will drop 15 - 20 gold ore , but not the deposit itself.
+
+Gold Deposit Breaking Data Hardness 100 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 150 Wooden 300 150 Stone 160 100 Iron 100 63 Gilded Steel 70 50 Diamond 50 30 Opal 40 20 Void Mattock 20
+
+Usage [ ]
+
+Drilling [ ]
+
+Placing a drill on top of a gold deposit and fueling it with coal or petrified petroleum will produce one gold ore every 2 minutes.
+
+History [ ]
+
+October 3, 2020 Added gold deposits. June 3, 2022 Gold deposits no longer spawn naturally. Gold deposits now require gold resource deeds to spawn. June 10, 2022 Fixed a bug that didn't allow gold deposits to spawn when using a gold resource deed. Increased the limit of gold deposits from 2 to 15.
+
+Trivia [ ]
+
+This was the second deposit added to the game, the first being the copper deposit .

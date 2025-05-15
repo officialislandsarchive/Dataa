@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Petur
+
+----------------------------------------
+
+Petur Location Hub Purpose Buys food Occupation Baker Petur is a villager located in the Hub . He buys food items for various prices.
+
+Shop [ ]
+
+Petur buys food for various prices in exchange for coins . Hot offers sell between 1.2x and 1.8x the normal price.
+
+Image Name Normal price Lowest hot price Highest hot price Bread 20 - 30 coins 30 coins 45 coins Berry Pie 168 - 252 coins 252 coins 378 coins Pizza 64 - 96 coins 96 coins 165 coins Pineapple Pizza 124 - 186 coins 186 coins 279 coins Grape Jam 80 - 120 coins 120 coins 180 coins Jam Sandwich 640 - 960 coins 960 coins 1,440 coins Tomato Sauce 42 - 48 coins 48 coins 72 coins Tomato Soup 512 - 768 coins 768 coins 1,152 coins Carrot Cake 480 - 720 coins 720 coins 1,080 coins Baked Potato 24 - 36 coins 36 coins 54 coins Potato Salad 1,136 - 1,704 coins 1,704 coins 2,556 coins Apple Pie 120 - 180 coins 180 coins 270 coins Orange Cake 120 - 180 coins 180 coins 270 coins Lemon Bread 120 - 180 coins 180 coins 270 coins Avocado Toast 92 - 138 coins 138 coins 207 coins Starfruit Cake 688 - 1,032 coins 1,032 coins 1,548 coins Roasted Carrot 24 - 36 coins 36 coins 54 coins Honey Toast 56 - 84 coins 84 coins 126 coins Roasted Honey Carrot 336 - 504 coins 504 coins 756 coins Candy Apple 704 - 1,056 coins 1,056 coins 1,584 coins Lemon Puff 768 - 1,152 coins 1,152 coins 1,728 coins Orange Honeycomb 704 - 1,056 coins 1,056 coins 1,584 coins Deviled Eggs 1,984 - 2,976 coins 2,976 coins 4,460 coins
+
+Legacy quests [ ]
+
+Prior to the February 26, 2021 update, Petur offered random food related quests to players. Players would not be given the next quest until they had finished their current quest. Once a quest was completed, the player would be given a stronger bond with Petur. With each level gained, blocks , seeds , or a furniture blueprint would be randomly awarded.
+
+Quest Craft 3 pieces of dough . Craft 3 pieces of berry dough . Eat 2 loaves of bread . Eat 3 berries . Craft 5 pieces of carrot cake batter . Craft 5 grape jams . Craft 10 potato salads . Craft 10 tomato sauces . Craft 10 tomato soups . Eat 20 loaves of bread . Sell 20 pieces of food . Eat 15 berries . Sell 30 berries . Eat 50 loaves of bread . Sell 125 pieces of food . Sell 100 berries . Sell 100 tomato sauces . Sell 40 jam sandwiches . Sell 50 pizzas . Sell 85 berry pies . Sell 120 baked potatoes . Sell 80 potato salads .
+
+History [ ]
+
+May 10, 2020 Added Baker.
+
+Trivia [ ]
+
+Before the March 13, 2021 update, Petur only offered to buy 5 different food items with one hot offer. After the update, most food items could be sold anytime and 5 - 6 hot offers would alternate every 24 hours. Hot offers used to simply be a higher price the food sells for. Now, the prices vary and are around a certain range. From January 8, 2022 to January 15, 2022 , all food prices were raised by x1.5. The industrial merchant teleseller cannot sell things to Petur due to his changing prices. Since the November 13, 2021 update, any newer food items are currently cannot be sold to Petur, except pineapple pizzas . The model of Petur is similar to the model of the Baker kit from Bedwars .

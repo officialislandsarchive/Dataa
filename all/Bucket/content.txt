@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Bucket
+
+----------------------------------------
+
+Bucket Recipe 3 Iron Ingot Crafted with Animal Bench Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 A bucket is a tool used to carry water , milk , yak milk , or lava .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Bucket 3 Iron Ingot Animal Bench Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Usage [ ]
+
+Collecting water and lava [ ]
+
+Players can collect water by clicking on any water source block or body of water , and collect lava by clicking on any lava source block or lava pool in the Underworld , both while holding a bucket. The bucket will turn into a water bucket or lava bucket after collecting water or lava respectively.
+
+Milking [ ]
+
+After feeding a cow or yak , players can milk the animal by holding a bucket or inserting empty buckets into an industrial milker . The bucket will be dispensed as a milk bucket or a yak milk bucket respectively.
+
+History [ ]
+
+October 3, 2020 Added buckets. May 8, 2021 Buckets can now collect water . Added the recipe for buckets to the workbench tier 1 , workbench tier 2 , and workbench tier 3 . September 18, 2021 Buckets can now collect lava . April 9, 2022 Buckets can now collect yak milk .
+
+Trivia [ ]
+
+Before the September 18, 2021 update, using an empty bucket on a lava pool would fill the bucket with water instead of lava . Despite having a crafting recipe of iron ingots, exclusively, the Bucket cannot be crafted via the Anvil.

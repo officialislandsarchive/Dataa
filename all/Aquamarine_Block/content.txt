@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Aquamarine_Block
+
+----------------------------------------
+
+Aquamarine Block Type of block Solid block Recipe 4 Aquamarine Shard Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent An aquamarine block is a block crafted with aquamarine shards .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Aquamarine Block 4 Aquamarine Shard Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Aquamarine Block Breaking Data Hardness 5 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 8 Wooden 15 15 Stone 8 8 Iron 5 5 Gilded Steel 4 4 Diamond 3 3 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Aquamarine Slab 1 Aquamarine Block Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Aquamarine blocks can be transformed into aquamarine bricks in a stonecutter or an industrial stonecutter or smooth aquamarine in a polishing station or an industrial polishing station .
+
+Input Item transformer Output 1 Aquamarine Block ➡ Stonecutter ➡ 1 Aquamarine Brick ➡ Industrial Stonecutter ➡ 1 Aquamarine Block ➡ Polishing Station ➡ 1 Smooth Aquamarine ➡ Industrial Polishing Station ➡
+
+History [ ]
+
+July 11, 2020 Added aquamarine blocks. April 4, 2021 Aquamarine blocks can now be used to craft aquamarine stairs and aquamarine slabs . June 4, 2021 Aquamarine blocks can now be polished into smooth aquamarine . March 6, 2022 Aquamarine blocks can no longer be used to craft aquamarine stairs.

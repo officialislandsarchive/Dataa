@@ -1,0 +1,67 @@
+Source: https://robloxislands.fandom.com/wiki/May_17,_2020
+
+----------------------------------------
+
+May 17, 2020 Basic Information Day released May 17, 2020 Version number 8 Version Navigator Previous version Next version May 10, 2020 May 26, 2020 The May 17th, 2020 update, also known as the Buffalkor Update, is the seventh major update in Islands . This update introduced a new island, as well as new blocks and tools .
+
+Patchnotes [ ]
+
+Patchnote #1 [ ]
+
+New content patch is rolling out!
+
+🗿 Buffalkor Mob & Island ✨ Gold Ore ⚔️ Iron War Axe 🔨 Gilded Steel Hammer 🥇 Gilded Steel Tools 🕯️ Lighting Station Gamepass 🔷 Coal, Iron and Gold Blocks 👓 Glass Blocks 🏭 Industrial Stonecutter 🥕 Carrot Cake 🌻 Flower Pots 🎵 Fix background music 🔊 Mobs play a sound when taking damage 🥫 Fix some foods not being edible ⚡ Bug fixes and performance optimizations
+
+Note: You need a "Buffalkor Island Key" to travel to the new island. This is a new rare drop from killing slimes. Note 2: Crystalized Iron is a rare drop from manually breaking iron rocks.
+
+We'll make both of these things more clear in a follow up patch tomorrow 🙂
+
+Link: https://discord.com/channels/699869792445792348/699870693675892746/711654121194913802
+
+Patchnote #2 [ ]
+
+Rolling out a small bug fix patch.
+
+🗒️ Fix an issue that could cause island data to corrupt 💸 Lower cost of gilded steel tools 🛠️ Fix an issue that could cause two islands to overlap ✍️ Fix some item descriptions
+
+Link: https://discord.com/channels/699869792445792348/699870693675892746/711821964720734249
+
+Patchnote #3 [ ]
+
+Deployed another set of bug fixes aimed to fix island corruption.
+
+Link: https://discord.com/channels/699869792445792348/699870693675892746/712009244991422515
+
+Patchnote #4 [ ]
+
+Rolling out some more bug fixes.
+
+Link: https://discord.com/channels/699869792445792348/699870693675892746/712391930734182480
+
+Patchnote #5 [ ]
+
+More bug fixes are going live!
+
+We've identified an issue where joining a server with a large island (40,000+ blocks) could crash the server if not enough memory is available. This results in the large island's data being corrupted (lots of missing blocks). As a temporary fix, we now deny large islands from joining a server if it will cause a crash. This means players with large islands may need to join several different servers until they are able to load-in.
+
+We're working on ways we can avoid this type of restriction for large islands. For the time being, players with large islands are recommended to either join non-full servers or reserve a VIP server. We've also lowered the max player count to 22. We're hoping this lowered limit is only temporary.
+
+Link: https://discord.com/channels/699869792445792348/699870693675892746/712535293881745448
+
+Patchnote #6 [ ]
+
+Quick patch to help with servers becoming unbearably laggy over time.
+
+Link: https://discord.com/channels/699869792445792348/699870693675892746/712535293881745448
+
+Changes [ ]
+
+Added [ ]
+
+New Island: Buffalkor Island New Enemy : Buffalkor New Weapons: Iron War Axe and Gilded Steel Hammer New Tools: Gilded Steel Axe and Gilded Steel Pickaxe New Recipe: Carrot Cake Batter and Carrot Cake New Gamepass: Lighting Station Gamepass New Ore: Gold Ore New Item Drops: Buffalkor Crystal and Crystallized Iron . New Blocks: Coal Blocks Iron Blocks Gold Blocks Glass Blocks Industrial Stonecutters Flower Pots
+
+Modified [ ]
+
+Fixed background music from not playing. Fixed mobs not playing their taking damage sound effect when taking damage. Fixed some foods not being edible. Performance optimizations. Reduced the chance of player's islands could get corrupted or overlapping. Fixed item descriptions being incorrect
+
+Islands update history 2020 April April 10 • April 24 • April 27 May May 2 • May 4 • May 7 • May 10 • May 17 • May 26 • May 31 June June 15 • June 26 July July 4 • July 11 • July 17 • July 25 August August 2 • August 9 • August 16 • August 30 September September 6 • September 18 October October 3 • October 16 November November 1 • November 7 • November 20 • November 26 December December 11 • December 18 2021 January January 4 • January 22 • January 29 February Feburary 5 • Feburary 12 • Feburary 19 • Feburary 26 March March 5 • March 13 • March 19 April April 4 • April 10 • April 16 • April 24 May May 8 • May 21 June June 4 • June 30 July July 9 • July 17 • July 23 • July 30 August August 8 • August 15 • August 21 • August 28 September September 5 • September 11 • September 18 • September 25 October October 9 • October 18 November November 13 • November 27 December December 10 • December 18 • December 29 2022 January January 8 • January 15 • January 30 February February 7 • February 19 • February 27 March March 6 • March 12 • March 25 April April 1 • April 9 • April 16 • April 22 • April 29 May May 13 • May 20 • May 27 June June 3 • June 10 • June 18 • June 25 July July 2 • July 9 • July 16 • July 23 • July 30 August August 6 • August 13 • August 20 • August 27 September September 3 • September 10 • September 17 • September 24 October October 1 • October 8 • October 15 • October 22 • October 28 November November 4 • November 11 • November 18 • November 25 December December 2 • December 16 • December 23 2023 January January 6 • January 20 February February 3 • February 17 March March 3 • March 17 • March 31 April April 14 • April 28 May May 12 • May 26 June June 23 July July 7 • July 21 August August 18 October October 13 November November 7 Discontinuation

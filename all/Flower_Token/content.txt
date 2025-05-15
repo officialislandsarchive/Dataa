@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Flower_Token
+
+----------------------------------------
+
+Flower Token Description A token obtained from Fulco for completing gardening quests. Flower tokens are Fulco 's currency , granting the player the ability to trade with him in the Hub . The item cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Quests [ ]
+
+Quest Type Tasks Reward Prerequisites Cooldown duration Breed Flowers Multiple Breed a White Daisy 50 Farming XP 1 fertile red daisy Access to next task Grow Flowers N/A (non-repeatable) Breed a Cyan Daisy 150 Farming XP 10 flower token Access to next task Craft a Furniture Workbench 100 coins Access to next task Craft a Blue Flower Plant 150 Farming XP 1 cyan daisy 30 flower token Water Flowers Water Water 10 flowers 5 flower token Breed Flowers 3 days Water 40 flowers 10 flower token Craft Items Craft Craft items with yellow flowers 10 flower token Breed Flowers 4 days Craft Items Craft Craft items with red flowers 10 flower token Breed Flowers 4 days Craft Items Craft Craft items with blue flowers 14 flower token Breed Flowers 4 days Breed Cyan Flowers Breed Breed cyan flowers 10 flower token Breed Flowers 3 days Breed Purple Flowers Breed Breed purple flowers 10 flower token Breed Flowers 3 days Breed White & Black Flowers Breed Breed black & white flowers 10 flower token Breed Flowers 3 days Breed Mundane Flowers Breed Breed mundane flowers 5 flower token Breed Flowers 3 days Breed Colorful Flowers Breed Breed colorful flowers 10 flower token Breed Flowers 3 days Breed Lillies [sic] Breed Breed lillies [sic] 5 flower token Breed Flowers 3 days Breed Hyacinths Breed Breed hyacinths 8 flower token Breed Flowers 3 days Breed Daisies Breed Breed daisies 6 flower token Breed Flowers 3 days
+
+Usage [ ]
+
+Purchasing [ ]
+
+Players can purchase various items from Fulco using flower tokens.
+
+Image Name Price Fertile Yellow Daffodil 35 flower tokens Fertile Red Daffodil 35 flower tokens Pottery Bench 180 flower tokens Fertile Red Chrysanthemum 50 flower tokens Fertile Black Chrysanthemum 50 flower tokens
+
+History [ ]
+
+June 18, 2022 Added flower tokens. July 9, 2022 Flower tokens can now be used to purchase fertile red chrysanthemums and fertile black chrysanthemums .
+
+Trivia [ ]
+
+Before the June 3, 2022 update, the fertile daffodils and pottery bench in Fulco 's shop used to cost the same number of petals — his former exclusive currency.

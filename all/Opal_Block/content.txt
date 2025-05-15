@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Opal_Block
+
+----------------------------------------
+
+Opal Block Type of block Solid block Recipe 10 Opal Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent An opal block is a decorative block crafted with 10 opal . It cannot be turned back into opal once it has been crafted.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Opal Block 10 Opal Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Opal Block Breaking Data Hardness 9 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 14 Wooden 27 27 Stone 15 15 Iron 9 9 Gilded Steel 7 7 Diamond 5 5 Opal 4 4 Void Mattock 2
+
+History [ ]
+
+March 25, 2022 Added opal blocks.

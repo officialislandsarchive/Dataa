@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Fuel_Barrel_Extractor
+
+----------------------------------------
+
+Fuel Barrel Extractor Type of block Solid block; Interactable Recipe 5 Steel Plate 3 Red Bronze Ingot Crafted with Workbench Tier 4 Best tool Luminous Transparent A fuel barrel extractor is an industrial machine used to convert oil or petroleum barrels into liquid oil or  liquid petroleum .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Fuel Barrel Extractor 5 Steel Plate 3 Red Bronze Ingot Workbench Tier 4
+
+Breaking [ ]
+
+Fuel Barrel Extractor Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Transforming [ ]
+
+Oil barrels or petroleum barrels can be inputted through the conveyor belt at the front. It has 3 slots that can hold one barrel per slot and takes 4-5 seconds to convert one oil/petroleum barrel into six oil / petroleum fuel . It does not require any fuel source to be powered and the oil/petroleum will be outputted through the pipe at the back once the process is complete.
+
+Input Output 1 Oil Barrel ➡ 6 Oil Fuel 1 Petroleum Barrel ➡ 6 Petroleum Fuel
+
+History [ ]
+
+August 15, 2021 Added fuel barrel extractors.

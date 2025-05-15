@@ -1,0 +1,59 @@
+Source: https://robloxislands.fandom.com/wiki/Emma
+
+----------------------------------------
+
+Emma Location Maple Isles Purpose Gives the player quests/information about raspberries and turkeys. Occupation Berry Farmer
+
+Emma is a villager located on the Maple Isles on the second isle.
+
+Shop [ ]
+
+Image Name Action Price Raspberry Sell 28 coins Berry Pancakes Sell 750 coins Turkey Spawn Egg Tier 1 Buy 5,000 coins Raspberry Seeds Buy 1,000 coins
+
+Questline [ ]
+
+Prerequisite [ ]
+
+The player must finish Bailey's quests to unlock Emma's questline and the area of the island she is located.
+
+Part 1 [ ]
+
+Emma greets the player, and then she asks you to bring her 20 raspberries by spooking turkeys .
+
+Guide: Wild turkeys can spawn in the areas near Emma. The player can spook them by hovering over them with their mouse and pressing F (For PC) or pressing the green button (For Mobile) on them. They have a chance of giving players red berries or raspberries . Return to Emma once you have 20 raspberries.
+
+Part 2 [ ]
+
+Emma is pleased. She asks the player to bring her 10 berry pancakes.
+
+Guide: To make these pancakes, the player will need a minimum of 60 blueberries , 60 raspberries , and 10 sweet pancakes (which are made of 10 pancakes and 30 maple syrup bottles ).
+
+Final Reward [ ]
+
+Emma is satisfied with the players delicious pancakes. She gives the player a Tier 1 turkey spawn egg and 3 raspberry seeds , and unlocks the berry basket and industrial berry basket crafting recipes. She also allows you to do Don 's quest.
+
+Dialogue [ ]
+
+First interaction [ ]
+
+"Hey user , I've heard you're a great pancake chef!" >Thanks! "There's a bunch of wild turkeys running around eating my berries! If you spook them, they should drop the berries. Can you bring me 20 raspberries?" >On it End >View Shop Opens Emma's shop
+
+During first quest [ ]
+
+TBD
+
+Completing first quest [ ]
+
+"Oh wow, thank you for the help!" >Of course "In return, here's the recipe for berry pancakes!" >Neat Unlocks berry pancakes recipe. "You know, I've discovered that when turkeys aren't hungry, they are quite helpful! The raspberry bush is quite prickly, but a turkey can harvest the berries for you! Here's a turkey egg and some raspberry seeds, try it out for yourself!" >Nice! Gives a tier 1 turkey spawn egg Gives 3 raspberry seeds . "Oh, I almost forgot. Here's the recipe for the berry basket. Turkeys will drop raspberries here. You can craft it in the Maple Workbench" >Awesome! "Come see me if you want to expand your raspberry farm!" >Great End
+
+Completing second quest [ ]
+
+TBD
+
+Following interactions [ ]
+
+TBD
+
+History [ ]
+
+November 27, 2021 Added Emma.

@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Sandbag
+
+----------------------------------------
+
+Sandbag Type of block Solid block Best tool Luminous Transparent Description A single sandbag for decor.
+
+A sandbag is a mining-themed furniture block that can be obtained by purchasing from Jed .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+A sandbag can be purchased from Jed for 10 emerald crystals .
+
+Breaking [ ]
+
+Sandbag Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+April 28, 2023 Added sandbags May 12, 2023 Sandbags are made unobtainable.

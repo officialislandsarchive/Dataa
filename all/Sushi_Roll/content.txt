@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Sushi_Roll
+
+----------------------------------------
+
+Sushi Roll Recipe 5 Seaweed 10 Rice Crafted with Cooking Table Food Processor Required skill Level 63 Cooking A sushi roll is an item used to craft certain types of sushi .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Sushi Roll 5 Seaweed 10 Rice Cooking Table Food Processor Level 63 Cooking
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Dragon Roll 1 Sushi Roll 2 Cut Eel 2 Avocado Cooking Table Food Processor Level 72 Cooking Philadelphia Roll 1 Sushi Roll 1 Cut Salmon Cooking Table Food Processor Level 63 Cooking Tuna Roll 1 Sushi Roll 3 Cut Tuna Cooking Table Food Processor Level 72 Cooking
+
+History [ ]
+
+November 13, 2021 Added sushi rolls.

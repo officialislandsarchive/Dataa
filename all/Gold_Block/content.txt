@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Gold_Block
+
+----------------------------------------
+
+Gold Block Current Old Type of block Solid block Recipe 10 Gold Ingot Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent
+
+Gold blocks are decorative blocks crafted using gold ingots . It cannot be turned back into ingots once it has been crafted.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting Stations Gold Block 10 Gold Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Gold Block Breaking Data Hardness 2 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 3 Stone 4 2 Iron 2 2 Gilded Steel 2 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+History [ ]
+
+May 17, 2020 Added gold blocks. ? Name changed from "goldBlock" to "Gold Block". May 8, 2021 The texture for the gold block has been changed.

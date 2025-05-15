@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Pallet_Packer
+
+----------------------------------------
+
+Pallet Packer Type of block Solid block; Interactable Recipe 3 Pink Sticky Gear 10 Steel Rod 30 Oak Wood Crafted with Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description Packs large amounts of wood into pallets. A pallet packer is an auto-crafter that crafts planks into pallets .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Pallet Packer 3 Pink Sticky Gear 10 Steel Rod 30 Oak Wood Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Pallet Packer Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Auto-crafting [ ]
+
+Image Name Recipe Birch Pallet 100 Birch Plank Pine Pallet 100 Pine Plank Hickory Pallet 100 Hickory Plank Oak Pallet 100 Oak Plank Maple Pallet 100 Maple Plank Spirit Pallet 100 Spirit Plank Cherry Blossom Pallet 100 Cherry Blossom Plank
+
+History [ ]
+
+August 21, 2021 Added pallet packers. January 20, 2023 Pallet packers can now pack cherry blossom planks .

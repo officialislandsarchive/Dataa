@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Industrial_Sawmill
+
+----------------------------------------
+
+Industrial Sawmill Recipe 8 Steel Rod 3 Blue Sticky Gear Crafted with Workbench Tier 3 Workbench Tier 4 Required skill Level 15 Forging Description Converts wood into wood planks. Industrial sawmills are industrial machines that can be used to automatically turn any wood into its respective plank . It can be used for semi-automatic plank farms, when coupled with an industrial lumbermill .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Industrial Sawmill 8 Steel Rod 3 Blue Sticky Gear Workbench Tier 3 Workbench Tier 4 Level 15 Forging
+
+Breaking [ ]
+
+Industrial Sawmill Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+When powered by coal (one coal will power the machine for about 50 seconds), it will turn any kind of wood into its respective plank type ( e.g. pine wood into pine plank ), via the interface or by dropping them onto a conveyor input of the machine. It takes 15 seconds to fully transform a block .
+
+Transforming [ ]
+
+Input Output ➡ ➡ ➡ ➡ ➡ ➡ ➡
+
+History [ ]
+
+May 2, 2020 Added industrial sawmill. April 1, 2022 Updated the GUI to have one slot for the unheated item, one for the final product, and one for the fuel instead of two for items and one for fuel. 50 items can now queued to be heated in a slot, up from 5. January 20, 2023 Industrial sawmills can now transform cherry blossom wood into cherry blossom planks .
+
+Trivia [ ]
+
+Despite being used to mill wood, it doesn't require any Woodcutting level requirement.

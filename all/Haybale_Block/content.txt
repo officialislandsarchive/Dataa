@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Haybale_Block
+
+----------------------------------------
+
+Haybale Block Type of block Solid block Buy cost 20 coins Best tool Luminous Transparent A haybale block is a decorative block purchased from John .
+
+Obtaining [ ]
+
+Buying [ ]
+
+Haybale blocks can be bought from John for 20 coins .
+
+Breaking [ ]
+
+Haybale Block Breaking Data Hardness 2 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 3 Stone 4 2 Iron 2 2 Gilded Steel 2 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+History [ ]
+
+October 15, 2022 Added haybale blocks.

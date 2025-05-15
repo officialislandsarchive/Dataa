@@ -1,0 +1,55 @@
+Source: https://robloxislands.fandom.com/wiki/Bamboo
+
+----------------------------------------
+
+Bamboo Type of block Solid block; Climbable Spawns Slime Island Best tool Luminous Transparent Bamboo is a plant found growing on Slime Island .
+
+Obtaining [ ]
+
+Natural Generation [ ]
+
+Bamboo can be found naturally growing on Slime Island near the pond .
+
+Breaking [ ]
+
+Bamboo Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Slime Island Orb 5 Glass Block 10 Bamboo 20 Green Slime Ball 1 Blue Slime Ball Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Bamboo Block 5 Bamboo Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Bamboo Plant 5 Bamboo 20 Maple Plank Furniture Workbench None Animal Nametag 1 Ancient Slime String 5 Bamboo Animal Bench Level 14 Animal Care
+
+Drying [ ]
+
+Bamboo can be crafted into dried bamboo using a campfire , small furnace , or desert furnace .
+
+Input Output 1 Bamboo 1 Dried Bamboo
+
+Climbing [ ]
+
+In similar fashion to ladders , bamboo can be climbed. Both players and animals can climb bamboo.
+
+Farming [ ]
+
+Bamboo can be farmed by planting it on a grass block. Every 2 minutes, bamboo will grow another bamboo on top until it reaches 7-10 blocks in height. Bamboo doesn't grow if there is an occupied block above it. Breaking the bottom most section of bamboo will break all the segments.
+
+When bamboo grows under a water block, it will make the water block disappear.
+
+Bamboo Limit [ ]
+
+A maximum of 40 bamboo can be placed in a single island.  Attempting to place bamboo beyond this limit will produce an error message in chat:
+
+[Error]  Your island has reached the maximum amount of bamboo blocks.
+
+However, bamboo, on its own, can grow beyond this limit.  The limit is on how much a player can place on an island, and not with the total amount of bamboo on the island.
+
+Limit Appearing In Chat:
+
+History [ ]
+
+July 11, 2020 Added bamboo. January 4, 2021 Bamboo can now be used to craft bamboo plants . February 5, 2021 Bamboo can now be used to craft animal nametags . April 9, 2022 Bamboo can now be used to craft Slime Island orbs .
+
+Trivia [ ]
+
+If a stalk is taller than 100 blocks, the bamboo above will not be broken due to the game not being able to fully process deleting all of the bamboo at once.

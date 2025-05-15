@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Mining_Gem_Bag
+
+----------------------------------------
+
+Mining Gem Bag Type of block Solid block Best tool Luminous Transparent Description A mining bag filled with ingots and crystals.
+
+The mining gem bag is a mining-themed furniture block that can be obtained by purchasing from Jed .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+The mining gem bag can be purchased from Jed for 20 emerald crystals .
+
+Breaking [ ]
+
+Mining Gem Bag Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+April 28, 2023 Added mining gem bags May 12, 2023 Mining gem bags are made unobtainable.

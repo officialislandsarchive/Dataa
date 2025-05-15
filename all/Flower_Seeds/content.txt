@@ -1,0 +1,17 @@
+Source: https://robloxislands.fandom.com/wiki/Flower_Seeds
+
+----------------------------------------
+
+Flower Seeds Red Yellow Blue There were 3 types of flower seeds : Red, Yellow, and Blue. There was a 25% chance to get a flower seed when harvesting flowers . Yellow flowers were the most common type of flower, red was uncommon, and blue was considered the rarest of all.
+
+Usage [ ]
+
+Flower seeds were planted on grass, and after a couple minutes, they would grow into the flower of their type; red flower seeds grew red flowers, yellow flower seeds grew yellow flowers, and blue flower seeds grew blue flowers. They could not be watered to increase growth speed. When the grown flower is harvested, you are not guaranteed to get a returned seed. If the grown flower was broken by a tool, then you would not be given a flower but only the seed.
+
+History [ ]
+
+April 10, 2020 Added red, yellow, and blue flower seeds. November 1, 2020 Removed flower seeds.
+
+Trivia [ ]
+
+Although flower seeds were removed, any flower seeds inside chests, and vending machines were still displayed, showing with "0". Any flower seeds in vending machines would display Buy/Sell flower seed but with no function when the button is pressed. However, this can be fixed by breaking the object.

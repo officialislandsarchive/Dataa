@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Pirate_Globe
+
+----------------------------------------
+
+Pirate Globe Type of block Solid block Buy cost 35 Fishing Tickets Best tool Luminous Transparent Description A pirate's globe! The pirate globe is a furniture block that has a chance to be obtained from treasure chests .
+
+Obtaining [ ]
+
+Treasure chest [ ]
+
+Opening a treasure chest has a 6% chance of rewarding a pirate globe, having a rarity of 'rare'.
+
+Breaking [ ]
+
+Pirate Globe Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+History [ ]
+
+July 17, 2021 Added pirate globes.

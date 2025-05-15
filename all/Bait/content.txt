@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Bait
+
+----------------------------------------
+
+Bait Tier 1 Tier 2 Recipe Tier 1: 10 Tomato Tier 2: 8 Carrot Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Required skill Tier 2: Level 20 Fishing Description Tier 1: Use for 15% Fishing Speed Increase. Tier 2: Use for 25% Fishing Speed Increase. Bait is an item used during fishing to increase the fishing speed.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Tier 1 Bait 10 Tomato Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Tier 2 Bait 8 Carrot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 20 Fishing
+
+Fishing [ ]
+
+Tier 1 bait can be obtained from fishing , with the rarity of "uncommon".
+
+Usage [ ]
+
+Fishing Speed [ ]
+
+To use bait, the player would need to stand near a body of water outside of the player's island . The player would then use the bait and either the wooden fishing rod or iron fishing rod to fish normally. Using a tier 1 bait grants the player +15% Fishing Speed for two minutes, while using a tier 2 bait grants +25% Fishing Speed for two minutes.
+
+History [ ]
+
+June 15, 2020 Added bait. May 13, 2022 Renamed bait to tier 1 bait. Changed tier 1 bait's appearance. Added tier 2 bait. Changed the recipe of tier 1 bait from 3 carrots to 10 tomatoes . Changed the description of tier 1 bait from "Use near a pond to increase the chance of catching rare fish. Lasts 60 seconds." to "Use for 15% Fishing Speed Increase." Changed the buff received when using tier 1 bait from increasing the chances of a rare catch to +15% Fishing Speed. Tier 1 bait can be obtained from fishing . May 20, 2022 Tier 1 bait no longer requires level 15 Fishing to craft and use.

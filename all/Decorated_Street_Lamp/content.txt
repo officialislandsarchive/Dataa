@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Decorated_Street_Lamp
+
+----------------------------------------
+
+Decorated Street Lamp Type of block Solid block Recipe 45 Iron Ingot 30 Coal Crafted with Furniture Workbench Best tool Luminous Transparent The decorated street lamp is a luminous furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Decorated Street Lamp 45 Iron Ingot 30 Coal Furniture Workbench
+
+Breaking [ ]
+
+Decorated Street Lamp Breaking Data Hardness 5 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 8 Wooden 15 15 Stone 8 8 Iron 5 5 Gilded Steel 4 4 Diamond 3 3 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+January 4, 2021 Added decorated street lamps.

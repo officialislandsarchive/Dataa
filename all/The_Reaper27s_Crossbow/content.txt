@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/The_Reaper%27s_Crossbow
+
+----------------------------------------
+
+The Reaper's Crossbow Type Crossbow Attack damage 38 HP 54 HP (Fully charged) 57 - 66 HP ( Long Crossbow Bolt ) 97 - 112 HP (Long Crossbow Bolt; Fully charged) Description Limited time Reaper Crossbow from the Halloween 2022 Event The reaper's crossbow is a crossbow that shoots long crossbow bolts .
+
+Obtaining [ ]
+
+Cauldron [ ]
+
+Opening a cauldron has a 1% chance of rewarding the reaper's crossbow, having a rarity of 'mythic'.
+
+Attacking [ ]
+
+To shoot the crossbow, at least one long crossbow bolt must be in the player's inventory . The crossbow can be charged by holding left click on PC or holding the fire button down on mobile and the damage dealt by the bolt will increase in proportion to the time the crossbow is charged.
+
+At level 1 Archery , the reaper's crossbow deals a base damage of 38 HP to mobs , and its damage can be increased by leveling up the Archery skill.
+
+Charging [ ]
+
+Charging a shot will increase the amount of damage dealt by 1.7x at full charge. This additional damage can be increased by leveling up the Archery skill.
+
+History [ ]
+
+October 15, 2022 Added the reaper's crossbow. November 4, 2022 The reaper’s crossbow is no longer trade-locked.
+
+Trivia [ ]
+
+This is the first and only crossbow in Islands . This is also the only archery weapon with a magical classification. Along with Nature's Divine Longbow The Reaper's Crossbow is the only archery weapon obtained from an event.

@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Standing_Gnome
+
+----------------------------------------
+
+Standing Gnome Blue Yellow Red Type of block Solid block Buy cost 25 snowflake tickets Best tool Luminous Transparent Description Gnome decor standing A standing gnome is a furniture block that comes in three color variants: blue, yellow, and red.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+All three standing gnome variants can be purchased from Eddie for 25 snowflake tickets each.
+
+Breaking [ ]
+
+Standing Gnome Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+History [ ]
+
+December 16, 2022 Added standing gnomes.

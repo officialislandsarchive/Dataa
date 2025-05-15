@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Pallet
+
+----------------------------------------
+
+Pallet Oak Birch Pine Maple Hickory Spirit Cherry Blossom Recipe 100 respective planks Crafted with Pallet Packer Sell price Oak: 300 coins Birch: 1,050 coins Pine: 600 coins Maple: 2,250 coins Hickory: 4,200 coins Spirit: 5,100 coins Description A pallet of 100 [wood type] wood. Pallets are items that act as a source for selling wood in bulk.
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Input Item transformer Output 100 Plank ➡ Pallet Packer ➡ 1 Pallet
+
+Usage [ ]
+
+Selling [ ]
+
+Pallets can be sold to Dom for coins .
+
+Image Name Sell price Birch Pallet 1,050 coins Hickory Pallet 4,200 coins Maple Pallet 2,250 coins Oak Pallet 300 coins Pine Pallet 600 coins Spirit Pallet 5,100 coins Cherry Blossom Pallet 6,000 coins
+
+History [ ]
+
+August 21, 2021 Added oak, birch, pine, maple, hickory, and spirit pallets. January 20, 2023 Added cherry blossom pallets.

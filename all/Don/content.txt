@@ -1,0 +1,45 @@
+Source: https://robloxislands.fandom.com/wiki/Don
+
+----------------------------------------
+
+Don Location Maple Isles Purpose Taking players to the Maple Isles and leading them to Fhanhorn's battle arena. Occupation Maple Captain Don is a villager . She allows players to travel from the main area of Maple Isles to Fhanhorn's battle arena. The player has to complete all of Bailey's quests and Emma's quests for her to let the player travel to the battle arena.
+
+Questline [ ]
+
+Don requires the player to make 50 berry pancakes to prove their commitment. After the player gives her the pancakes, she will then allow the player to access Fhanhorn's battle arena.
+
+Guide: To make these pancakes, the player will need a minimum of 300 blueberries , 300 raspberries , and 50 sweet pancakes (which are made of 50 pancakes and 150 maple syrup bottles ).
+
+Tip: when doing this quest, be sure that your cooking level is high because you can get a lot more with making berries pancake.
+
+Dialogue [ ]
+
+Hub [ ]
+
+"Hey there user ! Would you like to travel to Maple Island [sic] ?" >Travel to Maple Island [sic] . Takes player to the Maple Isles.
+
+Maple Isles [ ]
+
+Predialogue [ ]
+
+"I'm not sending mere visitors up to that island..." >... End
+
+First Interaction [ ]
+
+"I hear you helped out my family." >Yup "I've seen countless chefs go up there and never come back. Bring me 50 berry pancakes to prove your commitment" >On it End >What's up there " The guardian of the Maple Isles... Fhanhorn." > ... " Many aspiring chefs have taken this path to try to cook Fhanhorns pancakes..." > Why? " The legends say that those pancakes will give the Might of Fhanhorn... Those under its effect can find legendary antler weapons." > ..! Takes you back to beginning of dialogue
+
+During Quest [ ]
+
+TBD
+
+Completion [ ]
+
+"I see you were able to make those berry pancakes." >Yup "You travel at your own risk... " > Maybe Later End. > What's up there? " The guardian of the Maple Isles... Fhanhorn." > ... " Many aspiring chefs have taken this path to try to cook Fhanhorns pancakes..." > Why? " The legends say that those pancakes will give the Might of Fhanhorn... Those under its effect can find legendary antler weapons." > ..! Takes you back to beginning of dialogue > [Travel to Fhanhorn] Takes you to Fhanhorn's isle.
+
+Following interactions [ ]
+
+"You travel at your own risk... " > Maybe Later End. > What's up there? " The guardian of the Maple Isles... Fhanhorn." > ... " Many aspiring chefs have taken this path to try to cook Fhanhorns pancakes..." > Why? " The legends say that those pancakes will give the Might of Fhanhorn... Those under its effect can find legendary antler weapons." > ..! Takes you back to beginning of dialogue > [Travel to Fhanhorn] Takes you to Fhanhorn's isle.
+
+History [ ]
+
+November 27, 2021 Added Don. July 16, 2022 Don can now be seen in the Hub . Don can now take players to the Maple Isles . Added dialogue for interacting in the Hub. Changed Don's title from "Maple Warrior" to "Maple Captain".

@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Dragon_Roll
+
+----------------------------------------
+
+Dragon Roll Recipe 1 Sushi Roll 2 Cut Eel 2 Avocado Crafted with Cooking Table Food Processor Effect +30% reward luck in combat Required skill Level 72 Cooking Description Consume for +30% reward luck in combat. The dragon roll is a food item that grants +30% reward luck from defeating mobs when consumed.
+
+It cannot be sold to Petur .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Dragon Roll 1 Sushi Roll 2 Cut Eel 2 Avocado Cooking Table Food Processor Level 72 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a dragon roll grants +30% reward luck when defeating mobs for 15 minutes.
+
+Upon defeating a mob, the luck effect granted from consuming a dragon roll increases the chance of mob drops by 30% of its original value, meaning it multiplies the drop rate of items from mobs by 1.3x. For example, an item with a 0.35% drop chance will now have a 0.455% chance of dropping. Items with a 100% drop rate will be increased to 130%, meaning that it has a guaranteed chance of dropping one and an additional 30% chance of dropping another.
+
+Its luck effect can be stacked with the looting bonus granted from using the captain's rapier and consuming a blueberry cookie , allowing a maximum increase of 180%, or 1.8x, to be applied to a mob drop.
+
+Drop table [ ]
+
+Hover your mouse over the drop chances to see specific details about the drops.
+
+Image Name Source Drop chance Base (Luck +0%) With dragon roll (Luck +30%) With rapier and dragon roll (Luck +50%) Green Slime Ball Green Slime 150% 195% 225% Slime King 2000% 2600% 3000% Green Sticky Gear Green Slime 10% 13% 15% Slime King 100% 130% 150% Blue Slime Ball Blue Slime 150% 195% 225% Blue Sticky Gear Blue Slime 10% 13% 15% Slime King 50% 65% 75% Pink Slime Ball Pink Slime 150% 195% 225% Pink Sticky Gear Pink Slime 10% 13% 15% Slime King 10% 13% 15% Frosty Slime Ball Frost Slime 150% N/A N/A Ancient Slime String Green Slime 2% 2.6% 3% Blue Slime 2% 2.6% 3% Pink Slime 2% 2.6% 3% Fertile Red Daisy Green Slime 1% 1.3% 1.5% Fertile Yellow Daisy Green Slime 1% 1.3% 1.5% Slime Portal Shard Green Slime 0.05% 0.065% 0.075% Blue Slime 0.1% 0.13% 0.15% Slime King Token Green Slime 500% 650% 750% Blue Slime 1000% 1300% 1500% Pink Slime 2500% 3250% 3750% Mysterious Fragment #1 Slime King 10% 13% 15% Slime King Pet Spawn Egg Slime King 0.33% 0.429% 0.495% Iron Ore Buffalkor 150% 195% 225% Gold Ore Buffalkor 50% 65% 75% Buffalkor Crystal Buffalkor 0.5% 0.65% 0.75% Rageblade Blueprint Buffalkor 0.025% 0.0325% 0.0375% Buffalkor Portal Shard Buffalkor 0.05% 0.065% 0.075% Kor Token Buffalkor 500% 650% 750% Baby Buffalkor Pet Spawn Egg Buffalkor 0.02% 0.026% 0.03% Diamond Mines Portal Shard Kor 0.5% 0.65% 0.75% Mysterious Fragment #2 Kor 5% 6.5% 7.5% Kor Pet Spawn Egg Kor 0.33% 0.429% 0.495% Empty Potion Bottle Wizard Lizard 150% 195% 225% Wizard Boss 1500% 1875% 2175% Blue Page Wizard Lizard 0.5% 0.65% 0.75% Wizard Boss 7.5% 9.75% 11.25% Green Page Wizard Lizard 0.5% 0.65% 0.75% Wizard Boss 7.5% 9.75% 11.25% Red Page Wizard Lizard 0.5% 0.65% 0.75% Wizard Boss 7.5% 9.75% 11.25% Tidal Spellbook Blueprint Wizard Lizard 0.025% 0.0325% 0.0375% Wizard Boss 0.375% 0.4875% 0.5625% Wizard Portal Shard Wizard Lizard 0.02% 0.026% 0.03% Wizard Boss Token Wizard Lizard 500% 650% 750% Lightning Scepter Wizard Boss 0.5% 0.65% 0.75% Mysterious Fragment #3 Wizard Boss 5% 6.5% 7.5% Wizard Boss Pet Spawn Egg Wizard Boss 0.33% 0.429% 0.495% Iron Skorp Scale Iron Skorp 150% 195% 225% Gold Skorp Scale Gold Skorp 150% 195% 225% Gold Skorp Claw Gold Skorp 30% 39% 45% Ruby Skorp Scale Ruby Skorp 150% 195% 225% Ruby Skorp Stinger Ruby Skorp 10% 13% 15% Vamp Bow Blueprint Iron Skorp 0.025% 0.0325% 0.0375% Gold Skorp 0.025% 0.0325% 0.0375% Ruby Skorp 0.025% 0.0325% 0.0375% Desert Portal Shard Iron Skorp 0.02% 0.026% 0.026% Gold Skorp 0.025% 0.0325% 0.0375% Ruby Skorp 0.05% 0.065% 0.075% Bhaa 0.25% 0.65% 0.75% Bhaa Token Iron Skorp 500% 650% 750% Gold Skorp 1000% 1300% 1500% Ruby Skorp 2500% 3250% 3750% Gold Ingot Bhaa 1500% 1950% 2250% Bandit 30% 39% 45% Magma Blob 60% 78% 90% Ruby Bhaa 10% 13% 15% Mysterious Fragment #4 Bhaa 5% 6.5% 7.5% Bhaa Pet Spawn Egg Bhaa 0.33% 0.429% 0.495% Coral / Sea Grass Angry Crab 500% 650% 750% Sand Angry Crab 100% 130% 150% Coconut Angry Crab 50% 65% 75% Bone Bandit 150% 195% 225% Bone Block Bandit 20% 26% 30% Crystallized Obsidian Bandit 1% 1.3% 1.5% Underworld Token Magma Blob 500% 650% 750% Opal Magma Blob 10% 13% 15% Obsidian Magma Blob 20% 26% 30% Magma Block Magma Blob 30% 39% 45% Infernal Dragon Egg Infernal Dragon 100% 130% 150% Fhanhorn's Flower Fhanhorn 250% 325% 375% Fhanhorn Pet Spawn Egg Fhanhorn 0.33% 0.429% 0.495% Chocolate Bar / Orange Candy / Lollipop Pump 150% N/A N/A Pump King 350% N/A N/A Skeleton 100% N/A N/A Armored Skeleton 200% N/A N/A Pumpkin Seeds Pump 10% N/A N/A Grand High Witch 300% N/A N/A The Witches Trophy Grand High Witch (first defeat) 100% N/A N/A Grand High Witch (subsequent defeats) 0% N/A N/A Cauldron Percival the Pumpkin King 100% N/A N/A Snow Snowman (mob) 550% 715% 825% Christmas Present 2021 Snowman (mob) 5% 6.5% 7.5% Blue Jukebox Disk Numerous mobs 0.35% 0.455% 0.525% Yellow Jukebox Disk Numerous mobs 0.35% 0.455% 0.525% Red Jukebox Disk Numerous mobs 0.35% 0.455% 0.525% Green Jukebox Disk Numerous mobs 0.01% 0.013% 0.015% Orange Jukebox Disk Numerous mobs 0.01% 0.013% 0.015% Purple Jukebox Disk Numerous mobs 0.01% 0.013% 0.015%
+
+History [ ]
+
+November 13, 2021 Added dragon rolls. Introduced where dragon rolls now cannot be sold to Petur . January 15, 2022 Changed the recipe to require 2 cut eels instead of 1. Dragon rolls now grant +30% reward luck when defeating mobs , up from 25%. Changed the description from "Eat for +25% reward luck defeating mobs." to "Eat for +30% reward luck in combat."
+
+Trivia [ ]
+
+Dragon rolls currently cannot be sold to Petur . Prior to January 15, 2022 , The reward luck in combat was +25% and the crafting recipe required 1 cut eel .

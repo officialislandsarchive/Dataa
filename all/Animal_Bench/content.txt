@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Animal_Bench
+
+----------------------------------------
+
+Animal Bench Type of block Solid block; Interactable Recipe 30 Oak Wood 5 Iron Ingot Crafted with Workbench Tier 1 Workbench Tier 2 Workbench tier 3 Best tool Luminous Transparent Description Craft items that help care for your animals. The animal bench is a crafting station used to craft blocks and items for barn animals.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Animal Bench 30 Oak Wood 5 Iron Ingot Workbench Tier 1 Workbench Tier 2 Workbench tier 3
+
+Breaking [ ]
+
+Animal Bench Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Crafting recipes [ ]
+
+Image Name Recipe Required skill Bucket 3 Iron Ingot None Animal Nametag 5 Bamboo 1 Ancient Slime String Level 14 Animal Care Wooden Trough 30 Pine Wood 3 Iron Ingot Level 4 Animal Care Metal Trough 40 Iron Ingot 1 Crystallized Iron Level 26 Animal Care Hay Bed 50 Wheat Level 11 Animal Care Shears 10 Iron Ingot 10 Oak Wood Level 21 Animal Care Cloth Loom 100 Pine Wood 25 Iron Ingot Level 24 Animal Care Scratching Post 1 Oak Fence 1 Ancient Slime String Level 24 Animal Care Industrial Milker 1 Medium Chest 2 Blue Sticky Gear 80 Iron Ingot Level 36 Animal Care Wool Vacuum 1 Pink Sticky Gear 1 Medium Chest 1 Gearbox Level 47 Animal Care Truffle Barrel 75 Maple Wood 25 Pine Wood Level 34 Animal Care Industrial Truffle Barrel 1 Truffle Barrel 1 Conveyor Belt 3 Blue Sticky Gear Level 48 Animal Care Mud Pile 20 Grass 2 Tall Grass 1 Black Truffle Level 37 Animal Care Nest 40 Wheat 20 Oak Plank Level 19 Animal Care Industrial Nest 1 Nest 1 Conveyor Belt 3 Blue Sticky Gear Level 45 Animal Care
+
+History [ ]
+
+October 3, 2020 Added animal benches. February 17, 2023 Animal benches can craft industrial truffle barrels . March 3, 2023 Animal benches can craft industrial nests .

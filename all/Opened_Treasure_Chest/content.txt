@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Opened_Treasure_Chest
+
+----------------------------------------
+
+Opened Treasure Chest Type of block Solid block; Interactable Best tool Luminous Transparent Description An empty treasure chest The opened treasure chest is a storage block that is obtained by opening a treasure chest .
+
+Obtaining [ ]
+
+Treasure chest [ ]
+
+After opening and collecting the rewarded item from a treasure chest , the chest will automatically become an opened treasure chest.
+
+Breaking [ ]
+
+Breaking any type of opened treasure chest will reward the normal opened treasure chest, regardless of island variation.
+
+Opened Treasure Chest Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Storage [ ]
+
+An opened treasure chest can hold 9 stacks of 60 items, adding up to a maximum of 540 items total.
+
+History [ ]
+
+July 17, 2021 Added opened treasure chests. October 18, 2021 Introduced a bug that caused opened treasure chests to constantly play the sound effect of being presented with an item from a treasure chest . December 10, 2021 Fixed a bug that caused opened treasure chests to constantly play the sound effect of being presented with an item from a treasure chest. December 29, 2021 Disabled manually placing items into opened treasure chests. January 2, 2022 Re-enabled manually placing items into opened treasure chests. January 3, 2022 Disabled manually placing items into opened treasure chests. Re-enabled manually placing items into opened treasure chests. January 4, 2022 Disabled manually placing items into opened treasure chests. January 6, 2022 Re-enabled manually placing items into opened treasure chests. April 16, 2022 Added opened Maple Island, Spirit Island, Slime Island, Buffalkor Island, Wizard Island, and Desert Island treasures. April 29, 2022 Renamed opened Maple Island, Spirit Island, Slime Island, Buffalkor Island, Wizard Island, and Desert Island treasures to opened Maple Isles, Spirit Island, Slime Island, Buffalkor Island, Wizard Island, and Desert Island treasure chests respectively. Breaking an opened Maple Isles, Spirit Island, Slime Island, Buffalkor Island, Wizard Island, or Desert Island treasure chest will now reward an opened treasure chest.

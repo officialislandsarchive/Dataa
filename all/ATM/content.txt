@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/ATM
+
+----------------------------------------
+
+ATM Steel Gold Diamond Type of block Solid block; Interactable Recipe Steel: 1 Pink Sticky Gear , 3 Blue Sticky Gear , 250 Steel Ingot , 25 Electrite Gold: 1 Pink Sticky Gear , 3 Blue Sticky Gear , 25 Gold Ingot , 25 Electrite Diamond: 1 Pink Sticky Gear , 3 Blue Sticky Gear , 5 Diamond , 25 Electrite Crafted with Workbench Tier 4 Best tool Luminous Transparent An ATM is a block that allows players to access their bank accounts without having to go to Rob . It comes in 3 variants: steel,  gold, and diamond.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Steel ATM 1 Pink Sticky Gear 3 Blue Sticky Gear 250 Steel Ingot 25 Electrite Workbench Tier 4 Gold ATM 1 Pink Sticky Gear 3 Blue Sticky Gear 25 Gold Ingot 25 Electrite Diamond ATM 1 Pink Sticky Gear 3 Blue Sticky Gear 5 Diamond 25 Electrite
+
+Breaking [ ]
+
+ATM Breaking Data Hardness 8 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 12 Stone 13 8 Iron 8 5 Gilded Steel 6 4 Diamond 4 3 Opal 4 2 Void Mattock 2
+
+History [ ]
+
+December 16, 2022 Added ATMs.

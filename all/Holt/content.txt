@@ -1,0 +1,57 @@
+Source: https://robloxislands.fandom.com/wiki/Holt
+
+----------------------------------------
+
+Holt Location None (Formerly Godzilla Island ) Purpose Giving Quests Holt was a villager located on Godzilla Island . He gave quests for players who joined the Godzilla team during the Godzilla vs. Kong event.
+
+Dialogue [ ]
+
+Note, the words in brackets () is not in the actual dialogue When first interacting with Holt
+
+Whoa, user ,  be careful! Take a look over the water.. it's Godzilla! ... I have some wonderful prizes if you can complete a few tasks around the city! View Quests There are some disruptive turrets along the coastline, can you disable all 3 of them? Also, I've been tracking Godzilla's movements.. can you locate 5 of his footprints from around the city? On it! Exit Join team #Godzilla Wonderful! Welcome to team #Godzilla. You can chat to show off your team! Thanks! Exit How powerful is Godzilla? As he appears in Godzilla vs. Kong, Godzilla has a breath energy yield of 3.15 x 1014 joules (10 to the 14th power)! When provoked, Godzilla's attack includes intense heat ray breath, a massive tail swipe and, thanks to the plates up and down his spine and tail, a dangerous dorsal slice. Wow Exit
+
+Quest Part 1 [ ]
+
+When the player hasn't finish 1 quest (Part 1)
+
+I have some wonderful prizes if you complete a few tasks around the city! View Quests Looks like you still need to find <Number> more footprints.. Also, you have to disable <Number> more turrets.. Keep at it! Ok Exit Join Team #Godzilla Wonderful! Welcome to team #Godzilla. You can chat to show off your team! Thanks! Exit How powerful is Godzilla? As he appears in Godzilla vs. Kong, Godzilla has a breath energy yield of 3.15 x 1014 joules (10 to the 14th power)! When provoked, Godzilla's attack includes intense heat ray breath, a massive tail swipe and, thanks to the plates up and down his spine and tail, a dangerous dorsal slice. Wow Exit
+
+When the player finished 1 quest (Part 1)
+
+I have some wonderful prizes if you complete a few tasks around the city! View Quests (Unfinished Quest:Footprint)Looks like you still need to find <Number> more footprints.. But nice work disabling all the turrets! Keep at it! (Unfisnished Quest:Turret)Great job finding those footprints! But you still need to disable <Number> more turrets.. Keep at it! Ok Exit Join Team #Godzilla Wonderful! Welcome to team #Godzilla. You can chat to show off your team! Thanks! Exit How powerful is Godzilla? As he appears in Godzilla vs. Kong, Godzilla has a breath energy yield of 3.15 x 1014 joules (10 to the 14th power)! When provoked, Godzilla's attack includes intense heat ray breath, a massive tail swipe and, thanks to the plates up and down his spine and tail, a dangerous dorsal slice. Wow Exit
+
+When the player finished all the quests. (Part 1)
+
+I have some wonderful prizes if you complete a few tasks around the city! View Quests Wow, you have no idea how much time you've saved me! As promised, here is your trophy. [Take Gift] I need a couple more things from you.. Would'ya like to do a couple more tasks? I have a powerful staff to give you if you can help Sure I need someone to take a look at godzilla from the skyline, would you like to do a obstacle course to the city's ceiling? Also, I noticed some rubble covering the road. If you can clear it out that would be wonderful. Will do! Exit Not now Exit Join Team #Godzilla Wonderful! Welcome to team #Godzilla. You can chat to show off your team! Thanks! Exit How powerful is Godzilla? As he appears in Godzilla vs. Kong, Godzilla has a breath energy yield of 3.15 x 1014 joules (10 to the 14th power)! When provoked, Godzilla's attack includes intense heat ray breath, a massive tail swipe and, thanks to the plates up and down his spine and tail, a dangerous dorsal slice. Wow Exit
+
+Quest Part 2 [ ]
+
+if the player has not finished one quest (Part 2)
+
+I have some wonderful prizes if you complete a few tasks around the city! View Quests Looks like you still need to reach the skyline.. Also you still need to clear out that large pile of rubble.. Keep at it! Ok Exit Join Team #Godzilla Wonderful! Welcome to team #Godzilla. You can chat to show off your team! Thanks! Exit How powerful is Godzilla? As he appears in Godzilla vs. Kong, Godzilla has a breath energy yield of 3.15 x 1014 joules (10 to the 14th power)! When provoked, Godzilla's attack includes intense heat ray breath, a massive tail swipe and, thanks to the plates up and down his spine and tail, a dangerous dorsal slice. Wow Exit
+
+If the player finished one quest (Part 2)
+
+I have some wonderful prizes if you complete a few tasks around the city! View Quests (Unfinished Quest:Obstacle)Great job getting that view! But you still need to clear out that large pile of rubble.. Keep at it! (Unfisnished Quest:Rubble)Looks like you still need to reach the skyline.. But wonderful job clearing that pile of rubble.. Keep at it! Ok Exit Join Team #Godzilla Wonderful! Welcome to team #Godzilla. You can chat to show off your team! Thanks! Exit How powerful is Godzilla? As he appears in Godzilla vs. Kong, Godzilla has a breath energy yield of 3.15 x 1014 joules (10 to the 14th power)! When provoked, Godzilla's attack includes intense heat ray breath, a massive tail swipe and, thanks to the plates up and down his spine and tail, a dangerous dorsal slice. Wow Exit
+
+If the player finished all the quests (Part 1 and Part 2)
+
+I have some wonderful prizes if you complete a few tasks around the city! View Quests You truly are a lifesaver! Use this staff in good health! [Take Gift] Exit Join Team #Godzilla Wonderful! Welcome to team #Godzilla. You can chat to show off your team! Thanks! Exit How powerful is Godzilla? As he appears in Godzilla vs. Kong, Godzilla has a breath energy yield of 3.15 x 1014 joules (10 to the 14th power)! When provoked, Godzilla's attack includes intense heat ray breath, a massive tail swipe and, thanks to the plates up and down his spine and tail, a dangerous dorsal slice. Wow Exit
+
+Quests [ ]
+
+Part 1 [ ]
+
+Disable 3 turrets Find 5 footprints left by Godzilla
+
+Rewards: Godzilla Trophy , access to part 2 [ ]
+
+Part 2 [ ]
+
+Clean the rubble Parkour to the top of the city
+
+Rewards: Staff of Godzilla , Godzilla Badge [ ]
+
+Trivia [ ]
+
+He uses the old Banker 's villager model. Although he looks like the Banker, he used Thomas' model in conversations, similar to Bosco .

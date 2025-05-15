@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Leaves_(block)
+
+----------------------------------------
+
+Leaves Leaves Maple Leaves Type of block Solid block Recipe Regular: 4 Leaves Maple: 4 Maple Leaves Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Leaves are decorative blocks crafted with leaves .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Leaves 4 Leaves Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Leaves 4 Maple Leaves Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Leaves Block Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+History [ ]
+
+October 9, 2021 Added leaves and maple leaves. January 8, 2022 Changed the texture for leaves.

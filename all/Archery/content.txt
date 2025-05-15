@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Archery
+
+----------------------------------------
+
+Archery Class Combat Base Stats +0.2 Bow DMG Unlocks Lowest Unlock LVL 10 Highest Unlock LVL 40 Archery is a skill that boosts bow damage and unlocks crafting recipes of bows. It can be leveled up by defeating mobs with a wooden shortbow , iron shortbow , ancient longbow , golden shortbow , azarathian longbow , or the reaper's crossbow . Every level-up increases bow damage by 0.2 HP.
+
+Roadmap [ ]
+
+Level Unlocks Level 10 Iron Shortbow Crafting Recipe Level 20 Iron Short Arrow Crafting Recipe Level 25 Ancient Longbow Crafting Recipe Stone Long Arrow Crafting Recipe Level 28 Iron Long Arrow Crafting Recipe Level 33 Steel Short Arrow Crafting Recipe Level 35 Golden Shortbow Crafting Recipe Level 37 Steel Long Arrow Crafting Recipe Level 40 Azarathian Longbow Crafting Recipe
+
+List of archery weapons [ ]
+
+Image Name Recipe Crafting station Required skill Shortbows Wooden Shortbow 75 Oak Wood Anvil None Iron Shortbow 30 Maple Wood 30 Iron Ingot 2 Ancient Slime String Anvil Level 10 Archery Golden Shortbow 40 Gold Ingot 4 Ruby 2 Ancient Slime String Anvil Level 35 Archery Longbows Ancient Longbow 100 Steel Ingot 100 Maple Wood 4 Ancient Slime String Anvil Level 25 Archery Azarathian Longbow 1 Ruby Skorp Stinger 70 Steel Ingot 20 Ruby Skorp Scale 5 Ancient Slime String Anvil Level 40 Archery Crossbows The Reaper's Crossbow N/A N/A N/A
+
+List of arrows [ ]
+
+Image Name Recipe Crafting station Required skill Small arrow Stone Short Arrow 2 Oak Wood 1 Stone Anvil None Iron Short Arrow 2 Maple Wood 1 Iron Ingot Anvil Level 20 Archery Steel Short Arrow 2 Maple Wood 1 Steel Ingot Anvil Level 33 Archery Large arrow Stone Long Arrow 4 Oak Wood 2 Stone Anvil Level 25 Archery Iron Long Arrow 4 Maple Wood 2 Iron Ingot Anvil Level 28 Archery Steel Long Arrow 4 Hickory Wood 2 Steel Ingot Anvil Level 37 Archery Bolt Long Crossbow Bolt 4 Steel Ingot Anvil None
+
+Trivia [ ]
+
+Prior to September 24, 2022 , it was 0.5 Bow DMG due to it being unbalanced.

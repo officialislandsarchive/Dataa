@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Gold_Slime_Mural
+
+----------------------------------------
+
+Gold Slime Mural 1 2 3 4 5 Type of block Solid block Best tool Luminous Transparent Description ???
+
+The golden slime mural is a mural that can be obtained by opening a dungeon chest . Not to be confused with normal slime murals which are obtained by buying them directly from Ivon for 1,200 dungeon coins each.
+
+Obtaining [ ]
+
+Dungeon Chest [ ]
+
+Opening a dungeon chest has a 7% chance of rewarding the golden slime mural, having a rarity of 'rare'.
+
+Breaking [ ]
+
+Gold Slime Mural Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+June 23, 2023 Added Golden Slime Murals.

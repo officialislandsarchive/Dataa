@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Flower_Pot_(Pottery_Bench)
+
+----------------------------------------
+
+Flower Pot V1 V2 V3 V4 Type of block Solid block; Interactable Recipe 20 Brick 1 Grass Crafted with Pottery Bench Best tool Luminous Transparent A flower pot is a block used for players to display a flower . There are four variants of flower pots that can be crafted in the pottery bench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Flower Pot 20 Brick 1 Grass Pottery Bench Flower Pot 20 Brick 1 Grass Pottery Bench Flower Pot 20 Brick 1 Grass Pottery Bench Flower Pot 20 Brick 1 Grass Pottery Bench
+
+Breaking [ ]
+
+Flower Pot Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Displaying [ ]
+
+Flower pots can be used to display one flower each as decoration. Interacting with a flower pot will allow the player to insert any flower inside. It will appear in the soil of the pot.
+
+History [ ]
+
+November 20, 2020 Added flower pots. December 29, 2021 Disabled the ability to manually place items into flower pots. January 2, 2022 Re-enabled the ability to manually place items into flower pots. January 3, 2022 Disabled the ability to manually place items into flower pots. Re-enabled the ability to manually place items into flower pots. January 4, 2022 Disabled the ability to manually place items into flower pots. January 6, 2022 Re-enabled the ability to manually place items into flower pots.

@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Lamp_Post
+
+----------------------------------------
+
+Lamp Post Type of block Solid block Recipe 10 Oak Plank 5 Coal 5 Iron Ingot Crafted with Lighting Station Best tool Luminous Transparent The lamp post is a decorative light-emitting block that can be crafted in a lighting station by players who own the gamepass .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Lamp posts can only be crafted by players who own its gamepass in a lighting station.
+
+Name Recipe Crafting station Gamepass required Lamp Post 10 Oak Plank 5 Coal 5 Iron Ingot Lighting Station
+
+Breaking [ ]
+
+Lamp Post Breaking Data Hardness 1.5 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 5 3 Stone 3 2 Iron 2 1 Gilded Steel 2 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+History [ ]
+
+May 17, 2020 Added lamp posts.
+
+Trivia [ ]
+
+Despite having a lantern hanging from it, the lamp post isn't directly crafted with any.

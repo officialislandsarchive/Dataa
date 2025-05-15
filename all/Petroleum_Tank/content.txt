@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Petroleum_Tank
+
+----------------------------------------
+
+Petroleum Tank Type of block Solid block Recipe 100 Glass Block 100 Steel Ingot Crafted with Workbench Tier 4 Best tool Luminous Transparent
+
+A petroleum tank is a block used to store petroleum fuel .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Petroleum Tank 100 Glass Block 100 Steel Ingot Workbench Tier 4
+
+Breaking [ ]
+
+Petroleum Tank Breaking Data Hardness 5 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 8 Wooden 15 8 Stone 8 5 Iron 5 4 Gilded Steel 4 3 Diamond 3 2 Opal 2 1 Void Mattock 1
+
+Usage [ ]
+
+Storing [ ]
+
+Petroleum tanks are used to store up to 300 units of petroleum . Petroleum can be inputted in through the pipe at the front and outputted through the pipe at the back, functioning similarly to the input/output chest .
+
+History [ ]
+
+August 15, 2021 Added petroleum tanks.

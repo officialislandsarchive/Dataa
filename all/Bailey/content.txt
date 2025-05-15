@@ -1,0 +1,83 @@
+Source: https://robloxislands.fandom.com/wiki/Bailey
+
+----------------------------------------
+
+Bailey Location Maple Isles Purpose Give the player quests Shop owner Occupation Maple Baker
+
+Bailey is an NPC who is located in the Maple Isles. She has a small shop and a 3-part questline, the final reward being entrance to the area beyond the gate where the wild turkeys are.
+
+Shop [ ]
+
+Image Item Action Price Pancakes Sell 120 coins Sweet Pancakes Sell 220 coins Berry Pancakes Sell 750 coins Cornucopia Bed Buy 10,000 coins Turkey Couch Buy 1,000 coins Maple Couch Buy 5,000 coins Vanilla Turkey Bean Bag Buy 500 coins Maple Turkey Bean Bag Buy 50,000 coins Chocolate Turkey Bean Bag Buy 5,000,000 coins
+
+Quests [ ]
+
+Part 1 [ ]
+
+Bailey greets the player and gives them a maple workbench and asks them to use it to produce 3 maple sap and bring them to her.
+
+Guide: Place the workbench on your island. Use it to craft a tree tap for 35 iron ingots . Then, travel to the hub and buy a maple sapling from Cletus . Afterwards, go back to your island and plant the sapling. Wait for it to grow. When the tree is fully matured, place the tap on it.
+
+After placing the tap you will immediately receive 1 maple sap. Through the course of a couple minutes, you will receive the rest of the tree sap you need, which you will then bring to Bailey.
+
+Part 2 [ ]
+
+Bailey teaches you how to make pancake dough and pancakes. She then requests you to bring her 5 cooked pancakes using your newfound cooking skill.
+
+Guide: Craft a cooking table using a workbench tier 2 or anything higher. This will allow you to make pancake dough with 9 wheat each. Make 5 pancake dough, totalling 45 wheat. Then, put the pancakes in a campfire , small furnace , industrial oven , or desert furnace . Fuel your chosen smelter and wait for them to cook. When your pancakes are finished, bring them to Bailey.
+
+Part 3 [ ]
+
+Bailey is pleased. She then teaches you to make sweet pancakes with your trusty cooking table. She also gives you some extremely valuable machinery to refine the sap you extracted from that maple tree. She then asks for 20 sweet pancakes , promising a great reward if you complete her task.
+
+Guide: First create 20 pancake dough, requiring 180 wheat total. After that, you must set to work using the machinery. It may be a bit confusing, but the machinery has wood tubes protruding from them, which act like pipes for sap and syrup. Connect the sap boiler to the tree tap you used for Part 1 of the questline. It will begin to boil the sap. Quickly connect the syrup bottler to it.
+
+Note: make sure to read where the input and output tubes are on the machinery.
+
+You can then wait for the syrup bottles to come out of the bottler. You can add industrial chest to the output conveyor belt of the syrup bottler to collect the syrup bottles so they dont fall on the floor. You will slowly but surely begin to gain maple syrup bottles. It will take approximately an hour to get 60 maple syrup bottles, the amount you need to make 20 sweet pancakes.
+
+When you finally have 60 maple syrup, cook your 20 pancake dough, then craft the sweet pancakes and bring them to Bailey .
+
+Alternative approach: Connect the sap boiler and the syrup bottler. Then, simply put the tap in.
+
+Final Reward [ ]
+
+Bailey will open the gate as she is sufficiently gratified. There is a whole new questline there with her cousin the berry farmer, Emma .
+
+Dialogue [ ]
+
+First interaction [ ]
+
+"Welcome the Maple Isles, user " >Hi "Do you know how to make maple syrup? My family has been making maple syrup for quite a long time! We loooove maple syrup! Let me teach you how to make it." >Ok "Here, take this maple workbench . My family and I will teach you the different recipes you can make with it" >[Take] Gives the maple workbench "To start, you should craft a tree tap. You can put that on a maple tree to get some sap. Bring me 3 maple sap and I will teach you more." >On it End
+
+During first quest [ ]
+
+She just repeats the final line
+
+Completing first quest [ ]
+
+"Wow, good job! You know, we could use another pancake chef around here. Here's a recipe for pancake dough, you can craft it in the Cooking Table ." >Neat "You can sell me any pancakes you make! We have a lot of mouths to feed !" >Okay Unlocks pancake dough recipe.
+
+During second quest [ ]
+
+TBD
+
+Completing second quest [ ]
+
+"Wow, these look excellent! You know what would make them tastier though? Some fresh maple syrup!" >Sounds good! "Here's a bunch of new recipes! With the Maple Workbench, you can make wood tubes . Use wood tubes to connect your tree tap to a boiler, which turns sap into syrup. You can then direct syrup into a syrup bottler . Then you'll have delicious syrup that's ready for pancakes!" >Got it Unlocks sweet pancakes recipe. Gives a sap boiler . Gives a syrup bottler .
+
+During third quest [ ]
+
+TBD
+
+Completing third quest [ ]
+
+"These pancakes look amazing! Hey, I opened the gate at the end of the bridge for you. You should visit my cousin Emma ! She's run into a bit of trouble with the turkeys ...maybe you could help her!" >Alright "Hey user , feel free to sell me any leftover pancakes!" >Maybe Later End >View Shop Opens Bailey's shop
+
+Following interactions [ ]
+
+"Hey user , feel free to sell me any leftover pancakes!" >Maybe Later End >View Shop Opens Bailey's shop
+
+History [ ]
+
+November 27, 2021 Added Bailey.

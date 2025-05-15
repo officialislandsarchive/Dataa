@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Greg%27s_Hammer
+
+----------------------------------------
+
+Greg's Hammer Type Tool Recipe 2 Enchanted Diamond 30 Steel Plate 20 Pine Wood Crafted with Workbench Tier 4 A Greg's hammer is a tool that breaks blocks in a 3x3 grid. It cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+To get its crafting recipe, players need to complete Master Breaker achievement .
+
+Name Recipe Crafting station Required skill Greg's Hammer 2 Enchanted Diamond 30 Steel Plate 20 Pine Wood Workbench Tier 4 None
+
+Usage [ ]
+
+Breaking blocks [ ]
+
+The Greg's hammer can be used to break blocks in a 3x3 grid.
+
+History [ ]
+
+February 17, 2023 Added Greg's hammers.
+
+Trivia [ ]
+
+The Greg's hammer shares the same crafting recipe as the Forge hammer .

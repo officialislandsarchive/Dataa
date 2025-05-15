@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Respawn_Block
+
+----------------------------------------
+
+Respawn Block Type of block Solid block; Interactable Recipe 10 Magma Block 5 Crystallized Obsidian 20 Obsidian Best tool Luminous Transparent Description Block that instantly resets a player back to spawn when making contact. The respawn block is a block that resets a player back to the spawn point of a player island when touched.
+
+Obtaining [ ]
+
+Name Recipe Crafting station Respawn Block 10 Magma Block 5 Crystallized Obsidian 20 Obsidian Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Respawn Block Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Void Isles Orb 10 Glass Block 20 Void Grass 30 Respawn Block 9 Amethyst Crystal Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Respawning [ ]
+
+Touching a respawn block will reset the player to the spawn location of the player island they are currently on.
+
+History [ ]
+
+July 2, 2022 Added void blocks. August 13, 2022 Renamed void blocks to "Respawn Block". Respawn blocks can now be used to craft Void Isles orbs .

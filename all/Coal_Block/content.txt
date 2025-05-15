@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Coal_Block
+
+----------------------------------------
+
+Coal Block Type of block Solid block Recipe 10 Coal Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent
+
+A coal block is a decorative block crafted with 10 coal . It cannot be turned back into coal once it has been crafted.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Coal Block 10 Coal Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Coal Block Breaking Data Hardness 2 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 6 Stone 4 4 Iron 2 2 Gilded Steel 2 2 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+History [ ]
+
+May 17, 2020 Added coal blocks. May 21, 2021 The texture for coal blocks has changed. December 16, 2022 Christmas present 2022s can now spawn on coal blocks.

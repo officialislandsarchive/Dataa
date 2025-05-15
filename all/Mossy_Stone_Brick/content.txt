@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Mossy_Stone_Brick
+
+----------------------------------------
+
+Mossy Stone Brick Type of block Solid block Recipe 4 Stone Brick 1 Tall Grass Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent
+
+Mossy stone bricks are stone bricks with moss growing on it.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station 4 Mossy Stone Brick 4 Stone Brick 1 Tall Grass Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Mossy Stone Brick Breaking Data Hardness 8 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 12 Stone 13 8 Iron 8 5 Gilded Steel 6 4 Diamond 4 3 Opal 4 2 Void Mattock 2
+
+History [ ]
+
+May 26, 2020 Added mossy stone bricks. July 16, 2022 Changed the texture of mossy stone bricks.

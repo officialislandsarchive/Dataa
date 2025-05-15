@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Achievements
+
+----------------------------------------
+
+Achievements are a feature in Islands introduced on January 20, 2023 . Completing achievements grant Achievement Points (AP) and sometimes give bonus rewards. The player's AP count determines their placement on the server leaderboard.
+
+List of achievements [ ]
+
+Events [ ]
+
+Achievement Description AP rewarded Bonus rewards Halloween Event 2022 Killed Zombie Cletus in the Halloween 2022 event 10 I'll keep my brains, thanks! Killed Zombie Cletus 25 times in the Halloween 2022 event 25 Christmas Event 2022 Complete a match of the snowball fight [sic] in the 2022 christmas event [sic] 10 Snowball Combatant Completed 25 snowball fight matches 25 Lunar Event 2023 Defeat the Lunar rabbit [sic] in the 2023 Lunar event 10 1x Gold Envelope 2023 It's just a harmless bunny... Defeat the Lunar Rabbit in the Lunar 2023 event 6 times 25 3x Gold Envelope 2023 Year of the Rabbit Collect all of the Rabbit-related event items 1x Lunar Rabbit Statue 1x Lunar Rabbit Plushie 1x Lunar Rabbit Banner 50 3x Gold Envelope 2023 A Spooky Collection Collect both the Wrath Plushies and Pet Egg event items Wraith Boss Plushie Render 2000x2000.png 3x Wraith Boss Plushie Cat Pet Spawn Egg Render 2000x2000.png 1x Cat Pet Spawn Egg 50 250x Haunted Mansion Event Ticket The Wicked Wraith Kill The Wraith Boss 20 times! 50 150x Haunted Mansion Event Ticket Mansion Mayhem! Participate in the Haunted Mansion Event 20 times 25 150x Haunted Mansion Event Ticket
+
+Levelling [ ]
+
+Achievement Description AP rewarded Bonus rewards Master of Fishing Reach Level 100 Fishing 50 1x Master of Fishing Medal Master of Farming Reach Level 100 Farming 1x Master of Farming Medal Master of Forging Reach Level 100 Forging 1x Master of Forging Medal Master of Combat Reach Level 100 Combat 1x Master of Combat Medal Master of Light Weapons Reach Level 100 Light Melee 1x Master of Light Melee Medal Master of Heavy Weapons Reach Level 100 Heavy Melee 1x Master of Heavy Melee Medal Master of Magic Reach Level 100 Magic 1x Master of Magic Medal Mastery of Archery Reach Level 100 Archery 1x Master of Archery Medal Mastery of Mining Reach Level 100 Mining 1x Master of Mining Medal Mastery of Woodcutting Reach Level 100 Woodcutting 1x Master of Woodcutting Medal Master of Economy Reach Level 100 Economy 1x Master of Economy Medal Master of Cooking Reach Level 100 Cooking 1x Master of Cooking Medal Master of Animals Reach Level 100 Animal Care 1x Master of Animal Husbandry Medal Adept Fishing Reach Level 50 Fishing 20 Adept Farmer Reach Level 50 Farming Adept Forging Reach Level 50 Forging Adept Combat Reach Level 50 Combat Adept Light Melee Reach Level 50 Light Melee Adept Heavy Melee Reach Level 50 Heavy Melee Adept Magic Reach Level 50 Magic Adept Archery Reach Level 50 Archery Adept Mining Reach Level 50 Mining Adept Woodcutter Reach Level 50 Woodcutting Adept Economy Reach Level 50 Economy Adept Cooking Reach Level 50 Cooking Adept Animal Care Reach Level 50 Animal Care Practice makes perfect Reach level 100 for any level on islands [sic] 10 1x Single Medal Display Stand
+
+Activities [ ]
+
+Achievement Description AP rewarded Bonus rewards Master Breaker Break 50k blocks 100 Unlocks crafting recipe for Greg's Hammer . Master Harvester Harvest 75k crops Unlocks crafting recipe for crystalline plows . Master Builder Place 50k blocks Unlocks crafting recipe for forge hammers . Journeyman Harvester Harvest 50k crops 50 Journeyman Breaker Break 25k blocks Journeyman Builder Place 25k blocks Journeyman Harvester Harvest 25k crops 25 Journeyman Breaker Break 10k blocks Journeyman Builder Build 10k blocks Novice Breaker Break 5k blocks 10 Novice Harvester Harvest 10k crops Novice Builder Build 5k blocks
+
+Trivia [ ]
+
+Harvester achievements are incorrectly spelled as "cropsHarvested x [amount needed to earn the achievement]".

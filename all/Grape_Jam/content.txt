@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Grape_Jam
+
+----------------------------------------
+
+Grape Jam Recipe 2 Grape Crafted with Cooking Table Food Processor Heals 10 HP Sell price 80 - 120 coins Hot sell price 120 - 180 coins Required skill Level 45 Cooking Description Gooey. Grape jam is a food item.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Grape Jam 2 Grape Cooking Table Food Processor Level 45 Cooking
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Jam Sandwich 4 Grape Jam 8 Bread Cooking Table Food Processor Level 55 Cooking
+
+Eating [ ]
+
+Eating grape jam restores 10 HP.
+
+Selling [ ]
+
+Grape jam can be sold to Petur for 80 - 120 coins each, or 120 - 180 coins if grape jam is a hot offer.
+
+History [ ]
+
+May 10, 2020 Added grape jam. May 17, 2020 Grape jam is now edible. August 30, 2020 Changed the model for grape jam. January 22, 2021 Level 45 Cooking is now required to craft grape jam. November 13, 2021 4 grape jam are now required to craft jam sandwiches , up from 1. January 8, 2022 Changed the base selling price from 100 coins to 120 - 180 coins. January 15, 2022 Changed the base selling price from 120 - 180 coins to 80 - 120 coins.
+
+Trivia [ ]
+
+Despite using two grapes to craft grape jam, it only heals the same amount as one grape.

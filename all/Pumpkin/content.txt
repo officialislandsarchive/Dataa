@@ -1,0 +1,55 @@
+Source: https://robloxislands.fandom.com/wiki/Pumpkin
+
+----------------------------------------
+
+Pumpkin Seed cost 1,040 coins Planted on Farmland Sell price 58 coins Description A big pumpkin grown in fall season Edible A pumpkin is a placeable crop that grows on farmland from pumpkin seeds .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting a pumpkin plant yields 1 - 3 pumpkins, 1 pumpkin seed , and 5 Farming XP (21 XP with the 4x daily bonus). The chance of obtaining more than one pumpkin per plant is increased by the player's Farming level and for owners of the VIP gamepass . Extra pumpkin seeds cannot be yielded.
+
+Totems [ ]
+
+A pumpkin totem will collect and replant pumpkins in a 3-block radius, which can then be collected by interacting it. A pumpkin totem placed next to a conveyor belt will drop the pumpkins onto the conveyor. This process cannot yield extra pumpkin seeds.
+
+Cauldron [ ]
+
+Opening a cauldron has a 10% chance of rewarding 1 - 25 pumpkins, having a rarity of 'common'.
+
+Breaking [ ]
+
+Pumpkin Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Growth [ ]
+
+The growth time of pumpkins can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Pumpkin Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 45s 3m 30s 5m 10s Note: The durations of time above are on an unfertilized and unwatered plant Pumpkin Growth Time Type Growth Time Normal 5m 10s Fertilized 4m 8s Watered 4m 8s Watered + Fertilized 3m 37s
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Players could craft jack o' lanterns with pumpkins during the Halloween 2020 event.
+
+Image Name Recipe Crafting station Before November 1, 2020 Jack O' Lantern 1 Pumpkin 1 Torch Workbench Tier 1 Workbench Tier 2 Workbench Tier 3
+
+Crate-packing [ ]
+
+Image Name Recipe Crafting station Crate of Pumpkins 100 Pumpkin Crate Packer Large Crate of Pumpkins 250 Pumpkin Tier 2 Crate Packer
+
+Selling [ ]
+
+Pumpkins can be sold to Cletus for 58 coins each during the fall on the player's island .
+
+History [ ]
+
+October 16, 2020 Added pumpkins. November 1, 2020 Pumpkins can no longer be used to craft jack o' lanterns . ? Pumpkins can no longer be sold to Tom for 10 coins each. January 22, 2021 Pumpkins now grant 5 Farming XP when harvested. March 13, 2021 Pumpkins can now be sold to Cletus during fall on the player's island for 50 coins. Changed the description from "A limited edition crop found during Halloween." to "A big pumpkin grown in fall season". May 21, 2021 Pumpkins can now be harvested by pumpkin totems . June 4, 2021 Pumpkins can now be packed into crates of pumpkins . July 23, 2021 Increased the sell price from 50 coins to 52 coins. August 15, 2021 Pumpkins can now be packed into large crates of pumpkins . October 18, 2021 Pumpkin crops can now be obtained from cauldrons . Fixed a bug causing pumpkin crops to be obtained from cauldrons instead of harvested pumpkins. October 15, 2022 Pumpkins can now be sold to Tom instead of Cletus . November 4, 2022 Increased the sell price from 52 coins to 58 coins.
+
+Trivia [ ]
+
+Despite being a seasonal crop, pumpkins can grow in any season . Despite the pumpkin being a complete block, the jack o' lantern has cut corners. This is the first block obtainable from a crop, the second being the watermelon . When the cauldron was first released, the un-grown pumpkin crop could be obtained instead of the harvested pumpkin. This was later patched and cauldrons give the normal harvested pumpkin instead. The glitched pumpkin's icon is the pumpkin seed when it is placed on the ground. It can be planted on any type of block to be grown into a pumpkin.
+
+Gallery [ ]

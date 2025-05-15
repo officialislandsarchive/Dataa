@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Oscar
+
+----------------------------------------
+
+Oscar Location Fishing Festival Island Purpose Exchanging tickets for prizes Occupation Ticket Prizes Oscar is a villager located on Fishing Festival Island , he can no longer be accessed since the Fishing Festival has ended. Players could exchange their tickets for various prizes from him.
+
+Prizes [ ]
+
+Sea tickets were obtained by participating in the fishing contest on the Fishing Festival Island .
+
+Image Name Cost Fish Banner 14 Tickets Tidal Aquarium 64 Tickets Fish Festival Trophy 450 Tickets
+
+Dialogue [ ]
+
+"Got tickets? I have prizes from across the seas!" >Redeem Tickets Opens shop. >Tickets? "Talk to my buddy Thomas.. he's giving out tickets to the best fisherfolk!" >Okay! End.
+
+Trivia [ ]
+
+Oscar shares his model with Thomas , the fisherman.

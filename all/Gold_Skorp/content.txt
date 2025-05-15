@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Gold_Skorp
+
+----------------------------------------
+
+Gold Skorp Health 800 HP Behavior Hostile Attack strength 30 HP Effect Food Poison Drops Gold Skorp Scale Gold Skorp Claw Desert Portal Shard Bhaa Token Jukebox Disk Location Desert Island The gold skorp is a hostile mob that spawns on Desert Island along with iron skorps and ruby skorps .
+
+Spawning [ ]
+
+Desert Island [ ]
+
+Gold skorps spawn on the outskirts of Desert Island 's central island and are the second-most common type of skorp , with a 20% chance to spawn.
+
+Bhaa [ ]
+
+Bhaa will summon a gold skorp in quick succession after summoning an iron skorp if a sufficient number of players are simultaneously fighting him.
+
+Behavior [ ]
+
+Gold skorps attack quick, close ranged attacks that deal 30 HP of damage and inflict the Food Poison effect to the player if hit, which prevents the player from consuming food for 7 - 10 seconds. Regen potions and healing weapons can still be used to regenerate a player's health while having the Food Poison effect.
+
+Drops [ ]
+
+A gold skorp rewards 87 Combat XP (348 with the 4x daily bonus) and 87 Light Melee , Heavy Melee , Magic , or Archery XP (348 with the 4x daily bonus) depending on the weapon the player used to defeat it.
+
+Image Item Drop chance Gold Skorp Scale 150% Gold Skorp Claw 30% Desert Portal Shard 0.025% Bhaa Token 1000% Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Resistances and Weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical None Storm Slashing Quake
+
+Trivia [ ]
+
+Out of the three variants of skorps, gold skorps deal the lowest damage and are the slowest among them despite being the second-rarest.

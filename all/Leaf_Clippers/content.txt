@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Leaf_Clippers
+
+----------------------------------------
+
+Leaf Clippers Type Tool Recipe 10 Iron Ingot Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Floral Bench Description Trim trees for leaves. Leaf clippers are a tool that are used to harvest leaves from trees .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Leaf Clippers 10 Iron Ingot Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Floral Bench
+
+Usage [ ]
+
+To use leaf clippers, simply click on a tree. Maple trees will yield 2 maple leaves , and any other tree will yield 2 leaves. A tree can only be harvested once per 2 minutes.
+
+History [ ]
+
+May 4, 2020 Added leaf clippers. October 9, 2021 Leaf clippers can now be crafted in the workbench tier 1 , workbench tier 2 , workbench tier 3 , and workbench tier 4 .
+
+Trivia [ ]
+
+Leaf clippers used to only have been able to be crafted in the floral bench , being the only tool that required a gamepass to obtain. Despite being unique species, pine , hickory , birch , and spirit trees all give normal leaves when harvested with leaf clippers. The leaf clippers shown on the floral bench have red plastic handles, yet the leaf clippers have wood-colored handles instead when held or shown in any other form.
+
+Gallery [ ]

@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Yak_Milk_Bucket
+
+----------------------------------------
+
+Yak Milk Bucket Sell price 360 coins A yak milk bucket is an item obtained from yaks .
+
+Obtaining [ ]
+
+Milking [ ]
+
+Yak milk buckets are produced by milking a yak with an empty bucket . The process can be automated by using an industrial milker . There is a limit of 2k one can keep in their inventory.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Bhutan Butter Tea 2 Yak Butter 1 Yak Milk Bucket 1 Water Bucket Cooking Table Food Processor Level 49 Cooking
+
+Transforming [ ]
+
+Yak milk buckets can be transformed into yak butter in a churner . It takes a total of 3 minutes and 30 seconds to fully transform a yak milk bucket into butter.
+
+Input Item transformer Output 1 Yak Milk Bucket ➡ Churner ➡ 1 Yak Butter
+
+Selling [ ]
+
+Yak milk buckets can be sold to Taliyah for 360 coins each.
+
+History [ ]
+
+March 25, 2022 Added yak milk buckets. April 10, 2022 Yak milk buckets can now be obtained by milking yaks with an empty bucket .

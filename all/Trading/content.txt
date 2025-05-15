@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Trading
+
+----------------------------------------
+
+Trading is a mechanic introduced in the August 28, 2021 update with the idea of players having a more sufficient way of trading items.
+
+Trading [ ]
+
+In order to unlock the ability to trade, the player must have an average skill level of 30. This means needing a total skill level of 390 (combined in every category).
+
+To trade, click the shake hands icon on the left and press "F" or tap near another player. Receiving trade requests does not require trade mode to be enabled. If the other player accepts, they will be prompted with the trading GUI. They can either choose to put 1, 5 or 10 items in their offer slots. If a player wanted to add a specific amount of items they can do so by clicking the three dots to add however many items they want. Once both players accept the trade, the items they offered will be transferred into each players inventory and they will own the traded items.
+
+Disabling [ ]
+
+Clicking the shake hands icon after clicking it once disables trading. This only disables the player's ability to send trade requests to other players. The player can always re-enable trading.
+
+Untradable items [ ]
+
+Trade Disabled History [ ]
+
+From December 29, 2021 to January 6, 2022, trading was disabled due to a duplication exploit . It was temporarily re-enabled on January 2, 2022 and January 3, 2022 before being disabled again.
+
+On October 5, 2022 , trading was temporarily disabled for a few hours due to a supposed duplication exploit.
+
+From May 6, 2023 to May 8, 2023, trading was temporarily disabled due to another duplication exploit. No items were wiped.
+
+Trivia [ ]
+
+Prior to the April 9, 2022 update, inserting a specific number of an item would be blocked by the item's tool tip. This has now been fixed. When trading was disabled, storage systems such as chests were disabled as well.

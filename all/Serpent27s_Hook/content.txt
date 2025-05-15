@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Serpent%27s_Hook
+
+----------------------------------------
+
+Serpent's Hook Type Light Melee Physical class Slashing Magical class Void Attack damage 55 HP (Base) +28 HP (Critical) 14 HP (Spin) Recipe 3 Serpent's Fang 30 Amethyst Crystal 100 Iron Ingot 5 Gilded Steel Rod Crafted with Anvil Required skill Level 68 Light Melee Description A rapid style blade forged from the Serpent's fang! The serpent's hook is a light melee weapon in the slashing and void classes.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Serpent's Hook 3 Serpent's Fang 30 Amethyst Crystal 100 Iron Ingot 5 Gilded Steel Rod Anvil Level 68 Light Melee
+
+Attacking [ ]
+
+At level 1 Light Melee , the serpent's hook deals a base damage of 55 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 28 HP of damage. Its damage can be increased by leveling up the Light Melee skill and it is in the slashing and void classes.
+
+Like other melee weapon , only one player can hit damage in each hostile mob. Multiple players cannot hit damage together.
+
+Spinning [ ]
+
+Holding down while the serpent's hook is equipped will cause it to do a spin attack, dealing 14 HP of damage and hits twice per second but cannot deal critical hits . Its damage can be increased by leveling up the Light Melee skill.
+
+History [ ]
+
+August 13, 2022 Added serpent's hooks. September 17, 2022 Serpent's hooks are now a slashing weapon. September 24, 2022 Serpent's hooks are now a void weapon. October 1, 2022 Level 68 Light Melee is now required to craft serpent's hooks instead of level 68 Combat . October 8, 2022 Serpent's hooks now weaken attacks from hostile mobs whenever the mobs are attacked.
+
+Trivia [ ]
+
+It is also one of the only weapons with a physical and magical classification, with the others being the frost hammer , the frost sword , the infernal hammer , the trout's fury , the reaper's scythe , and the jolly dagger . If the mob has a weakness or resistance to both of its classification, then the damage multiplier will be either higher or lower than normal. While if the mob has a weakness and resistance to each of its classification, then neutral damage will apply.

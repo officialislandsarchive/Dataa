@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Combiner
+
+----------------------------------------
+
+Combiner Type of block Solid block; Electrical Recipe 3 Iron Ingot 25 Electrite Crafted with Electrical Workbench (Level 2) Best tool Luminous Transparent The combiner is an electrical component that can be crafted in a level 2 electrical workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Combiners can be crafted in an electrical workbench that has been upgraded to level 2.
+
+Name Recipe Crafting station Combiner 8 Iron Ingot 25 Electrite Level 2 Electrical Workbench
+
+Breaking [ ]
+
+Combiner Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+The combiner is used for combining two electrical outputs into one, making a bigger power output. It only needs one input to be on to work. This is good if a big chain of electrical components is needed while having one line of wires.
+
+It is sometimes confused with AND gate , which needs BOTH inputs to be on to work, and is the opposite of the splitter .
+
+History [ ]
+
+December 11, 2020 Added combiners.

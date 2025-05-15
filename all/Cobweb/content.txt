@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Cobweb
+
+----------------------------------------
+
+Cobweb Type of block Solid block Best tool Luminous Transparent A cobweb is a furniture block that has a chance to be obtained from cauldrons .
+
+Obtaining [ ]
+
+Cauldron [ ]
+
+Opening a cauldron has a 10% chance of rewarding 6 cobwebs, having a rarity of 'common'.
+
+Breaking [ ]
+
+Cobweb Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+October 18, 2021 Added cobwebs.

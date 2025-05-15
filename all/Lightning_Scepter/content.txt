@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Lightning_Scepter
+
+----------------------------------------
+
+Lightning Scepter Type Magic weapon Magical class Storm Magic weapon type Staff Attack damage 6 HP Dropped by Wizard Boss Description Found by defeating the wizard boss on the wizard island The lightning scepter is a magic weapon added in the April 4, 2021 update. It's dropped by the Wizard Boss on Wizard Island with a 0.5% chance. This weapon is in the storm class.
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+The lightning scepter has a 0.5% chance of being dropped by the Wizard Boss .
+
+Behavior [ ]
+
+The lightning scepter is a magic weapon, instead of firing a slow moving ball projectile like other magic weapon, the lightning sceptre fires arcs of lightning which travel much faster and is even comparable to arrows in travel speed, a single bolt can deal damage to the same target multiple times if the hitboxes collide long enough and can hit multiple targets, it deals knockback, and click to use. The range of a lightning scepter is 5-6 blocks. It is in the storm class.
+
+Attacking [ ]
+
+Item Base Damage DPS (regular) Type Lightning Scepter 6 HP ? HP Magic
+
+History [ ]
+
+April 7, 2021 Added Staff of Lightning, however it was unimplemented as of then. April 10, 2021 Renamed the "Staff of Lightning" to the "Static Scepter", and added it as a drop from the Wizard Boss . September 11, 2021 Fixed a bug that prevented players from moving when using a static scepter. Changed the drop chance from 3% to 0.5%. December 10, 2021 Fixed a bug that caused the static scepters to spawn multiple arcs of lightning. April 22, 2022 The static scepters can now be placed in tool stands . ? Correctly fixed the bug that caused the static scepter to spawn multiple arcs of lightning. September 17, 2022 Buffed the static scepter's damage from 2 to 8 HP. The static scepters are now in the storm class. September 24, 2022 Nerfed the static scepter's damage from 8 to 5 HP. Modified the static scepter’s hit register. November 11, 2022 Renamed the "Static Scepter" to the "Lightning Scepter". The lightning scepter is changed from firing continuously to a single bolt being fired from the staff, making it more similar to other magic weapons .
+
+Trivia [ ]
+
+The hitboxes of this weapon aren't accurate. The lightning scepter wasn't released with most of the other content in the April 4, 2021 update. Instead, it was released in a minor update 3 days later. It was originally called the Staff of Lightning and the Static Scepter. This is the first ranged weapon with the ability to deal critical hits. There used to be a bug in which players could not move while using the lightning scepter. This has since been patched. This weapon was tied for the lowest damage per hit in the game with the maple shield before the remake on November 11, 2022 . The lightning scepter was used to be the fastest attacking weapon above the rageblade before the remake on November 11, 2022 . It is the first weapon that can be directly dropped from a mob , and the first weapon to be dropped from a boss . The Wizard Boss’s static attack is similar to this weapon's original attack, the only difference being the color of the rays (Light blue/cyan).
+
+Gallery [ ]

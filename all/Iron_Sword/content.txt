@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Iron_Sword
+
+----------------------------------------
+
+Iron Sword Type Light Melee Physical class Slashing Attack damage 22 HP (Base) +11 HP (Critical) Recipe 40 Iron Ingot 10 Oak Wood Crafted with Anvil The iron sword is a light melee weapon in the slashing class.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Iron Sword 40 Iron Ingot 10 Oak Wood Anvil
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Castle Shield 20 Iron Ingot 1 Purple Flower 5 Coal 1 Iron Sword Furniture Workbench Horse Shield 20 Iron Ingot 15 Coal 2 Iron Sword Furniture Workbench King's Shield 20 Iron Ingot 10 Gold Ingot 1 Iron Sword Furniture Workbench Sword in Stone 2 Stone 1 Iron Sword Furniture Workbench
+
+Attacking [ ]
+
+At level 1 Light Melee , the iron sword deals a base damage of 22 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 11 HP of damage. Its damage can be increased by leveling up the Light Melee skill and it is in the slashing class.
+
+History [ ]
+
+July 9, 2021 Added iron swords. March 12, 2022 Iron swords can now be used to craft castle shields , horse shields , king's shields , and sword in stones . April 1, 2022 1 iron sword is now required to craft king's shields, down from 10. September 17, 2022 Iron swords are now a slashing weapon.

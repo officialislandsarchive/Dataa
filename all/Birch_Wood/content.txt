@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Birch_Wood
+
+----------------------------------------
+
+Birch Wood Current Old Type of block Solid block Sell price 7 coins Best tool Luminous Transparent Birch wood is a block that can be obtained from cutting down birch trees .
+
+Obtaining [ ]
+
+Cutting [ ]
+
+Cutting down a birch tree will drop 3 - 4 birch wood along with a birch sapling .
+
+Breaking [ ]
+
+Birch Wood Breaking Data Hardness 8 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 12 24 Stone 8 13 Iron 5 8 Gilded Steel 4 6 Diamond 3 4 Opal 2 4 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Birch Sign 3 Birch Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Trap Door Birch 5 Birch Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Composter 30 Birch Wood 10 Stone Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 14 Farming Trellis 30 Birch Wood 1 Tall Grass Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 35 Farming Honey Press 30 Birch Wood 50 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 6 Animal Care Cheesemaker 30 Birch Wood 50 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 10 Animal Care Churner 45 Birch Wood 50 Iron Ingot Workbench Tier 3 Workbench Tier 4 Level 18 Animal Care '70s Baby Blue Cabinet 30 Birch Wood 1 Blue Flower Furniture Workbench None '70s Chair 30 Birch Wood 1 Yellow Flower Furniture Workbench None '70s Lime Table 30 Birch Wood 1 Tall Grass Furniture Workbench None '70s Single Bed 30 Birch Wood 3 Yellow Flower Furniture Workbench None Beach Chair 15 Birch Wood Furniture Workbench None Beach Table 30 Birch Wood Furniture Workbench None Modern Bottom Cabinet 10 Birch Wood Furniture Workbench None Modern Top Cabinet 10 Birch Wood Furniture Workbench None Pink Lounge Chair 10 Birch Wood 1 Cloth 3 Pink Wool Furniture Workbench None Pink Sofa 10 Birch Wood 2 Cloth 5 Pink Wool Furniture Workbench None Pink Stool 5 Birch Wood 1 Pink Wool Furniture Workbench None Medieval Bookshelf 30 Pine Wood 30 Birch Wood Furniture Workbench None Hourglass 2 Glass Block 5 Birch Wood 5 Sand Furniture Workbench None Knight Lamp Drawer 1 Coal 4 Birch Wood Furniture Workbench None
+
+Planks [ ]
+
+Putting birch wood inside a sawmill or an industrial sawmill will turn it into 4 birch planks .
+
+Input Item transformer Output 1 Birch Wood ➡ Sawmill ➡ 4 Birch Plank ➡ Industrial Sawmill ➡
+
+Fueling [ ]
+
+Birch wood can be used to fuel campfires , small furnaces , or desert furnaces . The fuel lasts for about 20 seconds.
+
+Selling [ ]
+
+Birch wood can be sold to John for 7 coins .
+
+Trivia [ ]
+
+Before the July 4, 2020 update, birch wood wasn't a placeable block ; it was just an item .

@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Wooden_Chair
+
+----------------------------------------
+
+Wooden Chair Type of block Solid block; Seat Recipe 20 Oak Wood Crafted with Furniture Workbench Best tool Luminous Transparent The wooden chair is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Wooden Chair 20 Oak Wood Furniture Workbench
+
+Breaking [ ]
+
+Wooden Chair Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+Usage [ ]
+
+Sitting [ ]
+
+The wooden chair has a seat, which means players, mobs , and villagers are able to sit in the chair.
+
+History [ ]
+
+May 31, 2020 Added wooden chairs.

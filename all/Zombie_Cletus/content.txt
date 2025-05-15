@@ -1,0 +1,63 @@
+Source: https://robloxislands.fandom.com/wiki/Zombie_Cletus
+
+----------------------------------------
+
+Zombie Cletus Health 30,000 HP Behavior Hostile Attack strength 36 (Hand Strike) 36 (Rock Hurl) 36 (Boulder Throw} 10 (Smoke Pout) Drops Cauldron Spider Pet Spawn Egg Zombie Cletus Token Jukebox Disk Location Hub Zombie Cletus was a boss that could have been summoned in the Hub during the 2022 Halloween event . He has 30 minutes summon cooldown and can be summoned without any Combat level requirement.
+
+Description [ ]
+
+Zombie Cletus was a moderately fast boss who specialized in heavy-hitting attacks. He had 30,000 health and could have been summoned in the Hub next to the mountains. He could have been summoned once every 30 minutes without any Combat level requirement. However, the cooldown could have been bypassed using at least 500 Zombie Cletus tokens .
+
+Like other bosses , if there are no players in the battle area, Zombie Cletus will despawn and the player will have to wait another 30 minutes or use at least 500 Zombie Cletus tokens before being able to fight him again.
+
+Attacks [ ]
+
+Hand Strike [ ]
+
+Zombie Cletus uses his hand to hit the players in front of him. He will do 36 damage and deal moderate knockback.
+
+Rock Hurl [ ]
+
+Zombie Cletus will target the furthest players from him and then stomp the ground and hurl rocks towards them, dealing 36 damage and moderate knockback if the rocks hit any players.
+
+Boulder Throw [ ]
+
+Zombie Cletus throws a boulder at a player, dealing 36 damage and extremely large knockback, and dismount their mounts to any player who makes contact with the boulder. Players can be damaged multiple times by the boulder.
+
+Roar [ ]
+
+Zombie Cletus will roar, which will summon green void smoke in the direction that he is facing. The void smoke damages players for 10 HP every second for 10 seconds.
+
+Summon [ ]
+
+Zombie Cletus will summon 1 - 7 spider candles in proportion to how many players are in the arena.
+
+Drops [ ]
+
+Zombie Cletus rewarded 759 Combat XP (3039 with the 4x daily bonus) and 759 Light Melee , Heavy Melee , Magic , or Archery XP (3039 with the 4x daily bonus) depending on the weapon the player used to defeat him.
+
+Only a certain number of players will receive drops if too many players are simultaneously fighting him. However, all players will still receive XP.
+
+Image Name Drop chance Cauldron 100% Spider Pet Spawn Egg 0.33% Zombie Cletus Token [ 1 ] 100 - 300 Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Purple Jukebox Disk 0.01% Orange Jukebox Disk 0.01%
+
+Damage reduction [ ]
+
+Zombie Cletus reduces the amount of damage dealt to him by 10% to 55% depending on the number of players (compounds) in the arena.
+
+Number of players Damage reduction 1 0% 2 10% 3 25% 4 35% 5 45% 6+ 55%
+
+Resistances and Weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical Striking Hydro , Void Piercing Inferno , Ethereal
+
+Bugs and glitches [ ]
+
+Players may sometimes get stuck inside of the boulder, causing them to continuously get damaged until they die. The boulder may sometimes launch players extremely far, sometimes causing players to land on Slime Island if they're facing the island.
+
+History [ ]
+
+October 15, 2022 Added Zombie Cletus. October 16, 2022 Buffed Zombie Cletus' health and attack damage. October 22, 2022 Zombie Cletus can now drop spider pet spawn eggs . Zombie Cletus can now spawn spider candles . November 4, 2022 Zombie Cletus can no longer be spawned. Removed Zombie Cletus from the combat catalogue .
+
+Trivia [ ]
+
+The interface to summon Zombie Cletus had the text, "Pay respects to Cletus," which was a reference to the Press F to pay respects meme. Zombie Cletus, the Slime King , Percival the Pumpkin King , Fhanhorn , the Lunar Rabbit , and Draven are the only bosses that can be summoned without any Combat level requirement. He was the second boss that dropped his own token upon defeat, the first being the Void Serpent . Zombie Cletus shares the same magical resistances and weaknesses as bandits . Zombie Cletus was the first and only event boss that has a summon cooldown. Contrastingly, this summon cooldown can be bypassed with at least 500 tokens .

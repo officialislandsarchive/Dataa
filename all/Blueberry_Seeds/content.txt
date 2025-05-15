@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Blueberry_Seeds
+
+----------------------------------------
+
+Blueberry Seeds Planted on Grass Buy cost 1,500 coins Blueberry seeds are seeds used to grow blueberries .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Blueberry seeds can be purchased from Cletus during fall on the player's island , selling one for 1,500 coins . Players can only purchase 2 seeds before Cletus has to restock.
+
+Harvesting [ ]
+
+Harvesting a blueberry bush will give 1 - 2 blueberries and a 1% chance of getting a blueberry seed.
+
+Usage [ ]
+
+Planting [ ]
+
+Blueberry seeds can be planted on grass to be grown into a blueberry bush.
+
+Growth [ ]
+
+A blueberry bush grows through three stages after it is planted. Its first growth stage is a small seed. It becomes a bush in its second stage, and produces berries in its third growth stage. Its growth time is not affected by water nor basic fertilizer .
+
+Blueberry Seeds Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 2m 35s 5m 10s 2m 35s after harvesting Note: The durations of time above are on an unfertilized and unwatered plant Blueberry Seeds Growth Time Type Growth Time Normal 5m 10s Fertilized 5m 10s Watered 5m 10s Watered + Fertilized 5m 10s
+
+History [ ]
+
+October 9, 2021 Added blueberry seeds. April 22, 2022 Introduced a bug that prevented players from placing blueberry seeds into chests . April 29, 2022 Fixed a bug that prevented players from placing blueberry seeds into chests. October 15, 2022 Blueberry seeds can now be purchased from Tom instead of from Cletus . November 4, 2022 Blueberry seeds can now be purchased from Cletus instead of from Tom.
+
+Trivia [ ]
+
+Despite being a seasonal crop, blueberries can be grown in any season.

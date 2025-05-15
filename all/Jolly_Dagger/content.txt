@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Jolly_Dagger
+
+----------------------------------------
+
+Jolly Dagger Type Light Melee Physical class Slashing Magical class Ethereal Attack damage 52 HP (Base) +26 HP (Critical) Description Limited time Christmas dagger weapon The jolly dagger is a light melee weapon in the slashing and ethereal classes. It can be obtained during the Christmas 2022 event. This weapon heals the player while attacking a hostile mob .
+
+Obtaining [ ]
+
+Quests [ ]
+
+A jolly dagger can be obtained by completing the “ Breezy Battles ” quest and winning 25 Snowball Fights during the Christmas 2022 event. On January 6, 2023, the event ended, so the quest and the snowball fights disappeared, making the only way to obtain it by trade.
+
+Attacking [ ]
+
+At level 1 Light Melee , the jolly dagger deals a base damage of 52 HP and can be swung every 0.5 seconds. There is a small chance this weapon does a critical hit, meaning the attack will do an extra 26 HP of damage. The weapon also heals the player 5% HP when attacking a mob. Its damage can be increased by leveling up the Light Melee skill and it is in the slashing and ethereal classes.
+
+Like other melee weapon , only one player can hit damage in each hostile mob. Multiple players cannot hit damage together.
+
+History [ ]
+
+December 23, 2022 Added jolly daggers. January 6, 2023 Jolly daggers can now be dropped, traded , and put in vending machines and chests .
+
+Trivia [ ]
+
+More than one Jolly Dagger can be obtained per account as the quest is repeatable. The jolly dagger is one of the only melee weapons with a magical classification, with the others being the frost hammer , the frost sword , the infernal hammer , the trout's fury , the serpent's hook , and the reaper's scythe . If the mob has a weakness or resistance to both of its classification, then the damage multiplier will be either higher or lower than normal. While if the mob has a weakness and resistance to each of its classification, then neutral damage will apply.

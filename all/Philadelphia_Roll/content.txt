@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Philadelphia_Roll
+
+----------------------------------------
+
+Philadelphia Roll Recipe 1 Sushi Roll 1 Cut Salmon Crafted with Cooking Table Food Processor Effect +25% tree fruit harvest yield Required skill Level 63 Cooking Description Consume for +25% tree fruit harvest yield. A philadelphia roll is a food item that grants +25% tree fruit harvest yield when consumed.
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Philadelphia Roll 1 Sushi Roll 1 Cut Salmon Cooking Table Food Processor Level 63 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a philadelphia roll grants +25% tree fruit harvest yield for 15 minutes, affecting the harvest of apples , oranges , lemons , avocados , coconuts , kiwis , and plums from their respective tree .
+
+History [ ]
+
+November 13, 2021 Added philadelphia rolls. Introduced where philadelphia rolls now cannot be sold to Petur .
+
+Trivia [ ]
+
+Philadelphia rolls currently cannot be sold to Petur .

@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Tidal_Spellbook
+
+----------------------------------------
+
+Tidal Spellbook Type Magic weapon Magical class Hydro Magic weapon type Spellbook Attack damage 36 HP Recipe 1 Spellbook 2 Crystallized Aquamarine Crafted with Anvil Required skill Level 20 Magic Description Cast ocean spells. The tidal spellbook is a ranged magic weapon in the hydro class that can shoot solidified balls of water horizontally.
+
+Obtaining [ ]
+
+Blueprint [ ]
+
+Prior to the June 3, 2022 update, wizard lizards and the Wizard Boss had a 0.025% chance of dropping a tidal spellbook blueprint upon defeat.
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Tidal Spellbook 1 Spellbook 2 Crystallized Aquamarine Anvil Level 20 Magic
+
+Attacking [ ]
+
+At level 1 Magic , fireballs can be shot from the tidal spellbook to deal a base damage of 36 HP every second. The fireballs are shot horizontally in the direction the player is facing, or where the camera is pointing in first person mode. Its damage can be increased by leveling up the Magic skill and it is in the hydro class.
+
+History [ ]
+
+July 25, 2020 Added tidal spellbooks. February 12, 2021 Nerfed the base damage from 60 HP to 50 HP. March 19, 2021 Changed the animation played from using the spellbook from "two hand shove" to the melee swing animation. September 18, 2021 Introduced a bug that prevented projectiles shot from tidal spellbooks from disappearing. September 21, 2021 Introduced a bug that prevented tidal spellbooks from dealing damage in private servers. December 18, 2021 Reduced sound on tidal spellbooks. ? Fixed a bug that prevented tidal spellbooks from dealing damage. ? Fixed a bug that prevented tidal spellbook projectiles from disappearing. April 22, 2022 Tidal spellbooks can now be placed in tool stands . May 27, 2022 Tidal spellbooks can now be charged up to deal more damage to mobs. Tidal spellbooks now require level 20 Magic to craft. Changed the appearance of projectiles fired by tidal spellbooks. June 3, 2022 Wizard lizards and the Wizard Boss are no longer able to drop tidal spellbook blueprints upon defeat. June 10, 2022 Nerfed tidal spellbook damage from 50 to 42. Tidal spellbook can no longer do AOE damage. Nerfed charging damage. September 17, 2022 Nerfed tidal spellbook damage from 42 HP to 36 HP. Removed the tidal spellbook's charging ability. Tidal spellbooks are now a hydro weapon. October 1, 2022 Changed the model of tidal spellbooks. October 8, 2022 Gave Tidal Spellbook AOE damage, along with all Hydro weapons.
+
+Trivia [ ]
+
+The tidal spellbook was the first weapon that required a blueprint to craft. It was also the first weapon able to deal AOE damage, and second being the staff of Godzilla . The tidal spellbook's animation used to be a "two hand shove" animation. However, it was changed to the melee swing animation after the March 19, 2021 update. Players were able to defeat the Grand High Witch using the tidal spellbook's AOE damage instead of using the intended method of throwing a potion of formula 86 . This and the Slime Queen's scepter are the only weapons that require another weapon to craft. This weapon used to have the same damage as the spellbook, but was nerfed in a later update. The angle the fireball launches is slightly delayed from the player's actual rotation, making shots inaccurate if the player is moving their camera very quickly. The tidal spellbook deals the same amount of damage as the ruby staffs. Since the June 10, 2022 update, the tidal spellbook no longer deals AOE damage, however as of the October 8, 2022 , it was given back the ability to do AOE damage with an animation of splashing water.

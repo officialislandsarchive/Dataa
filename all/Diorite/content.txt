@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Diorite
+
+----------------------------------------
+
+Diorite Diorite Rock Type of block Solid block Spawns Hub Best tool Luminous Transparent Diorite is a block that can be mined from a diorite rock .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Diorite rocks naturally generate in the mining zone in the Hub . Mining a diorite rock yields 2 - 4 diorite after each stage and 3 Mining XP (6 with the 4x daily bonus), resulting in a total of 4 - 8 diorite and 9 Mining XP (18 with the 4x daily bonus) per rock.
+
+Totem [ ]
+
+Diorite totems can be purchased from Arius in the Hub for 8,000 coins . A diorite totem will spawn diorite rocks around it when placed, or if placed next to a conveyor belt , the totem will drop diorite directly onto the conveyor.
+
+Breaking [ ]
+
+Diorite Breaking Data Hardness 8 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 12 Stone 13 8 Iron 8 5 Gilded Steel 6 4 Diamond 4 3 Opal 4 2 Void Mattock 2 Diorite Rock Breaking Data Hardness 14 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 21 Wooden 42 21 Stone 23 14 Iron 14 9 Gilded Steel 10 7 Diamond 7 5 Opal 6 3 Void Mattock 3
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Diorite Stair 1 Diorite Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Diorite Slab 1 Diorite Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Diorite can be transformed into diorite bricks in a stonecutter or an industrial stonecutter or smooth diorite in a polishing station or a industrial polishing station .
+
+Input Item transformer Output 1 Diorite ➡ Stonecutter ➡ 1 Diorite Brick ➡ Industrial Stonecutter ➡ 1 Diorite ➡ Polishing Station ➡ 1 Smooth Diorite ➡ Industrial Polishing Station ➡
+
+History [ ]
+
+March 6, 2022 Added diorite. April 16, 2022 Fixed the texture of diorite rocks.
+
+Trivia [ ]
+
+Before April 16, 2022 , the texture of diorite rocks matched the red color of granite instead being white.

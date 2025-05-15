@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Wool
+
+----------------------------------------
+
+Wool White Black Blue Cyan Dark Green Light Green Orange Pink Purple Red Yellow Type of block Solid block Recipe Dyed: 1 White Wool 1 Flower Crafted with Dyed: Coloring Station Sell price White: 120 coins Required skill Level 21 Animal Care (to sell) Best tool Luminous Transparent Wool is a block obtained by shearing a sheep that can be dyed in any of the 11 different colors, which are black, blue, cyan, dark green, light green, orange, pink, purple, red, white, and yellow.
+
+Obtaining [ ]
+
+Shearing [ ]
+
+Using shears on a sheep, the mob will yield white wool. The wool vacuum or scratching post can also be used to obtain white wool from sheep.
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Black Wool 1 White Wool 1 Black Flower Coloring Station Blue Wool 1 White Wool 1 Blue Flower Coloring Station Cyan Wool 1 White Wool 1 Cyan Flower Coloring Station Dark Green Wool 1 White Wool 1 Dark Green Flower Coloring Station Light Green Wool 1 White Wool 1 Light Green Flower Coloring Station Orange Wool 1 White Wool 1 Orange Flower Coloring Station Pink Wool 1 White Wool 1 Pink Flower Coloring Station Purple Wool 1 White Wool 1 Purple Flower Coloring Station Red Wool 1 White Wool 1 Red Flower Coloring Station Yellow Wool 1 White Wool 1 Yellow Flower Coloring Station
+
+Breaking [ ]
+
+Wool Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 3 Carpet 1 Wool Coloring Station 3 Black Carpet 1 Black Wool 3 Blue Carpet 1 Blue Wool 3 Cyan Carpet 1 Cyan Wool 3 Dark Green Carpet 1 Dark Green Wool 3 Light Green Carpet 1 Light Green Wool 3 Orange Carpet 1 Orange Wool 3 Pink Carpet 1 Pink Wool 3 Purple Carpet 1 Purple Wool 3 Red Carpet 1 Red Wool 3 Yellow Carpet 1 Yellow Wool Medieval Green Couch 10 Iron Ingot 2 Dark Green Wool 15 Maple Wood Furniture Workbench Throne 10 Maple Wood 2 Black Flower 2 Red Wool White Lounge Chair 5 White Wool 1 White Flower Red Lounge Chair 5 Red Wool 10 Iron Ingot Blue Lounge Chair 5 Blue Wool 10 Iron Ingot Pink Lounge Chair 5 Pink Wool 10 Iron Ingot White Table Top Chair 4 Iron Ingot 2 White Wool Red Table Top Chair 4 Iron Ingot 2 Red Wool Blue Table Top Chair 4 Iron Ingot 2 Blue Wool Pink Table Top Chair 4 Iron Ingot 2 Pink Wool 5 White Yarn 1 Wool Sewing Station 5 Red Yarn 1 Red Wool 5 Orange Yarn 1 Orange Wool 5 Yellow Yarn 1 Yellow Wool 5 Light Green Yarn 1 Light Green Wool 5 Dark Green Yarn 1 Dark Green Wool 5 Cyan Yarn 1 Cyan Wool 5 Blue Yarn 1 Blue Wool 5 Purple Yarn 1 Purple Wool 5 Pink Yarn 1 Pink Wool
+
+Transforming [ ]
+
+White wool can be transformed into cloth using a cloth loom .
+
+Input Item transformer Output 1 Wool ➡ Cloth Loom ➡ 1 Cloth
+
+Selling [ ]
+
+White wool can be sold to Taliyah for 120 coins each after reaching level 21 Animal Care .

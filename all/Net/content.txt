@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Net
+
+----------------------------------------
+
+Net Type Tool Recipe 15 Oak Wood Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Required skill Level 2 Animal Care Description Use to catch bees, fireflies and frogs. The net is a tool that can be used to catch any catchable mob .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Net 15 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 2 Animal Care
+
+Usage [ ]
+
+Catching mobs [ ]
+
+Nets can be used to catch catchable mobs by clicking (PC) or pressing the "Use" button (mobile). The end of the net must touch the mob to catch it. The player will receive colored firefly jars from catching fireflies, frog jars from frogs, caged rabbits from rabbits, spirit jars from spirits , Pumpkin Boss tokens from pumpkin bats , colored butterfly jars from butterflies and Zombie Cletus tokens from ember skulls .
+
+History [ ]
+
+September 6, 2020 Added nets. January 22, 2021 Level 3 Animal Care is requried to craft the net. April 4, 2021 Changed the description to "Used to catch bees, fireflies and frogs." June 4, 2021 Nets can now catch rabbits . June 30, 2021 Nets can now catch spirits . June 31, 2021 Fixed a bug that caused players to not be able to catch mobs on private servers. July 23, 2021 Level 2 Animal Care is now required to craft the net. October 18, 2021 Nets can now catch pumpkin bats . July 30, 2022 Fixed nets not working on mobile devices. September 3, 2022 Nets can now catch butterflies . October 15, 2022 Nets can now catch ember skulls .
+
+Trivia [ ]
+
+Fish cannot be caught with nets. There used to be a bug where swinging a net will remove the stun effect if the player is affected by it. Following the release of the June 30, 2021 update, there was a bug where nets were unable to capture mobs in private servers. This was fixed the following day so that nets properly function in private servers.

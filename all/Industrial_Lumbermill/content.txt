@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Industrial_Lumbermill
+
+----------------------------------------
+
+Industrial Lumbermill Type of block Solid block; Interactable Recipe 2 Blue Sticky Gear 3 Steel Rod 1 Conveyor Belt Crafted with Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description "Chops down trees in front and outputs their drops" The industrial lumbermill is an industrial machine that can be used to cut down trees automatically, but it does NOT re-plant the sapling ; instead, the sapling is outputted with the wood .
+
+Thus, the player has to replant the sapling but the process can be fully automated with help of a sapling automatic planter and filter conveyor .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Industrial Lumbermill 2 Blue Sticky Gear 3 Steel Rod 1 Conveyor Belt Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Industrial Lumbermill Breaking Data Hardness 3 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 5 9 Stone 3 5 Iron 2 3 Gilded Steel 2 3 Diamond 1 2 Opal 1 2 Void Mattock 1
+
+Usage [ ]
+
+Tree farming [ ]
+
+To use an industrial lumbermill, plant a sapling behind it (see image on right). Then, after the tree is fully grown and the lumbermill is powered with coal or petrified petroleum the tree will get chopped down and its drops will be outputted onto the conveyor output.
+
+History [ ]
+
+April 4, 2021 Added industrial lumbermills. August 15, 2021 Removed the industrial lumbermill's ability to automatically chop down trees.
+
+Trivia [ ]
+
+Even though the July 23, 2021 update introduced the ability to automatically replant saplings when a tree is chopped, the industrial lumbermill still does not replant saplings.

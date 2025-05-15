@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Oil_Tank
+
+----------------------------------------
+
+Oil Tank Type of block Solid block Recipe 100 Glass Block 100 Steel Ingot Crafted with Workbench Tier 4 Best tool Luminous Transparent
+
+An oil tank is a block used to store oil .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Oil Tank 100 Glass Block 100 Steel Ingot Workbench Tier 4
+
+Breaking [ ]
+
+Oil Tank Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Storing [ ]
+
+Oil tanks are used to store oil and can hold 300 oil fuel per tank. Oil can be inputted in through the pipe at the front and outputted through the pipe at the back, functioning similarly to the input/output chest .
+
+History [ ]
+
+August 15, 2021 Added oil tanks.

@@ -1,0 +1,53 @@
+Source: https://robloxislands.fandom.com/wiki/Mushroom_Obby
+
+----------------------------------------
+
+Mushroom Obby Required skill Level 20 Fishing Level 30 Combat Resources Mushroom Obby Tickets Iron Ore Gold Ore Copper Ore Mobs Mushroom Golem Snail Koi Carp Catfish
+
+The Mushroom Obby is a series of challenges that can be completed for mushroom obby tickets .
+
+Gameplay [ ]
+
+The Mushroom Obby can be accessed by interacting with the Info Board in the hub . Holding [F] on PC or a button on mobile near the Info Board will allow the player to join a game queue. Tickets are awarded upon completion of the obby. There are a maximum of 5 players each round. The player's inventory is temporarily cleared upon joining the game and will automatically be given a gilded steel pickaxe , iron sickle , diamond great sword , net , and an iron fishing rod .
+
+Objectives [ ]
+
+Before each task, players must complete a small obby by bouncing on bouncy mushrooms to the next island. Upon completing a task, a red portal gate will turn green, and players can pass through to the next task.
+
+Spawn Island [ ]
+
+Players spawn here before the game begins. After the game begins, players have to parkour to the first island via bouncy mushrooms.
+
+First Island [ ]
+
+Iron , coal and copper rocks spawn on this island. Players receive a quest to fully break 16 copper rocks on the island with their pickaxe.
+
+Second Island [ ]
+
+Players then receive a quest to collect 15 glowing mushrooms using their sickle or by picking them up by pressing [F] on PC or a button on mobile. Harvesting ordinary red mushrooms will not contribute to this quest.
+
+Third Island [ ]
+
+Players then receive a quest to defeat 10 mushroom golems which have ~400 health [Confirmation needed] .
+
+Fourth Island [ ]
+
+Players then receive a quest to collect 15 snails with their net.
+
+Fifth Island [ ]
+
+Players then receive a quest to fish 3 carp using their iron fishing rod. Fishing other types of fish will not contribute towards the task.
+
+Final Island [ ]
+
+Players must climb to the top of this island and press the mushroom button on the stump pedestal ([F] on PC and a button on mobile) to complete the obby. The server then broadcasts the message " [SERVER] <player_name> has finished in 1st/2nd/3rd/? place! "
+
+Rewards [ ]
+
+As a reward for finishing the obby, players will receive the glowing mushrooms they collected and any fish they caught.
+
+Rank Prize 1st 75 mushroom obby tickets 2nd 65 mushroom obby tickets 3rd 55 - 65 mushroom obby tickets Under 3rd 45 mushroom obby tickets for 100-125 points 35 mushroom obby tickets for 50-75 points 25 mushroom obby tickets for 25 points
+
+History [ ]
+
+August 18, 2023 Initiated the Mushroom Obby Event. September 16, 2023 Removed the Mushroom Obby event.

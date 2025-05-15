@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Dried_Bamboo
+
+----------------------------------------
+
+Dried Bamboo Recipe 1 Bamboo Crafted with Campfire Small Furnace Desert Furnace Dried bamboo is an item obtained by drying bamboo in any manual heating device .
+
+Obtaining [ ]
+
+Drying [ ]
+
+Dried bamboo can be obtained by drying bamboo in a campfire , small furnace , or desert furnace .
+
+Input Output 1 Bamboo 1 Dried Bamboo
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Dried Bamboo Block 5 Dried Bamboo Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+History [ ]
+
+July 11, 2020 Added dried bamboo.
+
+Trivia [ ]
+
+Unlike this item's un-smelted counterpart, dried bamboo cannot be placed.

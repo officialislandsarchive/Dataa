@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Granite_Hammer
+
+----------------------------------------
+
+Granite Hammer Type Heavy Melee Physical class Striking Attack damage 14 HP (Base) +7 HP (Critical) Recipe 20 Granite 10 Iron Ingot Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 The granite hammer is a heavy melee weapon in the striking class.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Granite Hammer 20 Granite 10 Iron Ingot Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Attacking [ ]
+
+At level 1 Heavy Melee , the granite hammer deals a base damage of 14 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 7 HP of damage and its damage can be increased by leveling up the Heavy Melee skill and it is in the striking class.
+
+History [ ]
+
+October 15, 2022 Added granite hammers. October 22, 2022 Fixed a bug that caused granite hammers to not swing properly.

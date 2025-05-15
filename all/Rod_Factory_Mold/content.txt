@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Rod_Factory_Mold
+
+----------------------------------------
+
+Rod Factory Mold Recipe 2500 Steel Ingot Crafted with Anvil Description Placed inside factory assemblers to produce rods. The rod factory mold is one of the 3 factory molds in the game added in the September 18, 2020 update, the others being the bolt factory mold and the plate factory mold .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+The rod factory mold can be crafted with 2500 steel ingots in an anvil .
+
+Name Recipe Crafting station Rod Factory Mold 2500 Steel Ingot Anvil
+
+Usage [ ]
+
+Transforming [ ]
+
+Input Item transformer + Factory Mold Output 25 Copper Ingot ➡ Copper Press + Rod Factory Mold ➡ 1 Copper Rod 25 Steel Ingot ➡ Steel Press + Rod Factory Mold ➡ 1 Steel Rod
+
+History [ ]
+
+September 18, 2020 Added rod factory molds.
+
+Trivia [ ]
+
+While copper rods can only be made automatically through a copper press and rod factory mold, steel rods can also be made manually in an anvil .

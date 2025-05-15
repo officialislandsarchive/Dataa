@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Water_Bucket
+
+----------------------------------------
+
+Water Bucket Buy cost 100 coins A water bucket is a bucket filled with water . Since the September 24, 2024 update, water buckets can no longer be purchased or placed to create a water source block.
+
+Obtaining [ ]
+
+Filling [ ]
+
+To fill an empty bucket with water, use it on a water source block. The block is consumed in the process. Flowing water does not fill a bucket. Buckets can also be filled in bodies of water on various islands .
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Pond Planter 40 Stone 10 Grass 1 Water Bucket Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Bhutan Butter Tea 2 Yak Butter 1 Yak Milk Bucket 1 Water Bucket Cooking Table Food Processor Level 49 Cooking School Water Fountain 5 Electrite 20 Iron Ingot 1 Water Bucket Furniture Workbench None
+
+History [ ]
+
+May 8, 2021 Added water buckets. September 18, 2021 Using a bucket on a lava pool no longer gives a water bucket. November 13, 2021 Water buckets can now be used to craft pond planters . March 25, 2022 Water buckets can now be used to craft Bhutan butter tea . December 2, 2022 Water buckets can now be used to craft school water fountains . September 24, 2024 Water buckets can no longer be purchased from John for 100 coins . Water buckets can no longer be used to create water source blocks on player islands .
+
+Trivia [ ]
+
+Before the September 18, 2021 update, using an empty bucket on a lava pool in the Underworld would give a water bucket.

@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Vine_Stem_Seeds
+
+----------------------------------------
+
+Vine Stem Seeds Planted on Farmland Buy cost 3,800 coins Vine stem seeds are used to grow Vine Stems .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Vine stem seeds can be purchased from Maria for 3,800 coins .
+
+Usage [ ]
+
+Planting [ ]
+
+Vine stem seeds can be planted on farmland to be grown into vine stems.
+
+Growth [ ]
+
+The growth time of vine stems can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Vine Stem Seeds Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 5s 1m 5s 2m 5s Note: The durations of time above are on an unfertilized and unwatered plant Vine Stem Seeds Growth Time Type Growth Time Normal 2m 5s Fertilized 1m 40s Watered 1m 40s Watered + Fertilized 1m 27s
+
+History [ ]
+
+March 17, 2023 Added vine stem seeds.

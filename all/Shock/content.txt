@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Shock
+
+----------------------------------------
+
+Shock Causes Shocks and damages mobs over time Source Weapons whose magical class is storm Type Attack
+
+Shock is an effect that affects hostile mobs when attacked by weapons whose magical class is storm .
+
+Causes [ ]
+
+Shock affects mobs when attacked with the lightning scepter .
+
+Information [ ]
+
+Shock damage pierces through the enemy multiple times and inflicts Shocked, which does 25% of the attacks initial damage over time. It does not stack and does not refresh upon hitting multiple times.
+
+History [ ]
+
+October 8, 2022 Added Shock.

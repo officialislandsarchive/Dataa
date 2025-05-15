@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Bee_Jar
+
+----------------------------------------
+
+Bee Jar A bee jar is a captured bee in a jar.
+
+Obtaining [ ]
+
+Capturing [ ]
+
+Upon capturing a bee with a net , a bee jar will be put in the player's inventory.
+
+Usage [ ]
+
+Bee jars are used to move bees from one hive to another.
+
+Bees are unable to be released if the small animal limit has been reached. The limit can be raised by leveling up the Animal Care skill.
+
+History [ ]
+
+September 6, 2020 Added bee jars.
+
+Trivia [ ]
+
+Prior to the January 22, 2021 update, it was very rare to be able to release a bee from the jar, possibly because there was no indication as to how many bees are currently on the player's island . Bee jars cannot be used to put bees on display in display cases .

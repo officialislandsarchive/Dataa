@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Polishing_Station
+
+----------------------------------------
+
+Polishing Station Type of block Solid block; Interactable Recipe 45 Oak Wood 5 Iron Ingot 20 Stone Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Required skill Level 24 Forging Best tool Luminous Transparent Description Convert blocks into smooth blocks. The polishing station is an item transformer used to smooth blocks .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Polishing Station 45 Oak Wood 5 Iron Ingot 20 Stone Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 24 Forging
+
+Breaking [ ]
+
+Polishing Station Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Polishing [ ]
+
+Polishing stations can be used to polish certain blocks into their smooth variant. It has two slots able to hold one unprocessed block each to be polished in its user interface and does not require fuel to run. When polishing a block, an animation will play causing its barrel to spin. It takes 10 seconds to polish one block.
+
+Input Output 1 Aquamarine Block ➡ 1 Smooth Aquamarine 1 Sandstone ➡ 1 Smooth Sandstone 1 Red Sandstone ➡ 1 Smooth Red Sandstone 1 Stone ➡ 1 Smooth Stone 1 Slate ➡ 1 Smooth Slate 1 Marble ➡ 1 Smooth Marble 1 Diorite ➡ 1 Smooth Diorite 1 Andesite ➡ 1 Smooth Andesite 1 Granite ➡ 1 Smooth Granite 1 Basalt ➡ 1 Smooth Basalt
+
+History [ ]
+
+June 4, 2021 Added polishing stations. July 23, 2021 The polishing station can be crafted in the workbench tier 1 . February 19, 2022 Polishing stations can now polish stone , slate , and marble . March 6, 2022 Polishing stations can now polish andesite , diorite , and granite . Increased the number of slots in its user interface from 1 to 2. June 18, 2022 Polishing stations can now polish basalt .

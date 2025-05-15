@@ -1,0 +1,77 @@
+Source: https://robloxislands.fandom.com/wiki/Treasure_Chest
+
+----------------------------------------
+
+Treasure Chest Type of block Solid block; Interactable Best tool Luminous Transparent Description Hub & Pirate Island: A chest filled with bountiful loot, place on your island to open! Maple Isles, Spirit Island, Slime Island, Buffalkor Island, Wizard Island, & Desert Island: A chest with bountiful loot found on [island]!
+
+The treasure chest is a roulette block that can be obtained by locating them on all the permanent islands except for the player's island , Diamond Mines , the Underworld , and the Void Isles using treasure maps .
+
+Obtaining [ ]
+
+Digging [ ]
+
+Players can use a treasure map to help locate buried treasure in the Hub , Slime Island , Maple Isles , Spirit Island , Pirate Island , Buffalkor Island , Wizard Island , or Desert Island , marked with a red 'X' on the map. Players would then have to use a stone shovel or Christmas shovel to dig up the treasure. Using a shovel on the spot will automatically transport the treasure chest to the player's inventory .
+
+Each treasure map only shows the location of one treasure chest, meaning that players are unable to find treasure chests without a treasure map. Once the treasure chest has been dug up, the treasure map will disappear from the player's inventory . Treasure chests dug up in the Hub or Pirate Island are called "Treasure Chests," while ones dug up in the Maple Isles, Spirit Island, Slime Island, Buffalkor Island, Wizard Island, or Desert Island are called "[Island] Treasure Chest."
+
+Treasure chests may spawn in restricted areas such as Fhanhorn's spawn area in the Maple Isles.
+
+Breaking [ ]
+
+Treasure Chest Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Loot [ ]
+
+Treasure chests can be opened by holding "F" on PC, holding it on mobile once it has been placed, or holding X on Xbox while hovering over it. Once opened, the treasure chest will scroll through the items like a roulette wheel and reward one item. Once the item has been collected, the chest will turn into an opened treasure chest . Treasure chests dug up from different islands have their own loot tables.
+
+The listed reward chances are community made and may not be accurate .
+
+Hub & Pirate Island [ ]
+
+The following items may be rewarded from opening a treasure chest:
+
+Item Rarity Estimated % chance Crab Pet Spawn Egg Mythic 0.25% The Captain's Rapier Mythic 0.25% Pirate Chair Mythic 1% Pirate Ship Mythic 1% Pirate Table Legendary 2% Pirate Cannon Legendary 2% Pirate Globe Rare 6% Crystallized Obsidian Uncommon 10% Shark Uncommon 10% Pirate Ship Wheel Uncommon 10% Pirate Chandelier Uncommon 10% Pirate Lamp Uncommon 10% Puffer Fish Common 18.75% Pirate Barrel Common 18.75%
+
+Maple Isles [ ]
+
+The following items may be rewarded from opening a Maple Isles treasure chest:
+
+Item Rarity Estimated % chance Fhanhorn's Flower Mythic 5% Cornucopia Bed Legendary 7.5% Turkey Spawn Egg Tier 1 Legendary 7.5% 18 - 25 Maple Syrup Bottle Common 40% Maple Sapling Common 40%
+
+Spirit Island [ ]
+
+The following items may be rewarded from opening a Spirit Island treasure chest:
+
+Item Rarity Estimated % chance Spirit Statue Mythic 1% Hanging Spirit Light Rare 9% 1 - 3 Spirit Lantern Uncommon 40% 3 - 6 Spirit Seeds Common 50%
+
+Slime Island [ ]
+
+The following items may be rewarded from opening a Slime Island treasure chest:
+
+Item Rarity Estimated % chance Pink Sticky Gear Mythic 1% Blue Sticky Gear Uncommon 19% 1 -6? Green Sticky Gear Common 80%
+
+Buffalkor Island [ ]
+
+The following items may be rewarded from opening a Buffalkor Island treasure chest:
+
+Item Rarity Estimated % chance Buffalkor Crystal Mythic 0.5% Crystallized Gold Legendary 0.67% Crystallized Iron Legendary 0.67% 25 - ?? Electrite Rare ? ?? - ?? Iron Ingot Common ? ?? - ?? Gold Ingot Common ?
+
+Wizard Island [ ]
+
+The following items may be rewarded from opening a Wizard Island treasure chest:
+
+Item Rarity Estimated % chance Tidal Spellbook Mythic 0.7% Spellbook Legendary ? Red Page Rare ? Blue Page Rare ? Green Page Rare ? 15 - 130 Empty Potion Bottle Common 33%
+
+Desert Island [ ]
+
+The following items may be rewarded from opening a Desert Island treasure chest:
+
+Item Rarity Estimated % chance Ruby Skorp Stinger Mythic ? Ruby Skorp Claw Legendary ? 1 - 3 Cactus Seeds Uncommon ? Gold Skorp Claw Common ? Gold Skorp Scale ? ?
+
+History [ ]
+
+July 17, 2021 Added treasure chests. April 16, 2022 Treasure chests can now be found on Pirate Island . Added Maple Island treasure, Spirit Island treasure, Slime Island treasure, Buffalkor Island treasure, Wizard Island treasure, and Desert Island treasure. April 29, 2022 Renamed Maple Island treasure, Spirit Island treasure, Slime Island treasure, Buffalkor Island treasure, Wizard Island treasure, and Desert Island treasure to "Maple Isles Treasure Chest," Spirit Island Treasure Chest," Slime Island Treasure Chest," Buffalkor Island Treasure Chest," Wizard Island Treasure Chest," and Desert Island Treasure Chest" respectively. Breaking a Maple Isles, Spirit Island, Slime Island, Buffalkor Island, Wizard Island, or Desert Island treasure chest will now reward a standard treasure chest. July 16, 2022 Fixed a bug that didn't reward treasure chests when digging up in certain locations. October 22, 2022 Added a present icon next to unopened treasure chests. April 17, 2023 Fixed a bug causing treasure chests not from Pirate Island or the Hub when broken to turn into a regular treasure chest.
+
+Trivia [ ]
+
+From October 18, 2021 to October 25, 2021, the green dot representing the player on the treasure map was set at an offset, meaning that it had incorrectly shown the player's location. However, the location of the buried treasure chest marked by the red 'X' was still accurate in accordance to the surrounding terrain. Leaving and rejoining the game while having an unclaimed reward from a treasure chest will display it as an uncommon item, regardless of rarity. Treasure chests that have been opened but the rewards have not been claimed will close when the player goes away. However, the item will still be there spinning, so items like sharks will be seen outside of the chest, still spinning. Prior to April 17, 2023 , breaking treasure chests from islands other than Pirate Island and the Hub would turn it into a regular treasure chest.

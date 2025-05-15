@@ -1,0 +1,17 @@
+Source: https://robloxislands.fandom.com/wiki/Token
+
+----------------------------------------
+
+Tokens are items used to summon their respective bosses or bypass the summon cooldown (the exception was the first and only one boss with 1-hour cooldown due to it having no tokens ). In the February 7, 2022 update, boss tokens were changed to be tradeable. Since the October 28, 2022 update, the token requirement is indicated on each boss' summoning UI.
+
+Note: Tokens are currently unavailable for the Grand High Witch , Fhanhorn , the Lunar Rabbit , the Azarathian Serpent , the Primordial Slime , and The Cursed Wraith , as they do not have any token to summon a boss or bypass the summon cooldown of Fhanhorn (1-hour) until the cooldown ends.
+
+Tokens [ ]
+
+No tokens [ ]
+
+Grand High Witch Fhanhorn (Its 1-hour summon cooldown cannot be bypassed until the cooldown ends) Lunar Rabbit Azarathian Serpent Primordial Slime The Cursed Wraith
+
+Trivia [ ]
+
+The Underworld token was the first token added to Islands . Fhanhorn was the first and only regular boss currently in Islands whose summon cooldown cannot be bypassed with tokens, as it does not have its own token . Spooking any turkey will rewards no token as Fhanhorn's first introduced. Unlike most bosses with their respective " Failed to Summon " notifications, if any player attempts to summon Fhanhorn while on cooldown, as it does not have its own token, nothing happens. Due to fact of nothing happens if any player attempts to summon Fhanhorn while on cooldown, Fhanhorn was the first and only regular boss in Islands that doesn't have the " Failed to Summon " notification, as it does not have its own token. Since the October 28, 2022 update, Fhanhorn does not have any token requirement on its summoning UI while on cooldown, as it does not have its own token. The Grand High Witch , the Lunar Rabbit , and The Cursed Wraith are the only event bosses that do not have their own token. The Void Serpent token , the Zombie Cletus token , and the Bat Boss token are the only tokens that can be obtained by defeating their respective bosses. The Pumpkin Boss token , the Zombie Cletus token, and the Bat Boss token are the only limited tokens. The Underworld token, the Pumpkin Boss token, and the Bat Boss token are the only ones not named "[Boss Name] Token". The Void Serpent token is the only token that is untradeable.

@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Roasted_Honey_Carrot
+
+----------------------------------------
+
+Roasted Honey Carrot Recipe 4 Roasted Carrot 4 Jar of Honey Crafted with Cooking Table Food Processor Effect +50% chance for mobs to drop coins on death Sell price 336 - 504 coins Hot sell price 504 - 756 coins Required skill Level 28 Cooking Description Eat for 50% chance for mobs to drop coins on death. A roasted honey carrot is a food item that grants a 50% chance for mobs to drop coins on death when consumed.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Roasted Honey Carrot 4 Roasted Carrot 4 Jar of Honey Cooking Table Food Processor Level 28 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a roasted honey carrot grants a 50% chance for mobs to drop coins equal to 10% of their full health on defeat for 15 minutes.
+
+Image Mob Coins given Slime 10 coins Wizard Lizard 12 coins Angry Crab 15 coins Bandit 17 coins Void Hound 20 coins Snowman 25 coins Buffalkor 40 coins Magma Blob 40 coins Iron Skorp 50 coins Gold Skorp 80 coins Ruby Skorp 120 coins Slime King 150 coins Wizard Boss 250 coins Kor 901 coins Bhaa 1,000 coins Infernal Dragon 1,700 coins Fhanhorn 697 coins Slime Queen 1,400 coins Zombie Cletus 3,000 coins Void Serpent 5,000 coins
+
+Selling [ ]
+
+Roasted honey carrots can be sold to Petur for 336 - 504 coins each, or up 504 - 756 coins if roasted honey carrots are a hot offer.
+
+History [ ]
+
+August 30, 2020 Added roasted honey carrots. January 22, 2021 Level 28 Cooking is now required to craft roasted honey carrots. November 13, 2021 Roasted honey carrots now grant a 50% chance for mobs to drop coins on defeat when consumed. Added a description. Changed the recipe from 1 roasted carrot and 1 jar of honey to 4 roasted carrots and 4 jars of honey. Changed base selling price from 105 coins to 420 coins. Roasted honey carrots no longer heal 20 HP when consumed. January 8, 2022 Changed the base selling price from 420 coins to 504 - 756 coins. January 15, 2022 Changed the base selling price from 504 - 756 coins to 336 - 504 coins.

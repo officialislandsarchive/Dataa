@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/June_25,_2022
+
+----------------------------------------
+
+June 25, 2022 Basic Information Day released June 25, 2022 Version number 87 Version Navigator Previous version Next version June 18, 2022 July 2, 2022 The June 25, 2022 update, also known as the ruby sword update, is an update in Islands that added ruby swords , more rock mimic variants, and other quality of life improvements.
+
+Content [ ]
+
+Additions [ ]
+
+Added Ruby Swords . Added Rock Mimic variants. Added Iron Rock mimics. Added Gold Rock mimics. Added custom sounds to rock mimics. An indicator is now shown to villagers , crafting recipes, and ore rocks during quests . Added an option to reset time to continue the time of day in the Day/Night cycle menu.
+
+Modifications [ ]
+
+Players can now cancel quests after starting them Quests now regularly refresh Improved the Day/Night cycle menu. Personal orbs can now be renamed after being named. Changed the recipe of the industrial merchant teleseller to require 200 red bronze ingots , 10 steel plates , and 1 pink sticky gear instead of 500 red bronze ingots. Reduced tax rate from the industrial merchant teleseller from 30% to 10%. Decreased income time for owners of the pro gamepass from 30 minutes to 20 minutes. Renamed wood to oak wood. Increased sell price of tomatoes from 9 coins to 14 coins. Decreased sell price of wheat from 7 coins to 5 coins.
+
+June 28, 2022 [ ]
+
+Adjusted island portal destinations. Level 40 Magic is now required to craft the spirit spellbook . Rock mimic variants now drop their respective mineral when defeated. Randomized boss spawn locations. Randomized spirit spawn locations. Increased the amount of coins given when completing the "Catching Fireflies" quest. Removed the item cap on cactus seeds . Fixed a bug that caused crate packers to not save current crate selection. Fixed a bug that didn't allow item transformers to function properly. Fixed a bug that caused personal orbs to not be renamed. Limited how many quests can be active at a time.
+
+Islands update history 2020 April April 10 • April 24 • April 27 May May 2 • May 4 • May 7 • May 10 • May 17 • May 26 • May 31 June June 15 • June 26 July July 4 • July 11 • July 17 • July 25 August August 2 • August 9 • August 16 • August 30 September September 6 • September 18 October October 3 • October 16 November November 1 • November 7 • November 20 • November 26 December December 11 • December 18 2021 January January 4 • January 22 • January 29 February Feburary 5 • Feburary 12 • Feburary 19 • Feburary 26 March March 5 • March 13 • March 19 April April 4 • April 10 • April 16 • April 24 May May 8 • May 21 June June 4 • June 30 July July 9 • July 17 • July 23 • July 30 August August 8 • August 15 • August 21 • August 28 September September 5 • September 11 • September 18 • September 25 October October 9 • October 18 November November 13 • November 27 December December 10 • December 18 • December 29 2022 January January 8 • January 15 • January 30 February February 7 • February 19 • February 27 March March 6 • March 12 • March 25 April April 1 • April 9 • April 16 • April 22 • April 29 May May 13 • May 20 • May 27 June June 3 • June 10 • June 18 • June 25 July July 2 • July 9 • July 16 • July 23 • July 30 August August 6 • August 13 • August 20 • August 27 September September 3 • September 10 • September 17 • September 24 October October 1 • October 8 • October 15 • October 22 • October 28 November November 4 • November 11 • November 18 • November 25 December December 2 • December 16 • December 23 2023 January January 6 • January 20 February February 3 • February 17 March March 3 • March 17 • March 31 April April 14 • April 28 May May 12 • May 26 June June 23 July July 7 • July 21 August August 18 October October 13 November November 7 Discontinuation

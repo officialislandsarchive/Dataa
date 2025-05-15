@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Lemon
+
+----------------------------------------
+
+Lemon Heals 10 HP Sell price 27 coins Lemons are a fruit crop .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Lemons grow every season on lemon trees and can be obtained by harvesting the trees. There can be up to three lemons on a tree at a time. When harvested, the player will obtain 1 lemon, 6 Farming XP (24 with the 4x daily bonus), and a 3% chance for an additional lemon tree sapling .
+
+It takes 4 minutes and 30 seconds for a lemon to grow and 13 minutes and 30 seconds for the three lemons to grow.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Lemon Bread Dough 1 Dough 3 Lemon Cooking Table Level 30 Cooking Lemon Puff 1 Bread 3 Jar of Honey 1 Lemon Cooking Table Level 62 Cooking
+
+Crate-packing [ ]
+
+Image Name Recipe Crafting station Crate of Lemons 100 Lemon Crate Packer Large Crate of Lemons 250 Lemon Tier 2 Crate Packer
+
+Eating [ ]
+
+Lemons can be eaten to restore 10 HP.
+
+Selling [ ]
+
+Lemons can be sold to Tom for 26 coins each.
+
+Animals [ ]
+
+Lemons can be a cow's , sheep's , or pig's favorite food.
+
+History [ ]
+
+June 26, 2020 Added lemons. August 30, 2020 Lemons can now craft lemon puffs . January 22, 2021 Lemons now grant 6 Farming XP when harvested. Lemons can now be a sheep's favorite food. February 5, 2021 Lemons can now be a pig's favorite food. February 26, 2021 Lemons can now be a cow's favorite food. August 21, 2021 Lemons can now be packed into crates and large crates . June 3, 2022 Lemons can now be sold to Cletus instead of to Tom . August 20, 2022 Changed the sell price of lemons from 20 coins to 16 coins. August 27, 2022 Changed the sell price of lemons from 16 coins to 20 coins. October 15, 2022 Changed the sell price of lemons from 20 coins to 26 coins. Lemons can now be sold to Tom instead of to Cletus. December 23, 2022 Changed the sell price of lemons from 20 coins to 16 coins. July 21, 2023 Changed the sell price of lemons from 20 coins to 27 coins.
+
+Trivia [ ]
+
+If a lemon tree is chopped down while having lemons on it, it may drop the sapling depending on the player's settings and will drop 3 - 4 oak wood but not any of the lemons.

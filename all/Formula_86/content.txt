@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Formula_86
+
+----------------------------------------
+
+Formula 86 Recipe 3 Lollipop 3 Chocolate Bar 3 Orange Candy Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Brewing Stand Description The Witch's Formula 86 can turn people (and Witches) into mice! Formula 86 was a limited one-time polymorph effect item added in the October 16, 2020 update. It could have been obtained through crafting with items from the Halloween Event . It is a one time use item. It is no longer available to craft in the game as of the November 1, 2020 update.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Formula 86 3 Lollipop 3 Chocolate Bar 3 Orange Candy Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Brewing Stand
+
+Usage [ ]
+
+Formula 86 can be thrown at a certain spot the player clicks the cursor. Upon hit, it splashes and players in the splash radius receive the Polymorph effect, which temporarily transforms them into a mouse. Formula 86 is a required item to defeat the Grand High Witch . When the boss's health drops to zero, throwing the formula toward her will defeat her whilst morphing her into a mouse. Formula 86 can polymorph any player no matter who they are (excluding NPCs), but only for about 4-5 seconds.
+
+Trivia [ ]
+
+When the player successfully defeats the witch by throwing the formula onto her when her health is at zero, a banner will pop up with an advertisement saying to watch "The Witches," when the movie comes out on HBOMax. (This event was sponsored by HBOMax) For mobile users, while the rat animation happens after getting hit by Formula 86 or consuming candy, the player can still move around. (though there is no indication of the avatar's location) After the animation, the player's avatar will be teleported to where it had moved to during the animation. This is the first and only potion in the game that does not need an Empty Potion Bottle . Formula 86 is a reference to the Formula 86 Delayed Action Mouse-Maker potion in Roald Dahl's The Witches . Formula 86 was used in candies as they worked via consumption. Hence, consuming candies causes the player to turn into a mouse. When hit by the Formula 86 and turned into a rat, you can still use a melee weapon and hit enemies. This has only been tested with desktop and may or may not work on mobile. This is the first throwable potion.
+
+Gallery [ ]

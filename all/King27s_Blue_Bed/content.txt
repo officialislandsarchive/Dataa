@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/King%27s_Blue_Bed
+
+----------------------------------------
+
+King's Blue Bed Type of block Solid block; Seat Recipe 80 Maple Wood 3 Blue Flower Crafted with Furniture Workbench Best tool Luminous Transparent A king's blue bed is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station King's Blue Bed 80 Maple Wood 3 Blue Flower Furniture Workbench
+
+Breaking [ ]
+
+King's Blue Bed Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+Usage [ ]
+
+Sitting [ ]
+
+King's blue bed has two seats, which means two players, mobs , or villagers are able to sit on the bed.
+
+History [ ]
+
+May 31, 2020 Added king's blue beds. June 3, 2022 A king's blue bed blueprint is no longer required to unlock the recipe of king's blue beds.

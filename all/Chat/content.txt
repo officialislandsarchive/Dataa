@@ -1,0 +1,11 @@
+Source: https://robloxislands.fandom.com/wiki/Chat
+
+----------------------------------------
+
+The Chat is a feature that is built into every Roblox game unless the developer has disabled it, and is used to communicate with other players in-game. To open the chat, either hit the “/” key or press its button in the bottom left on PC or top left on mobile. Islands itself has some special chat tags and chat commands along with a few custom sounds that play when a player chats to another.
+
+Note: You cannot use these features if you are on Xbox/Playstation or have your chat disabled via the Roblox settings.
+
+Chat commands [ ]
+
+Chat commands are commands that can be typed in the Roblox chat. They are usually prefixed with “/”.

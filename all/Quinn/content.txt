@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Quinn
+
+----------------------------------------
+
+Quinn Location Hub Purpose Auctioning blocks Occupation Artist Quinn is a villager located in front of the Art Museum in the Hub who hosts auctions for various blocks .
+
+Auctioning [ ]
+
+Before December 1, 2022, Quinn would auction one of the fourteen blocks listed below every hour on Wednesdays and weekends. The player must bid at least 5,000,000 coins (5 million) to enter an auction; if the player offers an amount lower than the prerequisite, the offer will be rejected. All of the bids are kept anonymous.
+
+At the end of the auction period, Quinn will reward the highest bidder the block and grant them a point to the leaderboard located behind him, while all other bidders will be returned their coins. Quinn may host an auction for:
+
+Athlete Statue Capitalist Statue Chicken Statue Cow Statue Family Painting Formal Statue Fulco Lisa Painting Gentleman Statue Philosopher Statue Proud Statue Slime Statue Strongman Statue The Screaming Davey Painting Thinker Statue
+
+Leaderboard [ ]
+
+A leaderboard located across from Quinn shows the number of auction items the player has won from auctions along with the top 5 players who have won the most auction items. The top 5 players as of 11/11/2022 11:01 PM PST are:
+
+Rank Name Art Collection kboonnn 248 WhirlyDad22 151 Max000Gas 149 4 RatOfNihm 66 5 Bullseye_qwerty 48
+
+Dialogue [ ]
+
+Current [ ]
+
+" user , I've got some amazing work! Check it out." >[View Auction] Opens auction menu. >What are auctions? "I host a new auction each hour for a wonderful piece of art. At the end of the hour I'll give the piece to the highest bidder. Everyone else gets their money back. Auction winners can climb our hall of fame." >Cool "Want to bid?" Returns to default options.
+
+Before October 1, 2022 [ ]
+
+"Auctions right now are currently postponed while I sort out. Apologies for the inconvenience!" >Okay! End.
+
+History [ ]
+
+January 15, 2022 Added Quinn. February 19, 2022 Auctions are now held on every Wednesday and the weekends instead of everyday. Quinn can now host auctions for athlete statues , capitalist statues , formal statues , gentleman statues , and proud statues . April 9, 2022 Moved Quinn to a different area in the Hub . July 9, 2022 Moved Quinn to a different area in the Hub. July 16, 2022 Added new dialogue. Fixed a bug that caused Quinn to duplicate. Introduced a bug that causes Quinn to not reward auction items and not give back coins after an auction ended. July 23, 2022 Added new dialogue. Quinn temporarily no longer hosts auctions. October 1, 2022 Quinn now hosts auctions again. December 1, 2022 Quinn temporarily no longer hosts auctions.

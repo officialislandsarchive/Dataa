@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Doubloon
+
+----------------------------------------
+
+Doubloon Dropped by Bandit Angry Crab Description The currency of choice for Pirate Island . Doubloons are the main currency on Pirate Island , granting the player the ability to trade with most pirates on the island. It cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Angry crabs and bandits are guaranteed to drop one doubloon upon defeat.
+
+Quests [ ]
+
+Quest Type Tasks Reward Prerequisites Cooldown duration Defeat Bandits Battle Kill 3x Skeleton Pirate 5 doubloon Access to next task 100 coins Level 10 Combat 1 day Kill 15x Skeleton Pirate 15 doubloon Defeat Angry Crabs Battle Kill 5x Angry Crab 10 doubloon Access to next task 100 coins Level 10 Combat 1 day Kill 20x Angry Crab 20 doubloon Collect kiwifruit Harvest Pick 15x Kiwifruit 20 doubloon Level 10 Combat 1 day Catch Fish Catch Catch 3x Puffer Fish 10 doubloon Access to next task Level 10 Combat 1 day Catch 1x Shark 20 doubloon Break Obsidian Rocks Mine Mine 20x Obsidian Rock 15 doubloon Level 10 Combat 1 day
+
+Usage [ ]
+
+Purchasing [ ]
+
+Image Name Buy cost Pirate Kiwi Tree Sapling 80 doubloons Terri Treasure Map 120 doubloons Davey Crystallized Obsidian 10 doubloons Evans Obsidian Hilt 250 doubloons Obsidian Totem 600 doubloons Ruby
+
+History [ ]
+
+July 17, 2021 Added doubloons. June 3, 2022 Gave doubloons a model. Doubloons can now be obtained by defeating angry crabs and bandits and through quests . ? Doubloons can now be used to purchase obsidian totems .

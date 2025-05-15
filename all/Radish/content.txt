@@ -1,0 +1,47 @@
+Source: https://robloxislands.fandom.com/wiki/Radish
+
+----------------------------------------
+
+Radish Seed cost 1,450 coins Planted on Farmland Sell price 59 coins Edible A radish is an crop that grows on farmland from radish seeds .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting a radish grants  1 - 3 radishes, 1 radish seed , and 21 Farming XP (81 XP with the 4x daily bonus). Extra radish seeds cannot be yielded.
+
+Totems [ ]
+
+A radish totem will collect and replant fully-grown radishes in a 3-block radius, which can then be collected by interacting it. A radish totem placed next to a conveyor belt will drop the radishes onto the conveyor. This process cannot yield extra radish seeds.
+
+Growth [ ]
+
+The growth time of radishes can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Radish Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 2m 5s 4m 10s 6m 10s Note: The durations of time above are on an unfertilized and unwatered plant Radish Growth Time Type Growth Time Normal 6m 10s Fertilized 4m 56s Watered 4m 56s Watered + Fertilized 4m 19s
+
+Usage [ ]
+
+Crate-packing [ ]
+
+Image Name Recipe Crafting station Crate of Radishes 100 Radish Crate Packer Large Crate of Radishes 250 Radish Tier 2 Crate Packer
+
+Yaks [ ]
+
+Holding radishes will make any yak in the nearby vicinity to approach the player. Radishes can also be manually fed to yaks.
+
+Eating [ ]
+
+Eating a radish restores 10 HP.
+
+Selling [ ]
+
+Radishes can be sold to Cletus during the spring on the player's island for 64 coins each.
+
+History [ ]
+
+March 13, 2021 Added radishes. June 4, 2021 Radishes can now be packed into crates of radishes . August 15, 2021 Radishes can now be packed into large crates of radishes . January 11, 2022 Introduced a bug that prevented players from selling radishes to Cletus . January 18, 2022 Fixed the bug that prevented players from selling radishes to Cletus. February 19, 2022 Changed the sell price of radishes from 64 coins to 70 coins. March 6, 2022 Changed the model of radishes. March 12, 2022 Changed the sell price of radishes from 70 coins to 64 coins. March 25, 2022 Radishes can now be used to feed yaks . June 18, 2022 Changed the sell price of radishes from 64 coins to 58 coins. July 16, 2022 Changed the sell price of radishes from 58 coins to 64 coins. July 23, 2022 Changed the sell price of radishes from 60 coins to 64 coins. July 30, 2022 Changed the sell price of radishes from 64 coins to 60 coins. September 17, 2022 Changed the sell price of radishes from 64 coins to 59 coins.
+
+Trivia [ ]
+
+Contrary to the seed description, radishes can grow in any season . Radishes are one of the only crops not able to be crafted into food, the others being Blackberries , Watermelons , Pumpkins , Plums , Kiwi , and Coconut . It is also the only seasonal crop that can be fed to a animal (that you spawned) on your island.

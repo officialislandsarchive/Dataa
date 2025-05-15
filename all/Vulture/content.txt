@@ -1,0 +1,71 @@
+Source: https://robloxislands.fandom.com/wiki/Vulture
+
+----------------------------------------
+
+Vulture Behavior Passive Effect Speed (Currently doesn't indicate when mounted) Location Player's Island A vulture is a medium passive mob added in the March 17, 2023 update. It can be spawned from a vulture spawn egg and can be mounted when fully grown.
+
+It is the ninth and final animal passive mob in Islands .
+
+Spawning [ ]
+
+Vultures can be spawned through a vulture spawn egg , which can be bought from Rick . Higher-tier eggs can be obtained by breeding two vultures.
+
+Behavior [ ]
+
+Dropping feathers [ ]
+
+Vultures will drop feathers shortly after being fed with their favorite foods or carp . If there is a nest nearby it might drop a feather onto it, but it's not guaranteed. Feathers on a grass block will not despawn.
+
+Sleeping [ ]
+
+When it becomes night in-game, vultures will go to sleep. While they can sleep anywhere and sometimes will, they prefer to sleep on a nest.
+
+Following [ ]
+
+Vultures will follow players that are holding carp .
+
+Breeding [ ]
+
+After two vultures have been given a potion of fertility each, they will breed, creating a vulture spawn egg . The egg will be of a tier between 1 and 3.
+
+Prior to May 1, 2023 , vultures currently cannot be bred.
+
+Inspecting [ ]
+
+Vultures can be inspected to show a menu that allows the player to see information about the vulture, listed below:
+
+Mount Sell value (Sell value depends on the vulture's happiness and tier) Information Food level Favorite foods Happiness level Traits (fertility, productivity, and friendliness) Personality
+
+Feeding [ ]
+
+Vultures can be fed approximately every 30-60 seconds (confirmation needed). Vultures can be lured with carp , but they also have their own favorite foods . They can have 3 favorite foods. The foods a vulture can have as its favorite foods are berry pies , sushi rolls , and starfruit cakes .
+
+Feeding a vulture will increase its food and friendliness level. The food level is necessary to keep above 20% or the vulture will start losing happiness.
+
+A wooden trough , metal trough , or automated trough can be used to feed vultures.
+
+Like other animals , if no troughs are in its vicinity, it will eat from a grass block , but doing so will not replenish its hunger meter nor give Animal Care XP.
+
+Petting [ ]
+
+A vulture can be pet every 5 minutes which increases its happiness level. The action yields 5 Animal Care XP (18 with the 4x daily bonus).
+
+Mounting [ ]
+
+Vultures can be mounted via the button in the inspect menu if the player is level 8 or higher in Animal Care. A mounted vulture can be ridden anywhere within the server. If the vulture is dismounted outside the player's island or falls into the void, the vulture will respawn on the island spawn point. Mounting a vulture will grant a 25% or 1.25x speed boost and does not fly. When the player taking any damage while mounting a vulture, it will no longer automatically be dismounted.
+
+Like mounting a horse and unlike mounting a duck or yak , the status effect of vulture is doesn't indicate when mounted.
+
+Personality [ ]
+
+Vultures are assigned a personality upon spawning. All personalities have the same probability, except for resourceful which is more uncommon.
+
+Personality Description Effects Trivia Lazy "Your vulture is lazy. They sleep for a long time, but gain a bit of happiness while sleeping." Vulture will sleep during the afternoon and evening, but will still gain happiness while sleeping. Level-headed "Your vulture is level-headed. They will not gain or lose happiness quickly." Self-Explanatory Loyal "Your vulture is loyal. They are extra happy around players and animals but can become very lonely when left alone." Vultures will gain happiness faster if players and/ or animals are within an unknown number blocks, but will lose happiness fast if they are further than that threshold. Friendly "Your vulture is friendly. They will bring you extra gifts." Unknown Resourceful "Woah! Your vulture is resourceful. They will produce items faster than other animals." Vultures will make products faster than normal. This is the rarest personality.
+
+History [ ]
+
+March 17, 2023 Added vultures. Introduced where vultures are now able to eat grass blocks if no troughs are nearby. Introduced a bug where vultures cannot be bred with potions of fertility . March 31, 2023 Vultures can now be mounted. Introduced where the status effect icon doesn't indicate when mounting a vulture. Vultures can now drop feathers onto nests and industrial nests instead of around them. May 1, 2023 Vultures can now be bred with potions of fertility to obtain higher tier eggs. May 12, 2023 Fixed a bug where players couldn't breed vultures.
+
+Trivia [ ]
+
+Prior to March 31, 2023 , vultures cannot be mounted. Prior to May 1, 2023 , vultures cannot be bred with potions of fertility . Unlike mounting a duck or yak , the vulture is the second animal mount that doesn't indicate a status effect icon when mounted due to its permanently boost, with the first being horse . Vultures, turkeys , and horses are the only three animals that doesn't have a looking or petted animation. Like mounting a turkey or horse, the vulture able to turn around while camera lock or first-person view then jumping and mounting. Unlike turkeys, vultures count as small animal instead of medium animal. The hitbox of players is slightly increased when mounting a vulture.

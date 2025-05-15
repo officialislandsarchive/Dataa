@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Seaweed_Seeds
+
+----------------------------------------
+
+Seaweed Seeds Planted on Pond Planter Description Placed in a pond instead of soil. Seaweed seeds are seeds used to grow seaweed .
+
+Obtaining [ ]
+
+Fishing [ ]
+
+Seaweed seeds can be obtained from fishing using any fishing rod with the rarity of "rare".
+
+Harvesting [ ]
+
+Harvesting seaweed will give 1 - 4 seaweed and 1 seaweed seed.
+
+Usage [ ]
+
+Planting [ ]
+
+Seaweed seeds can be planted in pond planters to be grown into seaweed.
+
+Growth [ ]
+
+Seaweed Seeds Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 0s 2m 5s 3m 10s Note: The durations of time above are on an unfertilized and unwatered plant Seaweed Seeds Growth Time Type Growth Time Normal 3m 10s Fertilized ? Watered ? Watered + Fertilized ?
+
+History [ ]
+
+November 13, 2021 Added seaweed seeds. May 27, 2022 Increased the chances of getting seaweed seeds when fishing .
+
+Trivia [ ]
+
+Despite showing that seaweed seeds are a merchant offer unlocked at level 39 Farming in the Farming skill roadmap, seaweed seeds can only be obtained from fishing . They are the only seeds that can be obtained from fishing. In real life, seaweeds do not produce seeds. When holding seaweed seeds, one fourth of the green icon turns white.

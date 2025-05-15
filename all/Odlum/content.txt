@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Odlum
+
+----------------------------------------
+
+Odlum Location Pirate Island Purpose Offers quests that reward Doubloons Occupation Fisherman Pirate Odlum is a villager that offers quests to the player and purchases fish exclusive to Pirate Island . He was added in the July 17, 2021 update.
+
+Shop [ ]
+
+Selling [ ]
+
+Image Name Sell Price Puffer Fish 50 coins Shark 1,000 coins
+
+Quests [ ]
+
+Upon completion, Doubloons can be claimed by the player when they return to Odlum.
+
+Quest Reward Capture 3 puffer fish . 5 Doubloons Catch 10 fish from the Pirate Island Rivers. 10 Doubloons Capture 1 sharks [sic] . 5 Doubloons
+
+Dialogue [ ]
+
+Pirate Island [ ]
+
+On the Pirate Island, Odlum will say this:
+
+"Caught any fish for me, user ?" >View Shop End and opens shop. >View Quests End and opens quests.
+
+Fishing Festival 2022 [ ]
+
+At the Fishing Festival Island during the Fishing Festival 2022 , Odlum will say this:
+
+"Y'arr, fishin' be me fav'rit thing ta do. Bring me tickets, 'n I'll reward ye for pleasin' an ol' pirate." >Redeem Tickets End and opens fishing festival shop. >View Shop End and opens shop.
+
+History [ ]
+
+July 17, 2021 Added Odlum. May 13, 2022 Introduced a bug that prevented Odlum's quests from saving. Removed Odlum's blank fourth quest slot. May 14, 2022 Fixed a bug that prevented Odlum's quests from saving. June 3, 2022 Removed Odlum's quests. July 23, 2022 Added Odlum to the Fishing Festival Island during the Fishing Festival 2022 event.

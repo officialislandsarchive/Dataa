@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Scratching_Post
+
+----------------------------------------
+
+Scratching Post Empty Full Type of block Solid block; Interactable Recipe 1 Ancient Slime String 1 Oak Fence Crafted with Animal Bench Required skill Level 28 Animal Care Best tool Luminous Transparent
+
+The scratching post is a block that is used to collect wool off of sheep .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Scratching Post 1 Oak Fence 1 Ancient Slime String Animal Bench Level 28 Animal Care
+
+Breaking [ ]
+
+Scratching Post Breaking Data Hardness 4 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 6 Stone 7 4 Iron 4 3 Gilded Steel 3 2 Diamond 2 2 Opal 2 1 Void Mattock 1
+
+Usage [ ]
+
+Collecting wool [ ]
+
+When a sheep is ready to be sheared it will walk over to a scratching post and it will scratch one wool off itself. A scratching post can hold up to four wool at a time.
+
+History [ ]
+
+January 22, 2021 Added scratching posts.
+
+Trivia [ ]
+
+This is the only item or block crafted with a fence .
+
+The Scratching Post dosen't give Animal Care XP when collecting wool

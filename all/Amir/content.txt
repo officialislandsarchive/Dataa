@@ -1,0 +1,17 @@
+Source: https://robloxislands.fandom.com/wiki/Amir
+
+----------------------------------------
+
+Amir Location Desert Island Purpose None Occupation Merchant Amir is a villager located in the city of Azarath , located on Desert Island .
+
+Dialogue [ ]
+
+"Hey, I'm importing fresh products, come back when I've set up shop." >Okay End.
+
+History [ ]
+
+May 8, 2021 Added Amir. July 30, 2022 Added dialogue for Amir in the "Desert Heat" quest .
+
+Trivia [ ]
+
+Amir uses the idle animation from the superhero animation pack .

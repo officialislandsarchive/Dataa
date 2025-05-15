@@ -1,0 +1,41 @@
+Source: https://robloxislands.fandom.com/wiki/Rob
+
+----------------------------------------
+
+Rob Location Hub Purpose Selling furniture and storing extra coins for the player. Occupation Banker Rob is a villager located in the Hub . Players can buy economy-related furniture from them and also deposit or withdraw money into and from the player's bank.
+
+Shop [ ]
+
+Selling [ ]
+
+Image Name Price Coin Pile 2,500 coins Cash Pile 5,000 coins Security Safe 15,000 coins Security Rope 7,500 coins Security Window 9,500 coins
+
+Bank [ ]
+
+Players can store and withdraw coins to Rob anytime with no charge per transaction or interest. There is a coin capacity that can be increased by upgrading the bank's current tier for coins. It will display the player's current balance in their account and on hand as well.
+
+Upgrading [ ]
+
+The formula for the upgrade cost is
+
+P ( n ) = { 0 n < 1 2 n − 1 × 100,000 1 ≤ n < 5 2 n − 1 × 1,000,000 n ≥ 5 {\displaystyle P(n) = \begin{cases}
+0 & n<1\\
+2^{n-1}\times100{,}000 & 1 \leq n < 5\\
+2^{n-1}\times1{,}000{,}000 & n \geq 5\end{cases}
+}
+
+Where n {\displaystyle n} is the tier number.
+
+Tier Upgrade cost Tier coin capacity 0 None 1B coins 1 100,000 coins 1.25B coins 2 200,000 coins 1.5B coins 3 400,000 coins 2B coins 4 800,000 coins 5B coins 5 16,000,000 coins 7.5B coins 6 32,000,000 coins 10B coins 7 64,000,000 coins 25B coins 8 128,000,000 coins 50B coins 9 256,000,000 coins 75B coins 10 512,000,000 coins 100B coins
+
+Dialogue [ ]
+
+"Well if it isn't my favorite client! What can I do you for?" >View Shop Leads to shop. >View Account Leads to the player's bank account.
+
+History [ ]
+
+November 25, 2022 Added Rob. December 2, 2022 Shared accounts can now be purchased from Rob.
+
+Trivia [ ]
+
+Their name may be a reference to the phrase "Rob the Bank".

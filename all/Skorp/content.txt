@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Skorp
+
+----------------------------------------
+
+Drops [ ]
+
+Iron Skorp [ ]
+
+Image Name Drop chance Iron Skorp Scale 150% Desert Portal Shard 0.02% Bhaa Token 500%
+
+Gold Skorp [ ]
+
+Image Name Drop chance Gold Skorp Scale 150% Gold Skorp Claw 30% Desert Portal Shard 0.025% Bhaa Token 1000%
+
+Ruby Skorp [ ]
+
+Image Name Drop chance Ruby Skorp Scale 150% Ruby Skorp Claw 10% Desert Portal Shard 0.05% Bhaa Token 2500%
+
+Jukebox drops [ ]
+
+All hostile mobs, skorps included have the chance of dropping jukebox disks .
+
+Image Name Drop chance Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Statistics [ ]
+
+Image Name Rarity Damage Effect Health Speed Resistances Weaknesses Physical Magical Physical Magical Iron Skorp Common 35 Food Poison 500 12 None Storm Slashing Quake Gold Skorp Uncommon 30 Food Poison 800 10 None Storm Slashing Quake Ruby Skorp Rare 45 Food Poison 1200 13 Piercing Storm , Ethereal Striking Quake , Void

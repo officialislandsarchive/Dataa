@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Empty_Potion_Bottle
+
+----------------------------------------
+
+Empty Potion Bottle Dropped by Wizard Lizard Wizard Boss Sell price 20 coins Required skill (to sell) Level 20 Combat An empty potion bottle is an item dropped by the wizard lizard and Wizard Boss .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Wizard lizards are guaranteed to drop 1 empty potion bottle upon defeat and has a 50% chance of dropping 2, and the Wizard Boss is guaranteed to drop 15 empty potion bottles upon defeat.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Wizard Island Orb 10 Glass Block 15 Empty Potion Bottle 10 Red Mushroom 5 Daffodil Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 20 Combat Brewing Stand 300 Maple Wood 100 Iron Ingot 10 Empty Potion Bottle Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 40 Cooking Regen Potion 1 Starfruit 1 Red Mushroom 1 Empty Potion Bottle Brewing Stand Level 40 Cooking Strength Potion 1 Gold Skorp Claw 1 Red Mushroom 1 Empty Potion Bottle Brewing Stand None Void Potion 3 Amethyst Crystal 1 Empty Potion Bottle 5 Void Parasite Brewing Stand None
+
+Selling [ ]
+
+Empty potion bottles can be sold to Ivon for 20 coins each after reaching level 20 Combat .
+
+History [ ]
+
+July 17, 2020 Added empty potion bottles. August 9, 2020 Empty potion bottles can now be used to craft brewing stands , regen potions , and strength potions . April 4, 2021 Empty potion bottles can now be dropped by the Wizard Boss . April 9, 2022 Empty potion bottles can now be used to craft Wizard Island orbs . August 13, 2022 Empty potion bottles can now be used to craft void potions .

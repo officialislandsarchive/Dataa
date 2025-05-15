@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Firefly_Garden_Light
+
+----------------------------------------
+
+Firefly Garden Light Type of block Solid block; Interactable Recipe 1 Yellow Firefly Jar 25 Oak Wood Crafted with Lighting Station Best tool Luminous Transparent
+
+Firefly garden lamps are decorative blocks that can be crafted in a lighting station after purchasing the gamepass . It emits different color light based on the type of firefly placed inside.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Firefly garden lights can only be crafted in a lighting station by players that own its gamepass.
+
+Name Recipe Crafting station Firefly Garden Light 1 Yellow Firefly Jar 25 Oak Wood Lighting Station
+
+Breaking [ ]
+
+Firefly Garden Light Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Colored light [ ]
+
+Firefly garden lamps can be used to light up areas or just for decoration. Clicking/tapping on it while holding a firefly jar will change the color of the light to the firefly's color. When first placed, it emits white light. If the player adds a firefly inside the lamp, and there was a firefly added already, the firefly already added will be given back to the player.
+
+History [ ]
+
+September 6, 2020 Added firefly garden lights.
+
+Trivia [ ]
+
+Despite being crafted with a yellow firefly jar it won't emit yellow light unless a yellow firefly is added inside.

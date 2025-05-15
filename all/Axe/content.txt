@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Axe
+
+----------------------------------------
+
+This article is about woodcutting axes. For weapon axes, see Iron War Axe or Kong's Axe .
+
+Axe Wood Stone Iron Gilded Steel Diamond Opal Type Tool Recipe Wooden: 3 Oak Wood Stone: 20 Stone , 10 Oak Wood Iron: 20 Iron Ingot , 10 Oak Wood Gilded Steel: 3 Gilded Steel Rod , 40 Iron Ingot , 100 Gold Ingot Diamond: 50 Diamond , 5 Gilded Steel Rod Opal: 1 Opal Axe Hilt , 50 Opal , 100 Iron Ingot Crafted with Wooden & Stone: Workbench Tier 1 Workbench Tier 2 , Workbench Tier 3 Workbench Tier 4 Iron, Gilded Steel, Diamond, & Opal: Anvil Required skill Wood & Stone: None Iron: Level 4 Woodcutting Gilded Steel: Level 26 Woodcutting Diamond & Opal: Level 44 Woodcutting Axes are tools used to hasten the collection of wood . They allow the player to chop down trees and other specific blocks at a faster pace than a pickaxe would. The speed in which it breaks blocks increases depending on its material and the Woodcutting skill.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Required skill Wooden Axe 3 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Stone Axe 20 Stone 10 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Iron Axe 20 Iron Ingot 10 Oak Wood Anvil Level 4 Woodcutting Gilded Steel Axe 3 Gilded Steel Rod 40 Iron Ingot 100 Gold Ingot Anvil Level 26 Woodcutting Diamond Axe 50 Diamond 5 Gilded Steel Rod Anvil Level 44 Woodcutting Opal Axe 1 Opal Axe Hilt 50 Opal 100 Iron Ingot Anvil Level 55 Woodcutting
+
+Spawning [ ]
+
+Upon starting a new save slot or joining the game for the first time, each player is automatically given a wooden axe in their inventory .
+
+Usage [ ]
+
+Chopping trees [ ]
+
+Axes can be used to chop down trees . The number of hits required to break it is based on the player's Woodcutting level. The rarity of the axe also depend on the speed in which it breaks something, listed below from weakest to strongest:
+
+Wooden Stone Iron Gilded Steel Diamond Opal Void Mattock
+
+Breaking blocks [ ]
+
+Axes can be used to break general blocks on player islands . A player's Woodcutting level does NOT affect how many hits it takes to break them, but higher-tier axes break blocks faster than lesser ones.
+
+History [ ]
+
+April 10, 2020 Added wooden, stone, and iron axes. May 17, 2020 Added gilded steel axes. May 18, 2020 Changed the gilded steel axe's recipe from 20 gilded steel rods , 20 iron , and 20 gold to 5 gilded steel rods, 40 iron, and 100 gold. ? Wooden and stone axes can be bought from Thomas for 15 shells . ? Removed wooden and stone axes from Thomas's shop. ? Removed animations for axes when breaking blocks . January 22, 2021 Level 2 Woodcutting , level 4 Woodcutting, and level 26 Woodcutting are now required to craft stone, iron, and gilded steel axes respectively. February 12, 2021 Added diamond axes. July 23, 2021 Stone axes no longer require level 2 Woodcutting to craft. The wooden axe can now be crafted in the workbench tier 1 , workbench tier 2 , and workbench tier 3 . September 11, 2021 Added opal axes. April 22, 2022 Gilded steel axes can now be placed in tool stands . May 27, 2022 3 gilded steel rods are now required to craft gilded steel axes, down from 5. Level 44 Woodcutting is now required to craft opal axes.
+
+Trivia [ ]
+
+The wooden axe cannot be dropped. The only way to lose the wooden axe is to sell it in a vending machine , put it in an industrial chest and output the axe into the void, or trade it away to another player. The diamond axe had an older concept where its blade was longer. The opal axe used to glow. The opal axe is also the only axe that faces left in user interfaces. The Void Mattock is both an Axe and a Pickaxe .

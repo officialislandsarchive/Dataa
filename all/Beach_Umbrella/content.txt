@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Beach_Umbrella
+
+----------------------------------------
+
+Beach Umbrella Type of block Solid block Recipe 10 Iron Ingot 3 Red Flower Crafted with Furniture Workbench Best tool Luminous Transparent
+
+The beach umbrella is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Beach Umbrella 10 Iron Ingot 3 Red Flower Furniture Workbench
+
+Breaking [ ]
+
+Beach Umbrella Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+May 31, 2020 Added beach umbrellas. June 3, 2022 A beach umbrella blueprint is no longer required to unlock the recipe of beach umbrellas.

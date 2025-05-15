@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Steel_Bolt
+
+----------------------------------------
+
+Steel Bolt Recipe 10 Steel Ingot Crafted with Steel Press + Bolt Factory Mold Description A basic steel bolt used for crafting A steel bolt is an item crafted with steel .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+The steel bolt can be obtained by crafting it in a steel press with 10 steel ingots .
+
+Input Machinery + mold Output 10 Steel Ingot Steel Press + Bolt Factory Mold 1 Steel Bolt
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Industrial Polishing Station 1 Gearbox 3 Steel Rod 10 Steel Bolt Workbench Tier 3 Workbench Tier 4 Large Diamond Chest 30 Diamond 5 Enchanted Diamond 20 Steel Plate 15 Steel Bolt Workbench Tier 4 Expanded Diamond Chest 50 Diamond 10 Enchanted Diamond 40 Steel Plate 30 Steel Bolt Workbench Tier 4 Gearbox 10 Copper Rod 50 Steel Bolt 25 Steel Plate Anvil Firework Launcher 100 Iron Ingot 50 Steel Bolt Electrical Workbench (Level 1) Totem Disabler 10 Red Bronze Ingot 10 Steel Bolt 100 Electrite Electrical Workbench (Level 3)
+
+Upgrading [ ]
+
+The steel bolt can be used to upgrade the electrical workbench to level 3.
+
+Electrical Workbench Level 3 upgrade 450 Steel Ingot 50 Steel Bolt 10 Copper Plate 750 Electrite
+
+History [ ]
+
+September 18, 2020 Added steel bolts. November 4, 2022 Steel bolts can now be used to craft large diamond chests and expanded diamond chests .

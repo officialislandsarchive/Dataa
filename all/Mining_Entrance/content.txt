@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Mining_Entrance
+
+----------------------------------------
+
+Mining Entrance Type of block Solid block Best tool Luminous Transparent Description ???
+
+A mining entrance is a mining-themed furniture block that can be obtained by purchasing from Jed .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Mining entrances can be purchased from Jed for 100 emerald crystals .
+
+Breaking [ ]
+
+Mining Entrance Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+April 28, 2023 Added mining entrances. May 12, 2023 Mining entrances are made unobtainable.

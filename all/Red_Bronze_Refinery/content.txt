@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Red_Bronze_Refinery
+
+----------------------------------------
+
+Red Bronze Refinery Type of block Solid block; Interactable Recipe 100 Steel Plate 250 Copper Rod 25 Steel Rod Crafted with Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent The red bronze refinery is an industrial machine used to auto-craft red bronze ingots .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Red Bronze Refinery 100 Steel Plate 250 Copper Rod 25 Steel Rod Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Red Bronze Refinery Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Auto-crafting [ ]
+
+Image Name Recipe Red Bronze Ingot 2 Gold Ingot 30 Copper Ingot
+
+History [ ]
+
+September 18, 2020 Added red bronze refineries.
+
+Trivia [ ]
+
+This machine shares a similar model as the steel mill , but has pastel-orange details instead of blue ones. Items in the red bronze refinery disappear after a certain amount of time.

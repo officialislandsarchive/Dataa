@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Jukebox_Disk
+
+----------------------------------------
+
+Jukebox Disk Red Blue Yellow Purple Green Orange Indigo White (Unused) Rainbow (Unused) Dropped by Mobs and players Buy cost Indigo Jukebox Disk: 3,500 Crops Description A rare jukebox disk! Jukebox disks are items that can play various songs when used in a jukebox .
+
+Obtaining [ ]
+
+Mob drops [ ]
+
+Any hostile mob or player [ Only on PvP Island or Snowball Fight ] has a chance of dropping any jukebox disk except for the indigo jukebox disk when defeated.
+
+Image Name Drop chance Red Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Purple Jukebox Disk 0.01% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01%
+
+Purchasing [ ]
+
+The indigo jukebox disk could have been purchased from Cletus on Farming Festival Island for 3,500 crops .
+
+Image Name Price Indigo Jukebox Disk 3,500 Crops
+
+Usage [ ]
+
+Jukebox disks can be played in a jukebox by holding the item and clicking on a jukebox. However, only players who own the jukebox gamepass are able to play the disks in a jukebox.
+
+Image Name Song Red Jukebox Disk Galaxies - Protostar Blue Jukebox Disk Shiawase - Dion Timmer Yellow Jukebox Disk Ephixa - Dreamstate Purple Jukebox Disk The Storm - Notaker Green Jukebox Disk Amnesia - Pixel Terror Orange Jukebox Disk Gold - Koven Indigo Jukebox Disk Farming Festival - TooManyFish
+
+Rainbow jukebox disk [ ]
+
+The rainbow jukebox disk is an unobtainable disk that can only be seen in a jukebox if it is playing a song with an unassigned jukebox disk. The following songs will be displayed as a rainbow jukebox disk if played:
+
+Title Roblox Asset ID Artist Crab Rave 5410086218 Noisestorm Nocturne OP. 9/2 1848041872 Chopin Uptown 1845554362 APM Music EPIC 5410085694 Tokyo Machine Heat Wave 5410083226 Tony Romera Fade 279463893 Alan Walker Spectre 279207008 Alan Walker
+
+Unreleased disks [ ]
+
+Currently, the white jukebox disk is the only unimplemented jukebox disk. It is not obtainable and does not have any assigned song.
+
+Trivia [ ]
+
+Like the white jukebox disk, the indigo jukebox disk was originally unimplemented into the game before its addition to the game in the Farming Festival update, where it was then able to be bought from Cletus .

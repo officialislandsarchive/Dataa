@@ -1,0 +1,13 @@
+Source: https://robloxislands.fandom.com/wiki/Forging
+
+----------------------------------------
+
+Forging Class Production Base Stats None Unlocks Lowest Unlock LVL 8 Highest Unlock LVL 40 Forging is a skill used to unlock industrial items . Experience can be earned by smelting ores .
+
+Roadmap [ ]
+
+Level Unlock(s) Level 8 Industrial Smelter Crafting Recipe Conveyor Belt Crafting Recipe Industrial Chest Crafting Recipe Level 12 Right Conveyor Belt Crafting Recipe Left Conveyor Belt Crafting Recipe Level 15 Industrial Sawmill Crafting Recipe Level 17 Industrial Oven Crafting Recipe Level 18 Drill Crafting Recipe Level 22 Industrial Stonecutter Crafting Recipe Level 24 Polishing Station Crafting Recipe Industrial Polishing Station Crafting Recipe Level 25 Food Processor Crafting Recipe Level 27 Industrial Washing Station Crafting Recipe Level 30 Copper Press Crafting Recipe Level 32 Steel Press Crafting Recipe Gearbox Merchant Offer Level 36 Conveyor Sensor Crafting Recipe Level 40 Input/Output Chest Crafting Recipe
+
+Trivia [ ]
+
+There used to be a glitch were a player did not get XP from smelting iron , but XP orbs still did appear. This was later patched.

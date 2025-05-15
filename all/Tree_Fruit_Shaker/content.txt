@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Tree_Fruit_Shaker
+
+----------------------------------------
+
+Tree Fruit Shaker Type of block Solid block; Interactable Recipe 5 Red Bronze Ingot 2 Copper Plate 5 Steel Rod Crafted with Workbench Tier 4 Best tool Luminous Transparent A tree fruit shaker is an industrial machine used to automatically harvest fruit off of fruit trees .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Tree Fruit Shaker 5 Red Bronze Ingot 2 Copper Plate 5 Steel Rod Workbench Tier 4
+
+Breaking [ ]
+
+Tree Fruit Shaker Breaking Data Hardness 6 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 9 18 Stone 6 10 Iron 4 6 Gilded Steel 3 5 Diamond 2 3 Opal 2 3 Void Mattock 2
+
+Usage [ ]
+
+Harvesting fruit [ ]
+
+To use the tree fruit shaker, the player must have a fruit tree in-between the machine's "forks", then power the machine using a petroleum pipeline on its side. Once the tree has grown a fruit , the fruit shaker will harvest the fruit and output it through a conveyor belt at the side. When powered with petroleum fuel , the tree fruit shaker will activate for approximately 1 minute.
+
+History [ ]
+
+August 15, 2021 Added tree fruit shakers. August 16, 2021 Changed the recipe to require 5 steel rods instead of 5 copper plates .
+
+Trivia [ ]
+
+The tree fruit shaker shared the same recipe as the sapling automatic planter on release until it was changed the following day. The tree fruit shaker cannot harvest extra saplings of the tree it shook.

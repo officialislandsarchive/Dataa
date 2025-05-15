@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Lunar_Rabbit_Statue
+
+----------------------------------------
+
+Lunar Rabbit Statue Type of block Solid block Best tool Luminous Transparent A Lunar Rabbit Statue is a furniture block that gives a jump boost when approached.
+
+Obtaining [ ]
+
+Envelope 2023 [ ]
+
+Opening either a red envelope 2023 or a gold envelope 2023 has a 1% and 3% chance of rewarding a Lunar Rabbit statue respectively.
+
+Buff [ ]
+
+The block when placed gives infinite jump boost when a player is in range of the item. This is very helpful to get to higher places. The range of the rabbit statue's jump boost effect is  12 x12 x12 blocks in every direction. However immediately after exceeding the statues range there is a temporary effect afterwards.
+
+When a player is in range a jump boost icon will appear on the screen.
+
+Press F to disable then renable the statue.
+
+History [ ]
+
+January 20, 2023 Added Lunar Rabbit statues. February 3, 2023 Lunar Rabbit statues are now tradable.
+
+Gallery [ ]

@@ -1,0 +1,34 @@
+Source: https://robloxislands.fandom.com/wiki/Void_Mattock
+
+----------------------------------------
+
+Void Mattock Type Tool Recipe 1 Void Mattock Hilt 100 Amethyst Crystal 15 Gilded Steel Rod Crafted with Anvil Required skill Level 58 Mining A void mattock is a tool that doubles as a pickaxe and an axe . The speed in which it breaks certain blocks increases depending on the player's Mining or Woodcutting skill. 
+It is currently the best Mining and Woodcutting tool in the game.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Void Mattock 1 Void Mattock Hilt 100 Amethyst Crystal 15 Gilded Steel Rod Anvil Level 58 Mining
+
+Usage [ ]
+
+Mining [ ]
+
+The void mattock can be used to break ore rocks and resource blocks . The number of hits required to break it is based on the player's Mining level.
+
+Chopping trees [ ]
+
+The void mattock can be used to chop down trees . The number of hits required to break it is based on the player's Woodcutting level.
+
+Breaking blocks [ ]
+
+The void mattock can be used to break general blocks on player islands . A player's Mining and Woodcutting level does NOT affect how many hits it takes to break them, and blocks that break faster with a specific tool will break faster when using a void mattock.
+
+History [ ]
+
+August 20, 2022 Added void mattocks.
+
+Trivia [ ]
+
+Void mattocks are the first multitool in Islands , the second being Greg's Hammer .

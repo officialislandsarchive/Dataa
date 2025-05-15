@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Pink_Sticky_Gear
+
+----------------------------------------
+
+Pink Sticky Gear Dropped by Pink Slime Slime King Slime Queen Description Valuable advanced crafting component A pink sticky gear is a crafting ingredient uncommonly dropped by pink slimes , the Slime King , and the Slime Queen .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Pink slimes and the Slime King have a 10% chance of dropping a pink sticky gear upon defeat.
+
+The Slime Queen drops 0 - 1 ( 50% ) pink sticky gears upon defeat.
+
+Draven dropped 3 - 5 pink sticky gears upon defeat.
+
+Treasure chest [ ]
+
+Opening a Slime Island treasure chest has a 1% chance of rewarding a pink sticky gear, having a rarity of 'Mythic'.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Industrial Smelter 1 Pink Sticky Gear 8 Steel Rod Workbench Tier 3 Workbench Tier 4 Level 8 Forging Pallet Packer 3 Pink Sticky Gear 10 Steel Rod 30 Oak Wood Workbench Tier 3 Workbench Tier 4 None Industrial Merchant Teleseller 200 Red Bronze Ingot 10 Steel Plate 1 Pink Sticky Gear Workbench Tier 4 None Vending Machine Tier 2 3 Pink Sticky Gear 3 Blue Sticky Gear 500 Red Bronze Ingot Workbench Tier 4 Level 70 Economy Wool Vacuum 1 Pink Sticky Gear 1 Gearbox 1 Medium Chest Animal Bench Level 47 Animal Care Steel ATM 1 Pink Sticky Gear 3 Blue Sticky Gear 250 Steel Ingot 25 Electrite Workbench Tier 4 None Gold ATM 1 Pink Sticky Gear 3 Blue Sticky Gear 25 Gold Ingot 25 Electrite Workbench Tier 4 None Diamond ATM 1 Pink Sticky Gear 3 Blue Sticky Gear 5 Diamond 25 Electrite Workbench Tier 4 None Blueprint required Syrup Bottler 1 Pink Sticky Gear 3 Steel Plate 20 Copper Ingot Maple Workbench None
+
+History [ ]
+
+May 2, 2020 Added pink sticky gears. May 26, 2020 Increased the drop chance of pink sticky gears from 0.333% to 10%. January 22, 2021 Pink sticky gears can now be used to craft wool vacuums . March 13, 2021 Pink sticky gears can now be dropped from the Slime King . August 21, 2021 Pink sticky gears can now be used to craft vending machine tier 2s and pallet packers . November 27, 2021 Pink sticky gears can now be used to craft syrup bottlers . April 16, 2022 Pink sticky gears can now be opened from Slime Island treasure chests . May 20, 2022 1 pink sticky gear is now required to craft an industrial smelter , down from 3. June 25, 2022 Pink sticky gears can now be used to craft industrial merchant telesellers . July 2, 2022 Pink sticky gears can now be dropped from the Slime Queen . December 16, 2022 Pink sticky gears can now be used to craft ATMs . April 28, 2023 Pink sticky gears can now be dropped from Draven . May 12, 2023 Pink sticky gears can no longer be dropped from Draven.

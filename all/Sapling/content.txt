@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Sapling
+
+----------------------------------------
+
+Sapling Apple Avocado Birch Hickory Lemon Maple Oak Orange Pine Palm Spirit Kiwi Plum Cherry Blossom Type of block Non-solid [ 1 ] block Buy cost See Purchasing Best tool Luminous Transparent A sapling is a non-solid [ 1 ] block that can grow into a tree .
+
+Obtaining [ ]
+
+Trees [ ]
+
+All trees will drop 3 - 4 of their respective wood type when cut down and automatically replant themselves in the form of saplings. Turning off the auto-replant setting will make the chopped tree drop its sapling instead.
+
+Purchasing [ ]
+
+Name Cost Required skill Villager Avocado Tree Sapling 8,000 coins Level 16 Woodcutting Cletus Birch Sapling 500 coins Level 8 Woodcutting Cletus Hickory Sapling 2,000 coins Level 24 Woodcutting Cletus Maple Sapling 1,000 coins Level 11 Woodcutting Cletus Oak Sapling 50 coins None Cletus Pine Sapling 250 coins Level 3 Woodcutting Cletus Plum Tree Sapling 14,000 coins Level 30 Woodcutting Cletus Kiwi Sapling 80 doubloons None Terri Spirit Sapling 20 spirit jars None Catherine
+
+Harvesting [ ]
+
+Harvesting fruits from a fruit tree has a 3% chance of rewarding a bonus fruit tree sapling. Harvesting coconuts on Skull Island and kiwis on Pirate Island also had/have a 3% chance of rewarding a palm tree sapling and a kiwi tree sapling respectively.
+
+Breaking [ ]
+
+Sapling Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Growing trees [ ]
+
+All saplings will grow into trees when planted on grass given that there is enough space to grow. Unlike other saplings, palm tree saplings are also able to grow on sand .
+
+Most saplings require a differing amount of free space to grow:
+
+Name Growth duration Minimum spacing Pine Sapling 90 Seconds 3 Blocks Birch Sapling 90 Seconds 4 Blocks Palm Tree Sapling 92 Seconds Plum Tree Sapling 95 Seconds Maple Sapling 90 Seconds 5 Blocks Hickory Sapling 90 Seconds 6 Blocks Spirit Tree Sapling 95 Seconds Oak Sapling 90 Seconds 5 Blocks Lemon Tree Sapling 90 Seconds Apple Tree Sapling 110 Seconds 9 Blocks Orange Tree Sapling 110 Seconds Avocado Tree Sapling 90 Seconds 7 Blocks Kiwi Tree Sapling 120 Seconds 7-8 Blocks Cherry Blossom Sapling 90 Seconds 4-5 Blocks
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Hedge Plant 20 Oak Plank 1 Oak Sapling Furniture Workbench Leaves Plant 20 Oak Plank 1 Oak Sapling Furniture Workbench Potted Tree 1 Oak Sapling 20 Stone 5 Grass Furniture Workbench
+
+Notes [ ]
+
+Trivia [ ]
+
+Saplings that are unable to grow due to blocks in the way will still grow in the background. It will grow instantly when it gets enough space. Kiwi Tree Sapling has the longest growth time of 120 seconds (2 minutes.)

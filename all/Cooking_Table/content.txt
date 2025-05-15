@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Cooking_Table
+
+----------------------------------------
+
+Cooking Table Type of block Solid block; Interactable Recipe 30 Oak Wood 10 Iron Ingot Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description Used to craft basic cooked meals. The cooking table is a crafting station used to make food .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Cooking Table 30 Oak Wood 10 Iron Ingot Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Cooking Table Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Crafting recipes [ ]
+
+Crafting food in the cooking table gives various amounts of Cooking XP.
+
+Image Name Recipe Required skill Dough 3 Wheat None Berry Dough 1 Dough 5 Red Berry Level 2 Cooking Blueberry Dough 1 Dough 5 Blueberry Level 40 Cooking Tomato Sauce 3 Tomato Level 3 Cooking Tomato Soup 8 Tomato Sauce 4 Onion 1 Milk Bucket Level 36 Cooking Grape Jam 2 Grape Level 45 Cooking Jam Sandwich 8 Bread 4 Grape Jam Level 55 Cooking Uncooked Pizza 1 Dough 1 Tomato Sauce Level 3 Cooking Carrot Cake Batter 4 Dough 8 Carrot Level 7 Cooking Potato Salad 12 Potato 4 Tomato 4 Mayonnaise Jar Level 13 Cooking Uncooked Pineapple Pizza 1 Dough 1 Tomato Sauce 2 Pineapple Slice Level 14 Cooking Uncooked Apple Pie 1 Dough 3 Apple Level 22 Cooking Avocado Toast 1 Bread 2 Avocado Level 33 Cooking Lemon Bread Dough 1 Dough 3 Lemon Level 30 Cooking Orange Cake Batter 1 Dough 3 Orange Level 25 Cooking Uncooked Starfruit Cake 4 Dough 8 Starfruit Level 52 Cooking Roasted Honey Carrot 4 Roasted Carrot 4 Jar of Honey Level 28 Cooking Honey Toast 1 Bread 1 Jar of Honey Level 18 Cooking Candy Apple 4 Apple 12 Jar of Honey Level 60 Cooking Lemon Puff 4 Bread 12 Jar of Honey 4 Lemon Level 62 Cooking Orange Honeycomb 8 Honeycomb 8 Orange Level 65 Cooking Deviled Eggs 4 Egg 4 Mayonnaise Jar Level 20 Cooking Truffle Avocado Toast 1 Avocado Toast 1 Black Truffle Level 70 Cooking Truffle Pizza 1 Pizza 1 Black Truffle Level 66 Cooking Dragon Roll 1 Sushi Roll 2 Cut Eel 2 Avocado Level 72 Cooking Philadelphia Roll 1 Sushi Roll 1 Cut Salmon Level 63 Cooking Sushi Roll 5 Seaweed 10 Rice Level 63 Cooking Tai Nigiri 10 Rice 2 Cut Red Snapper Level 63 Cooking Tuna Roll 1 Sushi Roll 3 Cut Tuna Level 72 Cooking Dumpling 1 Dough 1 Egg 2 Spinach None Sweet Rice Cakes 3 Rice 1 Maple Syrup Bottle None Kue Keju 1 Egg 2 Cheese 1 Dough None Spring Rolls 1 Dough 1 Carrot 2 Spinach None Duck Eggs Benedict 1 Poached Duck Egg 1 Bread Level 42 Cooking Scrambled Duck Eggs 2 Poached Duck Egg Level 42 Cooking Potato and Duck Egg Scramble 1 Scrambled Duck Eggs 1 Baked Potato Level 42 Cooking Dragon Fruit Acai Bowl 1 Dragon Fruit 1 Starfruit 2 Blueberry 2 Raspberry None Dragon Fruit Ice Cream 1 Dragon Fruit 1 Starfruit 3 Blueberry 1 Milk Bucket None Bhutan Butter Tea 2 Yak Butter 1 Yak Milk Bucket 1 Water Bucket Level 49 Cooking Sweet Rice Dessert 1 Pineapple Slice 1 Rice 1 Yak Butter Level 49 Cooking Gondo Datshi 1 Tomato 1 Yak Butter 2 Chili Pepper 1 Egg Level 49 Cooking Fish and Chips 1 Cut Fish 5 Potato Level 15 Cooking Glass of Milk 1 Milk Bucket Level 42 Cooking Blueprint required Pancake Dough 9 Wheat None Sweet Pancakes 1 Pancakes 3 Maple Syrup Bottle None Berry Pancakes 1 Sweet Pancakes 6 Raspberry 6 Blueberry None Fhanhorn's Pancakes 1 Berry Pancakes 3 Fhanhorn's Flower Level 75 Cooking
+
+History [ ]
+
+April 10, 2020 Added cooking tables. May 7, 2020 Modified the appearance of the cooking table. May 10, 2020 Added recipes for berry dough , tomato sauce , tomato soup , grape jam , jam sandwich , and uncooked pizza . May 17, 2020 Added the recipe for carrot cake batter . May 26, 2020 Added the recipe for potato salad . June 26, 2020 Added recipes for uncooked apple pie , avocado toast , lemon bread dough , and orange cake batter . July 11, 2020 Added the recipe for uncooked starfruit cake . August 30, 2020 Added recipes for roasted honey carrot , honey toast , candy apple , lemon puff , and orange honeycomb . September 18, 2020 Improved the cooking table's user interface. February 26, 2021 Added the recipe for deviled eggs . July 23, 2021 Reordered items in the cooking table user interface. November 13, 2021 Added recipes for truffle avocado toast , truffle pizza , dragon roll , philadelphia roll , sushi roll , tai nigiri , and tuna roll . November 27, 2021 Added recipes for pancake dough , sweet pancakes , berry pancakes , and Fhanhorn's pancakes . January 8, 2022 Added the recipe for uncooked pineapple pizza . February 7, 2022 Added recipes for dumplings , sweet rice cakes , kue keju , and spring rolls . February 19, 2022 Added recipes for duck eggs benedict , scrambled duck eggs , and potato and duck egg scramble . February 27, 2022 Added recipes for dragon fruit acai bowls and dragon fruit ice cream . March 25, 2022 Added recipes for Bhutan butter tea , sweet rice desserts , and gondo datshis . May 20, 2022 Added the recipe for fish and chips . July 23, 2022 Added recipes for blueberry dough and glasses of milk .

@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Animal_Well-Being_Kit
+
+----------------------------------------
+
+Animal Well-Being Kit Recipe 5 Iron Ingot 20 Oak Wood Crafted with Animal Bench Required skill Level 2 Animal Care The animal well-being kit was an item that was previously needed to inspect farm animals. It can no longer be crafted and does not have a use.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Before the February 12, 2021 update, the animal well-being kit could be crafted with the recipe below.
+
+Name Recipe Crafting station Required skill Before February 12, 2021 Animal Well-Being Kit 5 Iron Ingot 20 Oak Wood Animal Bench Level 2 Animal Care
+
+Removal [ ]
+
+The animal well-being kit was removed on February 12, 2021 due to the added ability to inspect animals by pressing "F" or tapping on it, thus making the kit redundant.
+
+Usage [ ]
+
+Inspection Interface [ ]
+
+Happiness Bar: This bar indicated how much bond the animal had toward player. The more hearts that are full the animal had, the more often the animal would provide their product ( milk from cows , wool from sheeps , and truffles from pigs ). The animal's happiness could have been increased by petting or feeding it more often. Hunger Bar: This bar had shown if the animal needed to be fed. Feeding the animal would refill the hunger bar, which affected its happiness. If the animal's hunger bar had dropped drastically, it will lose its happiness. Favorite Food: This data displayed what food the animal enjoys and what it could eat other than their main food. Feeding their favorite foods would increase their happiness.
+
+Gallery [ ]

@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Pumpjack
+
+----------------------------------------
+
+Pumpjack Type of block Solid block; Interactable Recipe 20 Red Bronze Ingot 1 Pipe 15 Steel Rod Crafted with Workbench Tier 4 Best tool Luminous Transparent A pumpjack is an industrial machine used to pump oil from oil deposits .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Pumpjack 20 Red Bronze Ingot 1 Pipe 15 Steel Rod Workbench Tier 4
+
+Breaking [ ]
+
+Pumpjack Breaking Data Hardness 54 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 81 Wooden 162 81 Stone 87 54 Iron 54 34 Gilded Steel 38 27 Diamond 27 17 Opal 22 11 Void Mattock 11
+
+Usage [ ]
+
+Extracting oil [ ]
+
+Pumpjacks are used to extract oil from oil deposits and is powered by coal or petrified petroleum . Coal/petrified petroleum can be inputted through the conveyor belt at one side of the pumpjack to power it for approximately one minute per item. It takes 5 seconds by default to extract one unit of oil from the deposit, and after being extracted, the oil is then outputted through the pipe at the other side of the machine.
+
+History [ ]
+
+August 15, 2021 Added pumpjacks.
+
+Trivia [ ]
+
+The pumpjack is currently the largest block in the game.

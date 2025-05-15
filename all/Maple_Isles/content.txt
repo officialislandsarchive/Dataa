@@ -1,0 +1,77 @@
+Source: https://robloxislands.fandom.com/wiki/Maple_Isles
+
+----------------------------------------
+
+Maple Isles Current Old Older Required skill None (Any Combat levels) Resources Raspberry Bush (Currently unharvestable) Villagers Bailey Don Emma Kontos Mobs Turkey Fhanhorn (1-hour cooldown; Currently cannot be bypassed with tokens ; No tokens ) The Maple Isles (also known as Turkey Island ) is a cluster of 3 islands that has villagers that provide quests and hold their own unique shops. It can be accessed by talking to Don in the Hub , who can be found near Taliyah 's barn. Interacting with Don near the spawn of the Maple Isles will teleport the player back to the Hub.
+
+This cluster of islands had appeared before November 27, 2021 with buildings, but all of its structures were removed, only leaving terrain behind. This was because exploiters/hackers could fly to the island.
+
+This cluster of islands currently has no hostile mobs to reward boss tokens . The only mobs present are turkeys as passive mobs and Fhanhorn as a boss.
+
+Resources [ ]
+
+Resources Resources Raspberries (Currently unharvestable)
+
+Foliage [ ]
+
+The following foliage spawns in the Maple Isles:
+
+Raspberry Bush (Currently unharvestable)
+
+Transport [ ]
+
+The Maple Isles has no portals,  Instead, Don sends the player from the Maple Isles to the Hub and vice-versa. A teleporter pad is also located next to the portal, which can be used to teleport to various locations depending on the inserted orbs .
+
+Talking to Don Teleporter Pad
+
+Mobs [ ]
+
+Turkeys [ ]
+
+Five turkeys spawn on the second island of the isles.  Access to the second island is locked by a gate until the player completes Bailey 's questline. Players can "spook" a turkey causing it to drop red berries or raspberries . Spooking turkeys will not grant any Animal Care XP nor Fhanhorn tokens .
+
+Fhanhorn [ ]
+
+Fhanhorn can be spawned on the third major island of the Maple Isles, which can be traveled to by talking to Don after completing Bailey 's and Emma 's questlines. It has a summon cooldown at 60 minutes; 1 hour. It also can be summoned without any Combat level requirement. It currently has no token .
+
+Unlike the Slime King , Kor , the Wizard Boss , and Bhaa as regular bosses with summon cooldowns , Fhanhorn 's summon cooldown currently cannot be bypassed with tokens , unless other than forcing players to wait for 60 minutes; 1 hour and able to re-summon it. It also currently doesn't have its own token , even with its summoning UI while on cooldown since the October 28, 2022 update.
+
+Villagers [ ]
+
+First Isle [ ]
+
+First Isle Villagers Don Bailey Kontos
+
+Bailey [ ]
+
+Bailey is a villager located near the island spawn who, upon first interaction, will give the player a maple workbench . The player can complete quests for her to progress through the Maple Isles questline and earn other rewards from her, such as a sap boiler and a syrup bottler . She hosts a shop where players can sell pancakes and purchase various furniture blocks.
+
+Kontos [ ]
+
+Kontos is a villager who rewards the player with a turkey trophy after defeating Fhanhorn for the first time. He is located on the first island near the bridge that connects the second island.
+
+Second Isle [ ]
+
+Second Isle Villagers Emma Don
+
+Emma [ ]
+
+Emma is a villager located behind the gate on the second island, which can only be unlocked after completing Bailey's questline. Like Bailey, she also hands out quests that the player can complete to progress to Fhanhorn's arena. She sells raspberry seeds and turkey spawn eggs and buys raspberries and berry pancakes , although Bailey also buys berry pancakes for the same price.
+
+Don [ ]
+
+Don appears in two locations: near the island spawn and on a pier on the second island. Interacting with her near spawn will teleport the player back to the Hub . Although the player can interact with her on the second island, she will only provide the final questline once the player has finished Emma's. After completing her quest, she grants the player access to Fhanhorn's arena on the third island.
+
+Music [ ]
+
+Name Audio Artist Fall in the Sky https://robloxislands.fandom.com/wiki/File:Fall_in_the_Sky.ogg Micah Fischer
+
+History [ ]
+
+November 20, 2020 Added a floating maple tree, a teaser for Turkey Island. December 18, 2020 Added Turkey Island. January 4, 2021 Removed all terrain and content from the island. November 27, 2021 Re-added terrain and content to the island. Officially named the island the "Maple Isles". Added turkeys on the Maple Isles. Added Fhanhorn on the Maple Isles. July 16, 2022 Replaced the Maple Island portal with Don now transporting the player to and from the Hub .
+
+Trivia [ ]
+
+Prior to November 27, 2021 , everything except the terrain was removed on January 4, 2021 , it was re-added as the Maple Isles on November 27, 2021 . The Maple Isles is the first location to be a cluster of islands, the second being the Void Isles . There is a bug where the gate to the Second Isle will still be there even after the player finished Bailey 's questline. This can be fixed by talking to Kontos or Bailey . The Maple Isles is the second permanent island that doesn't have any hostile mob , with the first being Spirit Island . Fhanhorn was the first and only boss of the Maple Isles in Islands whose summon cooldown currently cannot be bypassed with tokens during it has no token and no hostile mobs , unless forced players to wait for 60 minutes; 1 hour and able to re-summon it. Due to the Maple Isles has no hostile mobs , it doesn't have its own token to bypass 1-hour cooldown. Since the October 28, 2022 update, it doesn't have any token requirement on its summoning UI while on cooldown. Unlike most bosses with the " Failed to Summon " notification, if a player attempts to summon Fhanhorn while on cooldown during it has no token , nothing happens. It was the first and only boss of the Maple Isles in Islands that doesn't have the " Failed to Summon " notification.
+
+Gallery [ ]

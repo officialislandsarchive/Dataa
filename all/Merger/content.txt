@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Merger
+
+----------------------------------------
+
+Merger Type of block Solid block Recipe 1 Crystallized Iron 4 Steel Rod 5 Iron Ingot Crafted with Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent A merger is a conveyor block that outputs inputted items from two conveyor outputs. The output conveyor belt cannot be switched to another conveyor belt.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Merger 1 Crystallized Iron 4 Steel Rod 5 Iron Ingot Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Merger Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Merging [ ]
+
+Having the opposite functionality to a randomizer , the merger merges two conveyor inputs from the side into one conveyor output in the middle of the machine.
+
+History [ ]
+
+August 15, 2021 Added mergers. April 22, 2022 Fixed the collision box of the merger.
+
+Trivia [ ]
+
+The split conveyor and randomizer have the exact same model but with different designs at the top and different conveyor directions. It is the only craftable block added in the August 15, 2021 update that can be crafted in the workbench tier 3 . The merger shares the same crafting recipe as the randomizer.

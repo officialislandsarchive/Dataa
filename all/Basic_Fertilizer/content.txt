@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Basic_Fertilizer
+
+----------------------------------------
+
+Basic Fertilizer Recipe 1 Salmon / Carp / Tuna / Grouper / Trout / Red Snapper Crafted with Composter Basic fertilizer is an item obtained by composting fish in a composter . It can be used on farmland to make it fertilized.
+
+Obtaining [ ]
+
+Composting [ ]
+
+Basic fertilizer can be obtained by placing salmon , carp , tuna , groupers , trout , or red snappers in a composter . When done so, the player will received a number of fertilizer depending on the amount of fish put in.  It takes approximately 4 minutes for the fish to turn into fertilizer in the composter.
+
+Fishing [ ]
+
+Basic fertilizer can be obtained by fishing as a treasure item, having a rarity of 'uncommon.'
+
+Usage [ ]
+
+Fertilizing [ ]
+
+Basic fertilizer can be used to reduce the growth time of crops by 20% by placing it on farmland . Players can fertilize farmland up to five times at once, although its effect won't stack. If the crop is harvested from the farmland, the fertilizer effect will be removed, but if it's harvested by a totem instead, the fertilizer effect will continue to linger.
+
+History [ ]
+
+June 15, 2020 Added basic fertilizers. April 1, 2022 Tuna , groupers , trout , and red snappers can now be composted into basic fertilizer. May 13, 2022 Basic fertilizers can be obtained from fishing . May 14, 2022 Fishing basic fertilizer now rewards the item. May 15, 2022 Correctly fixed basic fertilizer not being rewarded when fishing.
+
+Trivia [ ]
+
+Despite being fixed, fishing for basic fertilizer will not reward any basic fertilizer when caught. This was fixed on May 15, 2022 .

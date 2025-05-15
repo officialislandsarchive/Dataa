@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Jar_of_Honey
+
+----------------------------------------
+
+Jar of Honey Recipe 1 Honeycomb Crafted with Honey Press Heals 12 HP Sell price 20 coins Description Fresh honey from a local bee hive. A jar of honey is an item made by processing honeycomb .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Honeycombs can be processed into jars of honey in a honey press . It takes about three and a half minutes to process one honeycomb into a jar of honey.
+
+Input Item transformer Output 1 Honeycomb ➡ Honey Press ➡ 1 Jar of Honey
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Honey Block 4 Jar of Honey Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Island Orb 10 Glass Block 5 Milk Bucket 5 Pizza 3 Mayonnaise Jar 5 Jar of Honey Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Roasted Honey Carrot 4 Roasted Carrot 4 Jar of Honey Cooking Table Food Processor Honey Toast 1 Jar of Honey 1 Bread Cooking Table Food Processor Candy Apple 4 Apple 12 Jar of Honey Cooking Table Food Processor Lemon Puff 4 Bread 12 Jar of Honey 4 Lemon Cooking Table Food Processor
+
+Eating [ ]
+
+Eating a jar of honey restores 12 HP.
+
+Selling [ ]
+
+Jars of honey can be sold to Taliyah for 20 coins each.
+
+History [ ]
+
+August 30, 2020 Added jars of honey. Jars of honey are sold to Tom . ? Jars of honey are now sold to Taliyah . November 13, 2021 4 jars of honey are now required to craft roasted honey carrots , up from 1. 12 jars of honey are now required to craft candy apples , up from 3. 12 jars of honey are now required to craft lemon puffs , up from 3. April 9, 2022 Jars of honey can now be used to craft Island orbs .

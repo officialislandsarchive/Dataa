@@ -1,0 +1,41 @@
+Source: https://robloxislands.fandom.com/wiki/Rock_Mimic
+
+----------------------------------------
+
+Rock Mimic Coal Iron Gold Health Coal: 400 HP Iron: 450 HP Gold: 500 HP Behavior Hostile Attack strength Coal: 25 HP Iron: 30 HP Gold: 35 HP Drops Coal: Basalt , Coal , Jukebox Disk Iron: Basalt , Iron Ingot , Jukebox Disk Gold: Basalt , Gold Ingot , Jukebox Disk Location Buffalkor Island Diamond Mines A rock mimic is a hostile mob that spawns on Buffalkor Island and the Diamond Mines disguised as an ore rock .
+
+Spawning [ ]
+
+Rock mimics spawn on Buffalkor Island and in the Diamond Mines disguised as a coal , iron , or gold rock .
+
+Behavior [ ]
+
+Rock mimics will imitate coal rocks , iron rocks , or gold rocks and will stay hidden inside the ground until a player breaks their respective ore rock. Once a player fully breaks the rock, they will jump out from the ground and attack the player, dealing 25, 30, or 35 damage if it is a coal, iron, or gold rock mimic respectively. If the player is not in the vicinity of the rock mimic, it will burrow itself inside of the location where it is currently standing.
+
+Drops [ ]
+
+A rock mimic rewards 45 Combat XP (180 XP with the 4x daily bonus) and 45 Light Melee , Heavy Melee , Magic , or Archery XP (180 with the 4x daily bonus) depending on the weapon the player used to defeat it.
+
+Using the captain's rapier or consuming a dragon roll or blueberry cookie to increase the player's luck does not increase the amount of basalt , coal , iron ingots , or gold ingots dropped.
+
+Image Name Drop chance Basalt 4 - 7 Coal [Coal rock mimics only] 5 - 9 Iron Ingot [Iron rock mimics only] 9 - 15 Gold Ingot [Gold rock mimics only] 5 - 8 Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+History [ ]
+
+June 18, 2022 Added rock mimics. June 25, 2022 Added iron rock mimic and gold rock mimics. Modified the spawn method of rock mimics. Added sound effects to rock mimics. June 28, 2022 Iron rock mimics and gold rock mimics now drop iron ingots and gold ingots respectively. July 24, 2022 Rock mimics no longer spawn. July 30, 2022 Fixed a bug that caused rock mimics to duplicate. Rock mimics can now spawn again.
+
+Resistances and Weaknesses [ ]
+
+Coal and Iron [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical None Quake Striking Storm
+
+Gold [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical Slashing Quake , Hydro Striking Storm , Inferno
+
+Trivia [ ]
+
+Rock mimics are the only hostile mobs that naturally spawn on more than one island .
+
+Gallery [ ]

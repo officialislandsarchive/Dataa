@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Granite_Carved
+
+----------------------------------------
+
+Granite Carved Type of block Solid block Recipe 1 Granite Tiles Crafted with Stonecutter Industrial Stonecutter Best tool Luminous Transparent Granite carved is a block that can be cut from granite tiles .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Granite tiles can be transformed into granite carved in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Granite Tiles ➡ Stonecutter ➡ 1 Granite Carved ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Granite Carved Breaking Data Hardness 12 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 18 Wooden 36 36 Stone 20 20 Iron 12 12 Gilded Steel 9 9 Diamond 6 6 Opal 5 5 Void Mattock 3
+
+History [ ]
+
+March 6, 2022 Added granite carved.

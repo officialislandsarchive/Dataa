@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Maple_Tree
+
+----------------------------------------
+
+Maple Tree Type Maple Sapling Cost 1,000 coins Growth Duration 90 seconds The maple tree is a species of trees in Islands . It was the fourth tree added to the game, added on May 10, 2020 .
+
+Obtaining [ ]
+
+Maple sapling [ ]
+
+Maple trees are grown from maple saplings , which can only be bought from Cletus for 1,000 coins after reaching level 11 in the Woodcutting skill . The sapling can only be planted on grass and takes about 90 seconds to grow. Like other saplings , it needs a radius of 7 unoccupied blocks to be able to grow and is nine blocks tall.
+
+Drops [ ]
+
+When breaking, it drops:
+
+3-4 maple wood 1 maple sapling
+
+When harvested by leaf clippers , it drops:
+
+2 maple leaves
+
+Breaking [ ]
+
+Maple Tree Breaking Data Hardness 79 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 119 Wooden 119 237 Stone 79 127 Iron 50 79 Gilded Steel 40 56 Diamond 24 40 Opal 16 32 Void Mattock 16
+
+Tree Tap [ ]
+
+Tree taps can be tapped onto a maple tree to collect maple sap . Only one tree tap can be tapped into a maple tree, and it takes 90 seconds for the tree to produce one maple sap.
+
+History [ ]
+
+May 10, 2020 The maple tree is added. January 22, 2021 The breaking data for the maple tree has been increased from 8 to 79. November 27, 2021 Tree tap can be tapped onto maple trees. Fhanhorn now can summon a maple tree and heal itself. December 5, 2021 Tree taps will now be given back when breaking maple trees.
+
+Trivia [ ]
+
+The leaves on the tree stay the same during fall and summer . This feature also occurs for hickory trees and pine trees . This tree is the second-hardest tree in the game to chop down.

@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Blast_Furnace
+
+----------------------------------------
+
+Blast Furnace Type of block Solid Block; Interactable Recipe 50 Brick 20 Iron Ingot Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent The blast furnace is a heating device used to convert iron into steel ingots .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Blast Furnace 50 Brick 20 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Usage [ ]
+
+Smelting [ ]
+
+Blast furnaces can be used to smelt iron ingots into steel ingots . It has a total of 3 slots able to hold 50 items each — two slots on the top left for the item to be smelted, and one in the bottom row for fuel. When powered with coal or petrified petroleum , the blast furnace will activate for approximately 20 seconds. During this time, it will begin smelting the queued items inside, taking approximately 25 seconds per item.
+
+Input Output 1 Iron Ingot 1 Steel Ingot
+
+History [ ]
+
+May 20, 2022 Added blast furnaces.

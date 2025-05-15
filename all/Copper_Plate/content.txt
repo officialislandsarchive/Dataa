@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Copper_Plate
+
+----------------------------------------
+
+Copper Plate Recipe 50 Copper Ingot Crafted with Copper Press + Plate Factory Mold Description Solid plating made of copper . Used for crafting. A copper plate is an item molded with copper .
+
+Obtaining [ ]
+
+Molding [ ]
+
+Input Machinery + mold Output 50 Copper Ingot Copper Press + Plate Factory Mold 1 Copper Plate
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Steel Press 100 Copper Plate 250 Copper Rod 25 Steel Rod Workbench Tier 3 Workbench Tier 4 Level 32 Forging Tree Fruit Shaker 5 Red Bronze Ingot 2 Copper Plate 5 Steel Rod Workbench Tier 4 None Sapling Automatic Planter 5 Red Bronze Ingot 2 Copper Plate 5 Copper Bolt Workbench Tier 4 None Industrial Flower Picker 5 Red Bronze Ingot 2 Copper Plate 5 Copper Bolt 1 Blue Sticky Gear Workbench Tier 4 None Large Chest 20 Red Bronze Ingot 6 Copper Plate 2 Copper Bolt Workbench Tier 4 None
+
+Upgrading [ ]
+
+The copper plate can be used to upgrade the electrical workbench to level 3.
+
+Level 3 Electrical Workbench upgrade 450 Steel Ingot 50 Steel Bolt 10 Copper Plate 750 Electrite
+
+History [ ]
+
+September 18, 2020 Added copper plates. August 15, 2021 Copper plates can now be used to craft tree fruit shakers and sapling automatic planters . October 9, 2021 Copper plates can now be used to craft industrial flower pickers and large chests .

@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Spirit_Lava_Lamp
+
+----------------------------------------
+
+Spirit Lava Lamp Type of block Solid block; Luminous Recipe 25 Spirit Plank 100 Spirit Jar 1 Green Spirit Essence 10 Spirit Crystal Crafted with Furniture Workbench Best tool Luminous Transparent The spirit lava lamp is a luminous furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Spirit Lava Lamp 25 Spirit Plank 100 Spirit Jar 1 Green Spirit Essence 10 Spirit Crystal Furniture Workbench
+
+Breaking [ ]
+
+Spirit Lava Lamp Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+July 16, 2022 Added spirit lava lamps.

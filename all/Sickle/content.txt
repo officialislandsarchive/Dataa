@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Sickle
+
+----------------------------------------
+
+Sickle Stone Iron Gilded Steel Diamond Cletus' Lucky Recipe Stone: 5 Oak Wood , 15 Stone Iron: 5 Oak Wood , 15 Iron Ingot Gilded Steel: 3 Gilded Steel Rod , 20 Iron Ingot , 35 Gold Ingot Diamond: 3 Gilded Steel Rod , 25 Diamond Crafted with Stone: Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Iron, Gilded Steel, & Diamond: Anvil Required skill Stone, Cletus' Lucky Sickle: None Iron: Level 20 Farming Gilded Steel: Level 36 Farming Diamond: Level 50 Farming Description Stone, Iron, Gilded Steel, & Diamond: Use to speed up crop field harvesting Lucky: Limited edition sickle earned only during the Farming Festival 2021 event! A sickle is a tool used to hasten the collection of crops .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Required skill Stone Sickle 5 Oak Wood 15 Stone Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Iron Sickle 5 Oak Wood 15 Iron Ingot Anvil Level 20 Farming Gilded Steel Sickle 3 Gilded Steel Rod 20 Iron Ingot 35 Gold Ingot Anvil Level 36 Farming Diamond Sickle 3 Gilded Steel Rod 25 Diamond Anvil Level 50 Farming
+
+Purchasing [ ]
+
+Cletus' lucky sickle could have been purchased from Cletus in the Farming Festival Island for 7,500 crops .
+
+Usage [ ]
+
+Harvesting [ ]
+
+To use a sickle, left click/tap anywhere while holding it. Holding down the left mouse button repeats the process until the button is released. Each sickle can also harvest a certain amount of crops per swing, listed below:
+
+Sickle Crops per swing Stone 2 Crops Iron Ingot 3 Crops Gilded Steel 5 Crops Lucky 5 Crops Diamond 7 Crops Crops Wheat Tomato Carrot Potato Onion Watermelon Pumpkin Radish Starfruit Cactus Spinach Spirit Crop Chili Pepper Pineapple Grape Candy Cane Red Berry Blueberry Blackberry Rice Seaweed Void Parasite Foliage Starfruit Tomato Acorn Horseradish Void Parasite
+
+History [ ]
+
+April 4, 2021 Added stone, iron, gilded steel, and diamond sickles. April 10, 2021 Added item descriptions to sickles. May 21, 2021 Fixed a bug preventing sickles from functioning correctly on mobile. July 30, 2021 Added Cletus' lucky sickle. August 3, 2021 Cletus' lucky sickle is made unobtainable. September 25, 2021 Cletus' lucky sickle can be purchased from Cletus again. September 29, 2021 Cletus' lucky sickle is made unobtainable again. November 27, 2021 Fixed an issue causing sickles to destroy raspberry bushes . February 7, 2022 Fixed a bug causing berry bushes to disappear when harvested by a sickle. May 27, 2022 Level 20, 36, and 50 Farming is now required to craft iron, gilded steel, and diamond sickles respectively.
+
+Trivia [ ]
+
+The sickle can be used to harvest anything that has the [F] Harvest GUI, but not the [F] Pickup GUI. Prior to an unnamed update, any sickle caused crops to disappear unless the player rejoins the game. Unlike most tools , sickles can be immediately dropped and does not require the player to hold down "Q."

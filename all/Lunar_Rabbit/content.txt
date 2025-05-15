@@ -1,0 +1,67 @@
+Source: https://robloxislands.fandom.com/wiki/Lunar_Rabbit
+
+----------------------------------------
+
+Lunar Rabbit Health 15,000 HP Behavior Hostile Attack strength 60 HP (Geysers) 70 HP (Tail Whip) 50 HP (Bite) 60 HP (Scratch) 40 HP (Rock Circle) Drops Red Envelope 2023 Lunar Mooncake The Lunar Rabbit was a raid boss that could have been queued for at the Info Board in the Hub during the Lunar New Year 2023 event. Once queued, up to four other players would be teleported alongside to its arena .
+
+Description [ ]
+
+Lunar Rabbit Arena [ ]
+
+The arena was distinguished into two parts: the spawn zone and the fighting zone. All players would begin in the spawn zone, an area where the Lunar Rabbit was unable to target the player. Players would respawn in the spawn zone if killed during the fight. The Lunar Rabbit spawned in the fighting zone and was where players can fight the boss.
+
+All players would receive the same weapon loadout. Players could have chosen to leave the fight at any time, and any inactive players would have been kicked after a certain period of time.
+
+Lunar Rabbit [ ]
+
+The Lunar Rabbit was a fast boss who specialized in both melee and ranged attacks. It had 15,000 health and was fought with up to four other players in its arena. Its fight could have been queued for in the Hub and does not have a cooldown.
+
+Attacks [ ]
+
+Geyser Summon [ ]
+
+The Lunar Rabbit jumps before creating up to 3 geysers below players, indicated by a red circle. After 0.5 seconds, the geyser will erupt, dealing 60 damage and launching the player into the air if hit.
+
+Tail Whip [ ]
+
+If a player is behind the Lunar Rabbit's head, it will spin, dealing 70 damage and high knockback.
+
+Bite [ ]
+
+The Lunar Rabbit will bite players in front of it, dealing 50 damage.
+
+Scratch [ ]
+
+The Lunar Rabbit will raise its front left claws to attack players in front of it, dealing 60 damage.
+
+Rock Circle [ ]
+
+If a player is under the rabbit when it jumps, the Lunar Rabbit will create circle of rocks around it, dealing 40 damage if hit.
+
+Drops [ ]
+
+The Lunar Rabbit rewarded 2125 Combat XP (8500 with the 4x daily bonus) and 2125 Light Melee , Heavy Melee , Magic , or Archery XP (8500 with the 4x daily bonus) depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Red Envelope 2023 3 - 5 Lunar Mooncake 3 - 5
+
+Behaviour [ ]
+
+It will summon geysers every 5 seconds if there isn't any player near it. After it summons the geysers, it will chase a random player. If a player is near it, the Lunar Rabbit will use one of these attacks: Tail Whip, Bite or Scratch. The Lunar Rabbit growls before using the attacks mentioned above.
+
+Damage reduction [ ]
+
+The Lunar Rabbit reduces the amount of damage dealt to it by 10% to 45% depending on the number of players (compounds) in the arena.
+
+Number of players Damage reduction 1 0% 2 10% 3 25% 4 35% 5 45%
+
+Resistances and weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical Striking Hydro , Frost Slashing Inferno
+
+History [ ]
+
+January 20, 2023 Added the Lunar Rabbit.
+
+Trivia [ ]
+
+This was the first and only mob that was resistant against Frost weapons . The Lunar Rabbit was the second event boss that could not be summoned by players or tokens , with the first being the Grand High Witch . It was the third boss in Islands that doesn't have its own token, with the other two being the Grand High Witch and Fhanhorn . The Lunar Rabbit, the Slime King , Percival the Pumpkin King , Fhanhorn, and Zombie Cletus were the only five bosses that could be summoned without a Combat level requirement. The Lunar Rabbit is based on a creature from Chinese Folklore named “月兔” (Romanized:Yuè Tù) .

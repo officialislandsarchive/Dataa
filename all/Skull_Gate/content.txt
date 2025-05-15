@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Skull_Gate
+
+----------------------------------------
+
+Skull Gate Type of block Solid block Buy cost 1,750 coins Best tool Luminous Transparent The skull gate is a furniture block that could have been purchased from Kontos during the Halloween 2022 event.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Skull gates could have been purchased for 1,750 coins each from Kontos during the Halloween 2022 event.
+
+Breaking [ ]
+
+Skull Gate Breaking Data Hardness ? Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+October 15, 2022 Added skull gates. October 22, 2022 Modified the collisions of skull gates. November 4, 2022 Skull gates can no longer be purchased from Kontos .

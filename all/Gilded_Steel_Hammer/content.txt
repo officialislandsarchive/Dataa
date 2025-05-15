@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Gilded_Steel_Hammer
+
+----------------------------------------
+
+Gilded Steel Hammer Type Heavy Melee Physical class Striking Attack damage 25 HP (Base) +13 HP (Critical) Recipe 1 Buffalkor Crystal 5 Gilded Steel Rod 40 Gold Ingot Crafted with Anvil Required skill Level 32 Heavy Melee The gilded steel hammer is a heavy melee weapon in the striking class.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Gilded Steel Hammer 1 Buffalkor Crystal 5 Gilded Steel Rod 40 Gold Ingot Anvil Level 32 Heavy Melee
+
+Attacking [ ]
+
+At level 1 Heavy Melee , the gilded steel hammer deals a base damage of 25 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 13 HP of damage. Its damage can be increased by leveling up the Heavy Melee skill and it is in the striking class.
+
+History [ ]
+
+May 17, 2020 Added gilded steel hammers. ? Changed the recipe to require 5 gilded steel rods instead of 1. January 22, 2021 Level 32 Heavy Melee is now required to craft gilded steel hammers. September 17, 2022 Gilded steel hammers are now a striking weapon.

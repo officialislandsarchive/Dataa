@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Void_Grass
+
+----------------------------------------
+
+Void Grass Void Grass Pile Type of block Solid block Spawns Void Isles Best tool Luminous Transparent A void grass is a block that can be dug from piles of void grass.
+
+Obtaining [ ]
+
+Digging [ ]
+
+Piles of void grass naturally generate throughout the Void Isles . Digging up a pile yields 1 - 2 void grass.
+
+Breaking [ ]
+
+Void Grass Breaking Data Hardness 2 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 6 Stone 4 4 Iron 2 2 Gilded Steel 2 2 Diamond 1 1 Opal 1 1 Void Mattock 1 Pile of Void Grass Breaking Data Hardness 2 Best Tool Shovel Max Hits Needed Type Hits Stone 2 Christmas 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Void Isles Orb 10 Glass Block 20 Void Grass 30 Respawn Block 9 Amethyst Crystal Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Farming [ ]
+
+Using a plow on void grass will create farmland . Wheat , tomatoes , potatoes , carrots , onions , starfruits , spinach , pumpkins , watermelon , radishes , spirit crops , chili peppers , pineapples , and void parasites can be planted and grown on this block. Plowing the farmland again or placing a block above it will turn the block into grass rather than void grass.
+
+Farmland can be watered with a watering can or basic sprinkler or fertilized with basic fertilizer to turn it into watered/fertilized farmland respectively, allowing crops to grow 20% faster. Watering and fertilizing farmland allows crops to grow 30% faster.
+
+History [ ]
+
+August 13, 2022 Added void grass. August 20, 2022 Void grass will now turn into normal grass when plowed twice.

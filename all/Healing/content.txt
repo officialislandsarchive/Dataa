@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Healing
+
+----------------------------------------
+
+Healing Causes Heals nearby players when mobs is attacked with ethereal weapons Source Weapons whose magical class is ethereal Type Attack
+
+Healing is an effect that affects hostile mobs when attacked by weapons whose magical class is ethereal .
+
+Source [ ]
+
+Healing will come into effect when attacking hostile mobs with the Slime Queen's scepters , jolly daggers , cursed hammers , and cursed grimoires
+
+Causes [ ]
+
+Healing will heal nearby players. Green essence surrounds the player while players are being healed.
+
+History [ ]
+
+October 8, 2022 Added Healing.

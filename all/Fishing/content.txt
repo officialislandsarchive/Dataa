@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Fishing
+
+----------------------------------------
+
+Fishing is the process of using a fishing rod to obtain items, usually fish .
+
+Catching fish [ ]
+
+In order to fish, the player must use a fishing rod to cast the line into a pond. The player must be on land when casting, otherwise when the fishing minigame starts, it will result in an instant failure.
+
+No matter where the bobber of the rod is, a fish will spawn towards it, then you are able to do the minigame to catch the fish.
+
+After a few seconds the fish will start swimming towards the bobber. When the fish starts bubbling (seen from particles and sound), a UI will appear above the player's hotbar where they must keep a red block within a certain area until the yellow progress bar reaches the end. If the player fails to fill the bar within 25 seconds, the fish will disappear and the rod will reel itself in.
+
+The player can charge the fishing rod launching the bobber further from the player's position, but otherwise this has no effect on rarity of the fish caught.
+
+Fishing speed [ ]
+
+Bait can be crafted and used to speed up the player's Fishing Speed by 15% (tier 1) or 25% (tier 2). The two types can be stacked to increase the Fishing Speed by 40%.
+
+List of possible catches [ ]
+
+Name Rods Rarity Wooden Iron Salmon Yes Yes Common Trout Yes Yes Common Carp Yes Yes Common Catfish Yes Yes Common Red Snapper Yes Yes Common Blue Tang Yes Yes Common Clownfish Yes Yes Common Tilapia No Yes Uncommon Grouper Yes Yes Uncommon Eel Yes Yes Uncommon Spirit Fish Yes Yes Uncommon Puffer Fish Yes Yes Uncommon Swordfish Yes Yes Rare Shark Yes Yes Rare Infernal Fish Yes Yes Rare Koi Yes Yes Legendary Tuna Yes Yes Mythic
+
+List of possible treasures [ ]
+
+Name Rods Rarity Wooden Iron Seaweed Yes Yes Uncommon 5 Aquamarine Shard Yes Yes Uncommon Basic Fertilizer Yes Yes Uncommon Tier 1 Bait Yes Yes Uncommon Pearl Yes Yes Rare Crystallized Aquamarine Yes Yes Rare Seaweed Seeds Yes Yes Rare Tier 2 Bait Yes Yes Rare Propeller Yes Yes Legendary
+
+Fishing locations [ ]
+
+Bodies of water that can be used for fishing exists on the following islands :
+
+The Hub Slime Island Buffalkor Island Wizard Island Desert Island Fishing Festival Island Spirit Island Pirate Island Underworld Diamond Mines Maple Isles Mushroom Obby Void Isles
+
+Gallery [ ]
+
+Trivia [ ]
+
+Seaweed seeds are the only seeds that can be obtained through fishing. In all servers, the amount of fish in a body of water is determined by the amount of players in and around that body of water. As of May 13, 2022 , fish tank blueprints can no longer be fished. Basic fertilizer is referred to as "Fertilizer" when fished. Blue tang is referred to as "Royal Blue Tang" when fished. Puffer fish is referred to as "Pufferfish" when fished. From May 13, 2022 to May 14, 2022 , fishing basic fertilizer would not reward the player any item. In the same time period, fish-related quests given by Azur and Odlum could not be completed. The fishing minigame is also present in Easy.gg's other game: BedWars .

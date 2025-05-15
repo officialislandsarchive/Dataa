@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Stun
+
+----------------------------------------
+
+Stun Causes The player's movement speed is decreased by 50% or unable to sprint. Source Kor 's Stomp attack Bhaa 's Sandstone Hurl or Sandstone Spike attack Slime Queen Primordial Slime 's Smash attack Type Attack Stun is an effect that causes the player's movement speed to be decreased by 50% or unable to sprint. It can only be obtained from the Slime Queen , Bhaa , Kor , and Primordial Slime.
+
+Source [ ]
+
+Stun can be obtained by either touching the Slime Queen , Bhaa's Sandstone Spike attack, Bhaa's Sandstone Hurl attack, Kor's Stomp attack, and Primoridial Slime's Smash attack. The effect lasts roughly 6 seconds.
+
+Causes [ ]
+
+Stun causes the player's movement speed to be decreased by 50% or unable to sprint, making them an easier target for the following attacks from the opposing boss .
+
+History [ ]
+
+February 12, 2021 Added Stun. June 3, 2022 Removed jump power decreases.
+
+Trivia [ ]
+
+Like Polymorph , 50% attack speed , and Slowed , Stun shares the same icon as Food Poison . Players may be unaffected by the effect when playing on a mobile device. Players are able to bypass the Stun effect by obtaining the Speed effect afterwards. Stun is the first and only status effect in Islands which prevent the inflicted target from sprinting. When the player mounting a horse , the player's movement speed is slightly decreased.

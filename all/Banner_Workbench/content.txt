@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Banner_Workbench
+
+----------------------------------------
+
+Banner Workbench Block Gamepass Icon Type of block Solid block; Interactable Recipe 20 Oak Wood Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Buy cost (gamepass) 499 Robux Best tool Luminous Transparent The banner workbench (formerly known as the banner bench ) is a premium crafting station that is used to craft banners .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+The player needs the banner workbench gamepass to craft the banner workbench.
+
+Name Recipe Crafting station Gamepass required Banner Workbench 20 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Banner Workbench Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+The player needs to purchase the gamepass in order to use the banner workbench.
+
+Crafting recipes [ ]
+
+Image Name Recipe Elephant Banner 5 Oak Wood 1 Light Green Flower 1 Mundane Flower Jungle Banner 5 Oak Wood 1 Dark Green Flower Lovely Cow Banner 5 Oak Wood 1 White Flower 1 Red Flower Aquamarine Banner 5 Oak Wood 1 Blue Flower Gamepass required Lucky Banner 5 Oak Wood 1 Light Green Flower King Banner 5 Oak Wood 1 Yellow Flower The Eye Banner 5 Oak Wood 1 Red Flower 1 Black Flower Warrior Banner 5 Oak Wood 1 Orange Flower 1 Black Flower Lotus Banner 5 Oak Wood 1 Pink Flower 1 Light Green Flower Lunar Banner 5 Oak Wood 1 Mundane Flower 1 White Flower Rising Phoenix Banner 5 Oak Wood 1 Red Flower 1 Orange Flower Pig Banner 5 Oak Wood 1 Pink Flower 1 Red Flower Life Banner 5 Oak Wood 1 Purple Flower 1 Cyan Flower Snowflake Banner 5 Oak Wood 1 White Flower 1 Cyan Flower Spark Banner 5 Oak Wood 1 Purple Flower 1 White Flower Sol Banner 5 Oak Wood 1 Orange Flower Guardian Banner 5 Oak Wood 1 Blue Flower
+
+History [ ]
+
+May 8, 2021 Added the banner bench. ? Renamed the banner bench to banner workbench.
+
+Trivia [ ]
+
+This is currently tied with the instrument workbench as the most expensive crafting station in terms of robux.

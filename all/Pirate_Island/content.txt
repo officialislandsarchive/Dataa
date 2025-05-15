@@ -1,0 +1,63 @@
+Source: https://robloxislands.fandom.com/wiki/Pirate_Island
+
+----------------------------------------
+
+Pirate Island Resources Obsidian Kiwi Villagers Evans Ruby Davey Hannah Terri Odlum Mobs Angry Crab Shark Fish Pufferfish Bandit Pirate Island is an island with many pirates and resources. The currency used by the native pirates are doubloons .
+
+Unlike most islands, Pirate Island cannot be accessed through a portal and only through interacting with Hannah in the Hub , who can be found near the Hub Lake . Interacting with Hannah on Pirate Island will teleport the player back to the Hub spawn.
+
+This island currently has no boss .
+
+Resources [ ]
+
+Ores [ ]
+
+The only ore on Pirate Island are obsidian rocks , spawning on the edges of the volcano.
+
+Travelling [ ]
+
+Pirate Island has no portals, but instead, Hannah sends the player from Pirate Island to the Hub and vice-versa.
+
+Fishing [ ]
+
+Aside from the normal group of fish , puffer fish and sharks can also exclusively be caught in the bodies of water .
+
+Villagers [ ]
+
+Main area [ ]
+
+Main Area Villagers Evans Ruby Davey Terri Odlum The main area of Pirate Island is where most of the pirates are. Davey and Terri are on the left side from the entrance while Ruby , Evans , and Odlum are on the right.
+
+Hannah [ ]
+
+Docks Villagers Hannah
+
+Hannah can be found near the spawn-point of Pirate Island, on the docks near the main area.
+
+Mobs [ ]
+
+Hostile mobs [ ]
+
+There are two hostile mobs on Pirate Island: bandits and angry crabs . The bandits can be found in the jungle area of the island while the angry crabs spawn in the pirate cove .
+
+Terrain [ ]
+
+Jungle [ ]
+
+Jungle Resources Kiwi Mobs Bandit The jungle covers the majority of Pirate Island and is where bandits spawn. There are also kiwi trees and palm trees that can be found in and around the jungle. While the kiwi trees grow kiwis that can be picked, the palm trees do not serve any purpose other than being decoration.
+
+Volcano [ ]
+
+Volcano Resources Obsidian Mobs Bandit The volcano is located at the center of the island, and abundant obsidian rocks spawn in the surroundings. Lava can be found in the crater of the volcano, but it acts just as a neon orange floor due to the fact that it doesn't deal damage to the player.
+
+Pirate Cove [ ]
+
+Pirate Cove Mobs Angry Crab Fish Shark Pufferfish The pirate cove offers an area to fish not only for regular fish, but also for sharks and puffer fish . The beaches of the cove are where angry crabs spawn.
+
+History [ ]
+
+July 17, 2021 Added Pirate Island. November 16, 2021 Fixed lighting issues of Pirate Island's edges.
+
+Trivia [ ]
+
+Despite lava being added in the September 18, 2021 update and swimming in any lava pool in the Underworld deals damage to the player, the lava in the Volcano is still solid and does not harm the player. This is the second permanent island that doesn't have a boss , with the first being Spirit Island . If player stands on top of a certain patch of lava material surrounding the volcano, the sky will turn to night.

@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Draven_Statue
+
+----------------------------------------
+
+Draven Statue Type of block Solid block Dropped by Draven Best tool Luminous Transparent
+
+The Draven Statue is a statue dropped by Draven .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+The Draven has a 1.5% chance of dropping the Draven Statue upon defeat.
+
+Breaking [ ]
+
+Draven Statue Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+History [ ]
+
+April 28, 2023 Added Draven Statue

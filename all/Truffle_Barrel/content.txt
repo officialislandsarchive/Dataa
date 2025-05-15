@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Truffle_Barrel
+
+----------------------------------------
+
+Truffle Barrel Type of block Solid block; Interactable Recipe 75 Maple Wood 25 Pine Wood Crafted with Animal Bench Required skill Level 34 Animal Care Best tool Luminous Transparent The truffle barrel is a block used to automate collecting truffles from pigs .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Truffle Barrel 75 Maple Wood 25 Pine Wood Animal Bench Level 34 Animal Care
+
+Breaking [ ]
+
+Truffle Barrel Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Collecting truffle [ ]
+
+If a pig digs up a truffle it will bring it to the barrel. A truffle barrel can hold up to 3 truffles at a time.
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Industrial Truffle Barrel 1 Truffle Barrel 1 Conveyor Belt 3 Blue Sticky Gear Animal Bench Level 48 Animal Care
+
+History [ ]
+
+February 5, 2021 Added truffle barrels. February 17, 2023 Truffle barrels can now be used to craft industrial truffle barrels .
+
+Trivia [ ]
+
+When the truffle barrel was first released, it was given a level requirement to be able to sell, not to be crafted, even though truffle barrels cannot be sold. This was fixed shortly afterwards.

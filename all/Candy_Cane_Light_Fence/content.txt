@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Candy_Cane_Light_Fence
+
+----------------------------------------
+
+Candy Cane Light Fence Type of block Solid block; Luminous Buy cost 25 snowflake tickets Best tool Luminous Transparent Description A candy cane light fence decor for the holidays! A candy cane light fence is a luminous furniture block that can be purchased from Eddie during the Christmas 2022 event.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Candy cane light fences can be purchased from Eddie for 25 snowflake tickets each during the Christmas 2022 event.
+
+Breaking [ ]
+
+Candy Cane Light Fence Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+History [ ]
+
+December 16, 2022 Added candy cane light fences.

@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Oil_Barrel
+
+----------------------------------------
+
+Oil Barrel Recipe 6 Oil Fuel Crafted with Fuel Barrel Filler Sell price 500 coins An oil barrel is an item that can be obtained by pumping oil into a fuel barrel filler .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Oil barrels can be obtained by pumping oil through pipes into a fuel barrel filler . The oil barrels are outputted to the back of the industrial machine and onto a conveyor belt .
+
+Input Item transformer Output 6 Oil Fuel ➡ Fuel Barrel Filler ➡ 1 Oil Barrel
+
+Usage [ ]
+
+Selling [ ]
+
+Oil barrels can be sold to Doug for 500 coins each.
+
+Transforming [ ]
+
+Input Item transformer Output 1 Oil Barrel ➡ Fuel Barrel Extractor ➡ 6 Oil Fuel
+
+History [ ]
+
+August 15, 2021 Added oil barrels. August 16, 2021 Oil barrels can now be sold to Doug .

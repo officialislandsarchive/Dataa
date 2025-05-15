@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Ancient_Slime_String
+
+----------------------------------------
+
+Ancient Slime String Dropped by Green Slime Blue Slime Pink Slime Description A rare drop from killing slimes. Ancient slime string is a rare mob drop from slimes .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Green , blue , and pink slimes have a 2% chance of dropping an ancient slime string upon defeat.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Ancient Longbow 100 Steel Ingot 100 Maple Wood 4 Ancient Slime String Anvil Level 25 Archery Azarathian Longbow 2 Ruby Skorp Stinger 70 Steel Ingot 20 Ruby Skorp Scale 5 Ancient Slime String Anvil Level 40 Archery Iron Shortbow 30 Maple Wood 30 Iron Ingot 2 Ancient Slime String Anvil Level 10 Archery Golden Shortbow 40 Gold Ingot 4 Ruby 2 Ancient Slime String Anvil Level 35 Archery Ancient Stool 5 Cloth 30 Pine Wood 1 Ancient Slime String Furniture Workbench None Ancient Street Lamp 30 Gold Ingot 50 Pine Wood 2 Ancient Slime String Furniture Workbench None Ancient Table 25 Gold Ingot 100 Pine Wood 5 Ancient Slime String Furniture Workbench None Ancient Wall Light 10 Coal 5 Pine Wood 1 Ancient Slime String Furniture Workbench None Animal Nametag 1 Ancient Slime String 5 Bamboo Animal Bench Level 15 Animal Care Scratching Post 1 Oak Fence 1 Ancient Slime String Animal Bench Level 24 Animal Care Hanging Green Guitar 5 Electrite 1 Ancient Slime String 5 Iron Ingot 1 Oak Wood Furniture Workbench None Hanging Red Guitar 5 Electrite 1 Ancient Slime String 5 Iron Ingot 1 Oak Wood Furniture Workbench None Hanging Blue Guitar 5 Electrite 1 Ancient Slime String 5 Iron Ingot 1 Oak Wood Furniture Workbench None Hanging Pink Guitar 5 Electrite 1 Ancient Slime String 5 Iron Ingot 1 Oak Wood Furniture Workbench None
+
+History [ ]
+
+August 9, 2020 Added ancient slime string. January 22, 2021 Ancient slime string can now be used to craft scratching posts . January 29, 2021 Ancient slime string can now be used to craft ancient stools , ancient street lamp , ancient table , and ancient wall lights . February 5, 2021 Ancient slime string can now be used to craft animal nametags . September 17, 2022 4 ancient slime string are now required to craft ancient longbows , up from 3. Ancient slime string can now be used to craft azarathian longbows , iron shortbows , and golden shortbows . October 28, 2022 Ancient slime string can now be used to craft hanging guitars .

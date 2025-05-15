@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Truffle_Pizza
+
+----------------------------------------
+
+Truffle Pizza Recipe 1 Pizza 1 Black Truffle Crafted with Cooking Table Food Processor Effect +25% logging drop yield Required skill Level 66 Cooking Description Consume for +25% logging drop yield. A truffle pizza is a food item that grants +25% logging drop yield when consumed.
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Truffle Pizza 1 Pizza 1 Black Truffle Cooking Table Food Processor Level 66 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a truffle pizza grants +25% logging drop yield for 15 minutes, giving the chance of obtaining an extra log when a tree is chopped down.
+
+History [ ]
+
+November 13, 2021 Added truffle pizzas. Introduced an oddly where truffle pizzas have a collision hitbox when held in the hotbar . Introduced where truffle pizzas now cannot be sold to Petur .
+
+Trivia [ ]
+
+Truffle pizzas have a collision hitbox when held in the hotbar . Truffle pizzas currently cannot be sold to Petur .

@@ -1,0 +1,45 @@
+Source: https://robloxislands.fandom.com/wiki/Starfruit
+
+----------------------------------------
+
+Starfruit Starfruit Oily Planted on Farmland Sell price 60 coins Required skill Level 7 Combat (to sell) Edible A starfruit is a crop that grows on farmland from starfruit seeds and naturally spawns on Buffalkor Island and Wizard Island as foliage .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting a starfruit plant yields 1 - 3 starfruits, 1 starfruit seed , and 21 Farming XP (81 XP with the 4x daily bonus). The chance of obtaining more than one starfruit per plant is increased by the player's Farming level and for owners of the VIP gamepass . Extra starfruit seeds cannot be yielded.
+
+Starfruits also naturally spawn throughout Buffalkor Island and Wizard Island as foliage , where it has a slightly higher spawn rate in the latter. Starfruit harvested from these islands have a chance to yield a starfruit seed.
+
+Totems [ ]
+
+A starfruit totem will collect and replant starfruits in a 3-block radius, which can then be collected by interacting it. A starfruit totem placed next to a conveyor belt will drop the starfruit onto the conveyor. This process cannot yield extra starfruit seeds nor will it make starfruits oily.
+
+Growth [ ]
+
+The growth time of starfruit can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Starfruit Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 0m 10s 2m 45s 5m 30s Note: The durations of time above are on an unfertilized and unwatered plant Starfruit Growth Time Type Growth Time Normal 5m 30s Fertilized 4m 40s Watered 4m 40s Watered + Fertilized 4m 5s
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Regen Potion 1 Starfruit 1 Red Mushroom 1 Empty Potion Bottle Brewing Stand Level 40 Cooking Uncooked Starfruit Cake 4 Dough 8 Starfruit Cooking Table Food Processor Level 52 Cooking Dragon Fruit Acai Bowl 1 Dragon Fruit 1 Starfruit 2 Blueberry 2 Raspberry Cooking Table Food Processor None Dragon Fruit Ice Cream 1 Dragon Fruit 1 Starfruit 3 Blueberry 1 Milk Bucket Cooking Table Food Processor None
+
+Eating [ ]
+
+Eating a starfruit restores 20 HP.
+
+Selling [ ]
+
+Starfruits can be sold to Cletus for 60 coins each after reaching level 7 Combat .
+
+History [ ]
+
+July 11, 2020 Added starfruits. July 17, 2020 Starfruits are now edible. August 9, 2020 Starfruits can now be used to craft regen potions . January 22, 2021 Starfruits now grant 21 Farming XP when harvested. Starfruits now require level 7 Combat to be sold to Tom . June 4, 2021 Starfruits can be packed into crates of starfruits . August 15, 2021 Starfruits can be packed into large crates of starfruits . November 13, 2021 8 starfruits are now required to craft uncooked starfruit cake , up from 2. January 15, 2022 Changed the sell price of starfruits from 45 coins to 60 coins. February 27, 2022 Starfruits can now be used to craft dragon fruit acai bowls and dragon fruit ice cream . April 29, 2022 Changed the sell price of starfruit from 60 coins to 67 coins. May 13, 2022 Changed the sell price of starfruit from 67 coins to 60 coins. June 3, 2022 Starfruits can now be sold to Cletus instead of to Tom. July 9, 2022 Changed the sell price of starfruit from 60 coins to 62 coins. July 16, 2022 Changed the sell price of starfruit from 62 coins to 60 coins. October 8, 2022 Changed the sell price of starfruit from 60 coins to 67 coins. October 15, 2022 Starfruit can now be sold to Tom instead of to Cletus. Changed the sell price of starfruit from 60 coins to 67 coins. November 4, 2022 Starfruit can now be sold to Cletus instead of to Tom. January 6, 2023 Changed the sell price of starfruit from 60 coins to 55 coins. January 20, 2023 Changed the sell price of starfruit from 55 coins to 60 coins. July 7, 2023 Changed the sell price of starfruit from 60 coins to 54 coins. July 21, 2023 Changed the sell price of starfruit from 54 coins to 60 coins.
+
+Trivia [ ]
+
+Like pineapples , although the existence of oily starfruit in the game's code implies that it gets oily on conveyors , starfruit cannot get oily. Starfruit (also called 'carambola'), is a tree ( Averrhoa carambola ) in real life rather than a patch growing on the ground in Islands . Also, the starfruit model in-game is only a slice of a real carambola rather than the entire fruit. Upon its release, starfruit weren't edible. This was changed in the July 17, 2020 update.

@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Weakness
+
+----------------------------------------
+
+Weakness Causes Weakens enemies Source Weapons whose magical class is void Type Attack
+
+Weakness is an effect that affects hostile mobs when attacked by weapons whose magical class is void .
+
+Source [ ]
+
+Weakness will come in effect when attacking hostile mobs with a weapon whose magical class is void such as the spirit spellbook , serpent's hook , and the reaper's scythe .
+
+Causes [ ]
+
+Weakness adds a weakened effect that reduces enemy damage by 20% while under the effect, which can stack. The enemy is also surrounded by purple gas when under the effect.
+
+History [ ]
+
+October 8, 2022 Added Weakness.

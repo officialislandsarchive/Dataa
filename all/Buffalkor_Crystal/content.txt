@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Buffalkor_Crystal
+
+----------------------------------------
+
+Buffalkor Crystal Dropped by Buffalkor Description Rare drop from killing Buffalkors The buffalkor crystal is a crystal added in the May 17, 2020 update.
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Buffalkors have a 0.5% chance of dropping a buffalkor crystal upon defeat.
+
+Treasure chests [ ]
+
+Opening a Buffalkor Island treasure chest has a 0.5% chance of rewarding a buffalkor crystal, having a rarity of 'mythic'.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Buffalkor Crystal Block 10 Buffalkor Crystal Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Industrial Stonecutter 1 Buffalkor Crystal 8 Steel Rod Workbench Tier 3 Workbench Tier 4 None Gilded Steel Hammer 1 Buffalkor Crystal 5 Gilded Steel Rod 40 Gold Ingot Anvil Level 32 Heavy Melee
+
+History [ ]
+
+May 17, 2020 Added buffalkor crystals. Changed the description from "Rare slime drop" to "Rare drop from killing Buffalkors". November 7, 2020 Buffalkor crystals can now be used to craft randomizers . December 11, 2020 Buffalkor crystals can no longer be used to craft randomizers. April 1, 2022 Increased the drop rate from buffalkors from 0.2% to 0.5%. April 16, 2022 Buffalkor crystals can now be opened from Buffalkor Island treasure chests . June 18, 2022 Buffalkor crystals can now be used to craft buffalkor crystal blocks .
+
+Trivia [ ]
+
+The buffalkor crystal's description used to incorrectly say that it's a "Rare slime drop," but this has been fixed.

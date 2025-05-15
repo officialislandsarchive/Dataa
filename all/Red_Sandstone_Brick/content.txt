@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Red_Sandstone_Brick
+
+----------------------------------------
+
+Red Sandstone Brick Type of block Solid block Recipe 1 Red Sandstone Crafted with Stonecutter Industrial Stonecutter Best tool Luminous Transparent Red sandstone bricks are the brick variant of red sandstone .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Input Item transformer Output 1 Red Sandstone ➡ Stonecutter ➡ 1 Red Sandstone Brick ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Red Sandstone Brick Breaking Data Hardness 4 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 6 Stone 7 4 Iron 4 3 Gilded Steel 3 2 Diamond 2 2 Opal 2 1 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting stations 2 Red Sandstone Brick Stair 1 Red Sandstone Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Red Sandstone Brick Slab 1 Red Sandstone Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Desert Portal 1 Desert Portal Shard 120 Red Sandstone Brick 5 Cactus Workbench Tier 3 Workbench Tier 4
+
+History [ ]
+
+August 9, 2020 Added red sandstone bricks. February 5, 2021 Red sandstone bricks can be used to craft desert portals . April 24, 2021 Changed the texture of red sandstone bricks

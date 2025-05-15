@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Wizard_Portal
+
+----------------------------------------
+
+Wizard Portal Type of block Solid block; Interactable Recipe 1 Wizard Portal Shard 120 Stone Brick 30 Red Carpet Crafted with Workbench Tier 3 Workbench Tier 4 Required skill Level 20 Combat (To use) Best tool Luminous Transparent Description A placeable portal that allows quick-travel to Wizard Island.
+
+The wizard portal is a portal block that allows the player to travel to the Wizard Island directly from their Player Island , rather than going through the portal on the Buffalkor Island .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Wizard Portal 1 Wizard Portal Shard 120 Stone Brick 30 Red Carpet Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Wizard Portal Breaking Data Hardness 35 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 53 Wooden 105 105 Stone 56 56 Iron 35 35 Gilded Steel 25 25 Diamond 18 18 Opal 14 14 Void Mattock 7
+
+Usage [ ]
+
+Traveling [ ]
+
+Wizard portals can be used to transport players to Wizard island from a player's island after reaching Combat level 20. If the skill prerequisite is not met, a UI element will pop up, stating that the player does not meet the required skill level.
+
+Trivia [ ]
+
+The inscription across the top of the portal reads "Islands" in the galactic alphabet . Around the portal you can find several potion bottles, several of them look quite similar to formula 86 .

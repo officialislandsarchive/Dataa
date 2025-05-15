@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Portrait
+
+----------------------------------------
+
+Portrait Type of block Solid block Recipe 5 Blue Flower 3 Red Flower 1 Yellow Flower Crafted with Furniture Workbench Best tool Luminous Transparent
+
+The portrait is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Any kind of blue, red, and yellow flower can be used in this recipe.
+
+Name Recipe Crafting station Portrait 5 Blue Flower 3 Red Flower 1 Yellow Flower Furniture Workbench
+
+Breaking [ ]
+
+Portrait Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+January 4, 2021 Added portraits.
+
+Trivia [ ]
+
+The portrait is like the test totem, it's model doesn't show up in the player's hand and it is not possible to pick it up.

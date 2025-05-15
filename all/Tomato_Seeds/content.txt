@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Tomato_Seeds
+
+----------------------------------------
+
+Tomato Seeds Planted on Farmland Buy cost 250 coins Required skill Level 5 Farming Tomato seeds are seeds used to farm for tomatoes .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Tomato seeds can be bought from Tom for 250 coins after reaching level 5 in Farming .
+
+Harvesting [ ]
+
+When a player harvests a tomato crop, the crop yields at least 1 tomato seed, with a 5% (1 in 20) chance of getting 2 seeds upon harvesting. This chance may be increased for owners of the PRO Gamepass .
+
+Usage [ ]
+
+Planting [ ]
+
+Tomato Seeds can be planted or placed on farmland to grow and farm tomatoes.
+
+Growing [ ]
+
+Tomato Seeds Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 45s 3m 15s 5m 0s Note: The durations of time above are on an unfertilized and unwatered plant
+
+History [ ]
+
+April 27, 2020 Added tomato seeds. October 15, 2022 Tomato seeds can now be bought from Tom .
+
+Trivia [ ]
+
+Despite real tomatoes growing on vines, tomato cannot be grown on a trellis .

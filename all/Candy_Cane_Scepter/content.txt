@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Candy_Cane_Scepter
+
+----------------------------------------
+
+Candy Cane Scepter Type Magical Magical class Frost Magic weapon type Staff Attack damage 38 HP The candy cane scepter is a ranged magic weapon that can shoot iceballs horizontally, exclusive to the Christmas 2022 event. It is in the frost class. It can be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Christmas presents [ ]
+
+Opening a Christmas present 2022 has a 2% chance of rewarding a candy cane scepter.
+
+Attacking [ ]
+
+Casting [ ]
+
+At level 1 Magic , iceballs can be shot from the candy cane scepter to deal a base damage of 38 HP every second. The iceballs are shot horizontally in the direction the player is facing, or where the camera is pointing in first person mode. Its damage can be increased by leveling up the Magic skill and it is in the frost class.
+
+History [ ]
+
+December 16, 2022 Added candy cane scepters. December 23, 2022 Candy cane scepters are now in the frost class. January 6, 2023 Candy cane scepters can now be dropped, traded , and put in vending machines and chests .

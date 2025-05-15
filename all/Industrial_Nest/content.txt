@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Industrial_Nest
+
+----------------------------------------
+
+Industrial Nest Type of block Solid block; Interactable Recipe 1 Nest 1 Conveyor Belt 3 Blue Sticky Gear Crafted with Animal Bench Required skill Level 45 Animal Care Best tool Luminous Transparent
+
+An industrial nest is an industrial machine that automates the egg collecting process on chickens and ducks . It can also be used to automate the feather collecting process on vultures .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Industrial Nest 1 Nest 1 Conveyor Belt 3 Blue Sticky Gear Animal Bench Level 45 Animal Care
+
+Breaking [ ]
+
+Industrial Nest Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+Usage [ ]
+
+Eggs [ ]
+
+The industrial nest can be used to automatically collect eggs from chickens and ducks when ready. It has 3 slots able to hold 3 eggs each, and when a chicken or duck has laid eggs, it will automatically go towards the industrial nest to collect eggs, provided that its maximum capacity has not yet been reached. The player will receive 15 Animal Care XP (60 with the 4x daily bonus).
+
+History [ ]
+
+March 3, 2023 Added industrial nests.
+
+Trivia [ ]
+
+Like nests , chickens or ducks can also sleep on it.

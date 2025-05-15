@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Magma_Blob
+
+----------------------------------------
+
+Magma Blob Health 400 HP Behavior Hostile Attack strength 25 HP (Head bash) 40 HP (Burrow-blast) Drops Gold Ingot Underworld Token Opal Obsidian Magma Block Jukebox Disk Location Underworld A magma blob is a hostile mob that spawns in the Underworld .
+
+Spawning [ ]
+
+Underworld [ ]
+
+Magma blobs spawn in two sizes in the Underworld — small and large. Both sizes deal the same amount of damage to the player, although the hitbox of large magma blobs are larger than those of small magma blobs.
+
+Infernal Dragon [ ]
+
+The Infernal Dragon may summon 1 - 7 magma blobs to aid it in battle, with the amount summoned in proportion to the number of players fighting it.
+
+Attacks [ ]
+
+Head bash [ ]
+
+Magma blobs hit players with their heads dealing 25 damage.
+
+Burrow-blast [ ]
+
+Magma blobs can burrow underground and follow the player, leaving behind a fiery trail signaling their location. Once an underground magma blob gets close enough to a player, it will resurface. If the player is close enough, the attack deals 40 damage to the player and knocks the player back a short distance. Magma blobs cannot be damaged when burrowed underground.
+
+Drops [ ]
+
+A magma blob rewards 25 (99 with the 4x daily bonus) Combat XP and 25 (99 with the 4x daily bonus) Light Melee , Heavy Melee , Magic , or Archery XP depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Gold Ingot 60% Underworld Token 500% Opal 10% Obsidian 20% Magma Block 30% Jukebox Disks Blue Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Red Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Resistances and Weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical None Inferno Slashing Hydro
+
+History [ ]
+
+September 11, 2021 Added magma blobs. Buffed magma blobs to have 400 HP and deal 25/40 damage, up from 100 HP and 10 damage. September 18, 2021 Added sound effects for magma blobs.
+
+Trivia [ ]
+
+Magma blobs are the fastest hostile mobs in the game in terms of speed. Magma blobs shares the same magical resistances and weaknesses as evil gingerbreads and wizard lizards , and physical weakness as green slimes , blue slimes , pink slimes , and frost slimes . They are the first mobs that can immune to damage when burrowed underground.

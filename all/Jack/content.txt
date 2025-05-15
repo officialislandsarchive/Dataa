@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Jack
+
+----------------------------------------
+
+Jack Location Hub , Player's Island Purpose Buys and sells mechanical parts Occupation Mechanic Jack is a villager found next to John . Players can sell mechanical parts in exchange for coins . Jack comes to the player's island upon crafting an industrial item.
+
+Shop [ ]
+
+Buying [ ]
+
+Image Name Sell price Required skill Copper Bolt 200 coins None Gearbox 30,000 coins Level 32 Forging
+
+Selling [ ]
+
+Image Name Price Spawn Block 10,000 coins
+
+Player's island [ ]
+
+Jack will visit the player's island when the player crafts their first steel mill . If interacted with, he will reward the player with one industrial chest and eight conveyor belts .
+
+Dialogue [ ]
+
+Hub [ ]
+
+"Hey, I've got some mechanical stuff for you!" "With the Electrical Workbench, you can wire up some lights! You'll need to find electrite thought..." "Factories are the fastest and most fun way to farm!" "Found any sticky gears lately?" "You can find copper ore in the Buffalkor Mines!"
+
+>View Shop

@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Explore_Menu
+
+----------------------------------------
+
+The Explore Menu is accessed via its button on the left of a player's screen. It is used to publish a player's island ( PROs only) and visit other player islands via join codes, invites, or online islands. Some features can only be used in public servers.
+
+Features [ ]
+
+Join Codes [ ]
+
+Every player has a unique join code. They are shown on the UI. Below it is where one can enter other player's join codes. Upon entering one, the player will be teleported to that player's island if they are in-game.
+
+Publish Island [ ]
+
+This feature is currently in Pro Beta, meaning only players that own the Pro Gamepass can use it. This feature has two buttons: Edit and Publish. The Edit button allows one to change the display name of one's island. The Publish button moves one's island to a bigger 60-player server, and adds it to the Published Islands list. If this button is pressed without owning the Pro Gamepass, it will flash red and ask the player if they would like to purchase it. The description reads as shown below:
+
+Local Invites (Private Servers Only) [ ]
+
+Everybody in a Private Server is automatically invited to each other's islands ; their names pop up on a list next to a button that reads "Visit."
+
+Friends & Chat (Public Islands Only) [ ]
+
+This shows all the players that are "Nearby", meaning they are in the player's chat group. If a player invites another player, the Visit button will appear, along with a red X button. The visit button will teleport the invited player to the player who sent the invite, and the X button will uninvite the invited player from the player who sent the invite's island. Next to all the names is an invite button; this allows the player another player invites to their island to visit their island without a join code.
+
+Published Islands [ ]
+
+This is a list of all the published islands that are currently online. It displays the following: the island name, the island owner's username, and the player count. Next to that information is a green Connect button; pressing it sends one to that island, as long as the server is not full. Above the list is a button that says "Random." Pressing it will teleport one to a random published island.
+
+Trivia [ ]
+
+Published islands were originally called "popular islands." Wizard Lizard appears above the "My Join Code" section. From December 29, 2021 to January 7, 2022 , published islands were disabled. Prior to November 11, 2022 , there was no option to hide the owner's join code.

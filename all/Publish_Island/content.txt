@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Publish_Island
+
+----------------------------------------
+
+The Publish Island feature was added in the August 2, 2020 update, and is currently in BETA . It can only be used by players that own the Pro Gamepass , which can be bought for 1699 Robux . Any player can visit a Published Island, but only Pros Gamepass owners can Publish their Player Islands .
+
+Publishing [ ]
+
+To publish a player island the owner of that island must open the Explore Menu and press the Publish Button, located in the bottom left hand corner of the UI element. Publishing will move the player's island to a bigger 30 player server, and will add it to the Published Islands list.
+
+Note: if you do not own the Pro Gamepass the Publish button will flash red and prompt you to buy the gamepass.
+
+Editing [ ]
+
+Any player can view this UI, but it only really benefits players who can publish their islands. Currently it can only be used to change an island's display name; the name that appears on the Published Islands List. You can put a total of 32 characters there, with emojis counting as 4.
+
+Island Stats Dashboard [ ]
+
+Currently this feature is not released and nobody knows what will be listed here. It can be viewed by selecting the Explore button followed by the Edit button.
+
+Visiting [ ]
+
+Published Islands can be visited in three ways, as listed below:
+
+Published Islands List [ ]
+
+This can be found in the Explore Menu , towards the bottom right hand side. It displays a list of all the Published Islands that are currently online, along with its player count and owner's username.
+
+Join Codes [ ]
+
+Typing a Published Island's join code into the Join Code section of the Explore Menu, will teleport you to the Published island if its owner is in-game.
+
+Randomize Button [ ]
+
+Above the list of Published islands there is a red button that says Randomize, pressing it takes the player to one of the published islands that are currently online.
+
+History [ ]
+
+August 2, 2020 Added Published Island feature. August 20, 2020 Published Islands now show display names. July 7, 2022 Decreased the Publish Island server size from 60 to 30 players.
+
+Trivia [ ]
+
+Before the November 1, 2020 update, published islands used to have a hub and had join codes. The Published Islands list was originally called the "Discover" list. Having at least three players on your published island can increase the chance of more players visiting greatly, otherwise it takes often around an hour to get on the list.

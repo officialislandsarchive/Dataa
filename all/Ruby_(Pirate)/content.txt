@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Ruby_(Pirate)
+
+----------------------------------------
+
+Ruby (Pirate) Location Pirate Island Purpose Sells obsidian totems Occupation Miner Pirate Ruby is a pirate located on Pirate Island who sells obsidian totems .
+
+Shop [ ]
+
+Selling [ ]
+
+Image Name Price Obsidian Totem 600 doubloons
+
+Dialogue [ ]
+
+"Yarr, hard ol' day at the mine today, user ! Could ya lend a hand?" >View Shop Opens shop.
+
+Quests [ ]
+
+Prior to the June 3, 2022 update, Ruby offered quests that could have been completed for doubloons .
+
+Quests Reward Break 10 obsidian rocks. 5 Doubloons Break 20 obsidian rocks. 10 Doubloons Break 30 obsidian rocks. 15 Doubloons
+
+History [ ]
+
+July 17, 2021 Added Ruby. June 3, 2022 Removed Ruby's quests. April 29, 2022 Removed the fourth empty slot in Ruby's quest UI. ? Added offer for obsidian totems .

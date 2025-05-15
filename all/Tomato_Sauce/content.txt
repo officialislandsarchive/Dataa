@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Tomato_Sauce
+
+----------------------------------------
+
+Tomato Sauce Recipe 3 Tomato Crafted with Cooking Table Food Processor Sell price 42 - 48 coins Hot sell price 48 - 72 coins Required skill Level 3 Cooking Description Fresh tomato sauce. Tomato sauce is an inedible food item .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Tomato Sauce 3 Tomato Cooking Table Food Processor Level 3 Cooking
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Uncooked Pizza 1 Tomato Sauce 1 Dough Cooking Table Food Processor Level 3 Cooking Tomato Soup 8 Tomato Sauce 4 Onion 1 Milk Bucket Cooking Table Food Processor Level 36 Cooking Uncooked Pineapple Pizza 1 Dough 1 Tomato Sauce 2 Pineapple Slice Cooking Table Food Processor Level 14 Cooking
+
+Selling [ ]
+
+Tomato sauce can be sold to Petur for 42 - 48 coins each, or 48 - 72 coins if tomato sauce is a hot offer.
+
+History [ ]
+
+May 10, 2020 Added tomato sauce. August 30, 2020 Changed the model for tomato sauce. January 22, 2021 Level 3 Cooking is now required to craft tomato sauce. November 13, 2021 8 tomato sauce is now required to craft tomato soup , up from 2. January 8, 2022 Tomato sauce can now be used to craft uncooked pineapple pizzas . January 8, 2022 Changed the base selling price from 40 coins to 48 - 72 coins. January 15, 2022 Changed the base selling price from 48 - 72 coins to 42 - 48 coins.

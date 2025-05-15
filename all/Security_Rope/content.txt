@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Security_Rope
+
+----------------------------------------
+
+Security Rope Type of block Solid block Buy cost 7,500 coins Best tool Luminous Transparent Description A security rope decor to place on your island A security rope is a furniture block that can be purchased from Rob .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Security ropes can be purchased for 7,500 coins each from Rob .
+
+Breaking [ ]
+
+Security Rope Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+November 25, 2022 Added security ropes.

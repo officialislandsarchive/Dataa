@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Apple_Tree
+
+----------------------------------------
+
+Apple Tree Sapling Spring Summer Fall Winter Type of block Solid block Spawns Player's Island Best tool Drops 3 - 4 Oak Wood 1 Apple Tree Sapling Luminous Transparent The apple tree is a fruit tree added in the June 26, 2020 update.
+
+The canopies of apple trees change color based on the current in-game season ; dark green in spring , light green in summer , dark red in fall , and white in winter , but its sapling always has light green leaves on its canopy.
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+Players have a 25% chance of starting with an apple tree on their island upon island creation.
+
+Harvesting [ ]
+
+Apple tree saplings have a 3% chance of dropping whenever an apple is harvested from the tree. It can be planted on grass to be grown into an apple tree. It takes 1 minute and 50 seconds for an apple tree sapling to grow into an apple tree.
+
+Breaking [ ]
+
+Apple Tree Breaking Data Hardness 8 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 12 24 Stone 8 13 Iron 5 8 Gilded Steel 4 6 Diamond 3 4 Opal 2 4 Void Mattock 2
+
+Drops [ ]
+
+When cut down, the player will recieve:
+
+1 apple tree sapling 3 - 4 oak wood
+
+Usage [ ]
+
+Harvesting [ ]
+
+Apples grow every season on apple trees and can be obtained by harvesting them from the tree. There can be up to three apples on a tree at a time, and whenever an apple is harvested, there is a 3% chance of getting an additional apple tree sapling. Harvesting an apple yields 6 Farming XP (24 XP with the 4x daily bonus). It takes x minutes for an apple tree to grow an apple, adding up to a total of xx minutes to grow three apples.
+
+Apple trees can be harvested with leaf clippers to drop 2 leaves .
+
+History [ ]
+
+June 26, 2020 Added apple trees.
+
+Trivia [ ]
+
+If an apple tree is chopped down while having apples on it, it will only drop the sapling and not any of the apples.

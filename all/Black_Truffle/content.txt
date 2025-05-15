@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Black_Truffle
+
+----------------------------------------
+
+Black Truffle Sell price 220 coins Required skill Level 31 Animal Care (to sell) Description Common truffle pulled out of tree roots by pigs. A black truffle is an item that can be obtained from pigs . Its rarer counterpart is the white truffle .
+
+Obtaining [ ]
+
+Black truffles can usually be obtained after feeding pigs , but there is a small chance of obtaining a white truffle instead. However, if the pig's hunger is 25% or less, it will consume the truffle and the player won't receive it.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Mud Pile 2 Tall Grass 20 Grass 1 Black Truffle Animal Bench Level 37 Animal Care Truffle Pizza 1 Pizza 1 Black Truffle Cooking Table Food Processor Level 66 Cooking Truffle Avocado Toast 1 Avocado Toast 1 Black Truffle Cooking Table Food Processor Level 70 Cooking
+
+Selling [ ]
+
+Black truffles can be sold to Taliyah for 220 coins each once the player has reached level 31 in the Animal Care skill.
+
+History [ ]
+
+February 5, 2021 Added black truffles. November 13, 2021 Black truffles can now be used to craft truffle avocado toast and truffle pizza .
+
+Trivia [ ]
+
+Black truffle's chance will be reduced to 1% even if a pig's happiness level is maxed out.

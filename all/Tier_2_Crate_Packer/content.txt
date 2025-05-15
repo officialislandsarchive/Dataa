@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Tier_2_Crate_Packer
+
+----------------------------------------
+
+Tier 2 Crate Packer Type of block Solid block; Interactable Recipe 25 Red Bronze Ingot 15 Steel Plate Crafted with Workbench Tier 4 Best tool Luminous Transparent The tier 2 crate packer is an upgraded version of the crate packer that packs 250 of a crop or fruit into large crates .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Tier 2 Crate Packer 25 Red Bronze Ingot 15 Steel Plate Workbench Tier 4
+
+Breaking [ ]
+
+Tier 2 Crate Packer Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Auto-crafting [ ]
+
+Image Name Recipe Large Crate of Wheat 250 Wheat Large Crate of Tomatoes 250 Tomato Large Crate of Apples 250 Apple Large Crate of Potatoes 250 Potato Large Crate of Lemons 250 Lemon Large Crate of Carrots 250 Carrot Large Crate of Coconuts 250 Coconut Large Crate of Onions 250 Onion Large Crate of Radishes 250 Radish Large Crate of Starfruit 250 Starfruit Large Crate of Avocados 250 Avocado Large Crate of Pumpkin 250 Pumpkin Large Crate of Kiwis 250 Kiwi Large Crate of Melons 250 Watermelon Large Crate of Oranges 250 Orange Large Crate of Plums 250 Plums
+
+History [ ]
+
+August 15, 2021 Added crate packer tier 2s. August 21, 2021 Crate packer tier 2s can now pack apples , lemons , coconuts , avocados , kiwis , and oranges into their respective large crates. ? Crate packer tier 2s now require to be powered with petroleum to be used. ? Crate packer tier 2s no longer require to be powered with petroleum to be used. October 9, 2021 Crate packer tier 2s can now pack plums . July 30, 2022 Crate packer tier 2s can now pack pineapples , cacti , and spinach . ? Renamed to crate packer tier 2s to "Tier 2 Crate Packer".

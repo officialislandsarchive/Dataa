@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Onion_Seeds
+
+----------------------------------------
+
+Onion Seeds Planted on Farmland Buy cost 2000 coins Required skill Level 31 Farming Onion seeds are seeds that can be grown into onions .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Onion seeds can be purchased from Cletus in the Hub for 2,000 coins each after reaching level 31 Farming .
+
+Harvesting [ ]
+
+Harvesting an onion crop will give 1 - 3 onion and 1 onion seed, with a 5% chance of getting an additional seed. This chance is increased with higher Farming levels and to owners of the pro gamepass .
+
+Usage [ ]
+
+Planting [ ]
+
+Onion seeds can be planted on farmland to be grown into onions.
+
+Growth [ ]
+
+The growth time of onions can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Onion Seeds Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 40s 3m 20s 4m 50s Note: The durations of time above are on an unfertilized and unwatered plant Onion Seeds Growth Time Type Growth Time Normal 4m 50s Fertilized 3m 52s Watered 3m 52s Watered + Fertilized 3m 23s
+
+History [ ]
+
+April 10, 2020 Added onion seeds. January 22, 2021 Level 31 Farming is now required to purchase onion seeds. October 15, 2022 Onion seeds can now be purchased from Tom instead of Cletus . November 4, 2022 Onion seeds can now be purchased from Cletus instead of Tom.

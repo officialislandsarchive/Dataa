@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Capitalist_Statue
+
+----------------------------------------
+
+Capitalist Statue Type of block Solid block Buy cost Auction bid Best tool Luminous Transparent The capitalist statue is a decorative block that can be obtained by winning an auction in the Art Museum .
+
+Obtaining [ ]
+
+Bidding [ ]
+
+The capitalist statue can be obtained by winning an auction of it hosted by Quinn .
+
+Breaking [ ]
+
+Capitalist Statue Breaking Data Hardness 15 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 23 Wooden 45 45 Stone 24 24 Iron 15 15 Gilded Steel 11 11 Diamond 8 8 Opal 6 6 Void Mattock 3
+
+History [ ]
+
+February 19, 2022 Added capitalist statues.

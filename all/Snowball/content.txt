@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Snowball
+
+----------------------------------------
+
+Snowball Recipe 1 Snow Crafted with Snowball Machine Description Perfect for throwing! Snowballs are a projectile item made by inserting snow into a snowball machine .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Putting one snow into a snowball machine makes 3 snowballs. It requires the snowball machine gamepass to use.
+
+Input Item Transformer Output 1 Snow ➡ ➡ 3 Snowball
+
+Usage [ ]
+
+Throwing [ ]
+
+Snowballs can be thrown at other players or mobs hitting a mob does 6 damage. They do deal some knockback, but only about a tenth of a block.

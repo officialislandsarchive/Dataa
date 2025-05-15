@@ -1,0 +1,15 @@
+Source: https://robloxislands.fandom.com/wiki/Farming
+
+----------------------------------------
+
+Farming Class Gathering Base Stats +1% Crop Yield Unlocks Lowest Unlock LVL 3 Highest Unlock LVL 52 Farming is a skill that can be leveled up by harvesting crops ; crop totems will only reward 1 XP per crop harvested and will not grant any XP from picking up the crop. Leveling up this skill grants access to selling certain crops, buying seeds , buying crop totems, and increased crop yields.
+
+Unlocks [ ]
+
+Level Unlock(s) Level 3 Watering Can Crafting Recipe Level 5 Tomato Seeds Merchant Offer Tomato Merchant Offer Level 9 Potato Seeds Merchant Offer Potato Merchant Offer Level 14 Composter Crafting Recipe Basic Fertilizer Crafting Recipe Level 16 Wheat Totem Merchant Offer Level 18 Carrot Seeds Merchant Offer Carrot Merchant Offer Level 20 Iron Sickle Merchant Offer [sic] Level 22 Spinach Seeds Merchant Offer Spinach Merchant Offer Level 24 Tomato Totem Merchant Offer Level 26 Radish Totem Merchant Offer Level 28 Potato Totem Merchant Offer Level 29 Pumpkin Totem Merchant Offer Level 31 Onion Seeds Merchant Offer Onion Merchant Offer Level 32 Watermelon Totem Merchant Offer Level 33 Carrot Totem Merchant Offer Level 35 Trellis Crafting Recipe Grape Seeds Merchant Offer Grape Merchant Offer Level 36 Gilded Steel Sickle Merchant Offer [sic] Level 37 Pineapple Seeds Merchant Offer Pineapple Totem Merchant Offer Level 38 Cactus Seeds Merchant Offer Cactus Merchant Offer Level 39 Rice Seeds Merchant Offer Seaweed Seeds [sic] Merchant Offer Level 40 Onion Totem Merchant Offer Level 41 Dragon Fruit Seeds Merchant Offer Dragon Fruit Merchant Offer Level 50 Diamond Sickle Crafting Recipe Level 52 Starfruit Totem Merchant Offer
+
+XP amount [ ]
+
+The following amounts of XP are given upon manually harvesting a crop :
+
+Crop XP received Base 4x daily Cactus 42 168 Grape 27 108 Dragon Fruit 27 108 Seaweed 27 108 Rice 27 108 Candy Cane 27 108 Radish 21 81 Starfruit 21 81 Onion 15 63 Chili Pepper 15 63 Potato 12 42 Carrot 12 51 Tomato 9 30 Pineapple 6 24 Wheat 6 18 Spinach 6 24 Watermelon 6 24 Pumpkin 6 21 Red Berry 6 18 Blueberry 6 18 Blackberry 6 18 Spirit Crop 6 18 Apple 6 24 Orange 6 24 Lemon 6 24 Coconut 6 24 Avocado 6 24 Kiwi 6 24 Plum 6 24 Crystalline 12 48 Vine Stem 12 48 Opuntia 12 48

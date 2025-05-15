@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Gold_Ore
+
+----------------------------------------
+
+Gold Ore Gold Ore Rock Dropped by Buffalkor Spawns Buffalkor Island Diamond Mines Description Heat up to smelt into a gold ingot. Gold ore is an ore that can be obtained from gold rocks , gold deposits , and buffalkors .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Gold rocks naturally generate on the Buffalkor Island ， Emerald Mines , and the Diamond Mines . Mining a gold rock yields 2 - 3 gold ore per stage, resulting in a total of 4 - 6 gold ore. There's also a 10% chance the rock drops crystallized gold . Gold rocks used to spawn on Wizard Island before the April 4, 2021 update.
+
+Resource island [ ]
+
+Gold ore can be obtained by mining a gold deposit , which spawns in gold resource islands around the player's island . Mining the gold deposit yields 10 - 20 gold ore.
+
+Drilling [ ]
+
+Placing a drill on top of a gold deposit and fueling it with coal or petrified petroleum will provide an infinite stream of gold ore, with one being generated every two minutes.
+
+Mob drop [ ]
+
+Buffalkors have a 50% chance of dropping a gold ore upon defeat.
+
+Breaking [ ]
+
+Gold Rock Breaking Data Hardness 65 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 98 Wooden 195 98 Stone 104 65 Iron 65 41 Gilded Steel 46 33 Diamond 33 20 Opal 26 13 Void Mattock 13
+
+Usage [ ]
+
+Smelting [ ]
+
+Smelting gold ore in a campfire , small furnace , desert furnace , or industrial smelter will create gold .
+
+Input Output 1 Gold Ore 1 Gold Ingot
+
+History [ ]
+
+May 17, 2020 Added gold ore. July 17, 2020 Gold rocks now spawn on Wizard Island . September 18, 2020 Gold ore can now be drilled from gold deposits . Increased the drop rate of gold ore from mining gold rocks from 1 - 2 per half to 2 - 3 per half. February 26, 2021 Gold rocks now spawn in the Diamond Mines . April 4, 2021 Gold rocks no longer spawn on Wizard Island.

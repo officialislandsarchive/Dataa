@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Electrical_Workbench
+
+----------------------------------------
+
+Electrical Workbench Type of block Solid block; Interactable Recipe 50 Iron Ingot 50 Electrite Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent The electrical workbench is a crafting station used to craft electrical items and permit electrical generators to be placed on the player's island . It can be upgraded up to level three to unlock more crafting recipes and increase the limit of electric generators on the player's island.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Electrical Workbench 50 Iron Ingot 50 Electrite Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Electrical Workbench Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Crafting recipes [ ]
+
+Image Name Recipe Required skill Level 1 Coal Generator 40 Iron Ingot 4 Electrite None Firework Launcher 100 Iron Ingot 50 Steel Bolt None LED Light 2 Iron Ingot 8 Electrite None Switch 5 Iron Ingot 20 Electrite None Wire Tool 10 Iron Ingot None Ruby Disco Ball 1 Ruby 10 Electrite None Gold Disco Ball 1 Gold Ingot 10 Electrite None Diamond Disco Ball 1 Diamond 10 Electrite None Disco Floor Tile 1 10 Electrite 4 Glass Pane 2 Neon Red 2 Neon Pink None Disco Floor Tile 2 10 Electrite 4 Glass Pane 2 Neon Light Green 2 Neon Blue None Disco Floor Tile 3 10 Electrite 4 Glass Pane 2 Neon Yellow 2 Neon Purple None Disco Floor Tile 4 10 Electrite 4 Glass Pane 2 Neon White 2 Neon Cyan None Workbench Upgrade (to level 2) (Increases generator limit to 5) 20 Copper Bolt 250 Electrite 150 Steel Ingot None Level 2 Split Conveyor 1 Crystallized Iron 4 Steel Rod 20 Electrite None Solar Panel 10 Steel Ingot 10 Copper Bolt 100 Electrite None And Gate 10 Iron Ingot 15 Electrite None Button 2 Iron Ingot 10 Electrite None Combiner 8 Iron Ingot 25 Electrite None Or Gate 10 Iron Ingot 15 Electrite None Splitter 8 Iron Ingot 25 Electrite None Xor Gate 20 Iron Ingot 40 Electrite None Workbench Upgrade (to level 3) (Increases generator limit to 7) 450 Steel Ingot 50 Steel Bolt 10 Copper Plate 750 Electrite None Level 3 Timer 20 Iron Ingot 40 Electrite None Totem Disabler 10 Red Bronze Ingot 10 Steel Bolt 100 Electrite None Conveyor Sensor 1 Conveyor Belt 3 Ruby Skorp Scale 50 Electrite Level 36 Forging Steam Generator 1 Gearbox 20 Copper Bolt 150 Electrite None
+
+History [ ]
+
+December 11, 2020 Added electrical workbenches. February 7, 2022 Fixed an issue preventing upgrades to electrical workbenches from appearing on mobile. October 28, 2022 Added the recipes for disco balls and disco floor tiles at level 1. January 6, 2023 Added the recipes for neon light fries , neon light ice creams , neon light drinks , neon light shakes , neon light diner signs , neon light welcome signs , and burger neon light signs . Removed the recipes for neon light fries, neon light ice creams, neon light drinks, neon light shakes, neon light diner signs, neon light welcome signs, and burger neon light signs.
+
+Trivia [ ]
+
+The level 3 upgrade requires the most electrite out of any item in Islands . It also is the first recipe that required four different items.

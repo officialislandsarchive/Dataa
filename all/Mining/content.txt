@@ -1,0 +1,15 @@
+Source: https://robloxislands.fandom.com/wiki/Mining
+
+----------------------------------------
+
+Mining Class Gathering Base Stats +5% Mining Damage Unlocks Lowest Unlock LVL 4 Highest Unlock LVL 58 Mining is a skill that can be leveled up by mining ore rocks . Leveling up the skill grants access to pickaxe crafting recipes and mineral totems from Arius as well as an increase in mining damage. This skill only increases base damage to mineral nodes, not any kinds of trees.
+
+Roadmap [ ]
+
+Level Unlock(s) Level 4 Iron Pickaxe Crafting Recipe Level 10 Stone Totem Merchant Offer Level 12 Granite Totem Merchant Offer Andesite Totem Merchant Offer Diorite Totem Merchant Offer Level 14 Coal Totem Merchant Offer Level 16 Clay Totem Merchant Offer Level 18 Iron Totem Merchant Offer Level 20 Aquamarine Totem Merchant Offer Level 24 Gilded Steel Pickaxe Crafting Recipe Level 28 Marble Totem Merchant Offer Level 32 Slate Totem Merchant Offer Level 36 Sandstone Totem Merchant Offer Red Sandstone Totem Merchant Offer Level 48 Diamond Pickaxe Crafting Recipe Level 55 Opal Pickaxe Crafting Recipe Level 58 Void Mattock Crafting Recipe
+
+XP amount [ ]
+
+Mineral XP received 4x Daily Bonus Base Stone 12 3 Emerald 12 3 Clay 18 4.5 (5) Coal 18 4.5 (5) Iron 18 4.5 (5) Copper 18 4.5 (5) Ice Spike 18 4.5 (5) Diorite 18 4.5 (5) Granite 18 4.5 (5) Andesite 18 4.5 (5) Basalt 30 7.5 (8) Opal 30 7.5 (8) Electrite 30 7.5 (8) Marble 48 12 Sandstone 66 16.5 (17) Red Sandstone 72 18 Void Stone 72 18 Amethyst 72 18 Aquamarine 78 19.5 (20) Slate 78 19.5 (20) Obsidian 78 19.5 (20) Gold 120 30 Diamond 450 112.5 (113) Enchanted Diamond 999 249.75 (250)
+
+Note: These XP rates are per a whole node.

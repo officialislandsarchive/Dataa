@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Totem_Disabler
+
+----------------------------------------
+
+Totem Disabler Type of block Solid block; Electrical Recipe 10 Red Bronze Ingot 10 Steel Bolt 100 Electrite Crafted with Electrical Workbench (Level 3) Best tool Luminous Transparent Description Disables totems within 10 blocks when active!
+
+The totem disabler is an electrical component that is used to disable totems . It was added in the December 11, 2020 update.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Totem Disabler 10 Red Bronze Ingot 10 Steel Bolt 100 Electrite Electrical Workbench (Level 3)
+
+Breaking [ ]
+
+Totem Disabler Breaking Data Hardness 5.5 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 17 9 Stone 9 6 Iron 6 4 Gilded Steel 4 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Disabling totems [ ]
+
+The totem disabler is a electrical component that, when powered, will stop all totems within a 10-block radius from functioning as long as the disabler is powered. The input and passthrough can be connected to other electrical components using a wire tool . It's useful for disabling auto-farms when the item limit is reached.
+
+Range [ ]
+
+The range of a totem disabler, if measured in full blocks, would have a radius of 9.5 and a diameter of 19. On the right is an image showing its range. The vertical range is 9 blocks. At that height, the horizontal range is 4 blocks. (The range is spherical; likewise, 9 horizontal blocks away, the range in the other horizontal direction is 4 blocks.)
+
+History [ ]
+
+December 11, 2020 Added totem disablers.
+
+Trivia [ ]
+
+This is the only electrical item that is crafted with red bronze ingots . The totem disabler can disable totems above it and under it. This was a from suggestion #41 by Luke on the official Islands suggestions website .

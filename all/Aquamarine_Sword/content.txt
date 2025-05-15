@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Aquamarine_Sword
+
+----------------------------------------
+
+Aquamarine Sword Type Light Melee Physical class Slashing Attack damage 18 HP (Base) +9 HP (Critical) Recipe 200 Aquamarine Shard 2 Crystallized Aquamarine Crafted with Anvil The aquamarine sword is a light melee weapon in the slashing class.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Aquamarine Sword 200 Aquamarine Shard 2 Crystallized Aquamarine Anvil
+
+Attacking [ ]
+
+At level 1 Light Melee , the aquamarine sword deals a base damage of 18 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing, leaving a blue trail with its large attack range. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 9 HP of damage. Its damage can be increased by leveling up the Light Melee skill and it is in the slashing class.
+
+History [ ]
+
+July 17, 2020 Added aquamarine swords. May 13, 2022 Changed the recipe from 200 aquamarine shards and 2 pearls to 200 aquamarine shards and 2 crystallized aquamarine . September 17, 2022 Aquamarine swords are now a slashing weapon. October 1, 2022 Changed the model of aquamarine swords.
+
+Trivia [ ]
+
+This weapon has the greatest range out of all melee weapons . Prior to October 1, 2022 , the aquamarine swords in a tool stand lay flat instead of standing upright. There is currently a bug that causes the aquamarine sword to deal extreme amounts of knockback towards mobs when hit many times in a short time span while frozen from the frost swords or frost hammers .

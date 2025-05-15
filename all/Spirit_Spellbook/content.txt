@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Spirit_Spellbook
+
+----------------------------------------
+
+Spirit Spellbook Type Magic weapon Magical class Void Magic weapon type Spellbook Attack damage 30 HP (White) 37 HP (Blue) 42 HP (Pink) 46 HP (Green) Recipe 1 Spellbook 50 Spirit Crystal 200 Spirit Jar 1 Green Spirit Essence Crafted with Anvil Required skill Level 40 Magic Description Cast spirit spells! The spirit spellbook is a ranged magic weapon that can shoot fireballs horizontally. It is in the void class.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Spirit Spellbook 1 Spellbook 50 Spirit Crystal 200 Spirit Jar 1 Green Spirit Essence Anvil Level 40 Magic
+
+Attacking [ ]
+
+Casting [ ]
+
+At level 1 Magic , fireballs can be shot from the spirit spellbook every second to deal a varying amount of damage depending on the color of the fireball. The fireballs are shot horizontally in the direction the player is facing, or where the camera is pointing in first-person mode, and its damage can be increased by leveling up the Magic skill. A white, blue, pink, or green fireball may be casted, with white fireballs dealing the least and green dealing the most. It is in the void class.
+
+Color Chance Base damage (HP) White 42% 30 Blue 37% 37 Pink 13% 42 Green 8% 46
+
+Audio [ ]
+
+The spirit spellbook has six unique sound effects for each spirit color.
+
+Color Cast Explosion White https://robloxislands.fandom.com/wiki/File:Spirit_Spellbook_Cast1.ogg https://robloxislands.fandom.com/wiki/File:Spirit_Spellbook_Explosion2.ogg Pink and Blue https://robloxislands.fandom.com/wiki/File:Spirit_Spellbook_Cast2.ogg https://robloxislands.fandom.com/wiki/File:Spirit_Spellbook_Explosion2.ogg Green https://robloxislands.fandom.com/wiki/File:Spirit_Spellbook_Cast3.ogg https://robloxislands.fandom.com/wiki/File:Spirit_Spellbook_Explosion3.ogg
+
+History [ ]
+
+June 10, 2022 Added spirit spellbooks. June 11, 2022 Fixed a bug that allowed the spirit spellbook to heal the player without damaging mobs. June 28, 2022 Level 40 Magic is now required to craft spirit spellbooks. September 17, 2022 Nerfed the base damage of spirit spellbooks from 40 - 55 HP to 30 - 46 HP. Removed the spirit spellbook's charging ability. Spirit spellbooks are now in the void class. Introduced a bug where the spirit spellbook does not heal the player when damaging mobs. October 8, 2022 Using the spirit spellbook no longer heals the player. Spirit spellbooks now weaken attacks from hostile mobs whenever the mobs are attacked.
+
+Trivia [ ]
+
+Prior to a patch on June 11, 2022 , fireballs did not need to hit an entity to heal the player, thus providing a free infinite healing mechanism. The projectiles fired by the spirit spellbook are slightly slower compared to other projectiles fired by other magic weapons. The chance of shooting a specific color fireball corresponds to its respective spirit counterpart spawn chance.

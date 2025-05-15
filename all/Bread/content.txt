@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Bread
+
+----------------------------------------
+
+Bread Recipe 1 Dough Crafted with Campfire Small Furnace Desert Furnace Industrial Oven Heals 20 HP Sell price 20 - 30 coins Hot sell price 30 - 45 coins Bread is a food item .
+
+Obtaining [ ]
+
+Cooking [ ]
+
+Baking dough in a campfire , small furnace , desert furnace , or industrial oven will create bread.
+
+Input Output 1 Dough 1 Bread
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Jam Sandwich 4 Grape Jam 8 Bread Cooking Table Food Processor Level 55 Cooking Avocado Toast 2 Avocado 1 Bread Cooking Table Food Processor Level 33 Cooking Lemon Puff 4 Lemon 12 Jar of Honey 4 Bread Cooking Table Food Processor Level 62 Cooking Honey Toast 1 Bread 1 Jar of Honey Cooking Table Food Processor Level 18 Cooking Duck Eggs Benedict 1 Poached Duck Egg 1 Bread Cooking Table Food Processor Level 42 Cooking
+
+Eating [ ]
+
+Eating bread restores 20 HP.
+
+Selling [ ]
+
+Bread can be sold to Petur for 20 - 30 coins each, or 30 - 45 coins if bread is a hot offer.
+
+Duck [ ]
+
+Holding a bread will attract nearby ducks to the player. They are also the duck's favorite food and can be used to feed any duck.
+
+History [ ]
+
+May 10, 2020 Added bread. June 26, 2020 Bread can now be used to craft avocado toast . August 30, 2020 Bread can now be used to craft honey toast and lemon puffs . November 13, 2021 8 bread are now required to craft jam sandwiches , up from 2. 4 bread are now required to craft lemon puffs , up from 1. January 8, 2022 Changed the base selling price from 25 coins to 30 - 45 coins. January 15, 2022 Changed the base selling price from 30 - 45 coins to 20 - 30 coins. February 19, 2022 Bread can now be used to craft duck eggs benedicts .

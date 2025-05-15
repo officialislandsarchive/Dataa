@@ -1,0 +1,47 @@
+Source: https://robloxislands.fandom.com/wiki/Player%27s_Island
+
+----------------------------------------
+
+Player's Island Current Version 3 Version 2.5 Version 2 Resources See Resources The player's island is a location granted to each and every player upon joining Islands . Each player has their own island, where they can freely build and interact with blocks and items. A maximum of 80,000 blocks can be placed on a player's island.
+
+Traveling [ ]
+
+Players can access their island by entering the large portal in the Hub or by clicking the "Home" button at any time on the right of the screen. Players may access other players' islands if they have been directly invited to one by the owner of the island or by choosing to visit a published island through the explore menu or a join code . The owner of an island can toggle whether another player may place, break, or interact with blocks through the visitor permissions UI .
+
+Owners of the pro gamepass may choose to publish their island, which broadcasts their island on the explore menu . A maximum of 30 players may be on a player's island at once.
+
+Save slots [ ]
+
+A player has the option to start a new save slot by selecting the My Profiles button on the left side of their screen. Each save slot has its own island, skill level , wallet , and inventory , meaning that data from other save slots cannot be directly transferred to another. Players have the choice to create a co-op save slot , which allows up to seven different players with owner permissions to collaborate on an island.
+
+Resetting [ ]
+
+A player can choose to reset their island once every two days by typing "/reset" in the chat. Resetting a player island erases all existing blocks , items , and mobs on the island, but allows the player to retain their wallet , skill levels , and all blocks and items in their inventory and hotbar .
+
+Villagers [ ]
+
+Different villagers will visit the player's island during specific seasons or events . The owner of the island can ask villagers to leave their island by choosing [Ask to leave Island] when interacting with them. Non-seasonal villagers will not leave the player's island unless requested so. The following villagers may appear on the player's island, each at different times with a different purpose:
+
+Image Villager Appearance time Purpose Cletus Spring , summer [ 1 ] , fall Buys and sells seasonal crops Fulco Summer , winter [ 2 ] Sells fertile roses Davey 50% chance on any day Offers a free treasure map Taliyah April 10, 2021 , April 9, 2022 Offered a free Islands anniversary cake in celebration of Islands' 1 year anniversary on April 10, 2021, and a free Islands second anniversary cake in celebration of the 2 year anniversary on April 9, 2022 . Jack After the player crafts their first steel mill since August 28, 2021 Offers a free industrial chest and eight conveyor belts Arius After the player crafts their first workbench tier 2 since August 28, 2021 Offers a free iron totem Mailman February 7, 2022 - April 1, 2022 Conducted a survey Scavenger During the Roblox Battles event Offered a quest for the Roblox Battles trophy Santa During the Christmas 2021 event Offered a free Christmas tree Tom Spring , summer [ 3 ] , fall during the Halloween 2022 event. Buys and sells seasonal crops from October 15, 2022 - November 5, 2022
+
+Passive mobs [ ]
+
+Certain passive mobs may naturally or artificially spawn on the player's island through different means.
+
+Image Mob Spawn method Cow Cow spawn egg Sheep Sheep spawn egg Pig Pig spawn egg Chicken Chicken spawn egg Turkey Turkey spawn egg Duck Duck spawn egg Yak Yak spawn egg Horse Horse spawn egg Bee In a bee hive on a tree with nearby flowers or from a bee jar . Firefly (yellow, green, red, blue, purple) Near trees during the night Frog (green, brown, yellow) Near or after a rain shower Rabbit (brown, white, pink) During a rain shower in the winter Fish Placing any species of fish in a fish tank Pumpkin Bat Near trees during the night during the Halloween 2021 event Ember Skull Near trees during the night during the Halloween 2022 event
+
+Resources [ ]
+
+Below is a list of given resources the player starts with on default for the current version of the player's island.
+
+Resource Amount Stone 3047 Grass 815 Tall Grass 7 Farmland 7 Wheat 6 Oak Tree 6 Red Berry Bush 1 Cow 1 Fruit Tree ( apple , orange , lemon , coconut , or plum ) 1 Plow 1 Hub Portal 1 Workbench 1 Mailbox 1 Bedrock 1
+
+Limits [ ]
+
+Blocks Item despawn 80,000 total, considering the portal is north, from bedrock /center point, 328 blocks north towards the portal and 338 south, 331 east and 335 west(667,667); 534 blocks vertically from death point(39 blocks under bedrock to death point, 494 blocks above bedrock). Count: 80 by machine or totem(some totem max drop are 250); 30 by player. Duration: 2 minutes (120 seconds).
+
+Animal Care level Large animal limit Small animal limit Level 1 2 2 Level 10 3 Level 20 4 3 Level 30 4 Level 40 5 5 Level 60 6 6 Level 80 7 7
+
+Trivia [ ]
+
+The block limit for player islands was changed a couple of times; the November 7, 2020 update increased the limit from 50,000 blocks to 70,000 blocks, and the February 5, 2021 update increased it to the current amount of 80,000. Due to the horizontal build limit of 333 blocks from bedrock , players are unable to reach another player's island via building. If the player's island is too big for a server, they will be kicked from the game with a message reading, " Your island is too big for this server. Please join a different one. " This was the original reason why private servers are free for Islands . Player islands that were created before the July 17, 2020 update started with a workbench tier 1 instead of a workbench . The plow that is found next to the patch of wheat from an island creation is held by an item port to prevent it from despawning. Villagers and mobs are able to sit on certain furniture blocks but are unable to get out on their own. Breaking the furniture block is the only way to release them. The third version of the player's island can be seen on the loading screen in blocky form. The animal limit of players is actually 7 large and 7 small instead of the 12 large and 12 small stated in the Animal Care roadmap. When totems and machines are almost at the edge the player's islands(X: 145 blocks Y: 60 blocks[X is direction of the portal face]), they do not produce anything.

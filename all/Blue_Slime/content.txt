@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Blue_Slime
+
+----------------------------------------
+
+Blue Slime Health 100 HP Behavior Hostile Attack strength 5 HP Drops Blue Slime Ball Blue Sticky Gear Ancient Slime String Slime Portal Shard Slime King Token Jukebox Disk Location Slime Island A blue slime a hostile mob and the second-most rarest variant of slimes . Blue slimes spawn on Slime Island along with green slimes and pink slimes .
+
+Spawning [ ]
+
+Blue slimes have a 25% chance of spawning on Slime Island , which is accessible though the portal in the Hub located next to Ivon or through a Slime Portal .
+
+Drops [ ]
+
+A blue slime rewards 3 Combat XP (9 with the 4x daily bonus) and 3 Light Melee , Heavy Melee , Magic , or Archery XP (9 with the 4x daily bonus) depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Blue Slime Ball 150% Blue Sticky Gear 10% Ancient Slime String 2% Slime Portal Shard 0.1% Slime King Token 1000% Jukebox Disks Red Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Purple Jukebox Disk 0.01% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01%
+
+Resistances and Weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical None Hydro Slashing Inferno
+
+History [ ]
+
+May 2, 2020 Added blue slimes. May 17, 2020 Blue slimes are able to drop Buffalkor Island keys . August 9, 2020 Blue slimes are able to drop ancient slime string and jukebox disks . January 22, 2021 Blue slimes are no longer able to drop Buffalkor Island keys. Blue slimes now reward 6 Combat XP (25 with the 4x daily bonus) and 6 Light Melee , Heavy Melee , Magic , or Archery XP (25 with the 4x daily bonus) depending on the weapon the player used to defeat it. February 5, 2021 Blue slimes are able to drop slime portal shards . July 9, 2021 Updated the appearance of blue slimes. Decreased the amount of XP rewarded to 3 (9 with the 4x daily bonus). Lowered the health of blue slimes from 300 HP to 100 HP. September 18, 2021 Blue slimes are able to drop Slime King tokens . September 17, 2022 Blue slimes now have resistances and weaknesses. September 24, 2022 Changed the resistances and weaknesses of blue slimes.

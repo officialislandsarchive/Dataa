@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Umbrella_Table
+
+----------------------------------------
+
+Umbrella Table Type of block Solid block Recipe 10 Iron Ingot 60 Maple Wood Crafted with Furniture Workbench Best tool Luminous Transparent The umbrella table is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Umbrella Table 10 Iron Ingot 60 Maple Wood Furniture Workbench
+
+Breaking [ ]
+
+Umbrella Table Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+History [ ]
+
+May 31, 2020 Added outdoor tables. ? Renamed the outdoor table to umbrella table. February 26, 2021 The umbrella table blueprint is no longer obtainable without trading. June 3, 2022 An umbrella table blueprint is no longer required to unlock the recipe of umbrella tables.

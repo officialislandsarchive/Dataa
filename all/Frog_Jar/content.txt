@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Frog_Jar
+
+----------------------------------------
+
+Frog Jar Green Brown Yellow Frog jars are items obtained by catching frogs with a net on the player's island .
+
+Obtaining [ ]
+
+To obtain a frog jar, the player must catch a frog with a net. There are three variants of frog jars, matching with the three variants of frogs. From most to least common, the colors are green, brown, and yellow.
+
+Players can release frogs from their jars like bees by using the item. Once released, the frogs will not despawn. However, since a maximum of 4 frogs can be on a player's island at a time, the player will be unable to release it if the limit has been reached.
+
+Although frogs are able to respawn if it falls of the island, dropping a frog jar into the void will not return the jar or the frog.
+
+History [ ]
+
+April 4, 2021 Added frog jars.
+
+Trivia [ ]
+
+In the June 4, 2021 update, releasing frogs on mobile was changed from the same as PC to press and holding ‘open’. Like other animal jars , although the frog is shown in a jar, a jar isn't necessary to capture it.

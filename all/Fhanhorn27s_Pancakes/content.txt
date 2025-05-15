@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Fhanhorn%27s_Pancakes
+
+----------------------------------------
+
+Fhanhorn's Pancakes Recipe 1 Berry Pancakes 3 Fhanhorn's Flower Crafted with Cooking Table Food Processor Effect Might of Fhanhorn Required skill Level 75 Cooking Description Consume for Might of Fhanhorn, granting small chance [sic] of finding antler weapons in combat. Fhanhorn's pancakes are a food item that grants the Might of Fhanhorn when consumed.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Blueprint required Fhanhorn's Pancakes 1 Berry Pancakes 3 Fhanhorn's Flower Cooking Table Food Processor Level 75 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating Fhanhorn's pancakes grants the Might of Fhanhorn for 15 minutes, which grants a 0.3% chance for any mob to drop an antler shield or antler hammer when defeated.
+
+History [ ]
+
+November 27, 2021 Added Fhanhorn's pancakes. Introduced where Fhanhorn's pancakes now cannot be sold. November 28, 2021 Fixed a bug preventing the Fhanhorn's pancakes' recipe to be unlocked after completing Don 's last quest.

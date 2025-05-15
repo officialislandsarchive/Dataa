@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/LED_Light
+
+----------------------------------------
+
+LED Light Type of block Solid block; Electrical Recipe 2 Iron Ingot 8 Electrite Crafted with Electrical Workbench (Level 1) Best tool Luminous Transparent Description It's bright only when powered! The LED light is a block that lights up when powered with a power source.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station LED Light 2 Iron Ingot 8 Electrite Electrical Workbench (Level 1)
+
+Breaking [ ]
+
+LED Light Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Togglable lighting [ ]
+
+LED lights can be used to emit light by connecting a power source to its electrical input. It can be turned off by disconnecting the power source.
+
+History [ ]
+
+December 11, 2020 Added LED lights.
+
+Trivia [ ]
+
+LED lights are the only light-emitting block that can be turned off without breaking them.

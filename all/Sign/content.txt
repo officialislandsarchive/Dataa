@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Sign
+
+----------------------------------------
+
+Sign Oak Birch Pine Maple Hickory Spirit Cherry Blossom Type of block Non-solid block Recipe 3 Log Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent A sign is a non-solid block that can display text. A sign can be placed on both the ground and on a wall. There are 7 variations of signs: oak , birch , pine , maple , hickory , spirit , and cherry blossom .
+
+Text [ ]
+
+When a player places a sign, their camera will zoom in on the sign at a fixed position. A sign can hold up to 64 characters (4 lines) and also supports emojis and ASCII (somewhat) entirely.
+
+Text written on the sign may be censored by ROBLOX and may be tagged after completing writing.
+
+Despite it not being visible, the user can select text within the sign using Ctrl + A / the Arrow Keys in order to copy and paste or quickly delete text.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Oak Sign 3 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Birch Sign 3 Birch Wood Pine Sign 3 Pine Wood Maple Sign 3 Maple Wood Hickory Sign 3 Hickory Wood Spirit Sign 3 Spirit Wood Cherry Blossom Sign 3 Cherry Blossom Wood
+
+Breaking [ ]
+
+Sign Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+August 16, 2020 Added oak, birch, pine, and maple signs. August 2, 2020 Added hickory signs. June 30, 2021 Added spirit signs. March 29, 2022 Introduced a bug that prevented players from typing text on signs. April 1, 2022 Partially fixed the bug prevented players from typing text on signs. January 20, 2023 Added cherry blossom signs.
+
+Trivia [ ]
+
+There is a glitch where signs that are broken by water will not drop the sign.

@@ -1,0 +1,79 @@
+Source: https://robloxislands.fandom.com/wiki/Slime_Queen
+
+----------------------------------------
+
+Slime Queen Health 12,000 HP Behavior Hostile Attack strength 20 HP (Headbutt) 15 HP (Giant Slimeball) 25 HP per hit (Pink Beam) Effect Stun 50% attack speed (Currently bugged) Drops Pink Slime Ball Pink Sticky Gear Mysterious Fragment #1 Pink Slime Crystal Slime Queen Pet Spawn Egg Jukebox Disk Location Slime Island (At least level 60 Combat ) The Slime Queen is a boss that was added in the July 2, 2022 update. She has 12,000 health and can be summoned with at least 100 Slime Queen Tokens on Slime Island after reaching at least level 60 Combat . She has no summon cooldown.
+
+She is the ninth boss and also the second boss with the ability to heal herself, with the first being Fhanhorn .
+
+Description [ ]
+
+The Slime Queen is a boss that specializes in melee attacks. She has 12,000 health and can be summoned in her spawn area at the very far end of the island using at least 100 Slime Queen tokens and require at least level 60 Combat .
+
+When she summons, a blue message appears in chat saying: "Slime Queen summoning in 5 seconds!" .
+
+After 5 seconds passed, a blue message appears in chat saying: "Slime Queen has summoned!" .
+
+Like other bosses , if there are no players in the battle area, the Slime Queen will despawn and the player will have to use at least 100 Slime Queen tokens to summon her again.
+
+Attacks [ ]
+
+Headbutt [ ]
+
+Does 20 damage and inflicts the Stun effects to players close to her.
+
+Giant Slimeball [ ]
+
+The Slime Queen throws a giant pink slimeball to the closest player, dealing approximately 15 damage and inflicting Stun for 6 - 8 seconds and 50% attack speed for 8 - 10 seconds.
+
+Slime Scepter [ ]
+
+When her HP is below 45%, the Slime Queen summons a slime scepter in the arena and will be healed by 5% - 10% HP every 5 seconds the scepter is present. It can be broken with a pickaxe or an axe to stop the healing.
+
+Slime Summon [ ]
+
+The Slime Queen summons pink slimes in proportion to the number of players currently fighting her. These pink slimes will only reward XP and a chance of jukebox disks when defeated.
+
+Pink Beam [ ]
+
+The Slime Queen targets up to 6 players in the arena with a pink beam. The Slime Queen will expand outwards after five seconds, dealing 25 HP of damage to any hit targeted players.
+
+Effects [ ]
+
+Stun [ ]
+
+The player's movement speed is decreased by 50% or unable to sprint.
+
+50% attack speed [ ]
+
+The player's melee weapon attack speed is decreased by 50%.
+
+Its effect is currently bugged. However, players can still swing melee weapons at normal speed.
+
+Drops [ ]
+
+The Slime Queen rewards 1500 Combat XP (6000 with the 4x daily bonus or 150 when maxed out) and 1500 Light Melee , Heavy Melee , Magic , or Archery XP (6000 with the 4x daily bonus or 150 when maxed out) depending on the weapon the player used to defeat her.
+
+With the XP Boost , the Slime Queen rewards 1725 Combat XP (6900 with the 4x daily bonus or 171 when maxed out) and 1725 Light Melee , Heavy Melee , Magic , or Archery XP (6900 with the 4x daily bonus or 171 when maxed out) depending on the weapon the player used to defeat her.
+
+Image Name Drop chance Pink Slime Ball * 400% - 800% Pink Sticky Gear 50% Mysterious Fragment #1 6.67% Pink Slime Crystal 14.29% Slime Queen Pet Spawn Egg 0.33% Jukebox Disks Red Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Green Jukebox Disk 0.01% Purple Jukebox Disk 0.01% Orange Jukebox Disk 0.01%
+
+* The drop amount is not affected by the captain's rapier , the dragon roll , or the blueberry cookie .
+
+Damage reduction [ ]
+
+Number of players Damage reduction 1 0% 2 10% 3 25% 4 35% 5 45% 6 55% 7 65% 8 75% 9+ 80%
+
+Resistances and Weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical Striking Hydro , Ethereal Slashing Inferno , Void
+
+Note: The Slime Queen's magical resistances and weaknesses are the same as Fhanhorn .
+
+History [ ]
+
+July 2, 2022 Added the Slime Queen. September 3, 2022 Decreased the drop rate of mysterious fragment #1s from 10% to 6.67% and Slime Queen pet spawn eggs from 0.33% to 0.29%. October 16, 2022 Nerfed the Slime Queen's health and attack damage. Increased the drop rate of Slime Queen pet spawn eggs from 0.29% to 0.33%.
+
+Trivia [ ]
+
+The Slime Queen rewards the fourth-most XP after the 4x daily bonus in the game when killed (1500 XP, 6000 XP with the 4x daily bonus, or 150 XP when maxed out), the third being the Lunar Rabbit (2125 XP, 8500 XP with the 4x daily bonus, or 213 XP when maxed out), the second being the Void Serpent (2250 XP, 9000 XP with the 4x daily bonus, or 225 XP when maxed out), and the first being Kor (2500 XP, 9999 XP with the 4x daily bonus, or 249 XP when maxed out). The Slime Queen is the third boss added in Islands that doesn't have a summon cooldown, the second being Percival the Pumpkin King , and the first being the Infernal Dragon . She is the third boss added in Islands that requires her own token to be summoned. The Slime Queen resembles the Queen Slime from Terraria . Unlike the Slime King , the Slime Queen doesn't have a collision hitbox. The Slime Queen is the first and only boss added in Islands that is capable of decreasing the attack speed of players' melee weapon . Contrary to its effect, players could still swing melee weapons at normal speed. The Slime Queen is the second boss added in Islands with the ability to heal herself, with the first being Fhanhorn . As such, the Slime Queen shares the same magical resistances and weaknesses as Fhanhorn. However, her magical resistances was Hydro and Ethereal while magical weaknesses was Inferno and Void . The Slime Queen is the third female boss in Islands , the other two being the Grand High Witch and the Infernal Dragon. The pillars in the corner surrounding the Slime Queen's arena appear to glow when she is summoned, and the torches will be lit up too. The Slime Queen is the first and only boss to have a Combat level requirement to summon her. The Slime Queen shares the same physical resistances and weaknesses as the Slime King. Like Kor and Fhanhorn, the death sound of the Slime Queen is played upon her defeat.

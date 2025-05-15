@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Smooth_Slate
+
+----------------------------------------
+
+Smooth Slate Type of block Solid block Recipe 1 Slate Crafted with Polishing Station Industrial Polishing Station Best tool Luminous Transparent Smooth slate is the smooth version of slate .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Slate can be transformed into smooth slate in a polishing station or an industrial polishing station .
+
+Input Item transformer Output 1 Slate ➡ Polishing Station ➡ 1 Smooth Slate 1 Slate ➡ Industrial Polishing Station ➡ 1 Smooth Slate
+
+Breaking [ ]
+
+Smooth Slate Breaking Data Hardness 12 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 18 Wooden 36 36 Stone 20 20 Iron 12 12 Gilded Steel 9 9 Diamond 6 6 Opal 5 5 Void Mattock 3
+
+History [ ]
+
+February 19, 2022 Added smooth slate.

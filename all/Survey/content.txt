@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Survey
+
+----------------------------------------
+
+A survey was a sort-of quiz which usually asks the survey taker some questions about a place/thing/product. In Islands, there was only one NPC who takes a survey, which was the Mailman. However, on April 1, 2022 , the Mailman has been removed, hence surveys are now inaccessible.
+
+Survey [ ]
+
+Beginning [ ]
+
+In order to begin, the player must talk to the Mailman to start the survey. The player must select  the "Do the Survey" option.
+
+Survey Questions [ ]
+
+What is your favorite play-style for Islands?
+
+Building Economy & Trading Collecting & Scavenging Combat & Exploration Factory & Farming Other
+
+2. What is your second favorite play-style for Islands?
+
+Factory & Farming Building Combat & Exploration Economy Collecting & Scavenging Other
+
+Completion [ ]
+
+Once the player completes the survey, they will be rewarded 200 coins and will no longer be able to take the survey.
+
+Trivia [ ]
+
+There was a bug where the Mailman may spawn multiple times, allowing users to complete the survey multiple times. The second question is the same as the first question, but removing the choice of your previous answer.

@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Void_Crop_Eater
+
+----------------------------------------
+
+Void Crop Eater Health 300 Behavior Passive Drops Void Serpent Token Amethyst Crystal Location Player's Island (at night) A void crop eater is a passive mob that eats crops (excluding vine crops , bush crops , tree crops and cactus ) and crop totems [The crops inside of the crop totem ] . Void crop eaters will attempt to eat fully grown vine crops, and the eating animation will play, but nothing will happen.
+
+Spawning [ ]
+
+Player's Island [ ]
+
+Void crop eaters spawn at night on the Player's Island in Hardcore Mode once the player has reached combat level 30. They will still spawn on your island even if you have no crops, but despawn after their spawning animation. Void crop eaters cannot spawn during day, but will stay alive during the day as long as you have fully grown crops.
+
+Drops [ ]
+
+A void crop eater rewards 4 Combat XP (15 with the 4x daily bonus) and 4 Light Melee, Heavy Melee, Magic, or Archery XP (15 with the 4x daily bonus) depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Void Serpent Token 450% Amethyst Crystal 1% Jukebox Disks Blue Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Red Jukebox Disk 0.35% Purple Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Green Jukebox Disk 0.01%
+
+History [ ]
+
+May 12, 2023 Added void crop eaters.

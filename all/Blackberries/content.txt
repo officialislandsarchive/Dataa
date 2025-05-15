@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Blackberries
+
+----------------------------------------
+
+Blackberry Seed cost 1,500 coins Planted on Grass Sell price 26 coins Edible Blackberries are a food item collected from blackberry bushes. A blackberry bush is a plant that grows blackberries and will rarely produce an extra blackberry seed when harvested.
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Blackberries can be grown on the player's island by planting blackberry seeds on grass , a seed purchasable from Cletus during the spring . Blackberry bushes can be harvested by hand, sickle , or turkeys , although turkeys cannot reward extra blackberry seeds. When harvested, the player will obtain 1 - 2 blackberries, a 1% chance of getting a blackberry seed, and 6 Farming XP (18 XP with the 4x daily bonus).
+
+Totems [ ]
+
+A blackberry totem will collect blackberries from bushes in a 3 block radius. The blackberries can be collected by interacting with the totem. A blackberry totem placed next to a conveyor belt will drop the blackberries onto the conveyor. Blackberry bushes harvested from totems cannot yield blackberry seeds.
+
+Growth [ ]
+
+A blackberry bush grows through three stages after it is planted. Its first growth stage is a small seed. It becomes a bush in its second stage, and produces berries in its third growth stage. Its growth time is not affected by water nor basic fertilizer .
+
+Blackberries Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 2m 35s 5m 10s 2m 35s after harvesting Note: The durations of time above are on an unfertilized and unwatered plant Blackberries Growth Time Type Growth Time Normal 5m 10s Fertilized 5m 10s Watered 5m 10s Watered + Fertilized 5m 10s
+
+Usage [ ]
+
+Eating [ ]
+
+Eating blackberries restores 20 HP.
+
+Selling [ ]
+
+Blackberries can be sold to Cletus for 26 coins each.
+
+History [ ]
+
+October 9, 2021 Added blackberries. November 27, 2021 Blackberry bushes can now be harvested by turkeys . June 3, 2022 Blackberries can now be sold to Cletus instead of to Tom . October 15, 2022 Blackberries can now be sold to Tom instead of to Cletus.
+
+Trivia [ ]
+
+Blackberries are one of the only crops that cannot be used to craft any food products, aside from Pumpkins , Watermelons , Radishes , Coconuts , Kiwis , and Plums .

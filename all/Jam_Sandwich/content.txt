@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Jam_Sandwich
+
+----------------------------------------
+
+Jam Sandwich Recipe 4 Grape Jam 8 Bread Effect +15% skill experience gained Sell price 640 - 960 coins Hot sell price 960 - 1,440 coins Required skill Level 55 Cooking Description Consume for +15% skill experience gained. A jam sandwich is a food item that grants +15% skill experience gained when consumed.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Jam Sandwich 4 Grape Jam 8 Bread Cooking Table Food Processor Level 55 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a jam sandwich grants +15% skill experience gained for 15 minutes.
+
+Selling [ ]
+
+Jam sandwiches can be sold to Petur for 640 - 960 coins each, or 960 - 1,440 coins if jam sandwiches are a hot offer.
+
+History [ ]
+
+May 10, 2020 Added jam sandwiches. January 22, 2021 Level 55 Cooking is now required to craft jam sandiwches. November 13, 2021 Jam sandwiches now grant +15% skill experience gained when consumed. Added a description. Changed the recipe from 1 grape jam and 2 bread to 4 grape jam and 8 bread. Changed the base selling price from 200 coins to 800 coins. Jam sandwiches no longer heal 35 HP when consumed. January 8, 2022 Changed the base selling price from 800 coins to 960 - 1,440 coins. January 15, 2022 Changed the base selling price from 960 - 1,440 coins to 640 - 960 coins.

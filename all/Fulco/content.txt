@@ -1,0 +1,61 @@
+Source: https://robloxislands.fandom.com/wiki/Fulco
+
+----------------------------------------
+
+Fulco Location Hub , Fishing Festival , Player's Island during Summer & Winter Purpose Selling flowers and the pottery bench as well as providing quests Occupation Florist Fulco is a villager located in the Hub . Players may complete quests to earn his exclusive currency, flower tokens , which can be used to purchase items from him. He has also appeared in the Fishing Festival and Farming Festival .
+
+Shop [ ]
+
+Fulco sells various items for flower tokens.
+
+Image Name Price Fertile Yellow Daffodil 35 flower tokens Fertile Red Daffodil 35 flower tokens Fertile Red Chrysanthemum 50 flower tokens Fertile Black Chrysanthemum 50 flower tokens Pottery Bench 180 flower tokens
+
+Summer Shop [ ]
+
+In the summer , Fulco appears on player islands to sell fertile red or blue roses . A player can only buy 2 roses before Fulco is out of stock. There is a 25% chance that he sells blue roses during the summer instead of red ones.
+
+Image Name Price Fertile Blue Rose 220 coins Fertile Red Rose 220 coins
+
+Winter Shop [ ]
+
+In the winter , Fulco only sells fertile white roses . A player can only buy 2 roses before he is out of stock. Fulco is not guaranteed to appear every winter.
+
+Image Name Price Fertile White Rose 450 coins
+
+Dialogue [ ]
+
+Hub [ ]
+
+"Hey hey! Beautiful day, isn't it user ?" >View Shop Opens shop menu. >Talk about mystery "My flowers look so sad! I wonder what has upset them!" >Hope you can cheer them up! End.
+
+During the Godzilla vs. Kong event [ ]
+
+"Hey hey user .. I'm so grateful the monster didn't tear up my flower stand!" >View Quests Opens quests menu. >View Shop Opens shop menu.
+
+On player's island during summer [ ]
+
+When selling blue roses:
+
+"Your island looks fantastic! I brought a handful of blue roses to decorate with!" >View Shop Opens shop menu. >[Ask to leave island] "Yes, I better be going. I'll come back next time I have something new. Have a great summer!" >Nevermind, stay! End and Fulco doesn't leave the player's island. >Goodbye. End and Fulco leaves the player's island. >Maybe Later End.
+
+When selling red roses:
+
+"Oh I sure love the smell of the summer air! The only thing to make it better would be some lovely red roses!" >View Shop Opens shop menu. >[Ask to leave island] "Yes, I better be going. I'll come back next time I have something new. Have a great summer!" >Nevermind, stay! End and Fulco doesn't leave the player's island. >Goodbye. End and Fulco leaves the player's island. >Maybe Later End.
+
+On player's island during winter [ ]
+
+"Great news! I spent all winter searching for rare white roses and I managed to snag a few! I bet they would look wonderful on your island!" >View Shop Opens shop menu. >[Ask to leave island] "Yes, I better be going. I'll come back next time I have something new. Have a great winter!" >Nevermind, stay! End and Fulco doesn't leave the player's island. >Goodbye. End and Fulco leaves the player's island . >Maybe Later End.
+
+On Farming Festival Island [ ]
+
+Fulco says one of the two lines below when interacting with him on Farming Festival Island :
+
+"Hey hey! Do you think Cletus would let me take some of this soil for my flower garden?" >Maybe! "I hope so! This might be just what I need for some new colours!" >Good luck! End.
+
+"Hey hey! There's some beautiful wild flowers here! Cletus sure has a lovely farm!" >He sure does! End.
+
+Trivia [ ]
+
+Players can use cyan flowers for his "Craft 3 items with blue flowers," quest. Fulco was moved closer to the fishing pond in the Hub due to the BedWars release countdown . Fulco is the third NPC able to come to the player's island , after the Scavenger and Cletus . During the Farming Festival , Fulco hinted at new colors as he said that the soil may be needed for some new colored flowers.
+
+Gallery [ ]

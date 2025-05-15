@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Crystalline
+
+----------------------------------------
+
+Crystalline Seed cost 3,500 coins Planted on Farmland Sell price 35 coins Edible A crystalline is a crop that grows on farmland from crystalline ivy seeds .
+
+It has various uses, some of them are listed below!
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting a crystalline ivy yields 1 - 3 crystalline, 1 crystal line ivy seed , and 12 Farming XP (48 XP with the 4x daily bonus).
+
+Growth [ ]
+
+The growth time of crystallines can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Crystalline Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 7s 1m 35s 3m Note: The durations of time above are on an unfertilized and unwatered plant Crystalline Growth Time Type Growth Time Normal 3m Fertilized 2m 24s Watered 2m 24s Watered + Fertilized 2m 6s
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Master Harvester achievement required Crystalline Plow 3 Crystalline 30 Steel Plate 20 Pine Wood Workbench Tier 4 Toxin Potion 6 Crystalline 1 Empty Potion Bottle Brewing Stand
+
+Selling [ ]
+
+Crystallines can be sold to Maria for 35 coins each.
+
+History [ ]
+
+March 3, 2023 Added crystallines.

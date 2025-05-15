@@ -1,0 +1,71 @@
+Source: https://robloxislands.fandom.com/wiki/Speed
+
+----------------------------------------
+
+Speed Chili Pepper Duck Potato and Duck Egg Scramble Yak Sweet Rice Dessert Causes The player's movement speed is increased by 25%/30%/40%/100%. Source Chili Pepper Duck Potato and Duck Egg Scramble Yak Sweet Rice Dessert Horse Vulture Type Consumable ( Chili Pepper / Potato and Duck Egg Scramble / Sweet Rice Dessert ) Mount ( Duck / Yak / Horse / Vulture ) Speed is an effect that increases the player's movement speed.
+
+Source [ ]
+
+Chili Pepper [ ]
+
+Consuming a chili pepper grants the player 1 minute of Speed.
+
+Causes [ ]
+
+The affected player's movement speed will be 25% faster, or about 1.5 blocks per second.
+
+Duck [ ]
+
+Mounting a duck grants the player speed permanent speed until it dismount.
+
+Causes [ ]
+
+The affected player's movement speed will be 25% faster, or about 1.5 blocks per second.
+
+Potato and Duck Egg Scramble [ ]
+
+Consuming a potato and duck egg scramble grants the player 1 minute and 30 seconds of Speed.
+
+Causes [ ]
+
+The affected player's movement speed will be 40% faster, or about 2.25 blocks per second.
+
+Yak [ ]
+
+Mounting a yak grants the player permanent speed until it dismount.
+
+Causes [ ]
+
+The affected player's movement speed will be 25% faster, or about 1.5 blocks per second.
+
+Sweet Rice Dessert [ ]
+
+Consuming a sweet rice dessert grants the player 8 minutes of Speed.
+
+Causes [ ]
+
+The affected player's movement speed will be 30% faster, or about 1.75 blocks per second.
+
+Horse [ ]
+
+Mounting a horse grants the player permanent speed and jump until it dismount.
+
+Causes [ ]
+
+The affected player's movement speed will be 100% faster, or about 3 blocks per second and jump power will be 50% higher, or about 4-5 blocks per height.
+
+Vulture [ ]
+
+Mounting a vulture grants the player permanent speed until it dismount.
+
+Causes [ ]
+
+The affected player's movement speed will be 25% faster, or about 1.5 blocks per second.
+
+History [ ]
+
+July 30, 2021 Added Speed. November 13, 2021 Decreased the duration of Speed granted from chili peppers from 1 minute 30 seconds to 1 minute. February 19, 2022 Added Duck 's Speed. Added Potato and Duck Egg Scramble 's Speed. Decreased the chili peppers speed from 50% to 25% March 25, 2022 Added Yak 's Speed. Added Sweet Rice Dessert 's Speed. June 3, 2022 Added Horse 's Speed and Jump. Introduced where horse do not have a status effect icon due to its permanent speed and jump. March 31, 2023 Added Vulture 's Speed. Introduced where vulture do not have a status effect icon due to its permanent speed.
+
+Trivia [ ]
+
+Since the June 3, 2022 update, horse do not have a status effect icon due to its permanent speed and jump when mounting it. Since the March 31, 2023 update, vulture do not have a status effect icon due to its permanent speed when mounting it.

@@ -1,0 +1,51 @@
+Source: https://robloxislands.fandom.com/wiki/Jade
+
+----------------------------------------
+
+Jade Location Hub Purpose Sells copper and gold resource deeds. Occupation Miner Jade is a villager located near the Hub mines who sells copper and gold resource deeds .
+
+Shop [ ]
+
+Buying [ ]
+
+Image Name Sell price Iron Ingot 6 coins Copper Ingot 6 coins
+
+Selling [ ]
+
+Image Name Price Copper Resource Deed 150,000 coins Gold Resource Deed 400,000 coins
+
+Mining Event 2023 [ ]
+
+If interacted during the Mining Event 2023 , players could purchase limited-edition items.
+
+Image Name Price Mining Event 2023 Trophy 1,000 emerald crystals Jade Plushie 150 emerald crystals Black Mining Lantern 25 emerald crystals Brown Mining Lantern 25 emerald crystals Gold Mining Lantern 25 emerald crystals Mining Entrance 100 emerald crystals Mining Couch Green 75 emerald crystals Mining Couch Purple 75 emerald crystals Red Dynamite Box 30 emerald crystals Wooden Dynamite Box 30 emerald crystals Dynamite Wall Decor 10 emerald crystals Mining Tool Bag 20 emerald crystals Mining Gem Bag 20 emerald crystals Sandbag 10 emerald crystals Sandbag Stack 10 emerald crystals Sandbag Pile 15 emerald crystals
+
+Dialogue [ ]
+
+Current [ ]
+
+Jade randomly says one of the lines below:
+
+"Good afternoon! Fine day for mining!" >View Shop Opens the shop.
+
+"Don't mine at night! At least, not without some light!" >View Shop Opens the shop.
+
+"My favorite rock to mine is opal... maybe you can find me some one day!" >View Shop Opens the shop.
+
+"You can mine even faster with some magic... but all I need is a pickaxe!" >View Shop Opens the shop.
+
+Before June 18, 2022 [ ]
+
+"Heya!" >View Shop Opens the shop.
+
+Mining Event 2023 [ ]
+
+"Hey there! Welcome to the Mining Event of 2023 user !" >Redeem Emeralds Opens the shop.
+
+History [ ]
+
+June 3, 2022 Added Jade. June 10, 2022 Changed the appearance of Jade. Gave Jade an idle animation. June 18, 2022 Jade now buys iron and copper ingots for 6 coins each. Added new randomized dialogue. April 28, 2023 Jade now sells Mining Event 2023 items in the Hub .
+
+Trivia [ ]
+
+Jade's dialogue, "Don't mine at night!", may be a reference to the popular Minecraft music video, Don't Mine at Night by Brad Knuaber. Prior to the June 10, 2022 update, Jade shared the same villager model as Jed .

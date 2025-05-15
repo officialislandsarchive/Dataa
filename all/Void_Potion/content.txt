@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Void_Potion
+
+----------------------------------------
+
+Void Potion Recipe 3 Amethyst Crystal 1 Empty Potion Bottle 5 Void Parasite Crafted with Brewing Stand Effect Smoke Resistance Description Consume for Smoke Resistance. A void potion is an item that grants Smoke Resistance when consumed. Drinking the potion will not return the potion bottle .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Void Potion 3 Amethyst Crystal 1 Empty Potion Bottle 5 Void Parasite Brewing Stand
+
+Usage [ ]
+
+Drinking [ ]
+
+Drinking a void potion grants the player 30 seconds of Smoke Resistance . Smoke Resistance grants 50% damage resistance to void smoke .
+
+History [ ]
+
+August 13, 2022 Added void potions. August 20, 2022 Void potions now require 5 void parasites to craft.
+
+Trivia [ ]
+
+Despite giving 50% damage resistance to void smoke, its true damage resistance is actually 72%. Before the August 20, 2022 update, there was a glitch where the void potion would heal 2 HP every second.

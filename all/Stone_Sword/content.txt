@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Stone_Sword
+
+----------------------------------------
+
+Stone Sword Type Light Melee Physical class Slashing Attack damage 15 HP (Base) +8 HP (Critical) Recipe 40 Stone 10 Oak Wood Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 The stone sword is a light melee weapon in the slashing class.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Stone Sword 40 Stone 10 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Attacking [ ]
+
+At level 1 Light Melee , the stone sword deals a base damage of 15 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 8 HP of damage. Its damage can be increased by leveling up the Light Melee skill and it is in the slashing class.
+
+Like other melee weapon , only one player can hit damage in each hostile mob. Multiple players cannot hit damage together.
+
+History [ ]
+
+July 9, 2021 Added stone swords. September 17, 2022 Stone swords are now a slashing weapon.
+
+Trivia [ ]
+
+The stone sword deals the same amount of damage as the iron sword .

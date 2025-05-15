@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Cauldron_(2021)
+
+----------------------------------------
+
+Cauldron Type of block Solid block; Interactable Dropped by Percival the Pumpkin King Best tool Luminous Transparent Description A witch has been brewing some rare artifacts, place on your island to open! The cauldron is a roulette block that could have been obtained by defeating Percival the Pumpkin King .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Percival the Pumpkin King was guaranteed to drop a cauldron upon defeat.
+
+Breaking [ ]
+
+Cauldron (2021) Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Loot [ ]
+
+Cauldrons can be opened by holding "F" on PC, holding the button on mobile, or holding X on Xbox while hovering over it. Once opened, the cauldron will scroll through the items like a roulette wheel and reward one item. After collecting the rewarded item, the cauldron will act as a storage block with 9 slots able to hold 90 items per slot.
+
+The listed reward chances are community made and may not be accurate .
+
+Item Rarity Estimated % chance Pumpkin Boss Pet Spawn Egg Mythic 1% Pumpkin Hammer Mythic 1% The Halloween Trophy Legendary 2% Pumpkin Bed Rare 4% Candy Basket (2021) Uncommon 7% Ghost Lantern Uncommon 7% Gravestone (2021) Uncommon 7% Lantern Halloween Uncommon 7% Pumpkin Cat Uncommon 7% Spooky Pumpkin Uncommon 7% 6 Cobweb Common 10% 50 - 1,000 Pumpkin Boss Token Common 10% 1 - 25 Pumpkin Seeds Common 10% 1 - 25 Pumpkin Common 10% 5 - 10 Jack O' Lantern Common 10%
+
+Note: Breaking cauldrons gives the player the opened cauldron storage block.
+
+Storage [ ]
+
+A used cauldron has 9 slots that can fit up to 90 items per slot, adding up to a total of 810 items per cauldron.
+
+History [ ]
+
+October 18, 2021 Added cauldrons. Fixed the bug causing pumpkin crops to be obtained from cauldrons instead of harvested pumpkins. November 13, 2021 Cauldrons are no longer obtainable. December 10, 2021 Fixed a bug that caused opened cauldrons to constantly play the sound effect of being presented with an item from a cauldron. December 29, 2021 Disabled manually placing items into cauldrons. January 2, 2022 Re-enabled the ability to manually place items into cauldrons. January 3, 2022 Disabled the ability to manually place items into cauldrons. Re-enabled the ability to manually place items into cauldrons. January 4, 2022 Disabled the ability to manually place items into cauldrons. January 6, 2022 Re-enabled the ability to manually place items into cauldrons.

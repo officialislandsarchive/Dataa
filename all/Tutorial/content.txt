@@ -1,0 +1,49 @@
+Source: https://robloxislands.fandom.com/wiki/Tutorial
+
+----------------------------------------
+
+Since the July 17, 2020 update , the Tutorial is a quest-like feature that all new players must take. It shows you the basics of the game, and gets you set up to play on your own. Instead of giving you a Workbench Tier 1 , it now gives you a Workbench , a type of workbench with only 2 recipes, and an extra mini-island with a tree and an iron node.
+
+In the March 5, 2021 update, the Tutorial was changed and revamped. The whole starter island was revamped, there was a smaller island and a larger "main" island. On the main island, the player could cut down their first tree and start to farm. Before the Revamp , The plow was on the 1st island (out of 3), but after, it was on the 2nd "Main" Island (out of 2).
+
+The first step the player was required to do was to mine grass blocks to get to the main island.
+
+The Tutorial (March 5th, 2021) [ ]
+
+Welcome to your island!
+
+In Islands you can build , trade , explore , and more. Your island is one of many in the Islands universe
+
+Let's start by learning how to use your axe. Select it by clicking on the hotbar.
+
+(Select Wooden Axe)
+
+Nearly everything on your island is destructible. Go destroy a tree to gather wood. Click-and-hold on the tree.
+
+(Chop down a Tree)
+
+Now let's craft a pickaxe. Open your Starter Workbench and craft the Wooden Pickaxe.
+
+(Craft a Wooden Pickaxe)
+
+Let's create a bridge to your portal. Gather a few blocks of grass using the pickaxe.
+
+(Mine Grass)
+
+Create a bridge by placing the grass blocks.
+
+(Place Grass)
+
+There is lots to explore! When you're ready, enter the Magic Portal.
+
+(Go through the portal)
+
+You have discovered the Hub. This is where you gather materials, trade with merchants, and explore.
+
+The Hub village has easy access to Iron , Coal, and Stone. Try Gathering some Iron near the mining area.
+
+(Mine Iron Ore)
+
+When you're ready to go back to your island, click the Home button on the right side of your screen.
+
+(Ends Tutorial)

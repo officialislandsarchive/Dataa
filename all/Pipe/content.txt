@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Pipe
+
+----------------------------------------
+
+Pipe Horizontal Vertical Ascend Descend Corner Type of block Solid block Recipe 5 Glass Block 3 Steel Rod Crafted with Workbench Tier 4 Best tool Luminous Transparent A pipe is a block used to transport oil and petroleum fuel .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station (10) Pipe 5 Glass Block 3 Steel Rod Workbench Tier 4
+
+Breaking [ ]
+
+Pipe Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Transporting fuel [ ]
+
+Pipes can be connected to any machine or tank with a pipe input or output, pipes will only appear full if they are connected to something on both sides. To split a pipe two ways, use a pipe junction , otherwise pipes snap to other pipes and turn automatically.
+
+History [ ]
+
+August 15, 2021 Added pipes.

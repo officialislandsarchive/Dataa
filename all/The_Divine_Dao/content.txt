@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/The_Divine_Dao
+
+----------------------------------------
+
+The Divine Dao Type Light Melee Physical class Slashing Magical class Toxin Attack damage 56 HP (Base) +28 HP (Critical) 11 - 16 HP per tick (Poison) Description Limited time Dao from the Mushroom Obby The divine dao is a light melee weapon in the slashing and toxin classes. It was added on August 18, 2023 along with the Mushroom Obby Event .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+The Divine Dao could be obtained by redeeming from Jim for 800 mushroom obby tickets in the Hub , until August 25 2023, where Jim has been removed and trading is the only way to get it currently.
+
+Attacking [ ]
+
+At level 1 Light Melee , The divine dao deals a base damage of 56 HP and can be swung every 0.5 seconds. There is a small chance this weapon does a critical hit, meaning the attack will do an extra 28 HP of damage. The weapon also deals the poison effect to mobs attacked causing the mobs to take damage of 11-16 HP periodically for 4 seconds. Its damage can be increased by leveling up the Light Melee skill and its in the slashing and toxin classes
+
+Trivia [ ]
+
+The divine dao is one of few melee weapons with a magical classification, with the others being the jolly dagger , the frost hammer , the frost sword , the infernal hammer , the trout's fury , the serpent's hook , the reaper's scythe , and the noxious stinger . If the mob has a weakness or resistance to both of its classification, then the damage multiplier will be either higher or lower than normal. While if the mob has a weakness and resistance to each of its classification, then neutral damage will apply.
+
+History [ ]
+
+August 18, 2023 Added divine daos. August 25 2023 Removed Jim, making the Divine Dao unobtainable.

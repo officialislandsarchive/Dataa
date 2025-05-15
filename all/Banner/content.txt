@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Banner
+
+----------------------------------------
+
+Banners are decorative blocks that can be placed down or hung on walls.
+
+List of banners [ ]
+
+Non-gamepass banners [ ]
+
+These banners can be crafted without the banner workbench gamepass.
+
+Gamepass banners [ ]
+
+These banners can only be crafted by players that have the banner workbench gamepass .
+
+Unobtainable banners [ ]
+
+These banners cannot be crafted or obtained in any other way.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Elephant Banner 5 Oak Wood 1 Light Green Flower 1 Mundane Flower Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Banner Workbench Jungle Banner 5 Oak Wood 1 Light Green Flower Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Banner Workbench Lovely Cow Banner 5 Oak Wood 1 White Flower 1 Red Flower Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Banner Workbench Aquamarine Banner 5 Oak Wood 1 Blue Flower Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Banner Workbench Gamepass required Lucky Banner 5 Oak Wood 1 Light Green Flower Banner Workbench King Banner 5 Oak Wood 1 Yellow Flower Banner Workbench The Eye Banner 5 Oak Wood 1 Red Flower 1 Black Flower Banner Workbench Warrior Banner 5 Oak Wood 1 Orange Flower 1 Black Flower Banner Workbench Lotus Banner 5 Oak Wood 1 Pink Flower 1 Light Green Flower Banner Workbench Lunar Banner 5 Oak Wood 1 Mundane Flower 1 White Flower Banner Workbench Rising Phoenix Banner 5 Oak Wood 1 Red Flower 1 Orange Flower Banner Workbench Pig Banner 5 Oak Wood 1 Pink Flower 1 Red Flower Banner Workbench Life Banner 5 Oak Wood 1 Purple Flower 1 Cyan Flower Banner Workbench Snowflake Banner 5 Oak Wood 1 White Flower 1 Cyan Flower Banner Workbench Spark Banner 5 Oak Wood 1 Purple Flower 1 White Flower Banner Workbench Sol Banner 5 Oak Wood 1 Orange Flower Banner Workbench Guardian Banner 5 Oak Wood 1 Blue Flower Banner Workbench
+
+Breaking [ ]
+
+Banner Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1

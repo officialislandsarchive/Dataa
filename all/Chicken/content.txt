@@ -1,0 +1,71 @@
+Source: https://robloxislands.fandom.com/wiki/Chicken
+
+----------------------------------------
+
+Chicken Chicken Tuxedo Behavior Passive Location Player's Island
+
+The chicken is a small passive mob added in the February 26, 2021 update. It can be spawned from chicken spawn eggs and can be mounted when fully grown.
+
+It is the fourth animal passive mob in Islands .
+
+Spawning [ ]
+
+Chickens can be spawned through a chicken spawn egg, which can be bought from Taliyah for 4,500 coins once the player has reached level 12 in the Animal Care skill. Higher tier eggs can be obtained by breeding two chickens.
+
+Behavior [ ]
+
+Laying eggs [ ]
+
+Chickens will lay infertile eggs shortly after being fed with their favorite foods or berries. If there is a nests or industrial nests nearby it might lay an egg in it, but it's not guaranteed.
+
+Sleeping [ ]
+
+When it becomes night (in-game) chickens will go to sleep. While they can sleep anywhere and sometimes will, they prefer to sleep on a nest.
+
+Following [ ]
+
+Chickens will follow players that are holding berries.
+
+Dancing [ ]
+
+Chickens within a 50 block radius of a playing jukebox will dance.
+
+Interaction [ ]
+
+Feeding [ ]
+
+Chickens eat red berries , but will also each have its own favorite foods. The foods a chicken can have as its favorite food are pizza , baked potatoes , potato salad , roasted carrots , and roasted honey carrots . Feeding a chicken will give 3 Animal Care XP (12 XP with the 4x daily bonus). Chickens can also eat from troughs, but it will not give any XP when they eat.
+
+Feeding a chicken will increase its food and friendliness level. The food level is necessary to keep above 20% or the chicken will start losing happiness.
+
+Like other animals , if no troughs are in its vicinity, it will eat from a grass block , but doing so will not replenish its hunger meter nor give Animal Care XP.
+
+Petting [ ]
+
+Occasionally, chickens can be petted, which increases the chicken's happiness and also gives the player 6 Animal Care XP (24 XP with the 4x daily bonus).
+
+Selling [ ]
+
+To sell a chicken the player must first inspect the chicken, after inspecting they must select the red "Sell Animal" button (located in the top right corner of the inspection menu). Then it will prompt the player asking whether or not they really want to sell the animal.
+
+Notes: This will not erase its skin and the player must be the owner of the animal to sell it.
+
+Mounting [ ]
+
+Fully-grown chickens can be mounted by the player once they have reached Level 8 Animal Care through the inspection menu, located next to the "Sell Animal" button. Players can ride the chicken anywhere and the player can dismount by pressing the "Dismount" button on the right. Players can still use weapons and tools when mounted, and if the player and chicken fall into the void, they will respawn in the original spawn location. Mounting a chicken does not grant any speed boost or jump boost.
+
+Breeding [ ]
+
+To breed two chickens the player must feed both chickens a potion of fertility during the in-game day. Depending on those two chicken's traits will depend what tier spawn egg is produced.
+
+Skins [ ]
+
+The chickens skin can be changed to the tuxedo chicken once the player buys it  for 399 Robux .
+
+History [ ]
+
+February 26, 2021 Added chickens. Added the tuxedo chicken skin. Introduced where chickens are now able to eat grass blocks if no troughs are nearby.
+
+Trivia [ ]
+
+Chickens will dance when near a playing jukebox . This feature may be inspired by Minecraft's Parrots . It is a reference to the "Party Parrot" Internet meme. Chickens are the shortest animal in the game. Like all other animals, chickens may eat from a grass block instead of from troughs, but doing so will not replenish their hunger meter nor give Animal Care XP. This can be done if no troughs are nearby. The eating sound of chickens are reduced when eating grass blocks. Chickens share many things with other animals . Chickens have the same animations, amount of Animal Care XP, and favorite foods as ducks . Chickens have the same eye model as cows , sheep , pigs , frogs , and rabbits .

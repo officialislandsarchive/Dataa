@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Shears
+
+----------------------------------------
+
+Shears Recipe 10 Iron Ingot 10 Oak Wood Crafted with Animal Bench Required skill Level 21 Animal Care Shears are tools used to shear sheep to get wool .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Shears 10 Iron Ingot 10 Oak Wood Animal Bench Level 21 Animal Care
+
+Usage [ ]
+
+Shearing [ ]
+
+Sheep can be sheared by holding a shear and using it on a sheep that has its wool fully grown. Shearing a sheep will yield 1 block of white wool .
+
+History [ ]
+
+January 22, 2021 Added shears.
+
+Trivia [ ]
+
+A player may accidentally yield 2 blocks of wool if they use shears too quickly.

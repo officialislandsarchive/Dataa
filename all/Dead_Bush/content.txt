@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Dead_Bush
+
+----------------------------------------
+
+Dead Bush Type of block Solid block Best tool Luminous Transparent A dead bush is a decorative block that naturally spawns around Desert Island .
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+Wild dead bushes spawn naturally around Desert Island . They can be harvested and placed on player islands .
+
+Breaking [ ]
+
+Dead Bush Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Quests [ ]
+
+Azur has a quest that involves breaking 15 dead bushes. When a player has completed this quest, they will be rewarded with 4 sand dollars.
+
+Quest Reward Break 15 wild dead bushes. 4 Sand Dollars
+
+History [ ]
+
+August 9, 2020 Added dead bushes. April 24, 2021 Dead bushes no longer spawn on Desert Island . May 8, 2021 Dead bushes spawn on Desert Island again.
+
+Trivia [ ]
+
+The April 24, 2021 update revamped Desert Island, and in doing so, dead bushes accidently stopped spawning. This was later fixed on May 8, 2021 .

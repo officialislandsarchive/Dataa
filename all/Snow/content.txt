@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Snow
+
+----------------------------------------
+
+Snow Snow Snow Pile Type of block Solid block Spawns Hub Best tool Snow Block: Snow Pile: Luminous Transparent Description Perfect for a winter getaway. Snow is a block obtained by shoveling snow piles in the Hub or by opening Christmas presents . Snow piles spawn in the Hub on top of the mountains and give snow when shoveled.
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+Snow can be obtained by shoveling a pile of snow with a stone shovel or Christmas shovel in the Hub mountains. One pile of snow will give 1 - 2 snow.
+
+Christmas presents [ ]
+
+Opening a Christmas present 2020 or Christmas present 2021 has a chance of rewarding snow. The exact amount and chance of getting snow is unknown for the former, and there is a 15% chance of receiving 5 snow from the latter.
+
+Breaking [ ]
+
+Snow Breaking Data Hardness 1.75 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 3 Stone 3 2 Iron 2 2 Gilded Steel 2 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Compact Snow 2 Snow Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+The transformation ratio is 1:3, meaning 1 snow makes 3 snowballs in a snowball machine . It doesn't require any gamepass to use, but it does to place the machine.
+
+Input Item Transformer Output 1 Snow ➡ Snowball Machine ➡ 3 Snowball
+
+History [ ]
+
+December 18, 2020 Added snow and snow piles. January 4, 2021 The spawn area of snow piles have been reduced from the entirety of the Hub to the Hub Mountains . October 18, 2021 Increased the spawn area of snow piles. December 18, 2021 Changed the texture for snow. December 16, 2022 Christmas present 2022s can now spawn on snow in the player's island .
+
+Trivia [ ]
+
+As part of the Christmas 2020 event, snow piles used to spawn everywhere around the hub. Since the event has ended on January 4, 2021 , it only spawned in the Hub Mountains in small amounts before the Hub was revamped in the October 18, 2021 event. This was the only block that was not made unobtainable after the Christmas 2020 event had ended.

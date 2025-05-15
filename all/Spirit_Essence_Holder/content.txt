@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Spirit_Essence_Holder
+
+----------------------------------------
+
+Spirit Essence Holder Type of block Solid block; Luminous Buy cost 1,000 Spirit Jars Best tool Luminous Transparent Description Display your Green Spirit Essence The spirit essence holder is a luminous furniture block used to display a green spirit essence .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Spirit essence holders can be purchased from Catherine for 1,000 spirit jars each.
+
+Breaking [ ]
+
+Spirit Essence Holder Breaking Data Hardness 5 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 8 Wooden 15 15 Stone 8 8 Iron 5 5 Gilded Steel 4 4 Diamond 3 3 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Displaying [ ]
+
+Spirit essence holders can be used to display a green spirit essence as decoration.
+
+History [ ]
+
+June 18, 2022 Added spirit essence holders.

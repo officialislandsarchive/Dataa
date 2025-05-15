@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Neon_Light_Fries
+
+----------------------------------------
+
+Neon Light Fries Blue Red Purple Type of block Solid block; Luminous Recipe 1 Colored Neon 1 Neon Yellow 5 Electrite Crafted with Furniture Workbench Best tool Luminous Transparent Description A wall mounted neon light sign of fries A neon light fries is a luminous furniture block that can be crafted in the furniture workbench . It can only be placed on walls and comes in three color variants: blue, red, and purple.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Blue Neon Light Fries 1 Neon Blue 1 Neon Yellow 5 Electrite Furniture Workbench Red Neon Light Fries 1 Neon Red 1 Neon Yellow 5 Electrite Purple Neon Light Fries 1 Neon Purple 1 Neon Yellow 5 Electrite
+
+Breaking [ ]
+
+Neon Light Fries Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+January 6, 2023 Added neon light fries. Neon light fries can now be crafted in the furniture workbench instead of in the level 1 electrical workbench .

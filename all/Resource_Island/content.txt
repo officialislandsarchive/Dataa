@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Resource_Island
+
+----------------------------------------
+
+Resource Island Copper Gold Oil Resources Oil Fuel Gold Ore Copper Ore A resource island is an island that is randomly located around the player's island , spawned by resource deeds . There are three different types of deposits that may spawn on resource islands: copper , gold , and oil .
+
+Resource islands act as an extension of the main player island and may spawn rocks , tall grass , and flowers . A resource island cannot be spawned if the player has reached the block limit of 80,000 or the resource island limit (of any kind) of 15.
+
+Copper resource islands [ ]
+
+Copper resource islands can be spawned using copper resource deeds , with one copper deposit available per island.
+
+Prior to the June 3, 2022 update, one copper resource island would naturally spawn without any necessary prerequisites but will only reach the limit of two once the player had a workbench tier 3 placed on their island.
+
+Gold resource islands [ ]
+
+Gold resource islands can be spawned using gold resource deeds , with one gold deposit available per island.
+
+Prior to the June 3, 2022 update, up to two existing gold resource islands would naturally spawn once the player had two existing copper resource islands.
+
+Oil resource islands [ ]
+
+Oil resource islands can be spawned using oil resource deeds , with one temporary oil deposit capable of producing 5,000 units of oil fuel available per island.
+
+Prior to the June 3, 2022 update, up to two existing oil resource islands would naturally spawn once the player had a workbench tier 4 placed on their island.
+
+Trivia [ ]
+
+Resource islands used to spawn further away from the player's island , but they were later changed to spawn closer to it. From the addition of oil resource islands on August 15, 2021 to June 3, 2022 , copper and gold resource islands would not spawn correctly if the player had placed a workbench tier 4 on their island as the game did not register it as a workbench tier 3 , thus causing the game to think that the requirement for copper deposits to spawn had not been reached. This could've been fixed by breaking the placed workbench tier 4 and placing a workbench tier 3 until a new deposit spawns. At the release of the September 25, 2021 update, there was a bug that caused the possibility of a third copper resource island to spawn, disregarding the previous limit of 2. Before the June 3, 2022 update was released, resource islands naturally spawned around the player's island with certain prerequisites and did not need to be spawned with deeds .

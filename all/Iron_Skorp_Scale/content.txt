@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Iron_Skorp_Scale
+
+----------------------------------------
+
+Iron Skorp Scale Dropped by Iron Skorp Sell price 75 coins Required skill (to sell) Level 36 Combat Description A rare drop from killing Skorps. The iron skorp scale is an item that is dropped from iron skorps .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Iron skorps are guaranteed to drop 1 iron skorp scale upon defeat and a 50% chance of dropping 2.
+
+Usage [ ]
+
+Selling [ ]
+
+Iron skorp scales can be sold to Ivon for 75 coins each after reaching level 36 Combat .
+
+History [ ]
+
+August 9, 2020 Added iron skorp scales. January 22, 2021 Level 36 Combat is now required to sell iron skorp scales to Ivon .

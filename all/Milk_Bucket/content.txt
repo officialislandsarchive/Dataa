@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Milk_Bucket
+
+----------------------------------------
+
+Milk Bucket Sell price 80 coins A milk bucket is an item obtained from cows .
+
+Obtaining [ ]
+
+Milking [ ]
+
+Milk buckets are produced by milking a cow with an empty bucket . This process can be automated with an industrial milker .
+
+Usage [ ]
+
+Using a milk bucket in any way will not return the bucket .
+
+Transforming [ ]
+
+Milk buckets can be transformed into cheese in a cheesemaker . It takes a total of 3 minutes and 30 seconds to fully transform a milk bucket into cheese.
+
+Input Item transformer Output 1 Milk Bucket ➡ Cheesemaker ➡ 1 Cheese
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Island Orb 10 Glass Block 5 Milk Bucket 5 Pizza 3 Mayonnaise Jar 5 Jar of Honey Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Dragon Fruit Ice Cream 1 Dragon Fruit 1 Starfruit 3 Blueberry 1 Milk Bucket Cooking Table Food Processor None Tomato Soup 8 Tomato Sauce 4 Onion 1 Milk Bucket Cooking Table Food Processor Level 36 Cooking Glass of Milk 1 Milk Bucket Cooking Table Food Processor Level 42 Cooking
+
+Selling [ ]
+
+Milk buckets can be sold to Taliyah for 80 coins each.
+
+History [ ]
+
+October 3, 2020 Added milk buckets. November 13, 2021 Milk buckets can now be used to craft tomato soup . February 27, 2022 Milk buckets can now be used to craft dragon fruit ice cream . April 9, 2022 Milk buckets can now be used to craft Island orbs . July 23, 2022 Milk buckets can now be used to craft glasses of milk .

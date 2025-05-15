@@ -1,0 +1,53 @@
+Source: https://robloxislands.fandom.com/wiki/Music
+
+----------------------------------------
+
+Islands contains many music tracks , which play at various points in game.
+
+Current tracks [ ]
+
+Title Length Plays Audio Artist Beach Day 1:07 During dusk and dawn https://robloxislands.fandom.com/wiki/File:Day-Start-Theme.mp3 Micah Fischer Early Morning 0:56 During the morning https://robloxislands.fandom.com/wiki/File:Early-Morning-Theme.mp3 Micah Fischer A Day in the Sky 1:01 During the day https://robloxislands.fandom.com/wiki/File:Day-Theme.mp3 Micah Fischer Sunny Day 1:09 During the afternoon https://robloxislands.fandom.com/wiki/File:Afternoon-Theme.mp3 Micah Fischer Waiting 0:34 During the evening https://robloxislands.fandom.com/wiki/File:Day-End-Theme.mp3 Micah Fischer Late Night 1:00 During the night https://robloxislands.fandom.com/wiki/File:Evening-Theme.mp3 Micah Fischer Wizards in the Pines 1:26 On Wizard Island https://robloxislands.fandom.com/wiki/File:Wizard_Island_Loop.ogg Micah Fischer Rainy Day 0:54 When it rains https://robloxislands.fandom.com/wiki/File:Rainy-Day.ogg Micah Fischer The Desert of Bhaa 1:30 On Desert Island https://robloxislands.fandom.com/wiki/File:Desert_Island_Harmonica.mp3 Micah Fischer The Battle of Bhaa 0:45 During combat with Bhaa https://robloxislands.fandom.com/wiki/File:The_Battle_of_Bhaa.ogg Micah Fischer Spirit Island 1:33 On Spirit Island https://robloxislands.fandom.com/wiki/File:SpiritIsland-Theme.mp3 Micah Fischer Pirate Island 1:26 On Pirate Island https://robloxislands.fandom.com/wiki/File:Pirate_Island.ogg Micah Fischer The Underworld 2:02 In the Underworld https://robloxislands.fandom.com/wiki/File:The_Underworld.ogg Micah Fischer The Battle of the Infernal Dragon 1:09 During combat with the Infernal Dragon https://robloxislands.fandom.com/wiki/File:The_Battle_of_the_Infernal_Dragon.ogg Micah Fischer Fall in the Sky 1:40 In Maple Isles https://robloxislands.fandom.com/wiki/File:Fall_in_the_Sky.ogg Micah Fischer
+
+Instruments [ ]
+
+Instrument Length Audio Artist Bongo Drum 1:03 https://robloxislands.fandom.com/wiki/File:Bongo_Drum.ogg Micah Fischer Guitar 1:03 https://robloxislands.fandom.com/wiki/File:Guitar.ogg Micah Fischer Kalimba 1:03 https://robloxislands.fandom.com/wiki/File:Kalimba.ogg Micah Fischer Melodica 1:03 https://robloxislands.fandom.com/wiki/File:Melodica.ogg Micah Fischer Pan Flute 1:03 https://robloxislands.fandom.com/wiki/File:Pan_Flute.ogg Micah Fischer Tambourine 1:03 https://robloxislands.fandom.com/wiki/File:Tambourine.ogg Micah Fischer Ode to Mitsuda (all instruments ) 1:03 https://robloxislands.fandom.com/wiki/File:Ode_to_Mitsuda.mp3 Micah Fischer
+
+Jukebox [ ]
+
+These tracks can be played in a jukebox by players who own its gamepass . Some tracks require a certain jukebox disk to be played.
+
+Title Jukebox disk Roblox Asset ID Artist Crab Rave N/A 5410086218 Noisestorm Nocturne OP. 9/2 N/A 1848041872 Chopin Uptown N/A 1845554362 APM Music EPIC N/A 5410085694 Tokyo Machine Heat Wave N/A 5410083226 Tony Romera Fade N/A 279463893 Alan Walker Spectre N/A 279207008 Alan Walker Gold Orange 5410083299 Koven Shiawase Blue 5409360995 Dion Timmer Ephixa Yellow 5410083912 Dreamstate The Storm Purple 5410084538 Notaker Amnesia Green 5410084346 Pixel Terror Galaxies Red 5410080926 Protostar Farming Festival Indigo Unknown Micah Fischer
+
+Event tracks [ ]
+
+These tracks were played at Event locations .
+
+Title Length Plays Audio Artist Tiki Bar Mixer 3:30 On Fishing Festival Island https://robloxislands.fandom.com/wiki/File:Tiki_Bar_Mixer.mp3 Kevin MacLeod Moonlight Beach 5:33 On Fishing Festival Island https://robloxislands.fandom.com/wiki/File:Moonlight_Beach.mp3 Kevin MacLeod Asian Drums 2:18 On Godzilla Island https://robloxislands.fandom.com/wiki/File:Asian_Drums.mp3 Kevin MacLeod Accralate 5:05 On Skull Island https://robloxislands.fandom.com/wiki/File:Accralate.mp3 Kevin MacLeod Farming Festival 1:26 On Farming Festival Island https://robloxislands.fandom.com/wiki/File:Farming-Festival.mp3 Micah Fischer Halloween Hub 1:19 During the Halloween 2021 event in the Hub https://robloxislands.fandom.com/wiki/File:Audio-Holloween_Hub.ogg Micah Fischer
+
+Old tracks [ ]
+
+These soundtracks are no longer in-game and have been replaced by new tracks. They were composed by an artist that goes by the name of Lawnreality .
+
+Title Length Audio Artist Day Music Discovery 2:32 https://robloxislands.fandom.com/wiki/File:Discovery.mp3 Lawnreality Equinox 2:58 https://robloxislands.fandom.com/wiki/File:Equinox.mp3 Lawnreality In Bloom 2:09 https://robloxislands.fandom.com/wiki/File:In_Bloom.mp3 Lawnreality Night Music Dream 2:38 https://robloxislands.fandom.com/wiki/File:Dream.mp3 Lawnreality The Day's Beginning 2:45 https://robloxislands.fandom.com/wiki/File:The_Day%27s_Beginning.mp3 Lawnreality Combat Music Adventurer 2:21 https://robloxislands.fandom.com/wiki/File:Adventurer.mp3 Lawnreality At Sea 2:15 https://robloxislands.fandom.com/wiki/File:At_Sea.mp3 Lawnreality The Fearless Adventurer 2:00 https://robloxislands.fandom.com/wiki/File:The_Fearless_Adventurer.mp3 Lawnreality
+
+Removed jukebox tracks [ ]
+
+These tracks were removed from the jukebox due to the fact that they are copyrighted.
+
+Title Artist Roblox Asset Id Fade Alan Walker 279206904 Spectre Alan Walker 279207008
+
+Composers [ ]
+
+All music in Islands were originally composed by Lawnreality. Royalty free tracks were also added at a later time, composed by Kevin MacLeod. On April 4, 2021 all music by Lawnreality was removed and replaced with original soundtracks composed by Micah Fischer.
+
+Find Micah Fischer on:
+
+Bandcamp YouTube itch.io
+
+Find Kevin MacLeod on:
+
+Youtube Incompetech Twitter
+
+Find Lawnreality on:
+
+Bandcamp Newgrounds YouTube

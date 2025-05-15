@@ -1,0 +1,59 @@
+Source: https://robloxislands.fandom.com/wiki/Potato
+
+----------------------------------------
+
+Potato Potato Oily Seed cost 300 coins Planted on Farmland Sell price 11 coins Required skill Level 9 Farming (to sell) Oily description A crop that is covered in motor oil. Must be washed before selling. Edible A potato is a crop that grows on farmland from potato seeds .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting a potato yields 1 - 3 potatoes, 1 - 2 potato seeds , and 12 Farming XP (42 XP with the 4x daily bonus). The chance of obtaining more than one potato per plant is increased by the player's Farming level and for owners of the VIP gamepass . The 5% chance of obtaining an extra potato seed is increased for owners of the pro gamepass .
+
+Totems [ ]
+
+A potato totem will collect and replant potatoes in a 3-block radius, which can then be collected by interacting it. A potato totem placed next to a conveyor belt will drop the potatoes onto the conveyor, but doing so will make them oily. This process cannot yield extra potato seeds.
+
+Washing [ ]
+
+Name Recipe Crafting station Potato 1 Oily Potato Washing Station
+
+Input Item transformer Output 1 Oily Potato ➡ Industrial Washing Station ➡ 1 Potato
+
+Growth [ ]
+
+The growth time of potatoes can be shortened by 20% when watered with a watering can or basic sprinkler and by 30% when fertilized with basic fertilizer .
+
+Potato Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 2m 4m 11s 6m 15s Note: The durations of time above are on an unfertilized and unwatered plant Potato Growth Time Type Growth Time Normal 6m 15s Fertilized 5m Watered 5m Watered + Fertilized 4m 23s
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Potato Salad 12 Potato 4 Tomato 4 Mayonnaise Jar Cooking Table Food Processor Level 13 Cooking Fish and Chips 1 Cut Fish 5 Potato Cooking Table Food Processor Level 15 Cooking
+
+Crate-packing [ ]
+
+Image Name Recipe Crafting station Crate of Potatoes 100 Potato Crate Packer Large Crate of Potatoes 250 Potato Tier 2 Crate Packer
+
+Cooking [ ]
+
+Cooking a potato in a campfire , small furnace , desert furnace , or industrial oven will create a baked potato .
+
+Input Output 1 Potato 1 Baked Potato
+
+Sheep [ ]
+
+Holding a potato will attract nearby sheep to the player. They are also the sheep's favorite food and can be used to feed any sheep .
+
+Selling [ ]
+
+Potatoes can be sold to Cletus for 11 coins each after reaching level 9 Farming .
+
+History [ ]
+
+May 26, 2020 Added potatoes. May 31, 2020 Fixed a bug that prevented potatoes from being cooked into baked potatoes . June 15, 2020 Potatoes now become oily when dropped onto a conveyor belt . January 22, 2021 Potatoes now grant 12 Farming XP when harvested. Potatoes now require level 9 Farming to be sold to Tom . Potatoes can now be used to feed sheep . June 4, 2021 Potatoes can be packed into crates of potatoes . August 15, 2021 Potatoes can be packed into large crates of potatoes . March 6, 2022 Changed the texture of potatoes. May 20, 2022 Potatoes can now be used to craft fish and chips . June 18, 2022 Potatoes can now be sold to Cletus instead of Tom . July 2, 2022 Changed the sell price of potatoes from 11 coins to 9 coins. July 16, 2022 Changed the sell price of potatoes from 9 coins to 17 coins. July 23, 2022 Changed the sell price of potatoes from 17 coins to 11 coins. September 17, 2022 Changed the sell price of potatoes from 11 coins to 17 coins. October 15, 2022 Potatoes can now be sold to Tom instead of to Cletus . November 4, 2022 Potatoes can now be sold to Cletus instead of to Tom . December 2, 2022 Changed the sell price of potatoes from 11 coins to 17 coins. February 17, 2023 Changed the sell price of potatoes from 11 coins to 17 coins. May 26, 2023 Changed the sell price of potatoes from 11 coins to 17 coins. August 18, 2023 Changed the sell price of potatoes from 11 coins to 16 coins.
+
+Trivia [ ]
+
+When dropped on the ground, baked potatoes appear much smaller in size than normal potatoes, similar to roasted carrots and carrots.

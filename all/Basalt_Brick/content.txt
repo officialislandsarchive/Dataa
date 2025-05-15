@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Basalt_Brick
+
+----------------------------------------
+
+Basalt Brick Type of block Solid block Recipe 1 Basalt Crafted with Stonecutter Industrial Stonecutter Best tool Luminous Transparent Basalt bricks are the brick variant of basalt .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Basalt can be transformed into basalt bricks in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Basalt ➡ Stonecutter ➡ 1 Basalt Brick ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Basalt Brick Breaking Data Hardness 8 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 12 Stone 13 8 Iron 8 5 Gilded Steel 6 4 Diamond 4 3 Opal 4 2 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Basalt Brick Stair 1 Basalt Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Basalt Brick Slab 1 Basalt Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Basalt bricks can be transformed into basalt tiles in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Basalt Brick ➡ Stonecutter ➡ 1 Basalt Tiles ➡ Industrial Stonecutter ➡
+
+History [ ]
+
+June 18, 2022 Added basalt bricks.

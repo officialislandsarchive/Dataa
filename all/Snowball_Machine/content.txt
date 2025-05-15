@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Snowball_Machine
+
+----------------------------------------
+
+Snowball Machine Block Gamepass icon Type of block Solid block; Interactable Recipe 5 Iron Ingot 10 Snow Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Buy cost Gamepass: Off-sale ( was 399 Robux ) Best tool Luminous Transparent Description Block: Converts snow into snowballs. Gamepass: Turns snow blocks into throwable snowballs! This limited edition item is only for sale during the Islands Christmas Event. Once purchased, you have it unlocked forever. The snowball machine is a gamepass -exclusive item transformer used to transform snow into snowballs . Its gamepass was only purchasable during the Christmas 2020 event.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Snowball Machine 5 Iron Ingot 10 Snow Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Purchasing [ ]
+
+Purchasing the snowball machine gamepass granted the player one snowball machine and the ability to craft and place the machine.
+
+Breaking [ ]
+
+Snowball Machine Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Transforming [ ]
+
+Only an owner of the gamepass can use the snowball machine.
+
+Input Output 1 Snow ➡ 3 Snowball
+
+History [ ]
+
+December 18, 2020 Added snowball machines. January 4, 2021 The snowball machine gamepass is no longer on-sale.
+
+Trivia [ ]
+
+The snowball machine gamepass was the only gamepass that was only purchasable for a limited amount of time.
+
+Gallery [ ]

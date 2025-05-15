@@ -1,0 +1,71 @@
+Source: https://robloxislands.fandom.com/wiki/Wizard_Boss
+
+----------------------------------------
+
+Wizard Boss Health 2,500 HP Behavior Hostile Attack strength 5 per hit ( Static ) 40 ( Explosion ) Drops Empty Potion Bottle Red Page Blue Page Green Page Spellbook Lightning Scepter Wizard Portal Shard Mysterious Fragment #3 Wizard Boss Pet Spawn Egg Jukebox Disk Location Wizard Island The Wizard Boss is a boss that was added in the April 4, 2021 update. It has 2,500 health and can be summoned on Wizard Island . It has a 45 minute summon cooldown and can be summoned with at least level 20 Combat .
+
+As of September 18, 2021 , its summon cooldown can be bypassed with at least 500 Wizard Boss tokens .
+
+Description [ ]
+
+The Wizard Boss is a boss that only uses ranged attacks. It can be summoned on Wizard Island by holding F or tap-holding the button near the entrance to the boss platform. It can be summoned once every 45 minutes in its spawn arena .
+
+As of September 18, 2021 , the summon cooldown of the Wizard Boss now can be bypassed by using at least 500 Wizard Boss tokens .
+
+When a player summons the Wizard Boss, a blue message appears in chat, reading:
+
+"[SERVER] Wizard Boss summoning in 5 seconds!"
+
+After 5 seconds, another blue message appears in chat, reading:
+
+"[SERVER] Wizard Boss has summoned!"
+
+If a player attempts to summon the Wizard Boss while has less than 500 Wizard Boss tokens and on cooldown, the notification appears the screen, reading:
+
+"Failed to Summon - You need 500x Wizard Boss Tokens to summon this boss!"
+
+Like other bosses , if there are no players in the battle area, if the player is idle for too long, or if the battle takes more than 10 minutes, the Wizard Boss will despawn and the player will have to wait 45 minutes or spend at least 500 Wizard Boss tokens before being able to battle it.
+
+Attacks [ ]
+
+The Wizard Boss has 2 attacks. Similar to wizard lizards , it uses ranged attacks to fight and does move when attacking only very slowly.
+
+Static Attack [ ]
+
+The static attack is a long-ranged attack meant to attack players using a Magic weapon. It is similar to the legacy Lighting Scepter’s attack, a succession of lightning bolts are cast in a straight line at the player's current position. It deals 5 damage per hit. The direction in which the attack is cast does not change for the duration of the attack. It is an unusual attack, as it does small amounts of damage, but attacks multiple times rather swiftly.
+
+Pulse Attack [ ]
+
+The pulse attack is a long-ranged attack meant to attack players using a Magic weapon. It is similar to the current Lighting Scepter’s attack, a single lightning bolt is cast in a straight line at the player's current position. It deals 5 damage per hit. The direction in which the attack is cast does not change for the duration of the attack. It is an unusual attack, as it does small amounts of damage, but attacks multiple times rather swiftly.
+
+Explosion Attack [ ]
+
+The explosion attack is faster than any Magic weapon other than the static scepter. It has a similar projectile to the tidal spellbook and the same sound effect as the spellbook . This spell can be detonated prematurely by hitting the projectile with one cast by a spellbook, tidal spellbook, or spirit spellbook . The attack deals 40 HP.
+
+Drops [ ]
+
+The Wizard Boss rewards 1,251 (4,998 with the 4x daily bonus or 126 when maxed out) Combat XP and 1,251 (4,998 with the 4x daily bonus or 126 when maxed out) Light Melee , Heavy Melee , Magic , or Archery XP depending on the weapon the player used to defeat it.
+
+Prior to October 22, 2022 , only a certain number of players will receive drops if too many players are simultaneously fighting it. However, all players will still receive Combat + Weapon XP.
+
+Image Name Drop chance Empty Potion Bottle 1500% Red Page 7.5% Blue Page 7.5% Green Page 7.5% Lightning Scepter 0.5% Spellbook 0.45% Wizard Portal Shard 0.3% Mysterious Fragment #3 5% Wizard Boss Pet Spawn Egg 0.33% Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Damage reduction [ ]
+
+The Wizard Boss reduces the amount of damage dealt to it by 10% to 55% depending on the number of players (compounds) in the arena.
+
+Number of players Damage reduction 1 0% 2 10% 3 25% 4 35% 5 45% 6+ 55%
+
+Resistances and weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical Striking Inferno , Storm Piercing Hydro , Quake
+
+History [ ]
+
+April 4, 2021 Added the Wizard Boss. July 2, 2021 The Wizard Boss now has a damage reduction up to 55%. September 5, 2021 The Wizard Boss now has a chance of dropping mysterious fragment #3s . September 18, 2021 The summon cooldown of the Wizard Boss now can be bypassed with 500 Wizard Boss tokens . The Wizard Boss now has a chance of dropping Wizard Boss pet spawn eggs . April 9, 2022 Fixed a bug that prevented the static attack from disappearing after the attack has ended. April 12, 2022 Fixed a bug where the Wizard Boss's lighting arc is missing during its static attack. June 3, 2022 The Wizard Boss now has a chance of dropping spellbooks . The Wizard Boss no longer has a chance of dropping tidal spellbook blueprints upon defeat. September 17, 2022 The Wizard Boss now has resistances and weaknesses. September 24, 2022 Changed the resistances and weaknesses of The Wizard Boss. November 18, 2022 The Wizard Boss now have new arc effects with its charged up attacks. The Wizard Boss now attacks faster.
+
+Trivia [ ]
+
+If too many players simultaneously attack the Wizard Boss, it may glitch between its attacking and idle animations and cause it to remain stuck. The Wizard Boss has the most unique drops possible, being 15. The Wizard Boss rewards the same amount of XP as Bhaa , the Infernal Dragon , Percival the Pumpkin King , and Fhanhorn . Its amount of XP was 1251, 4998 with the 4x daily bonus, or 126 when maxed out. Prior to September 18, 2021 , the summon cooldown of the Wizard Boss cannot be bypassed with tokens . When the Wizard Boss is killed while using its "Static" attack, the lightning projectile doesn't disappear. This was likely a bug where lightning projectile doesn't damage players.
+
+Gallery [ ]

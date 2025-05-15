@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Brazier
+
+----------------------------------------
+
+Brazier Small Tall Gold Small Gold Tall Type of block Solid block Buy cost Small: 100 dungeon coins Tall: 150 dungeon coins Best tool Luminous Transparent Description ??? Braziers are a furniture block that can be purchased from Ivon and opened from dungeon chests .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Small and tall braziers can be purchased from Ivon for 100 and 150 dungeon coins each respectively.
+
+Dungeon chest [ ]
+
+Opening a dungeon chest has a 3% chance of rewarding a gold small brazier or gold tall brazier, having a rarity of 'rare'.
+
+Breaking [ ]
+
+Brazier Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+June 23, 2023 Added small, tall, gold small, and gold tall braziers.

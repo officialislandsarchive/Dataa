@@ -1,0 +1,55 @@
+Source: https://robloxislands.fandom.com/wiki/Underworld
+
+----------------------------------------
+
+The Underworld Required skill Level 55 Combat Resources Opal Obsidian Lava Mobs Magma Blob Magma Golem Infernal Dragon Fish Infernal Fish The Underworld is an island accessible by going through the mysterious portal or using a teleporter pad with an Underworld orb or Infernal Dragon orb . Level 55 Combat is required to access the Underworld.
+
+Resources [ ]
+
+Ores [ ]
+
+Resources 1 2 3 Mobs Magma Blob Magma Golem Fish Infernal Fish The following ore rocks spawn around the Underworld:
+
+Opal Obsidian
+
+Lava pools [ ]
+
+Lava pools can be found throughout the Underworld. Players can fish for fish and the Underworld-exclusive infernal fish using any fishing rod . Using an empty bucket on a lava pool will create a lava bucket . Players are able to swim in lava pools, sharing similar physics to a body of water , but they will deal approximately 10 damage every second to the player.
+
+Transport [ ]
+
+The Underworld only has one portal — the mysterious portal used to travel back to the player's island . A teleporter pad is also located next to the portal, which can be used to teleport to various locations depending on the inserted orbs .
+
+Portal to the player's island Teleporter Pad
+
+Mobs [ ]
+
+Hostile mobs [ ]
+
+Magma blobs and magma golems spawn throughout the Underworld. When in battle with the Infernal Dragon , it may also summon magma blobs to aid it.
+
+Magma Blob Magma Golem
+
+Previous hostile mobs [ ]
+
+When in battle, the Infernal Dragon used to be able to spawn bandits until September 12, 2021.
+
+Bandit
+
+Boss mobs [ ]
+
+There is currently only 1 boss mob in the Underworld, the Infernal Dragon . It can be summoned in its arena for 750 underworld tokens .
+
+Terrain [ ]
+
+Infernal Dragon Arena [ ]
+
+Infernal Dragon Arena 1 2 Mobs Infernal Dragon Magma Blob The Infernal Dragon's arena is located at the top of the Underworld, accessible by following a path to the location. It can be summoned for 750 underworld tokens at the bottom of the staircase, and the battle will be fought at the very top.
+
+History [ ]
+
+September 11, 2021 Added the Underworld. September 18, 2021 Lava pools in the Underworld now hurts the player. Filling a bucket in a lava pool now gives a lava bucket instead of a water bucket . November 29, 2021 Fixed spell particles not disappearing in the Underworld. April 1, 2022 Decreased the spawn rate of opal rocks . April 10, 2022 Level 55 Combat is now required to access the Underworld. May 14, 2022 Fixed a bug causing players who jump off the Underworld not to teleport back to the Underworld. August 13, 2022 The Underworld now has a reddish atmosphere.
+
+Trivia [ ]
+
+It is possible to access and bypass the skill requirement of the Underworld by falling off of a player island .

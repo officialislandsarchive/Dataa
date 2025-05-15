@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/July_16,_2022
+
+----------------------------------------
+
+July 16, 2022 Basic Information Day released July 16, 2022 Version number 90 Version Navigator Previous version Next version July 9, 2022 July 23, 2022 The July 16, 2022 update, also known as the spirit furniture update, is an update in Islands that added spirit furniture blocks, overhauled vending machines , mossy blocks , cobblestone , the world map guide , and other quality of life changes.
+
+Content [ ]
+
+Additions [ ]
+
+Added spirit lava lamps . Added spirit beds . Added cobblestone blocks . Added mossy cobblestone blocks . Added cobblestone stairs . Added cobblestone slabs . Added mossy cobblestone stairs . Added mossy cobblestone slabs . Added mossy blocks . Added mossy stairs . Added mossy slabs . Added a world map guide containing information on every visited island.
+
+Modifications [ ]
+
+Overhauled vending machines . Revamped UI. Vending machines can now go offline. Vending machines with max or no coins will appear as red. Players can now type in numbers to insert or withdraw certain amounts of items or coins. Trash cans now return items if the player exits the menu without discarding items. Replaced tooltips with proximity prompts for all villagers . Replaced the Maple Isles portal in the Hub with Don , who will transport the player to the Maple Isles instead. Added additional details in the Hub for players with graphics setting greater than 3. Added new dialogue for Quinn and John . Increased sell price of potatoes from 11 coins to 17 coins. Decreased sell price of grapes from 22 coins to 18 coins.
+
+Bug fixes [ ]
+
+Fixed an issue with players getting stuck on the loading screen. Fixed an issue where players could not play the game if their islands were corrupted. Fixed the level stats menu not closing when opening the inventory . Villager dialogue boxes now close when opening the inventory. Fixed a bug that prevented players from being able to obtain a treasure map from Davey after discarding one in a trash can . Fixed certain treasure spots not rewarding treasure chests when dug up. Fixed the Breed Daisy quest . Fixed an issue with Quinn duplicating in the Hub.
+
+Islands update history 2020 April April 10 • April 24 • April 27 May May 2 • May 4 • May 7 • May 10 • May 17 • May 26 • May 31 June June 15 • June 26 July July 4 • July 11 • July 17 • July 25 August August 2 • August 9 • August 16 • August 30 September September 6 • September 18 October October 3 • October 16 November November 1 • November 7 • November 20 • November 26 December December 11 • December 18 2021 January January 4 • January 22 • January 29 February Feburary 5 • Feburary 12 • Feburary 19 • Feburary 26 March March 5 • March 13 • March 19 April April 4 • April 10 • April 16 • April 24 May May 8 • May 21 June June 4 • June 30 July July 9 • July 17 • July 23 • July 30 August August 8 • August 15 • August 21 • August 28 September September 5 • September 11 • September 18 • September 25 October October 9 • October 18 November November 13 • November 27 December December 10 • December 18 • December 29 2022 January January 8 • January 15 • January 30 February February 7 • February 19 • February 27 March March 6 • March 12 • March 25 April April 1 • April 9 • April 16 • April 22 • April 29 May May 13 • May 20 • May 27 June June 3 • June 10 • June 18 • June 25 July July 2 • July 9 • July 16 • July 23 • July 30 August August 6 • August 13 • August 20 • August 27 September September 3 • September 10 • September 17 • September 24 October October 1 • October 8 • October 15 • October 22 • October 28 November November 4 • November 11 • November 18 • November 25 December December 2 • December 16 • December 23 2023 January January 6 • January 20 February February 3 • February 17 March March 3 • March 17 • March 31 April April 14 • April 28 May May 12 • May 26 June June 23 July July 7 • July 21 August August 18 October October 13 November November 7 Discontinuation

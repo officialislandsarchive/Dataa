@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Industrial_Merchant_Teleseller
+
+----------------------------------------
+
+Industrial Merchant Teleseller Type of block Solid block; Interactable Recipe 200 Red Bronze Ingot 10 Steel Plate 1 Pink Sticky Gear Crafted with Workbench Tier 4 Best tool Luminous Transparent The industrial merchant teleseller is an industrial machine that automatically sells items to villagers at 90% of the original price without needing to go to the Hub .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Industrial Merchant Teleseller 200 Red Bronze Ingot 10 Steel Plate 1 Pink Sticky Gear Workbench Tier 4
+
+Breaking [ ]
+
+Industrial Merchant Teleseller Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Shop [ ]
+
+To automatically sell items to villagers , the player must select which villager they would like to sell to and the item they would like to sell. Once selected, the player can input the selected type of item through the conveyor belt at the front, and it will begin to sell the items at a rate of one per second. The coins earned can be withdrawn manually by clicking "Withdraw." The amount earned is 90% of the original profit after rounding.
+
+History [ ]
+
+October 9, 2021 Added industrial merchant telesellers. October 18, 2021 Fixed a bug regarding the industrial merchant teleseller. Increased the tax rate from 10% to 30%. January 8, 2022 Added pineapple stand option. Removed oily crops option. June 25, 2022 Changed the recipe of the industrial merchant teleseller to require 200 red bronze ingots , 10 steel plates , and 1 pink sticky gear instead of 500 red bronze ingots. Decreased tax rate from 30% to 10%. July 30, 2022 Industrial merchant telesellers can now buy normal and large pineapple , cactus , and spinach crates . August 20, 2022 Industrial merchant telesellers can now buy void parasites .
+
+Trivia [ ]
+
+The industrial merchant teleseller is referred to as the "merchant teller seller" in its interface. The villagers in the teleseller are referred to their tag instead of their names. The only villager players are unable to sell items to in the teleseller is Petur due to his prices and offers changing everyday. Prior to January 8, 2022 , the industrial merchant teleseller was the only way to sell oily crops. It is also the only way to sell watermelons and pineapples off-season without turning it into crates .

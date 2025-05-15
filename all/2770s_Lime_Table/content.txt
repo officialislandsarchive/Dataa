@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/%2770s_Lime_Table
+
+----------------------------------------
+
+'70s Lime Table Type of block Solid block Recipe 30 Birch Wood 1 Tall Grass Crafted with Furniture Workbench Best tool Luminous Transparent The '70s lime table is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station '70s Lime Table 30 Birch Wood 1 Tall Grass Furniture Workbench
+
+Breaking [ ]
+
+'70s Lime Table Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+History [ ]
+
+May 31, 2020 Added '70s lime tables. June 3, 2022 A '70s lime table blueprint is no longer required to unlock the recipe of '70s lime tables.

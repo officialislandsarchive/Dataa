@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Bone
+
+----------------------------------------
+
+Bone Dropped by Bandits Sell price 22 coins A bone is an item dropped from bandits .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Bandits are guaranteed to drop 1 bone upon defeat and a 50% chance of dropping 2.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Bone Block 10 Bone Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Pirate Island Orb 10 Glass Block 20 Kiwi 10 Bone Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Noxious Stinger 2 Skorp Serpent's Tooth 8 Skorp Serpent's Scale 12 Bone 10 Steel Ingot 5 Gilded Steel Rod Anvil Level 55 Light Melee
+
+Selling [ ]
+
+Bones can be sold to Evans for 22 coins each.
+
+History [ ]
+
+July 17, 2021 Added bones. April 9, 2022 Bones can now be used to craft Pirate Island orbs . March 17, 2023 Bones can now be used to craft noxious stingers .

@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Wood_Tube_Merger
+
+----------------------------------------
+
+Wood Tube Merger Type of block Solid block Recipe 25 Oak Wood Crafted with Maple Workbench ( blueprint required) Best tool Luminous Transparent Description Combines two wood tubes into one output. A wood tube merger is a block that merges two wood tube pathways into one.
+
+Obtaining [ ]
+
+Name Recipe Crafting station Blueprint required Wood Tube Merger 25 Oak Wood Maple Workbench
+
+Breaking [ ]
+
+Wood Tube Merger Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Merging wood tubes [ ]
+
+Wood tube mergers can be used to merge two wood tube pathways into one output. The output tube is the center tube perpendicular to the two input tubes.
+
+History [ ]
+
+November 27, 2021 Added wood tube mergers.
+
+Trivia [ ]
+
+There is a visual bug where fluid within wood tube mergers will appear black instead of their usual colour when one wood tube merger is connected to another.

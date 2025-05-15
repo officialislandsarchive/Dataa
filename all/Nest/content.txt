@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Nest
+
+----------------------------------------
+
+Nest Type of block Non-solid block Recipe 40 Wheat 20 Oak Plank Required skill Level 19 Animal Care Best tool Luminous Transparent Description Birds like to roost and lay eggs in a nest A nest is a block that chickens and ducks can sleep or lay eggs on, and collect feathers from vultures .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Nest 40 Wheat 20 Oak Plank Animal Bench Level 19 Animal Care
+
+Breaking [ ]
+
+Nest Breaking Data Hardness 2 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 6 Stone 4 4 Iron 2 2 Gilded Steel 2 2 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Animal bed [ ]
+
+When placed down, chickens and ducks will lay eggs and duck eggs respectively in the nest, while vultures will drop feathers inside after being fed carp or their favorite food . They may sleep on the nest during nighttime. The nest can hold up to 3 eggs at once. Eggs can be manually placed into nests, but duck eggs and feathers cannot.
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Industrial Nest 1 Nest 1 Conveyor Belt 3 Blue Sticky Gear Animal Bench Level 45 Animal Care
+
+History [ ]
+
+February 26, 2021 Added chicken nests. February 19, 2022 Renamed chicken nests to nests. Ducks can now sleep and lay duck eggs in nests. ? Changed the recipe to require 40 wheat , up from 20. March 3, 2023 Nests can now be used to craft industrial nests . March 17, 2023 Vultures can now sleep and drop feathers in nests.

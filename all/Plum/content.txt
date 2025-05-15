@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Plum
+
+----------------------------------------
+
+Plum Heals 15 HP Sell price 50 coins A plum is a fruit grown on plum trees .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Plums grow every season on plum trees and can be obtained by harvesting them. There can be up to three plums on a tree at a time, and whenever a plum is harvested, there is a 3% chance of getting an additional plum tree sapling . Harvesting a plum yields 6 Farming XP (24 XP with the 4x daily bonus).
+
+It takes 5 minutes for a plum tree to grow a plum, adding up to a total of 16 minutes and 15 seconds to grow three plums.
+
+Usage [ ]
+
+Crate packing [ ]
+
+Image Name Recipe Crafting station Crate of Plums 100 Plums Crate Packer Large Crate of Plums 250 Plums Tier 2 Crate Packer
+
+Eating [ ]
+
+Plums can be eaten to restore 15 HP.
+
+Selling [ ]
+
+Plums can be sold to Cletus for 50 coins each.
+
+History [ ]
+
+October 9, 2021 Added plums. June 3, 2022 Plums can now be sold to Cletus instead of Tom . September 3, 2022 Changed the sell price of plums from 50 coins to 56 coins. September 10, 2022 Changed the sell price of plums from 56 coins to 50 coins. October 15, 2022 Plums can now be sold to Tom instead of Cletus. October 22, 2022 Changed the sell price of plums from 50 coins to 46 coins. October 28, 2022 Changed the sell price of plums from 46 coins to 50 coins. November 4, 2022 Plums can now be sold to Cletus instead of Tom. July 21, 2023 Changed the sell price of plums from 50 coins to 45 coins. August 18, 2023 Changed the sell price of plums from 45 coins to 50 coins.

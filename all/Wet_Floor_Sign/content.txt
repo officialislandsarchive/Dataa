@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Wet_Floor_Sign
+
+----------------------------------------
+
+Wet Floor Sign Type of block Solid block Recipe 2 Solid Yellow Crafted with Furniture Workbench Best tool Luminous Transparent Description Caution: Don't slip A wet floor sign is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Wet Floor Sign 2 Solid Yellow Furniture Workbench
+
+Breaking [ ]
+
+Wet Floor Sign Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+December 2, 2022 Added wet floor signs.

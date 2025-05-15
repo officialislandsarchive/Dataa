@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Pine_Wood
+
+----------------------------------------
+
+Pine Wood Current Old Type of block Solid block Sell price 4 coins Best tool Luminous Transparent Pine wood is a block that can be obtained from cutting down a pine tree .
+
+Obtaining [ ]
+
+Cutting [ ]
+
+Cutting down a pine tree will drop 3 - 4 pine wood along with a pine sapling .
+
+Breaking [ ]
+
+Pine Wood Breaking Data Hardness 8 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 12 24 Stone 8 13 Iron 5 8 Gilded Steel 4 6 Diamond 3 4 Opal 2 4 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Pine Door 10 Pine Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Pine Sign 3 Pine Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Trap Door Pine 5 Pine Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Cutting Table 50 Pine Wood 50 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Wooden Trough 30 Pine Wood 3 Iron Ingot Animal Bench Level 3 Animal Care Truffle Barrel 25 Pine Wood 75 Maple Wood Animal Bench Level 34 Animal Care Cloth Loom 100 Pine Wood 25 Iron Ingot Animal Bench Level 24 Animal Care Ancient Stool 30 Pine Wood 5 Cloth 1 Ancient Slime String Furniture Workbench None Ancient Street Lamp 50 Pine Wood 30 Gold Ingot 2 Ancient Slime String Furniture Workbench None Ancient Wall Light 5 Pine Wood 25 Gold Ingot 5 Ancient Slime String Furniture Workbench None Ancient Table 100 Pine Wood 25 Gold Ingot 5 Ancient Slime String Furniture Workbench None Modern Stool 5 Pine Wood 1 Cloth 3 White Wool Furniture Workbench None Wardrobe 10 Pine Wood 20 Oak Wood Furniture Workbench None Wood Plate 4 Pine Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Medieval Bookshelf 30 Pine Wood 30 Birch Wood Furniture Workbench None Medieval Chandelier 4 Torch 10 Pine Wood 10 Iron Ingot Furniture Workbench None Grandfather Clock 15 Pine Wood 50 Gold Ingot Furniture Workbench None Blueprint required Bookshelf 30 Maple Wood 30 Pine Wood Furniture Workbench None Large Red Bed 10 Red Carpet 30 Pine Wood Furniture Workbench None Red Sofa 25 Pine Wood 5 Red Flower Furniture Workbench None
+
+Transforming [ ]
+
+Input Item transformer Output 1 Pine Wood ➡ Sawmill ➡ 4 Pine Plank 1 Pine Wood ➡ Industrial Sawmill ➡ 4 Pine Plank
+
+Fueling [ ]
+
+Pine wood can be used as fuel for campfires , small furnaces , and desert furnace . Each log fuels the heating devices for 20 seconds.
+
+Selling [ ]
+
+Pine wood can be sold to John for 4 coins .
+
+Trivia [ ]
+
+Before the July 4, 2020 update, pine wood wasn't a placeable block ; it was just an item .

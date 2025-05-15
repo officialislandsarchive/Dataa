@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Churner
+
+----------------------------------------
+
+Churner Type of block Solid block; Interactable Recipe 45 Birch Wood 20 Iron Ingot Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Required skill Level 18 Animal Care Best tool Luminous Transparent Description Churner [sic] used to process a bunch of raw ingredients. The churner is an item transformer used to transform eggs into mayonnaise and yak milk into yak butter .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Churner 45 Birch Wood 20 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 18 Animal Care
+
+Breaking [ ]
+
+Churner Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Transforming [ ]
+
+Churners can be used to transform eggs into mayonnaise jars and yak milk buckets into yak butter . It takes 3 minutes and 30 seconds to fully transform each item.
+
+Input Output 1 Egg ➡ 1 Mayonnaise Jar 1 Yak Milk Bucket ➡ 1 Yak Butter
+
+History [ ]
+
+February 26, 2021 Added mayonnaise spinners. March 25, 2022 Renamed the mayonnaise spinner to "Churner." Changed the description from "Spin your eggs into mayonnaise." to "Churner used to process a bunch of raw ingredients." Churners can now be used to transform yak milk buckets into yak butter . April 1, 2022 10 items can be placed inside of the churner instead of 1.
+
+Trivia [ ]
+
+Despite being unlocked in the Animal Care skill, it is not crafted in the animal bench unlike most items in this skill level.

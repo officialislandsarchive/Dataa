@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Spinach_Seeds
+
+----------------------------------------
+
+Spinach Seeds Planted on Farmland Buy cost 550 Required skill Level 22 Farming Description Feed spinach to animals for small permanent productivity boost.
+
+Spinach Seeds are Seeds used to grow and farm Spinach . They can be bought from Cletus for 550 Coins , after reaching level 22 in the Farming skill . There is also a small chance of getting an additional seed when harvesting spinach.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Spinach Seeds can be bought from Cletus after reaching level 22 in the Farming skill . They don't require any skill level to plant or grow.
+
+Harvesting [ ]
+
+Harvesting a Spinach crop will give at least 1 Spinach Seed, but also has a small chance of giving an additional seed. This chance can be increased by purchasing the Pro Gamepass .
+
+Usage [ ]
+
+Planting [ ]
+
+Spinach Seeds can be planted on Farmland, a.k.a. plowed Grass ; To produce Spinach.
+
+Growing [ ]
+
+Spinach Seeds have 4 growth phases, starting with a seed and then sprouting.
+
+Spinach Seeds Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 30s 3m 5s 4m 35s Note: The durations of time above are on an unfertilized and unwatered plant
+
+Trivia [ ]
+
+Spinach is the only thing that can be fed to any animal. This seed looks very similar to Cactus Seeds .

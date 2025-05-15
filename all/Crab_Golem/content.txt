@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Crab_Golem
+
+----------------------------------------
+
+Crab Golem Health ? HP Behavior Hostile Attack strength 12 HP Drops Bat Boss Token Iron Ore Emerald Crystal Jukebox Disk Location Emerald Mines The crab golem was a hostile mob that spawned during the Mining Event 2023 in the Emerald Mines .
+
+Spawning [ ]
+
+Crab golems spawned in the Emerald Mines , which could have been accessed by interacting with the info board in the Hub during the Mining Event 2023 .
+
+Drops [ ]
+
+A crab golem rewards 8 (33 with the 4x daily bonus) Combat XP and 8 (33 with the 4x daily bonus) Light Melee , Heavy Melee , Magic , or Archery XP depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Bat Boss Token 50% Iron Ore 150% Emerald Crystal 50% Jukebox Disks Blue Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Red Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Resistances and weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical ? ? ? ?
+
+History [ ]
+
+April 28, 2023 Added crab golems.

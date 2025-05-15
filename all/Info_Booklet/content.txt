@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Info_Booklet
+
+----------------------------------------
+
+Info booklets are a feature in Islands that allows players to learn about the game's aspects and mechanics. It was added in the May 21, 2021 update. It can be viewed by selecting the button on the left UI sidebar.
+
+Booklets [ ]
+
+There are currently only 6 tutorials in the info booklet UI. Though many more are expected in future updates .
+
+Categories [ ]
+
+There are currently 11 categories in the info booklet menu:
+
+History [ ]
+
+May 21, 2021 Added the info booklet menu (6 booklets). August 28, 2021 The info booklet menu button is changed. June 10, 2022 Added more info booklets.
+
+Trivia [ ]
+
+It is possible for a tutorial to be in more than one category. An example is "Crop Totems", which is in both the Farming and Factory categories. The "Breed Flowers" and "Fertile Flowers" tutorials have the same icon.

@@ -1,0 +1,15 @@
+Source: https://robloxislands.fandom.com/wiki/Power
+
+----------------------------------------
+
+Electrical Power is a unit of electrical energy added in the December 11, 2020 update during the Electrical update. Power is generated from these items:
+
+Transporting power requires consumer blocks . A Wire Tool is needed to connect the output of a producing block to input of consumer block .
+
+Power is used to power these blocks :
+
+Image Item Type Switch Item Activator Button Item Activator And Gate Power Modifier Or Gate Power Modifier Xor Gate Power Modifier Timer Power Modifier Totem Disabler Item Modifier Splitter Power Modifier Combiner Power Modifier LED Light Power Consumer Firework Launcher Power Consumer Split Conveyor Item Modifier Conveyor Sensor Sensor
+
+Trivia [ ]
+
+The reason NAND, NOR , NOT, and XNOR Gates weren't added because then it would be possible to make an infinite power source, due to the fact that they all output power when there isn't any.

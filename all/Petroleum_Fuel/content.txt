@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Petroleum_Fuel
+
+----------------------------------------
+
+Petroleum Fuel Recipe 1 Oil Fuel / 1 Petroleum Barrel Crafted with Oil Refinery Fuel Barrel Extractor Petroleum fuel is a liquid item that was added in the August 15, 2021 update. It can be used to fuel a few machines and be petrified with a petroleum petrifier to fuel other conveyor -fed machines.
+
+Obtaining [ ]
+
+To make petroleum fuel, oil fuel must go to an oil refinery first. And after 10 seconds, petroleum fuel will go through the output pipe. Another way is to use a fuel barrel extractor to extract 6 petroleum fuel.
+
+You cannot obtain the item itself as you can only obtain it through a glitch or exploits.
+
+Transforming [ ]
+
+Input Item transformer Output 1 Oil Fuel ➡ Oil Refinery ➡ 1 Petroleum Fuel 1 Petroleum Barrel ➡ Fuel Barrel Extractor ➡ 6 Petroleum Fuel
+
+Usage [ ]
+
+Transforming [ ]
+
+Input Item transformer Output 1 Petroleum Fuel ➡ Petroleum Petrifier ➡ 1 Petrified Petroleum 6 Petroleum Fuel ➡ Fuel Barrel Filler ➡ 1 Petroleum Barrel
+
+Filling [ ]
+
+Petroleum fuel can be stored in petroleum tanks using pipes .
+
+Fueling [ ]
+
+Machines that can only be fueled with petroleum fuel are indicated with blue and yellow stripes.
+
+History [ ]
+
+August 15, 2021 Added petroleum fuel.

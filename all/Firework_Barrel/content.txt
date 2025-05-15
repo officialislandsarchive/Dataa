@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Firework_Barrel
+
+----------------------------------------
+
+Firework Barrel Block Gamepass icon Type of block Solid block; Interactable Recipe 15 Oak Wood Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Buy cost Gamepass: 199 Robux Best tool Luminous Transparent Description Gamepass: 🎆 Craft colorful fireworks! The firework barrel is a crafting station used to craft fireworks . Its gamepass is required to use and craft it.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Gamepass required Firework Barrel 15 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Purchasing [ ]
+
+Upon buying the firework barrel gamepass, the player will be given one firework barrel.
+
+Breaking [ ]
+
+Firework Barrel Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Crafting recipes [ ]
+
+Image Name Recipe Gamepass required Small Firework 2 Coal Medium Firework 4 Coal Large Firework 8 Coal
+
+History [ ]
+
+July 4, 2020 Added firework barrels

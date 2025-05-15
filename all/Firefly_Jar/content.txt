@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Firefly_Jar
+
+----------------------------------------
+
+Firefly Jar Normal Yellow Green Red Blue Purple A firefly jar is an item that can be obtained by capturing fireflies with a net . Capturing a firefly will give the respective color of the jar.
+
+Obtaining [ ]
+
+Catching [ ]
+
+Firefly jars can be obtained by capturing fireflies with a net . Once captured, the color of the firefly jar will be according to the color of the firefly. Fireflies cannot be released once captured.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Firefly Lantern 1 Yellow Firefly Jar 25 Stone Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Silver Butterfly Lantern 1 Yellow Firefly Jar 10 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Red Butterfly Lantern 1 Red Firefly Jar 10 Red Bronze Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Green Butterfly Lantern 1 Green Firefly Jar 5 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Gamepass required Firefly Wall Lamp 1 Yellow Firefly Jar 10 Iron Ingot Lighting Station Level 13 Animal Care Firefly Garden Light 1 Yellow Firefly Jar 25 Oak Wood Lighting Station None
+
+Colored lights [ ]
+
+Firefly jars can be used to change the light color of the firefly lantern , firefly wall lamp , and firefly garden lamp . The color is changed by clicking on the light while holding a jar. The jar can be collected back by breaking the light.
+
+Display [ ]
+
+Fireflies can be displayed in a display case by pressing on the display case while holding a jar. Fireflies emit light, which makes displaying fireflies a source of light.
+
+History [ ]
+
+September 6, 2020 Added firefly jars. September 10, 2022 Firefly jars can now be used to craft butterfly lanterns .
+
+Trivia [ ]
+
+Although it is in a jar, having a jar is not necessary to capture it.

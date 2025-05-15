@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Uncooked_Pizza
+
+----------------------------------------
+
+Uncooked Pizza Recipe 1 Dough 1 Tomato Sauce Crafted with Cooking Table Food Processor Required skill Level 3 Cooking Description Heat up to bake into pizza. Uncooked pizza is an uncooked food item that turns into pizza once cooked.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Uncooked Pizza 1 Dough 1 Tomato Sauce Cooking Table Food Processor Level 3 Cooking
+
+Usage [ ]
+
+Cooking [ ]
+
+Uncooked pizza can be cooked into pizza in a campfire , small furnace , desert furnace , or industrial oven .
+
+Input Output 1 Uncooked Pizza 1 Pizza
+
+History [ ]
+
+May 10, 2020 Added uncooked pizza. January 22, 2021 Level 3 Cooking is now required to craft uncooked pizza. November 13, 2021 Changed the model for uncooked pizza.

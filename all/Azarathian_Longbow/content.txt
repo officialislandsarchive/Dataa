@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Azarathian_Longbow
+
+----------------------------------------
+
+Azarathian Longbow Type Longbow Attack damage 26 HP 44 HP (Fully charged) 39 - 45 HP ( Stone Short Arrow ) 66 - 75 HP (Stone Long Arrow; Fully charged) 41 - 46 HP ( Iron Long Arrow ) 70 - 78 HP (Iron Long Arrow; Fully charged) 46 - 53 HP ( Steel Long Arrow ) 78 - 90 HP (Steel Long Arrow; Fully charged) Recipe 2 Ruby Skorp Stinger 70 Steel Ingot 20 Ruby Skorp Scale 5 Ancient Slime String Crafted with Anvil Required skill Level 40 Archery Description A bow crafted from the stingers and scales of the ruby scorpions in the great desert of Azarath. The azarathian longbow is a longbow that shoots large arrows .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Azarathian Longbow 2 Ruby Skorp Stinger 70 Steel Ingot 20 Ruby Skorp Scale 5 Ancient Slime String Anvil Level 40 Archery
+
+Behavior [ ]
+
+Attacking [ ]
+
+To shoot the bow, at least one large arrow must be in the player's inventory . The bow can be charged by holding left click on PC or holding down on mobile and the damage dealt by the arrow will increase in proportion to the time the bow is charged.
+
+At level 1 Archery , the azarathian longbow deals a base damage of 26 HP to mobs , and its damage can be increased by leveling up the Archery skill.
+
+Charging [ ]
+
+Azarathian longbows can be charged in one second. Charging a shot will increase the amount of damage dealt by 1.7x at full charge. This additional damage can be increased by leveling up the Archery skill.
+
+Health steal [ ]
+
+When a hostile mob is damaged by an arrow shot from the azarathian longbow, a red beam will appear between the player and the mob, healing the player 10 - 15 HP.
+
+History [ ]
+
+August 9, 2020 Added vamp bows. January 22, 2021 Level 22 Archery is now required to craft vamp bows. September 17, 2022 Renamed vamp bows to "Azarathian Longbow". Decreased the base damage of azarathian longbows from 31 HP to 26 HP. Changed the recipe from 1 ancient longbow and 1 ruby skorp stinger to 2 ruby skorp stingers, 70 steel ingots , and 20 ruby skorp scales , and 5 ancient slime string . A vamp bow blueprint is no longer required to craft azarathian longbows. Level 40 Archery is now required to craft ancient longbows, up from level 22. Introduced a bug where the player will not be healed when damaging mobs.
+
+Trivia [ ]
+
+The azarathian longbow is the first weapon to have an ability, the second being the rageblade and third being the Slime Queen's scepter . This is also the first weapon that can heal players with an attack, the second being the Slime Queen's scepter.

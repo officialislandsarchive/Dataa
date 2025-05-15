@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Pastel
+
+----------------------------------------
+
+Pastel Red Orange Yellow Green Blue Purple Pink Type of block Solid block Recipe 1 Colored Flower 1 White Flower Crafted with Coloring Station Best tool Luminous Transparent Pastel is a type of colored block that comes in seven variants: red, orange, yellow, green, blue, purple, and pink.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Pastel Red 1 Red Flower 1 White Flower Coloring Station Pastel Orange 1 Orange Flower 1 White Flower Pastel Yellow 1 Yellow Flower 1 White Flower Pastel Green 1 Light Green Flower 1 White Flower Pastel Blue 1 Blue Flower 1 White Flower Pastel Purple 1 Purple Flower 1 White Flower Pastel Pink 1 Pink Flower 1 White Flower
+
+Breaking [ ]
+
+Pastel Breaking Data Hardness 3 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 5 Stone 5 3 Iron 3 2 Gilded Steel 3 2 Diamond 2 1 Opal 2 1 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Pastel Red Stair 1 Pastel Red Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Pastel Orange Stair 1 Pastel Orange Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Pastel Yellow Stair 1 Pastel Yellow Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Pastel Green Stair 1 Pastel Green Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Pastel Blue Stair 1 Pastel Blue Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Pastel Purple Stair 1 Pastel Purple Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Pastel Pink Stair 1 Pastel Pink Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Pastel Red Slab 1 Pastel Red Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Pastel Orange Slab 1 Pastel Orange Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Pastel Yellow Slab 1 Pastel Yellow Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Pastel Green Slab 1 Pastel Green Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Pastel Blue Slab 1 Pastel Blue Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Pastel Purple Slab 1 Pastel Purple Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Pastel Pink Slab 1 Pastel Pink Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+History [ ]
+
+November 18, 2022 Added pastel blocks. November 25, 2022 Pastels can now be used to craft pastel slabs and pastel stairs .

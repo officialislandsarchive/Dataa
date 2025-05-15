@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Smooth_Stone
+
+----------------------------------------
+
+Smooth Stone Type of block Solid block Recipe 1 Stone Crafted with Polishing Station Industrial Polishing Station Best tool Luminous Transparent Smooth stone is the smooth version of stone .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Stone can be transformed into smooth stone in a polishing station or an industrial polishing station .
+
+Input Item transformer Output 1 Stone ➡ Polishing Station ➡ 1 Smooth Stone 1 Stone ➡ Industrial Polishing Station ➡ 1 Smooth Stone
+
+Breaking [ ]
+
+Smooth Stone Breaking Data Hardness 12 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 18 Wooden 36 36 Stone 20 20 Iron 12 12 Gilded Steel 9 9 Diamond 6 6 Opal 5 5 Void Mattock 3
+
+History [ ]
+
+February 19, 2022 Added smooth stone.

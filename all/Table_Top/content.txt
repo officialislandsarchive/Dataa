@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Table_Top
+
+----------------------------------------
+
+Table Top White Red Blue Pink Type of block Solid block Recipe White: 10 Iron Ingot , 2 Marble , 2 Glass Block Red: 10 Iron Ingot , 2 Marble , 2 Red Glass Block Blue: 10 Iron Ingot , 2 Marble , 2 Blue Glass Block Pink: 10 Iron Ingot , 2 Marble , 2 Pink Glass Block Crafted with Furniture Workbench Best tool Luminous Transparent A table top is a furniture block that comes in four colored variants: white, red, blue, and pink.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station White Table Top 10 Iron Ingot 2 Marble 2 Glass Block Furniture Workbench Red Table Top 10 Iron Ingot 2 Marble 2 Red Glass Block Blue Table Top 10 Iron Ingot 2 Marble 2 Blue Glass Block Pink Table Top 10 Iron Ingot 2 Marble 2 Pink Glass Block
+
+Breaking [ ]
+
+Table Top Breaking Data Hardness 3.75 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 6 6 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+October 28, 2022 Added table tops.

@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Honey_Block
+
+----------------------------------------
+
+Honey Block Type of block Solid block Recipe 4 Jar of Honey Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent
+
+The honey block is a transparent block that is crafted with jars of honey .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Honey Block 4 Jar of Honey Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Honey Block Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+History [ ]
+
+August 30, 2020 Added honey blocks.

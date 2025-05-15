@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Starfruit_Cake
+
+----------------------------------------
+
+Starfruit Cake Recipe 1 Uncooked Starfruit Cake Crafted with Campfire Small Furnace Desert Furnace Industrial Oven Effect +25% damage to mobs Sell price 796 - 1,194 coins Hot sell price 1,194 - 1,791 coins Description Consume for +25% damage to mobs. Starfruit cake is a food item that grants +25% damage to mobs when consumed.
+
+Obtaining [ ]
+
+Cooking [ ]
+
+Baking an uncooked starfruit cake in a campfire , small furnace , desert furnace , or industrial oven will create a starfruit cake.
+
+Input Output 1 Uncooked Starfruit Cake 1 Starfruit Cake
+
+Usage [ ]
+
+Eating [ ]
+
+Eating starfruit cake grants +25% damage to mobs for 15 minutes.
+
+Its damage boost can be stacked with the mob damage bonus granted from consuming a glass of milk , allowing a maximum increase of 55%, or 1.55x, to be applied to damage dealt to mobs.
+
+Selling [ ]
+
+Starfruit cakes can be sold to Petur 796 - 1,194 coins each, or 1,194 - 1,791 coins if starfruit cake is a hot offer.
+
+Damage increase [ ]
+
+Image Name Damage dealt Base With starfruit cake With starfruit cake and glass of milk Light Melee Wooden Sword 10 (Base) 15 (Critical) 13 (Base) 19 (Critical) 16 (Base) 23 (Critical) Stone Sword 15 (Base) 23 (Critical) 19 (Base) 29 (Critical) 23 (Base) 36 (Critical) Iron Sword 22 (Base) 33 (Critical) 28 (Base) 41 (Critical) 34 (Base) 51 (Critical) Aquamarine Sword 18 (Base) 27 (Critical) 23 (Base) 34 (Critical) 28 (Base) 42 (Critical) Rageblade 13 (Base) 20 (Critical) 16 (Base) 25 (Critical) 20 (Base) 31 (Critical) Cactus Spike 25 (Base) 38 (Critical) 31 (Base) 48 (Critical) 39 (Base) 59 (Critical) Cutlass 18 (Base) 27 (Critical) 23 (Base) 34 (Critical) 28 (Base) 42 (Critical) Diamond Great Sword 28 (Base) 42 (Critical) 35 (Base) 53 (Critical) 43 (Base) 65 (Critical) The Captain's Rapier 30 (Base) 45 (Critical) 38 (Base) 56 (Critical) 47 (Base) 70 (Critical) Maple Shield 7 (Base) 11 (Critical) 9 (Base) 14 (Critical) 11 (Base) 17 (Critical) Frost Sword 18 (Base) 27 (Critical) 5 (Frost) 23 (Base) 34 (Critical) 6 (Frost) 28 (Base) 42 (Critical) 8 (Frost) Ruby Sword 60 (Base) 90 (Critical) 75 (Base) 113 (Critical) 93 (Base) 140 (Critical) Serpent's Hook 55 (Base) 83 (Critical) 14 (Spin) 69 (Base) 104 (Critical) 18 (Spin) 85 (Base) 129 (Critical) 22 (Spin) Jolly Dagger 52 (Base) 78 (Critical) 65 (Base) 98 (Critical) 81 (Base) 121 (Critical) Noxious Stinger 63 (Base) 95 (Critical) 79 (Base) 119 (Critical) 98 (Base) 148 (Critical) Heavy Melee Wooden Mallet 12 (Base) 18 (Critical) 15 (Base) 23 (Critical) 19 (Base) 28 (Critical) Granite Hammer 14 (Base) 21 (Critical) 18 (Base) 26 (Critical) 22 (Base) 33 (Critical) Iron War Axe 16 (Base) 24 (Critical) 20 (Base) 30 (Critical) 25 (Base) 39 (Critical) Gilded Steel Hammer 25 (Base) 38 (Critical) 31 (Base) 48 (Critical) 39 (Base) 59 (Critical) Diamond War Hammer 32 (Base) 48 (Critical) 40 (Base) 60 (Critical) 50 (Base) 74 (Critical) Kong's Axe 17 (Base) 26 (Critical) 21 (Base) 33 (Critical) 26 (Base) 40 (Critical) Obsidian Greatsword 24 (Base) 36 (Critical) 30 (Base) 45 (Critical) 37 (Base) 56 (Critical) The Dragonslayer 45 (Base) 68 (Critical) 57 (Base) 78 (Critical) 70 (Base) 105 (Critical) Pumpkin Hammer 20 (Base) 30 (Critical) 25 (Base) 38 (Critical) 31 (Base) 47 (Critical) Antler Hammer 35 (Base) 53 (Critical) 44 (Base) 67 (Critical) 54 (Base) 82 (Critical) Antler Shield 15 (Base) 23 (Critical) 19 (Base) 29 (Critical) 23 (Base) 36 (Critical) Frost Hammer 24 (Base) 36 (Critical) 5 (Frost) 30 (Base) 45 (Critical) 6 (Frost) 37 (Base) 56 (Critical) 8 (Frost) Infernal Hammer 48 (Base) 72 (Critical) 60 (Base) 94 (Critical) 74 (Base) 112 (Critical) Trout's Fury 11 (Base) 17 (Critical) 14 (Base) 21 (Critical) 17 (Base) 26 (Critical) Serpent's Bane 65 (Base) 98 (Critical) 81 (Base) 123 (Critical) 101 (Base) 152 (Critical) The Reaper's Scythe 68 (Base) 102 (Critical) 85 (Base) 128 (Critical) 105 (Base) 158 (Critical) Archery Wooden Shortbow 10 13 16 Iron Shortbow 18 23 28 Golden Shortbow 22 28 34 Ancient Longbow 20 25 31 Azarathian Longbow 26 33 40 The Reaper's Crossbow 32 40 50 Magic Spellbook 22 28 34 Tidal Spellbook 36 45 56 Staff of Godzilla 20 25 31 Lightning Scepter 6 8 9 Ruby Staff 36 45 56 Spirit Spellbook 30 (White) 37 (Blue) 42 (Pink) 46 (Green) 38 (White) 46 (Blue) 53 (Pink) 58 (Green) 47 (White) 57 (Blue) 65 (Pink) 71 (Green) Slime Queen's Scepter 46 62 (Fully charged) 20 (Health drain) 58 78 (Fully charged) 25 (Health drain) 71 96 (Fully charged) 31 (Health drain) Candy Cane Scepter 38 48 59
+
+History [ ]
+
+July 11, 2020 Added starfruit cakes. November 13, 2021 Starfruit cakes now grant +25% damage to mobs when consumed. Added a description. Changed the base selling price from 215 coins to 860 coins. Starfruit cakes no longer heal 60 HP when consumed. January 8, 2022 Changed the base selling price from 860 coins to 1,032 - 1,548 coins. January 15, 2022 Changed the base selling price from 1,032 - 1,548 coins to 688 - 1,032 coins.

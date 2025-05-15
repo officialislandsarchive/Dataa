@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Pumpkin_Boss_Token
+
+----------------------------------------
+
+Pumpkin Boss Token Description A collectable from the Halloween event in 2021. The Pumpkin Boss token is an item that was used to summon Percival the Pumpkin King in the Hub during the Halloween 2021 event. It currently has no function.
+
+Obtaining [ ]
+
+Catching [ ]
+
+During the Halloween 2021 event, pumpkin bats were guaranteed to drop 45 - 75 Pumpkin Boss tokens when caught with a net .
+
+Cauldron [ ]
+
+Opening a cauldron has a chance of rewarding 50 - 1,000 Pumpkin Boss tokens, having a rarity of 'common'.
+
+Usage [ ]
+
+Summoning [ ]
+
+At least 500 Pumpkin Boss tokens were required to summon Percival the Pumpkin King in its spawn area in the Hub during the Halloween 2021 event.
+
+History [ ]
+
+October 18, 2021 Added Pumpkin Boss tokens. Changed its description from "A token obtained from the Slime Island!" to "A token obtained from capturing a flying pumpkin!" November 13, 2021 Pumpkin Boss tokens can no longer be obtained by catching pumpkin bats . ? Changed the description from "A token obtained from capturing a flying pumpkin!" to "A collectable from the Halloween event in 2021."
+
+Trivia [ ]
+
+Its description used to read that it can be obtained on Slime Island , but it is only obtainable from pumpkin bats that spawn on the player's island during the night. The description was corrected shortly afterwards. Before this property was shared by all tokens on February 7, 2022 , it was the only token that can be dropped, traded , or put in vending machines and chests .

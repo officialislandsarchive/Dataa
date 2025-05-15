@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Void_Stone_Polished
+
+----------------------------------------
+
+Void Stone Polished Type of block Solid block Recipe 1 Void Stone Cobble Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Stonecutter Industrial Stonecutter Best tool Luminous Transparent A void stone polished is a block cut from void stone cobbles .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Void Stone Polished 1 Void Stone Cobble Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Void stone cobbles can be transformed into void stone polished in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Void Stone Cobble ➡ Stonecutter ➡ 1 Void Stone Polished ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Void Stone Polished Breaking Data Hardness 8 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 12 Stone 13 8 Iron 8 5 Gilded Steel 6 4 Diamond 4 3 Opal 4 2 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Void Stone Polished Stair 1 Void Stone Polished Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Void Stone Polished Slab 1 Void Stone Polished Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Void Stone Carved 1 Void Stone Polished Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Void stone polished can be transformed into void stone carved in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Void Stone Polished ➡ Stonecutter ➡ 1 Void Stone Carved ➡ Industrial Stonecutter ➡
+
+History [ ]
+
+August 27, 2022 Added void stone polished.

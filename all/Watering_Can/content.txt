@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Watering_Can
+
+----------------------------------------
+
+Watering Can Default Lucky Type Farming Tool Recipe 10 Oak Wood Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Description Lucky: Limited edition watering can earned only during the Farming Festival 2021 event! A watering can is a tool used to water crops and fertile flowers . It has the same function as the basic sprinkler , except that it doesn't require a water storage block, is manual, and is also portable.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Watering Can 10 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Purchasing [ ]
+
+Cletus' lucky watering could have been purchased from Cletus on Farming Festival Island for 7,500 crops .
+
+Usage [ ]
+
+Watering crops [ ]
+
+The watering can shortens the growth time of crops by 33%. It does not have an effect on trees , berries , cacti , or grapes .
+
+Icon Crop Growth time Without water With water Wheat 3:00 2:00 Tomato 5:00 3:20 Grape 3:05 2:28 Potato 6:00 4:00 Carrot 5:00 3:20 Spinach 4:35 3:50 Onion 4:00 2:40 Starfruit 5:50 4:00 Radish 6:00 4:00 Watermelon 5:00 3:20 Pumpkin 3:25 2:00 Chili Pepper 4:05 2:45 Pineapple 5:15 4:12 Dragon Fruit 3:15 2:36
+
+Flowers [ ]
+
+Watering a fertile flower next to another flower allows them to breed. Re-watering the flowers does not affect breeding time nor color chances. After some time, a new flower will appear in an open space adjacent to its fertile parent. Basic sprinklers cannot be used to breed flowers.
+
+History [ ]
+
+June 15, 2020 Added watering cans. November 1, 2020 The model for watering cans changed. Watering cans no longer need to be refilled. Watering cans can now water flowers. July 30, 2021 Added Cletus' lucky watering can. August 3, 2021 Cletus' lucky watering can is made unobtainable. September 25, 2021 Cletus' lucky watering can can be purchased from Cletus again. September 29, 2021 Cletus' lucky watering can is made unobtainable again.
+
+Trivia [ ]
+
+This is the first item that speed up the growth time of crops , the second being basic fertilizer . Prior to November 1, 2020 update, the watering can could not be used on legacy flowers and had a limited amount of water. To show the amount of water left in the can, a blue bar would appear above the watering can. With every use, the blue bar would deplete and reveal a white color to show how much was emptied. If the watering can was full, it would have a maximum amount of 15 uses before needing to be refilled. Watering cans can still be filled with water, but this does not do anything other than deplete the amount of water in the water storage block. Unlike most tools , watering cans can be immediately dropped and does not require the player to hold down "Q."

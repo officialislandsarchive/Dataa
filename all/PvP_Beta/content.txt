@@ -1,0 +1,15 @@
+Source: https://robloxislands.fandom.com/wiki/PvP_Beta
+
+----------------------------------------
+
+PvP Beta Date January 4, 2021 - January 11, 2021 Description The Second week of PvP! Fight players to get the cutlass. The PvP Beta event was the second time access to the PvP Island was added.
+
+Mercenary quest [ ]
+
+Like the first week of PvP, Mercenary was located on the PvP Island . For 100 skulls, players could purchase the Cutlass .
+
+Unlike the PvP Alpha , completing a quest rewarded the player with 15 skulls instead of 20.
+
+PvP changes [ ]
+
+There is now a barrier on the red line after a player is hit by another player; the attacked player cannot go to the safe zone unless they are not attacked for at least 10 seconds. Reduced food healing on PvP Island .

@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Locker
+
+----------------------------------------
+
+Locker Red Blue Yellow Green Purple Type of block Solid block; Interactable Recipe 4 Colored Solid 25 Iron Ingot Crafted with Furniture Workbench Best tool Luminous Transparent Description A locker to store items in A locker is a furniture block that comes in five color variants: red, blue, yellow, green, and purple. It can store up to 180 items .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Red Locker 4 Solid Red 25 Iron Ingot Furniture Workbench Blue Locker 4 Solid Blue 25 Iron Ingot Yellow Locker 4 Solid Yellow 25 Iron Ingot Green Locker 4 Solid Light Green 25 Iron Ingot Purple Locker 4 Solid Purple 25 Iron Ingot
+
+Breaking [ ]
+
+Locker Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+Usage [ ]
+
+Storage [ ]
+
+A locker has 6 slots that can fit up to 30 items per slot, adding up to a total of 180 items per locker.
+
+History [ ]
+
+December 2, 2022 Added lockers.

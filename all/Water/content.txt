@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Water
+
+----------------------------------------
+
+Water Type of block Liquid Best tool Luminous Transparent Water is a fluid block . Since the September 24, 2024 update, it could no longer be created by placing water buckets .
+
+Obtaining [ ]
+
+Prior to the September 24, 2024 update, water was created by placing water buckets . Any water source blocks placed before the update will still exist on the island .
+
+Usage [ ]
+
+Swimming [ ]
+
+Players can swim in water like they can in normal Roblox water terrain.
+
+Villagers in water do not swim, but walk through it instead.
+
+Spreading [ ]
+
+Water spreads horizontally and downward. Water can spread downward infinitely until stopped by a block, and 4 blocks horizontally from a source block on a flat surface.
+
+Spreading water generally doesn't affect nearby blocks or items, but will break plowed grass , causing it to return to normal grass.
+
+Sound effects [ ]
+
+Source Audio Flowing water https://robloxislands.fandom.com/wiki/File:Audio-water.ogg Jumping into water https://robloxislands.fandom.com/wiki/File:Audio-water2.ogg
+
+History [ ]
+
+April 8, 2021 Water is shown by the developers in a tweet . May 8, 2021 Added water. SnickTrix talks about potential additions such as fishing and item floating physics. Fixed bug that caused the jump button to not appear on mobile devices while swimming in water. September 24, 2024 Water source blocks can no longer be created by placing water buckets .
+
+Trivia [ ]
+
+This was the first placeable liquid in the game, the second being lava . Water cannot be obtained with water catchers and cannot be stored in water barrels . Before the September 24, 2024 update, water buckets were able to be placed inside a water source block, but doing so would have resulted in a net loss of one water source block.

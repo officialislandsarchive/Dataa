@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Industrial_Flower_Picker
+
+----------------------------------------
+
+Industrial Flower Picker Type of block Solid block; Interactable Recipe 5 Red Bronze Ingot 2 Copper Plate 5 Copper Bolt 1 Blue Sticky Gear Crafted with Workbench Tier 4 Best tool Luminous Transparent Description Picks up a type of flower within a radius. The industrial flower picker is an industrial machine used to automatically collect flowers of a certain color and species.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Industrial Flower Picker 5 Red Bronze Ingot 2 Copper Plate 5 Copper Bolt 1 Blue Sticky Gear Workbench Tier 4
+
+Breaking [ ]
+
+Industrial Flower Picker Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Picking flowers [ ]
+
+The industrial flower picker collects flowers within a 6 block radius from the center of the machine if powered with petroleum . It has 2 slots in its user interface—one for the selected flower species and one for fuel. The player can select any color and species of flowers provided that they have at least one in their inventory . Once selected, the machine will begin to pick the selected color and species of flower - fertile or not.
+
+The picked flowers will be outputted onto a conveyor belt on its side and powered with petroleum fuel through the pipe at the other end. The machine will not rewater the parent flowers for them to breed again.
+
+History [ ]
+
+October 9, 2021 Added industrial flower pickers.
+
+Gallery [ ]

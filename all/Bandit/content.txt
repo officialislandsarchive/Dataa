@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Bandit
+
+----------------------------------------
+
+Bandit Health 170 HP Behavior Hostile Attack strength 12 HP Drops Bone Bone Block Gold Ingot Crystallized Obsidian Jukebox Disk Location Pirate Island Jungle A bandit is a hostile mob that resemble small skeletal pirates wielding a cutlass and a pirate hat.
+
+Spawning [ ]
+
+Pirate Island [ ]
+
+Bandits spawn in the jungle on Pirate Island .
+
+Infernal Dragon [ ]
+
+Bandits used to be able to be summoned by the Infernal Dragon before September 12, 2021.
+
+Drops [ ]
+
+Image Name Drop chance Bone 150% Doubloon 100% Gold Ingot 30% Bone Block 20% Crystallized Obsidian 1% Jukebox Disks Blue Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Red Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Quests [ ]
+
+Killing bandits is a part of a quest .
+
+Quest Type Tasks Reward Defeat Bandits Battle Kill 3 Skeleton Pirate Kill 15 Skeleton Pirate 3 - 12 Doubloons 15 - 100 Coins
+
+Resistances and weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical None Void , Hydro Slashing Ethereal , Inferno
+
+History [ ]
+
+July 17, 2021 Added bandits. September 11, 2021 Bandits can be summoned by the Infernal Dragon in-battle. September 12, 2021 The Infernal Dragon can no longer summon bandits in-battle. June 3, 2022 Bandits now have a chance of dropping doubloons upon defeat.
+
+Trivia [ ]
+
+Bandits resemble the skeleton mob from the Halloween 2020 event but with different accessories. A bandit can be seen as the icon for a save slot . It is referred to as "Skeleton Pirate" in the combat catalogue . Bandits share the same magical resistances and weaknesses as Zombie Cletus .

@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Starfruit_Seeds
+
+----------------------------------------
+
+Starfruit Seeds Planted on Farmland Starfruit seeds are seeds that grow into starfruit once planted.
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Starfruit seeds can obtained after harvesting starfruit on Buffalkor or Wizard Island with a 4% chance. Harvesting starfruit on the Player's Island will not grant extra seeds.
+
+Usage [ ]
+
+Planting [ ]
+
+Starfruit seeds can be planted on farmland . They yield starfruit once harvested. This process can be automated with starfruit totems .
+
+History [ ]
+
+July 11, 2020 Added starfruit seeds. July 17, 2020 Increased chances of getting starfruit seeds.
+
+Trivia [ ]
+
+The drop rate for Starfruit Seeds used to be 0.1%, but this chance was increased on the July 17, 2020 update.

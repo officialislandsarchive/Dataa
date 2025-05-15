@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Bone_Block
+
+----------------------------------------
+
+Bone Block Type of block Solid block Recipe 10 Bone Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Dropped by Bandits Best tool Luminous Transparent The bone block is a block that can be obtained by fighting bandits or crafting it with bones . It cannot be turned back into bones once crafted.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Bone Block 10 Bone Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Mob drops [ ]
+
+Killing bandits have a 20% chance of dropping a bone block.
+
+Breaking [ ]
+
+Bone Block Breaking Data Hardness 4 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 6 Stone 7 4 Iron 4 3 Gilded Steel 3 2 Diamond 2 2 Opal 2 1 Void Mattock 1
+
+History [ ]
+
+July 17, 2021 Added bone blocks.

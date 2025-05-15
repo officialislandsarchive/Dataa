@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Cutlass
+
+----------------------------------------
+
+Cutlass Type Light Melee Physical class Slashing Attack damage 18 HP (Base) +9 HP (Critical) Buy cost 100 skulls Description Once wielded by a sky pirate. The cutlass is a light melee weapon in the slashing class that could have been purchased from the Mercenary during the PvP Beta event.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+The cutlass could have been purchased for 100 skulls from the Mercenary on PvP Island during the PvP Beta event.
+
+Attacking [ ]
+
+At level 1 Light Melee , the cutlass deals a base damage of 18 HP. It has the ability to damage multiple mobs in one swing and leaves behind a blue trail. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 9 HP of damage. Its damage can be increased by leveling up the Light Melee skill and it is in the slashing class.
+
+History [ ]
+
+January 4, 2021 Added cutlasses. January 11, 2021 The cutlass is made unobtainable. February 19, 2021 Cutlasses are now able to be displayed on tool stands . September 17, 2022 Cutlasses are now a slashing weapon.
+
+Trivia [ ]
+
+The cutlass is the first limited weapon in the game. Before the February 19, 2021 update, players weren't able to display this on tool stands . The cutlass is the second and latest item sold by the Mercenary , the first being PvP Alpha trophy .

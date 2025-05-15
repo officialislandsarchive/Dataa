@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Tiger_Bean_Bag
+
+----------------------------------------
+
+Tiger Bean Bag Type of block Solid block; Seat Buy cost 10,000 coins Best tool Luminous Transparent The tiger bean bag is a furniture block that can be purchased from Yuzi and opening red envelopes .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+The tiger bean bag can be purchased from Yuzi for 10,000 coins .
+
+Red envelope [ ]
+
+Opening a red envelope has a 7.14% chance of rewarding a tiger bean bag.
+
+Breaking [ ]
+
+Tiger Bean Bag Breaking Data Hardness 5 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 8 Wooden 15 15 Stone 8 8 Iron 5 5 Gilded Steel 4 4 Diamond 3 3 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Sitting [ ]
+
+The tiger bean bag has a seat, which means players, mobs , and villagers are able to sit on the bean bag.
+
+History [ ]
+
+January 30, 2022 Added tiger bean bags. February 19, 2022 Tiger bean bags can no longer be bought from Yuzi .

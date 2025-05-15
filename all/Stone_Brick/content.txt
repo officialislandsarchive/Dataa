@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Stone_Brick
+
+----------------------------------------
+
+Stone Brick Type of block Solid block Recipe 1 Stone Crafted with Stonecutter Industrial Stonecutter Best tool Luminous Transparent Stone bricks are the brick variant of stone .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Stone can be transformed into stone bricks in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Stone ➡ Stonecutter ➡ 1 Stone Brick ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Stone Brick Breaking Data Hardness 8 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 12 Stone 13 8 Iron 8 5 Gilded Steel 6 4 Diamond 4 3 Opal 4 2 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Stone Brick Stair 1 Stone Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Stone Brick Slab 1 Stone Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 4 Mossy Stone Brick 4 Stone Brick 1 Tall Grass Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 4 Cobblestone Block 8 Stone Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 4 Mossy Cobblestone Block 8 Stone Brick 4 Tall Grass Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Wizard Portal 1 Wizard Portal Shard 120 Stone Brick 30 Red Carpet Workbench Tier 3 Workbench Tier 4 Diamond Mines Portal 1 Diamond Mines Portal Shard 150 Stone Brick 15 Enchanted Diamond Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Stone bricks can be transformed into stone tiles in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Stone Brick ➡ Stonecutter ➡ 1 Stone Tiles ➡ Industrial Stonecutter ➡
+
+History [ ]
+
+April 27, 2020 Added stone bricks. May 7, 2020 Stone bricks can now be used to craft stone brick stairs . May 17, 2020 Stone bricks can now be cut in industrial stonecutters . May 26, 2020 Stone bricks can now be used to craft mossy stone bricks and stone brick slabs . February 5, 2021 Stone bricks can now be used to craft wizard portals . February 12, 2021 Stone bricks can now be used to craft diamond mines portals . May 8, 2021 Changed the texture of stone bricks. July 23, 2021 Stone bricks can no longer be used to craft workbench tier 3s . February 19, 2022 Stone bricks can now be cut into stone tiles . July 16, 2022 Stone bricks can now be used to craft cobblestone blocks and mossy cobblestone blocks .

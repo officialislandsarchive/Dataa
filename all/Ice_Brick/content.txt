@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Ice_Brick
+
+----------------------------------------
+
+Ice Brick Type of block Solid block; Slippery Recipe 1 Compact Ice Crafted with Stonecutter Industrial Stonecutter Best tool Luminous Transparent Ice bricks are the brick version of compact ice .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Input Item transformer Output 1 Compact Ice ➡ Stonecutter ➡ 1 Ice Brick ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Ice Brick Breaking Data Hardness 2 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 3 Stone 4 2 Iron 2 2 Gilded Steel 2 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+History [ ]
+
+December 18, 2021 Added ice bricks.
+
+Trivia [ ]
+
+Dropped items can slide on ice bricks due to its low friction.

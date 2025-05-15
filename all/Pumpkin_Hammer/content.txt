@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Pumpkin_Hammer
+
+----------------------------------------
+
+Pumpkin Hammer Type Heavy Melee Physical class Striking Attack damage 20 HP (Base) +10 HP (Critical) Description A rare drop from the cauldron. The pumpkin hammer is a heavy melee weapon in the striking class.
+
+Obtaining [ ]
+
+Cauldron [ ]
+
+Opening a cauldron from the Halloween 2021 event has a 1% chance of rewarding a pumpkin hammer, having a rarity of 'mythic'.
+
+Attacking [ ]
+
+At level 1 Heavy Melee , the pumpkin hammer deals a base damage of 20 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing and deals extremely high knockback. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 10 HP of damage. Its damage can be increased by leveling up the Heavy Melee skill and it is in the striking class.
+
+History [ ]
+
+October 18, 2021 Added pumpkin hammers. September 17, 2022 Pumpkin hammers are now a striking weapon.

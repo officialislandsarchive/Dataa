@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Item_Port
+
+----------------------------------------
+
+The item port is a block used to hold an item . It cannot be obtained through normal gameplay.
+
+Obtaining [ ]
+
+Starter Island [ ]
+
+An item port spawns on the starter island holding the plow . The block cannot be seen or broken.
+
+Chicken Eggs [ ]
+
+An item port spawns on the block where a chicken lays its egg . The block also cannot be seen or broken.
+
+Duck Eggs [ ]
+
+An item port spawns on the block where a duck lays a duck egg . The block also cannot be seen or broken.
+
+Animal Spawn Eggs [ ]
+
+An item port also spawns when an animal lays an egg.
+
+Usage [ ]
+
+The purpose of the item port is to be able to have an item on an island without it ever de-spawning like a dropped item would.
+
+Trivia [ ]
+
+Item ports may be found on display in vending machines , most likely through the use of exploits or glitches.

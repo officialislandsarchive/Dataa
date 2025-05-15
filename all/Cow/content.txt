@@ -1,0 +1,83 @@
+Source: https://robloxislands.fandom.com/wiki/Cow
+
+----------------------------------------
+
+Cow Normal Lunar New Year Old Model Behavior Passive Location Player's Island
+
+A cow is a large passive mob that was added in the October 3, 2020 update and a source of milk .
+
+It is the first animal passive mob in Islands .
+
+Spawning [ ]
+
+The number of cows that can exist on the player's island varies depending on their level in Animal Care .
+
+Player's island [ ]
+
+A cow spawns on the player's island when it first generates.
+
+Cow spawn egg [ ]
+
+Cows can be spawned with cow spawn eggs . Cow spawn eggs are obtained by breeding cows or purchasing them from Taliyah .
+
+Behavior [ ]
+
+A cow can be lured with wheat and can sleep on hay beds . During the Christmas 2021 event, feeding, petting, or milking a cow had a 0.1% chance of rewarding a cow ornament .
+
+Milking [ ]
+
+A cow can be milked using a bucket , creating a milk bucket . Cows can be milked after fully feeding them.
+
+Prior to January 22, 2021 , cows can produce milk buckets without being full even while asleep, due to them being unbalanced.
+
+Breeding [ ]
+
+After two cows have been given a potion of fertility each, they will breed, creating a cow spawn egg . The egg will be of a tier between 1 and 3.
+
+Sleeping [ ]
+
+When it becomes night in-game, cows will go to sleep. While they can sleep anywhere and sometimes will, they prefer to sleep on a hay bed.
+
+Inspecting [ ]
+
+Cows can be inspected to show a menu that allows the player to see information about the cow, listed below:
+
+Mount Sell value Information Food level Favorite foods Happiness level Traits (fertility, productivity, and friendliness) Personality
+
+Feeding [ ]
+
+Cows can be fed approximately every 90 - 100 seconds. Cows eat wheat , but will also each have its own favorite foods. The foods a cow can have as its favorite food are berry pie , honey toast , bread , and tomato soup .
+
+Feeding a cow will increase its food and friendliness level. The food level is necessary to keep above 20% or the cow will start losing happiness. The milking cooldown can also be skipped if a cow is fed.
+
+A wooden trough , metal trough , or automated trough can be used to feed cows.
+
+Like other animals , it will eat from a grass block if no troughs are nearby, but doing so will not replenish its hunger meter nor give Animal Care XP.
+
+Petting [ ]
+
+A cow can be pet every 5 minutes which increases their happiness level. The action yields 6 Animal Care XP (24 XP with the 4x daily bonus).
+
+Mounting [ ]
+
+Cows can be mounted via the button in the inspect menu if the player is level 8 or higher in Animal Care . A mounted cow can be rode anywhere within the server. If the cow is dismounted outside the player's island, or falls into the void, the cow will respawn on the island spawn point. Mounting a cow does not grant any speed boost or jump boost.
+
+Personality [ ]
+
+Cows are assigned a personality upon spawning. All personalities have the same possibility, except for resourceful which is more uncommon.
+
+Personality Description Effects Trivia Lazy "Your cow is lazy. They sleep for a long time, but gain a bit of happiness while sleeping." Cow will sleep during the afternoon and evening, but will still gain happiness while sleeping. Before the January 22, 2021 update, all cows had the equivalent of this trait. Level-headed "Your cow is level-headed. They will not gain or lose happiness quickly." Self-explanatory Loyal "Your cow is loyal. They are extra happy around players and animals but can become very lonely when left alone." Cow will gain happiness faster if players and/or animals are within an unknown number blocks, but will lose happiness fast if they are further than that threshold. Friendly "Your cow is friendly. They will bring you extra gifts." Cow will bring you extra gifts Resourceful "Woah! Your cow is resourceful. They will produce items faster than other animals." Cow will make products (milk) faster than normal. This is the rarest personality.
+
+Skins [ ]
+
+The cow has one animal skin , Lunar New Year. The skin was purchasable for 499 Robux before going off-sale on February 19, 2021 .
+
+Each copy of a skin can only be equipped to one cow.
+
+History [ ]
+
+October 3, 2020 Added cows. October 6, 2020 Players who don't have a cow will now receive one when they join. Cows will no longer try to eat from a wheat trough while asleep. January 16, 2021 Changed the cow's idle animation. The cow's tail now wags faster when idle. January 22, 2021 Updated the model and animations of cows. Cows can now be spawned with cow spawn eggs . Cows are now able to eat grass blocks if no troughs are nearby. Added traits and personalities and an option to sell cows for coins. Added baby cows. Changed the cow's walking or jumping animation. Fixed the cow's animations failing to load. Removed the cow's mooing animation. Removed the cow's hitboxes. January 25, 2021 Cows fall asleep much later in the day. Cows can no longer be fed while asleep. February 12, 2021 Added the lunar new year cow skin. February 19, 2021 The lunar new year cow skin is made unobtainable. Cows can now be mounted. February 26, 2021 Changed the cow's favorite foods from carrots , potatoes , oranges , lemons , and apples to berry pie , honey toast , bread , and tomato soup . December 18, 2021 Feeding, petting, or milking a cow now has a 0.1% chance of rewarding a cow ornament . January 15, 2022 Feeding, petting, or milking a cow can no longer reward a cow ornament.
+
+Trivia [ ]
+
+Although cows can jump over 3 height blocks, cows cannot jump over blocks with around half-block height, such as slabs . When mounted by a player, the cow can jump higher while sprinting. Cows can escape a box that is supposed to be inescapable by walking through blocks while the player's island is loading. This also goes with most animals. Cows can sit on furniture blocks . Cows will be stuck once sitting on a furniture block. When the seat is broken by the player, the cow cannot move until the player reloads the game or mounts the cow. Cows are the first animal passive mob in Islands . Like all other animals, cows may eat from a grass block instead of from troughs, but doing so will not replenish their hunger meter nor give Animal Care XP. This ability was added in the January 22, 2021 update. Cows use the same eating animation as sheep , pigs , and yaks . This was likely can be done if no troughs are nearby. The eating sound of cows is reduced when eating grass blocks. Prior to January 22, 2021, cows had 1 hitbox and 3 hitboxes while asleep. Since then, cows can only come into contact with other cows. Cows are likely gender-neutral as they have features of both genders — they have horns of a bull but a large udder with of a cow. Prior to January 22, 2021, cows were 2 blocks tall but were changed to be 1.5 blocks tall later in that update. The old model of cows had a large udder with 6 teats, contrary to the 4 teats of real-life cows. However, the current model of cows have a small udder but doesn't have teats. Prior to January 22, 2021 , a cow stuck in the walking animation while idle, similar to lagging. Prior to January 22, 2021, cows could get stuck in the walking animation while idle or asleep. Cows are able to move with the sleeping animation, but this can be fixed by mounting and dismounting them. Prior to January 22, 2021, cows can produce milk without being full even while asleep, due to them being unbalanced. Prior to January 22, 2021, cows do not have a looking animation, similar to turkeys , horses , and vultures . The old model of cows is the second-tallest animal model in Islands , with the tallest being horses. Prior to January 22, 2021, a cow always opened its eyes, even while asleep. Cows share many things with other animals . Cows share the same eating sound as sheep, pigs, turkeys, yaks, and horses. Cows have the same eye model as sheep, pigs, chickens , frogs , and rabbits . The old model of cows had the same eye model as turkeys, ducks , yaks, and horses. Cows have the same animations as sheep, pigs, and yaks. Cows have the same horn model as yaks. Cows have the same favorite foods and award the same amount of XP as turkeys and yaks. The hitbox of players is slightly increased when mounting a cow. Prior to January 22, 2021, players could only have one cow on their island through normal gameplay. A cow mooing prior to January 22, 2021. Prior to January 22, 2021, cows had a mooing animation. Since the January 22, 2021 update, the mooing animation of cows was removed in Islands . Prior to January 22, 2021, cows had a different model, appearance, and animations. Cows, turkeys, and yaks have the same amount of Animal Care XP and number of favorite foods.

@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Pizza
+
+----------------------------------------
+
+Pizza Recipe 1 Uncooked Pizza Crafted with Campfire Small Furnace Desert Furnace Industrial Oven Heals 40 HP Sell price 64 - 96 coins Hot sell price 96 - 151 coins Pizza is a food item that heals 40 HP when consumed.
+
+Obtaining [ ]
+
+Cooking [ ]
+
+Pizza is made by cooking uncooked pizza in a campfire , small furnace , desert furnace , or industrial oven .
+
+Input Output 1 Uncooked Pizza 1 Pizza
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Island Orb 10 Glass Block 5 Milk Bucket 5 Pizza 3 Mayonnaise Jar 5 Jar of Honey Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Truffle Pizza 1 Pizza 1 Black Truffle Cooking Table Food Processor Level 66 Cooking
+
+Eating [ ]
+
+Eating a pizza restores 40 HP.
+
+Selling [ ]
+
+Pizza can be sold to Petur for 64 - 96 coins each, or 96 - 144 coins if pizza is a hot offer.
+
+History [ ]
+
+May 10, 2020 Added pizzas. November 13, 2021 Changed the model for pizzas. Pizzas can now be used to craft truffle pizzas . January 8, 2022 Changed the base selling price from 80 coins to 96 - 144 coins. January 15, 2022 Changed the base selling price from 96 - 144 coins to 64 - 96 coins. April 9, 2022 Pizzas can now be used to craft Island orbs .

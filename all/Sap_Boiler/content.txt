@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Sap_Boiler
+
+----------------------------------------
+
+Sap Boiler Type of block Solid block; Interactable Recipe 30 Copper Ingot 2 Steel Rod 8 Green Sticky Gear Crafted with Maple Workbench Best tool Luminous Transparent The sap boiler is an industrial machine that converts maple sap into maple syrup .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+The recipe for sap boilers will automatically be unlocked after completing Bailey 's second quest.
+
+Name Recipe Crafting station Blueprint required Sap Boiler 30 Copper Ingot 2 Steel Rod 8 Green Sticky Gear Maple Workbench
+
+Quests [ ]
+
+The player will receive a sap boiler and a syrup bottler from Bailey upon completion of her second quest.
+
+Breaking [ ]
+
+Sap Boiler Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Transforming [ ]
+
+Sap boilers are used to boil maple sap into maple syrup . It takes about 15 seconds to fully transform the sap. Maple sap can be manually added in or automatically inputted by connecting it to a tree tap via wood tubes .
+
+Input Output 1 Maple Sap ➡ 1 Maple Syrup
+
+History [ ]
+
+November 27, 2021 Added sap boilers.
+
+Trivia [ ]
+
+Sap boilers become luminous when there is maple sap in it.

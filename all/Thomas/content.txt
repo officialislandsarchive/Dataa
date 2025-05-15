@@ -1,0 +1,45 @@
+Source: https://robloxislands.fandom.com/wiki/Thomas
+
+----------------------------------------
+
+Thomas Location Hub Fishing Festival Island Farming Festival Island Purpose Buys fish Occupation Fisherman Thomas is a villager located in the Hub . Players can sell fish to him in exchange for coins .
+
+Shop [ ]
+
+Thomas buys fish in exchange for coins.
+
+Image Name Price Required skill Salmon 3 coins None Trout 20 coins None Carp 3 coins None Catfish 5 coins None Red Snapper 20 coins None Blue Tang 35 coins None Clownfish 35 coins None Tilapia 80 coins None Grouper 60 coins None Tuna 1,000 coins None Spirit Fish 333 coins None Pearl 777 coins None Infernal Fish 1,000 coins None Void Fish 1,300 None Eel 300 coins Level 22 Fishing Swordfish 800 coins Level 25 Fishing
+
+Dialogue [ ]
+
+Current [ ]
+
+Thomas currently has three random lines of dialogue when the player talks to him at his shack in the Hub .
+
+"Everyday's a good day for fishin!" >View Shop Opens shop . "The water be perfect for fishin!" >View Shop Opens shop . "Fish be extra hungry today user !" >View Shop Opens shop .
+
+During the Godzilla vs. Kong event [ ]
+
+"No roof, no sign, but the fish 'r still swimmin'!" >View Shop Opens shop .
+
+At the Fishing Festival [ ]
+
+At the Fishing Festival, Thomas explains how the festival worked at Fishing Festival Island . When first talking to Thomas, he would grant the player 10 sea tickets.
+
+"Hiya user ! I'm hostin' a contest to find the best fisherman in town!." >Okay "Each contest lasts 15 minutes. Whoever catches the most fish wins sea tickets!" >Sounds Fun! "My buddy Oscar will trade your sea tickets for some rare items. Good Luck!"" >Yay! End.
+
+On Farming Festival Island [ ]
+
+Thomas would say one of the four lines below if interacted with on Farming Festival Island :
+
+"Hiya user ! Looks to be a fine river here for fishin'!" >Yep! End.
+
+"It's a really hot day today, hope the fish are cool!" >Hopefully! End.
+
+"I don't know about much about farmin', but it's a fine day for fishin'" >Yeah End.
+
+"Thought I saw a giant fish in that river over there, might've just been my imagination." >Okay... End.
+
+History [ ]
+
+June 15, 2020 Added the Fisherman. November 20, 2020 The Fisherman now sells the wooden and stone axe for 15 shells. ? The wooden and stone axe are removed from his shop. February 26, 2021 Renamed the Fisherman to Thomas. Thomas now pays more for fish. June 30, 2021 Added sale offer for spirit fish . September 11, 2021 Added sale offer for infernal fish . November 13, 2021 Added sale offer for tuna . June 18, 2022 Added sale offer for pearls . July 2, 2022 Updated Thomas' appearance. August 20, 2022 Added sale offer for void fish .

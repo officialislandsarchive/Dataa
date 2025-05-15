@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Pesticide_Spray
+
+----------------------------------------
+
+Pesticide Spray Attack damage 12HP (only to Void Crop Eaters ) A pesticide spray is an item used for protecting crops in Hardcore Mode .
+
+Usage [ ]
+
+Crop Protection [ ]
+
+Spraying pesticide sprays on crops prevents them from being eaten by void crop eaters for 2 minutes and damages them by 12HP when the protected crops are attacked. It can be used indefinitely. Each crop protected by pesticide lasts 4 hits from void crop eaters , with the last hit damaging them by 47HP.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting Station Required Skill Pesticide Spray 30 Amethyst Crystal Tier 2 Workbench Level 37 Farming
+
+History [ ]
+
+May 12, 2023 Added pesticide sprays.

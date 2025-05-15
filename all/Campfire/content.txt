@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Campfire
+
+----------------------------------------
+
+Campfire Type of block Solid block; Interactable Recipe 10 Oak Wood Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent A campfire is a heating device used to heat, smelt, and cook items .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Campfire 10 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Campfire Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Heating, smelting, and cooking [ ]
+
+The campfire smelts one item at a time and can only use one fuel at a time. Wood , coal , and petrified petroleum can be used to fuel the campfire.
+
+Input Output 1 Iron Ore 1 Iron Ingot 1 Gold Ore 1 Gold Ingot 1 Clay 1 Brick 1 Bamboo 1 Dried Bamboo 1 Grass 1 Dried Grass 1 Dough 1 Bread 1 Carrot 1 Roasted Carrot 1 Berry Dough 1 Berry Pie 1 Uncooked Pizza 1 Pizza 1 Carrot Cake Batter 1 Carrot Cake 1 Potato 1 Baked Potato 1 Uncooked Apple Pie 1 Apple Pie 1 Orange Cake Batter 1 Orange Cake 1 Lemon Bread Dough 1 Lemon Bread 1 Uncooked Starfruit Cake 1 Starfruit Cake 1 Uncooked Pineapple Pizza 1 Pineapple Pizza Duck Egg 1 Poached Duck Egg
+
+History [ ]
+
+April 10, 2020 Added campfires. It could only be fueled with wood . ? Campfires can now be fueled with coal . August 15, 2021 Campfires can now be fueled with petrified petroleum . January 8, 2022 Campfires can now cook uncooked pineapple pizzas into pineapple pizzas . February 19, 2022 Campfires can now cook duck eggs into poached duck eggs .
+
+Trivia [ ]
+
+Unlike other heating devices , it could previously only use oak wood as fuel instead of coal . It can now use both.

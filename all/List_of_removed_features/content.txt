@@ -1,0 +1,141 @@
+Source: https://robloxislands.fandom.com/wiki/List_of_removed_features
+
+----------------------------------------
+
+Islands has had a number of features removed from the game. These features may have been replaced or removed entirely. This page documents features that have been removed from Roblox Islands.
+
+Items [ ]
+
+Flower seeds [ ]
+
+Flower seeds were used to plant yellow, red, and blue flowers. The flower seeds were completely removed in the November 1, 2020 update due to a rework of flowers adding flower-types, more colors, and cross-breeding. The latter replaced the need for flower seeds.
+
+Legacy flowers [ ]
+
+Legacy flowers were the original type of flowers, known as "wildflowers" by Cletus. There were only 3 existing variations of the flowers: yellow, red, and blue. They could be planted with Flower Seeds and also naturally generated on the Player's Island . On November 1, 2020 all legacy flowers got converted to lilies with matching color. Legacy flowers in the players inventory got converted to fertile lilies with matching color.
+
+Island keys [ ]
+
+Island keys were used to travel to mob islands. There are 4 island keys . The Slime Island Key was made unobtainable on July 11, 2020 and its functionality was removed. On January 22, 2021 the rest of the keys were made unobtainable but all of the existing copies could still be traded. On February 5, 2021 all island keys that were not in vending machines was completely removed in order to not cause confusion with the newly added portal shards .
+
+Coin bags [ ]
+
+Coin bags were used to trade coins in the early days of the game. They could be purchased and sold to the Banker . On January 22, 2021 , coin bags along with the banker got removed. This was to prevent duping and also because coin bags were not useful anymore after the addition of the Vending Machine .
+
+Resistance Potion [ ]
+
+The Resistance Potion was added as an unlockable recipe in the January 22, 2021 update and was unlocked when level 58 or higher in the Cooking skill. However, even when unlocked it could not be crafted. It was removed in the February 5, 2021 update.
+
+Legacy/Old Models [ ]
+
+Blocks [ ]
+
+Trellis' Legacy/Old Model [ ]
+
+Before the December 18, 2021 update, the trellis' model was different from when it was introduced in the May 10, 2020 update. The model was later updated to the current model in the Christmas 2021 update.
+
+Crops [ ]
+
+Wheat's Legacy/Old Model [ ]
+
+Before the March 6, 2022 update, the wheat's model was different from when it was introduced in the April 10, 2020 update. The model was later updated to the current model in the New Blocks update.
+
+Tomato's Legacy/Old Model [ ]
+
+Before the March 6, 2022 update, the tomato's model was different from when it was introduced in the April 27, 2020 update. The model was later updated to the current model in the New Blocks update.
+
+Potato's Legacy/Old Model [ ]
+
+Before the March 6, 2022 update, the potato's model was different from when it was introduced in the May 26, 2020 update. The model was later updated to the current model in the New Blocks update.
+
+Radish's Legacy/Old Model [ ]
+
+Before the March 6, 2022 update, the radish's model was different from when it was introduced in the March 13, 2021 update. The model was later updated to the current model in the New Blocks update.
+
+Foods [ ]
+
+Pizza's Legacy/Old Model [ ]
+
+Before the November 13, 2021 update, the pizza's model was different from when it was introduced in the May 10, 2020 update. The model was later updated to the current model in the Sushi update.
+
+Potato Salad's Legacy/Old Model [ ]
+
+Before the February 26, 2021 update, the potato salad's model was different from when it was introduced in the May 26, 2020 update. The model was later updated to the current model in the Chickens update.
+
+Mobs [ ]
+
+Slime's Legacy/Old Model [ ]
+
+Before the July 9, 2021 update, the slime's model was different from when it was introduced in the May 2, 2020 update. The model was later updated to the current model in the Instrument update.
+
+Cow's Legacy/Old Model [ ]
+
+Before the January 22, 2021 update, the cow's model was different from when it was introduced in the October 3, 2020 update. Cows had slimmer and thinner legs and tails, like the real life cow's legs and tails. It had white colored furs. It had gray colored hoofs. It had cream colored horns. It had pink colored udders and teats, its udder being bigger with 6 teats, contrary to the 4 teats of real life cows. It had hexagonal nostrils, but its right nostril being slightly thicker than the left one. It had red and pink colored noses and ears. It had 32 black spots on its furs. It had black colored eyes, its both eyes being slightly thicker, and white irregular squares on its eyes, but its eyes didn't blink or close its eyes while asleep. It had slightly thicker muzzles. The model was later changed, replaced, or updated to the current model in the XP + Animals update. The old model of cow was as tall as 2 blocks tall while the current model is as short as 1.5 blocks tall. The old model of cow are taller than the current model are shortened. The old model of cow had a 42 block body parts. The old model of cow is legacy version. The old model of cow had an different animations. The old model of cow had a high graphic quality and textures. The old model of cow had a mooing animation. The old model of cow is the second-tallest animal model. The old model of cow is currently removed because the XP + Animals update.
+
+Tools/Weapons [ ]
+
+Wooden Sword's Legacy/Old Model [ ]
+
+Before the July 9, 2021 update, the wooden sword's model was different from when it was introduced in the May 2, 2020 update. The model was later updated to the current model in the Instrument update.
+
+Watering Can's Legacy/Old Model [ ]
+
+Before the November 1, 2020 update, the watering can's model was different from when it was introduced in the June 15, 2020 update. The model was later updated to the current model in the New Flowers and Colors update.
+
+Uncooked Foods [ ]
+
+Uncooked Pizza's Legacy/Old Model [ ]
+
+Before the November 13, 2021 update, the uncooked pizza's model was different from when it was introduced in the May 10, 2020 update. The model was later updated to the current model in the Sushi update.
+
+Mobs [ ]
+
+2020 Halloween Mobs [ ]
+
+The Halloween mobs only existed during the Halloween event in 2020. They were removed because the event ended.
+
+Frost Slime [ ]
+
+The Frost Slime was an event mob and was a type of slime that only dropped Frosty Slime Balls . It was removed because the Christmas event ended.
+
+2021 Halloween Mobs [ ]
+
+The Halloween mobs only existed during the Halloween event in 2021. Pumps were added again for the Halloween 2021 event. They were removed once again because the event has ended.
+
+Villagers [ ]
+
+Banker [ ]
+
+The Banker was a villager on the Hub . Players could buy and sell Coin Bags and complete quests . The Banker was removed along with coin bags on January 22, 2021 .
+
+Mercenary [ ]
+
+The Mercenary was a villager located on the PvP Island . It sold the Cutlass and PVP Alpha Trophy during the times it was accessible. Although the PvP Island can still be seen from the Hub , the Mercenary is removed and used as the model for Ivon .
+
+Oily Crops villager [ ]
+
+Oily Crops was a villager on the Hub . Players could sell their oily crops . The villager was removed on February 26, 2021 .
+
+Holt [ ]
+
+Holt was a villager located on Godzilla Island . He gave quests to earn rewards.
+
+Bosco [ ]
+
+Bosco was a villager located on Skull Island . He gave quests for players who joined the Kong team during the Godzilla vs. Kong event.
+
+Scavenger [ ]
+
+The Scavenger was a villager that was located on the Player's Island during the RB Battles event in Islands .
+
+Santa [ ]
+
+Santa was a limited event villager located on the Hub during the Christmas 2020 and Christmas 2021 events.
+
+Mailman [ ]
+
+The Mailman was a villager located on the Player's Island . Players could interact with him to complete surveys . He no longer spawns since April 1, 2022 .
+
+Tom [ ]
+
+Tom was a villager located in the Hub . Players could sell crops to him for coins . The villager was removed on June 3, 2022 but it was re-added temporarily during the Halloween 2022 event as a replacer for Cletus .

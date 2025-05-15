@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Emerald_Mines
+
+----------------------------------------
+
+Emerald Mines Required skill None Resources Diamond Ore Gold Ore Iron Ore Copper Ore Emerald Ore Mobs Crab Golem Draven
+
+The Emerald Mines is a event exclusive location during the Mining Event 2023 . It can be accessed if the player interacts with the info board in the Hub .
+
+Resources [ ]
+
+Ores [ ]
+
+The following ores spawn in the Emerald Mines:
+
+Diamond Ore Gold Ore Iron Ore Copper Ore Emerald Ore
+
+Mobs [ ]
+
+Hostile Mobs [ ]
+
+Crab Golem [ ]
+
+Crab Golems are mobs that spawn throughout the Emerald Mines. They drop Bat Boss Tokens , Emerald Crystals , or Iron Ore upon defeat.
+
+Boss Mobs [ ]
+
+Draven [ ]
+
+The Draven is a boss mob that can be summoned if the player has 250 Bat Boss Tokens .
+
+History [ ]
+
+April 28, 2023 Added the Emerald Mines.

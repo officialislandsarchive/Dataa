@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Industrial_Truffle_Barrel
+
+----------------------------------------
+
+Industrial Truffle Barrel Type of block Solid block; Interactable Recipe 1 Truffle Barrel 1 Conveyor Belt 3 Blue Sticky Gear Crafted with Animal Bench Required skill Level 48 Animal Care Best tool Luminous Transparent The industrial truffle barrel is an industrial machine that automates the truffle process on pigs .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Industrial Truffle Barrel 1 Truffle Barrel 1 Conveyor Belt 3 Blue Sticky Gear Animal Bench Level 48 Animal Care
+
+Breaking [ ]
+
+Industrial Truffle Barrel Breaking Data Hardness 2 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 6 Stone 4 4 Iron 2 2 Gilded Steel 2 2 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Truffle [ ]
+
+The industrial truffle barrel can be used to automatically collect truffles from pigs when ready. It has x slots able to hold x truffles each, and when a pig has gathered truffles, it will automatically go towards the industrial truffle barrel to collect truffles, provided that its maximum capacity has not yet been reached. The player will receive x Animal Care XP (x with the 4x daily bonus).
+
+History [ ]
+
+February 17, 2023 Added industrial truffle barrels.

@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Dungeon_Chest
+
+----------------------------------------
+
+Dungeon Chest Type of block Solid block; Interactable Dropped by Primordial Slime Best tool Luminous Transparent Description A special chest from the Dungeons to place on your island and open!
+
+A Dungeon Chest is a roulette block that contains slime-related items .
+
+Obtaining [ ]
+
+Slime Dungeon [ ]
+
+All players who have killed at least 3 slimes and completed the Slime Dungeon will get 1 dungeon chest upon completion.
+
+Breaking [ ]
+
+Dungeon Chest Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Loot [ ]
+
+Dungeon chests can be opened by holding the open button once it has been placed. When opened, the dungeon chest will scroll through the items like a roulette wheel and reward one item, similar to its counterpart, the Treasure Chest . Once the item has been collected, the chest will turn into an Opened Dungeon Chest and can be used as a normal chest.
+
+The listed reward chances are community made and may not be accurate .
+
+Item Rarity Estimated % chance Primordial Statue Legendary 2.5% Primordial Plushie Mythic 1% Golden Slime Mural Rare 3% Golden Brazier Rare 3% Primordial's Skull Statue Uncommon 10% Slime Queen Token Uncommon 10% Dungeon Coins Uncommon 10% Green Slime Balls Common 20% Green Sticky Gear Common 20% Slime King Token Common 20%
+
+History [ ]
+
+June 23, 2023 Added the Dungeon Chest.

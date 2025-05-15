@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Orb_Stand
+
+----------------------------------------
+
+Orb Stand Type of block Solid block; Interactable Recipe 5 Iron Ingot 5 Steel Ingot 5 Aquamarine Shard Crafted with Furniture Workbench Best tool Luminous Transparent Description Place on your island and to [sic] display your precious teleport orbs. An orb stand is a block used to display an orb .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Orb Stand 5 Iron Ingot 5 Steel Ingot 5 Aquamarine Shard Furniture Workbench
+
+Breaking [ ]
+
+Orb Stand Breaking Data Hardness 4 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 6 Stone 7 4 Iron 4 3 Gilded Steel 3 2 Diamond 2 2 Opal 2 1 Void Mattock 1
+
+Usage [ ]
+
+Displaying [ ]
+
+Orb stands can be used to display one orb each as decoration.
+
+History [ ]
+
+April 9, 2022 Added orb stands. April 16, 2022 Orb stands can now display black personal orbs , green personal orbs , yellow personal orbs , blue personal orbs , lime personal orbs , purple personal orbs , pink personal orbs , cyan personal orbs , orange personal orbs , red personal orbs , Slime King orbs , Fhanhorn orbs , Kor orbs , Wizard Boss orbs , Bhaa orbs , and Infernal Dragon orbs . April 29, 2022 Orbs on orb stands no longer have a hitbox. July 2, 2022 Orb stands can now display Slime Queen orbs . August 13, 2022 Orb stands can now display Void Isles orbs and Void Serpent orbs .

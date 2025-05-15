@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Hanging_Guitar
+
+----------------------------------------
+
+Hanging Guitar Green Red Blue Pink Type of block Solid block Recipe 5 Electrite 1 Ancient Slime String 5 Iron Ingot 1 Oak Wood Crafted with Furniture Workbench Best tool Luminous Transparent Description A [color] guitar for display
+
+A hanging guitar is a furniture block that can be hung on the side of other blocks. It comes in four color variants: green, red, blue, and pink.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Hanging Green Guitar 5 Electrite 1 Ancient Slime String 5 Iron Ingot 1 Oak Wood Furniture Workbench Hanging Red Guitar Hanging Blue Guitar Hanging Pink Guitar
+
+Breaking [ ]
+
+Hanging Guitar Breaking Data Hardness 2.75 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 5 Stone 5 3 Iron 3 2 Gilded Steel 2 2 Diamond 2 1 Opal 2 1 Void Mattock 1
+
+History [ ]
+
+October 28, 2022 Added hanging guitars.

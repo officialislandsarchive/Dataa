@@ -1,0 +1,47 @@
+Source: https://robloxislands.fandom.com/wiki/Save_Slots
+
+----------------------------------------
+
+Save slots are a feature in Islands that allow players to have multiple "saves" or "profiles", each save includes its own separate: Player island , skill levels , wallet and player inventory . A player's save slots can be accessed by selecting the My Profiles button.
+
+Features [ ]
+
+New save [ ]
+
+Players can create a new save by selecting an empty slot, this will open the "Save Settings" menu, which allows a player to select between a Solo slot or a Co-op slot, after selecting one the player will be sent to a new server on a starter island. It functions as though using a different account, except that all of a player's gamepasses apply to all saves.
+
+Co-op saves [ ]
+
+Co-op slots can have up to 7 "owners" which can all load into the island by themselves or join the existing one (If a member of that island is on the co-op save slot). To invite somebody to a co-op island open the save slots menu and select "invite", a player's invites can be found in this menu too.
+
+Note: Co-op islands cannot be played on Private Servers.
+
+Hardcore saves [ ]
+
+Hardcore slots are similar to normal save slots, but some features are restricted/changed.
+
+Restrictions/Changes in Hardcore slots: [ ]
+
+Sidebar icons are colored red. Chat text color is purple for Hardcore players. Rules button under Profiles to view. Some icons are hidden to restrict Hardcore player access. Cannot use/craft Vending Machines . Mobs deal extra damage. Lose an amount of Coins upon death. Cannot give/receive build permissions. Void Crop Eater spawns on Player's Island at night.
+
+Delete save [ ]
+
+To delete a save the player must first be on a different save than the one they want to delete. At the top right of a save there is a trash can button, selecting it will give a warning and the option to delete it.
+
+Switch save [ ]
+
+To switch to another save players can open the save slots menu and select one of their other saves by selecting it. The player's current save is highlighted in blue.
+
+Amount of saves [ ]
+
+The number of saves a player can have depends on which ranked gamepasses they own.
+
+Gamepasses Saves None 3 VIP Gamepass 6 PRO Gamepass 23 VIP and PRO 26
+
+History [ ]
+
+July 23, 2021 Save slots are added. August 8, 2021 Co-op save slots are added. December 29, 2021 Added the option to rename save slots. ? Changed the icon for save slots. July 9, 2022 Fixed a bug that caused the save slots UI to not appear. May 12, 2023 Hardcore save slots are added.
+
+Trivia [ ]
+
+The pictures above a slot’s name can be any one of these nine mobs : a Rabbit , Crab , Slime , Frog , Pig , Chicken , Sheep , Cow , or Bandit .

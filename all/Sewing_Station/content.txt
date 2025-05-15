@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Sewing_Station
+
+----------------------------------------
+
+Sewing Station Type of block Solid block; Interactable Recipe 50 Iron Ingot 50 Oak Wood 5 Steel Plate Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description Used to craft plushies and toys. The sewing station is a crafting station used to craft plushies .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Sewing Station 50 Iron Ingot 50 Oak Wood 5 Steel Plate Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Sewing Station Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Crafting recipes [ ]
+
+Image Name Recipe 5 White Yarn 1 Wool 5 Red Yarn 1 Red Wool 5 Orange Yarn 1 Orange Wool 5 Yellow Yarn 1 Yellow Wool 5 Light Green Yarn 1 Light Green Wool 5 Dark Green Yarn 1 Dark Green Wool 5 Cyan Yarn 1 Cyan Wool 5 Blue Yarn 1 Blue Wool 5 Purple Yarn 1 Purple Wool 5 Pink Yarn 1 Pink Wool 5 Black Yarn 1 Black Wool Cactus Plushie 2 Sewing Button 35 Light Green Yarn 10 Pink Yarn 5 Black Yarn Cat Plushie 2 Sewing Button 30 Orange Yarn 30 Yellow Yarn 5 Black Yarn 5 Cyan Yarn Cupcake Plushie 2 Sewing Button 30 Red Yarn 10 Black Yarn 5 Orange Yarn Dog Plushie 2 Sewing Button 30 Black Yarn 30 White Yarn 5 Pink Yarn Mushroom Plushie 2 Sewing Button 20 Red Yarn 10 White Yarn 15 Orange Yarn Otter Plushie 2 Sewing Button 20 Orange Yarn 20 Black Yarn 5 Blue Yarn Panda Plushie 2 Sewing Button 35 White Yarn 25 Black Yarn 5 Pink Yarn Seal Plushie 2 Sewing Button 30 Cyan Yarn 30 White Yarn 10 Blue Yarn 5 Pink Yarn 5 Red Yarn Shark Plushie 2 Sewing Button 30 Cyan Yarn 30 White Yarn 10 Red Yarn Slime Queen Plushie 2 Sewing Button 35 Pink Yarn 10 Yellow Yarn 5 Red Yarn Unicorn Plushie 2 Sewing Button 30 White Yarn 15 Pink Yarn
+
+History [ ]
+
+November 11, 2022 Added sewing stations.

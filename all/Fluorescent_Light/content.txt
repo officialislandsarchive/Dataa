@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Fluorescent_Light
+
+----------------------------------------
+
+Fluorescent Light Type of block Solid block Recipe 20 Iron Ingot 40 Coal Crafted with Furniture Workbench Best tool Luminous Transparent
+
+The fluorescent light is a furniture block that can be crafted in a furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Fluorescent Light 20 Iron Ingot 40 Coal Furniture Workbench
+
+Breaking [ ]
+
+Fluorescent Light Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+January 4, 2021 Added fluorescent lights.

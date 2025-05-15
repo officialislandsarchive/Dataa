@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Combat
+
+----------------------------------------
+
+Combat Class Combat Base Stats +2 Max Health Unlocks Lowest Unlock LVL 7 Highest Unlock LVL 72 Combat is a skill that can be levelled up by defeating mobs or bosses earning XP from defeating them. Leveling up is required for players to access mob islands other than the Hub , Slime Island , Pirate Island , Spirit Island , and the Maple Isles .
+
+Every level-up in Combat will increase the player’s maximum health by 2. This goes until 302. Once a player reaches level 100 in combat, they will not earn daily bonuses from defeating a mob.
+
+Roadmap [ ]
+
+Level Unlock(s) Level 7 Buffalkor Island Portal Access Buffalkor Island Orb Crafting Recipe Starfruit Merchant Offer Level 12 Iron War Axe Crafting Recipe Catfish Merchant Offer Level 20 Wizard Island Portal Access Wizard Island Orb Crafting Recipe Wizard Boss Orb Crafting Recipe Empty Potion Bottle Merchant Offer Grouper Merchant Offer Eel Merchant Offer Level 30 Crop eaters will now spawn at player island (hardcore only) Slime Dungeon Portal Access Level 36 Desert Island Portal Access Desert Island Orb Crafting Recipe Bhaa Orb Crafting Recipe Cactus Spike Crafting Recipe Iron Skorp Scale Merchant Offer Gold Skorp Scale Merchant Offer Ruby Skorp Scale Merchant Offer Tilapia Merchant Offer Swordfish Merchant Offer Level 46 Diamond Mines Portal Access Diamond Mines Orb Crafting Recipe Kor Orb Crafting Recipe Level 55 Crystalline Ivy Seeds Merchant Offer Underworld Portal Access Underworld Orb Crafting Recipe Infernal Dragon Orb Crafting Recipe Infernal Fish Merchant Offer Level 60 Slime Queen Orb Crafting Recipe Level 65 Vine Stem Seeds Merchant Offer Level 72 Opuntia Seeds Merchant Offer
+
+Roadmap (before April 16, 2021 ) [ ]
+
+Level Unlock(s) Level 12 Iron War Axe Crafting Recipe Level 16 Buffalkor Island Portal Access Starfruit Merchant Offer Level 25 Wizard Island Portal Access Empty Potion Bottle Merchant Offer Level 41 Desert Island Portal Access Iron Skorp Scale Merchant Offer Gold Skorp Scale Merchant Offer Ruby Skorp Scale Merchant Offer Level 50 Diamond Mines Portal Access
+
+XP gained (mobs) [ ]
+
+Image Mob XP (with 4x daily bonus) XP (without 4x daily bonus) Green Slime 9 XP 3 XP Blue Slime 9 XP 3 XP Pink Slime 9 XP 3 XP Buffalkor 120 XP 30 XP Wizard Lizard 198 XP 51 XP Iron Skorp 300 XP 75 XP Gold Skorp 348 XP 87 XP Ruby Skorp 1998 XP 501 XP Angry Crab 24 XP 6 XP Bandit 48 XP 12 XP Magma Blob 99 XP 24 XP Void Hound 24 XP 6 XP Snowman 99 XP 25 XP
+
+XP gained (bosses) [ ]
+
+Image Name XP (with 4x daily bonus) XP (without 4x daily bonus) Slime King 150 XP 39 XP Wizard Boss 4998 XP 1251 XP Kor 9999 XP 2500 XP Bhaa 4998 XP 1251 XP Infernal Dragon 4998 XP 1251 XP Percival the Pumpkin King 4998 XP 1251 XP Fhanhorn 4998 XP 1251 XP Slime Queen 6000 XP 1500 XP Void Serpent 9000 XP 2250 XP
+
+Player's Maximum health [ ]
+
+Number of levels Maximum health 1 (start) 100 2 102 3 104 4 106 5 108 6 110 7 112 8 114 9 116 10 118 11 120 12 122 13 124 14 126 15 128 16 130 17 132 18 134 19 136 20 138 21 140 22 142 23 144 24 146 25 148 26 150 27 152 28 154 29 156 30 158 31 160 32 162 33 164 34 166 35 168 36 170 37 172 38 174 39 176 40 178 41 180 42 182 43 184 44 186 45 188 46 190 47 192 48 194 49 196 50 198 51 200 52 202 53 204 54 206 55 208 56 210 57 212 58 214 59 216 60 218 61 220 62 222 63 224 64 226 65 228 66 230 67 232 68 234 69 236 70 238 71 240 72 242 73 244 74 246 75 248 76 250 77 252 78 254 79 256 80 258 81 260 82 262 83 264 84 266 85 268 86 270 87 272 88 274 89 276 90 278 91 280 92 282 93 284 94 286 95 288 96 290 97 292 98 294 99 300 100 (max) 302
+
+Trivia [ ]
+
+There are four different types of Combat: Light Melee , Heavy Melee , Archery , and Magic . The max health used to be 296 before August 13, 2022 where it was changed to 300.

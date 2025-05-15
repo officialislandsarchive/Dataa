@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Modern_Torus_Ceiling_Light
+
+----------------------------------------
+
+Modern Torus Ceiling Light Type of block Solid block; Luminous Recipe 10 Iron Ingot 20 Coal Crafted with Furniture Workbench Best tool Luminous Transparent The modern torus ceiling light is a luminous furniture block .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Modern Torus Ceiling Light 10 Iron Ingot 20 Coal Furniture Workbench
+
+Breaking [ ]
+
+Modern Torus Ceiling Light Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+January 29, 2021 Added modern torus ceiling lights.

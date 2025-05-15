@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Potion_of_Fertility
+
+----------------------------------------
+
+Potion of Fertility Buy cost 1,500 coins The potion of fertility is a potion that when fed to animals can produce spawn eggs . A limited amount can be purchased from Taliyah and Rick for 1,500 coins each.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Potions of fertility can be bought from Taliyah and Rick (found in the Hub and Desert Island respectively) for 1,500 coins each until she temporarily runs out of stock. The stock amount shows the number of potions a player can purchase before triggering a 20 hour cooldown. The number of potions Taliyah and Rick has in stock is determined by a player's Animal Care level.
+
+Usage [ ]
+
+Breeding [ ]
+
+Feeding a potion of fertility to two animals of the same type will cause the animals to travel to each other. A spawn egg will be laid at the location the animals reach each other.
+
+It is recommended for players to use the potion on animals with high fertility in order to get higher tiered eggs.
+
+History [ ]
+
+January 22, 2021 Added potions of fertility. March 17, 2023 Potions of fertility can now be bought from Rick .
+
+Trivia [ ]
+
+This item's model is very similar to that of the regen potion's . However, the potion of fertility's model is slightly darker.

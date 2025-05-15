@@ -1,0 +1,5 @@
+Source: https://robloxislands.fandom.com/wiki/Category:Pages_lacking_breaking_data
+
+----------------------------------------
+
+This category holds pages with a blank {{ BlockBreak }} template on them, pages are automatically added and removed by the template.

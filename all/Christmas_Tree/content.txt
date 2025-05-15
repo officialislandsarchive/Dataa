@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Christmas_Tree
+
+----------------------------------------
+
+Christmas Tree Type of block Solid block; Interactable Best tool Luminous Transparent A Christmas tree is a block that can be decorated with ornaments .
+
+Obtaining [ ]
+
+Santa [ ]
+
+The player will receive a Christmas tree upon interacting with Santa on their player's island during the Christmas 2021 event.
+
+Christmas presents [ ]
+
+Opening a Christmas present 2021 has a 2% chance of rewarding a Christmas tree.
+
+Breaking [ ]
+
+Christmas Tree Breaking Data Hardness 12 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 18 Wooden 36 36 Stone 20 20 Iron 12 12 Gilded Steel 9 9 Diamond 6 6 Opal 5 5 Void Mattock 3
+
+Usage [ ]
+
+Decorating [ ]
+
+Christmas trees can be decorated with up to 8 ornaments through its user interface. Christmas trees aren't limited to unique ornaments, meaning that multiple of the same type of ornament can be hung on one tree.
+
+History [ ]
+
+December 18, 2021 Added Christmas trees. December 29, 2021 Disabled the ability for ornaments to be hung on Christmas trees. January 2, 2022 Re-enabled the ability for ornaments to be hung on Christmas trees. January 3, 2022 Disabled the ability for ornaments to be hung on Christmas trees. Re-enabled the ability for ornaments to be hung on Christmas trees. January 4, 2022 Disabled the ability for ornaments to be hung on Christmas trees. January 6, 2022 Re-enabled the ability for ornaments to be hung on Christmas trees.

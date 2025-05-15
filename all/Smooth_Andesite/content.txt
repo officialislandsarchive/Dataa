@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Smooth_Andesite
+
+----------------------------------------
+
+Smooth Andesite Type of block Solid block Recipe 1 Andesite Crafted with Polishing Station Industrial Polishing Station Best tool Luminous Transparent Smooth andesite is the smooth version of andesite .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Andesite can be transformed into smooth andesite in a polishing station or an industrial polishing station .
+
+Input Item transformer Output 1 Andesite ➡ Polishing Station ➡ 1 Smooth Andesite ➡ Industrial Polishing Station ➡
+
+Breaking [ ]
+
+Smooth Andesite Breaking Data Hardness 12 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 18 Wooden 36 36 Stone 20 20 Iron 12 12 Gilded Steel 9 9 Diamond 6 6 Opal 5 5 Void Mattock 3
+
+History [ ]
+
+March 6, 2022 Added smooth andesite.

@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Regen_Potion
+
+----------------------------------------
+
+Regen Potion Recipe 1 Starfruit 1 Red Mushroom 1 Empty Potion Bottle Crafted with Brewing Stand Effect Regeneration Required skill Level 40 Cooking Description Regenerate health over time. A regen potion is an item that grants Regeneration when consumed. Drinking the potion will not return the potion bottle .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Regen Potion 1 Starfruit 1 Red Mushroom 1 Empty Potion Bottle Brewing Stand Level 40 Cooking
+
+Usage [ ]
+
+Drinking [ ]
+
+Drinking a regen potion grants the player 10 seconds of Regeneration . Regeneration will slowly replenish the player's health by 5 HP every second, healing the player a total of 50 HP before ending. Regeneration can also be used to cure the Food Poison effect.
+
+History [ ]
+
+August 9, 2020 Added regen potions.

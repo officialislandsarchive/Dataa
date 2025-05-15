@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Spirit_Jar
+
+----------------------------------------
+
+Spirit jars are the currency choice on Spirit Island , granting the player the ability to trade with Catherine for spirit-themed items. The item cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Catching [ ]
+
+Catching white, blue, pink, and green spirits drop a varying amount of spirit jars when caught.
+
+Image Name # of spirit jars White Spirit 1 Blue Spirit 2 - 3 Pink Spirit 3 - 5 Green Spirit 5 - 7
+
+Quests [ ]
+
+Quest Type Tasks Reward Prerequisites Cooldown duration Catch Spirits Catch Catch 15 white spirits . 20 spirit jar Access to next task 50 spirit jar Level 5 - 99 Animal Care 1 day Catch 10 blue spirits . 30 spirit jar Access to next task Catch 5 pink spirits . 40 spirit jar Access to next task Catch 1 green spirit . 50 spirit jar
+
+Usage [ ]
+
+Purchasing [ ]
+
+Players can purchase various items from Catherine using spirit jars.
+
+Image Name Price Spirit Sapling 20 spirit jars Spirit Seeds 50 spirit jars Hanging Spirit Light 100 spirit jars Spirit Bench 75 spirit jars Spirit Flower Pot 50 spirit jars Spirit Flower Vase 50 spirit jars Spirit Jar Light 100 spirit jars Spirit Lantern 100 spirit jars Spirit Plant 50 spirit jars Spirit Statue 500 spirit jars Spirit Stool 75 spirit jars Spirit Table 150 spirit jars Spirit Essence Holder 1,000 spirit jars Butterfly Couch 100 spirit jars Butterfly Lamp 50 spirit jars Small Bush Pot 75 spirit jars Medium Bush Pot 75 spirit jars Tall Bush Pot 75 spirit jars Frog Topiary Pot 100 spirit jars Rabbit Topiary Pot 100 spirit jars Frog Fountain 125 spirit jars Benched Gazebo 350 spirit jars Grey Gazebo 350 spirit jars Purple Gazebo 350 spirit jars Red Gazebo 350 spirit jars Pink Plush Butterfly Couch 150 spirit jars Purple Plush Butterfly Couch 150 spirit jars Red Flower Chair 75 spirit jars White Flower Chair 75 spirit jars Cyan Flower Chair 75 spirit jars Ladybug Ottoman 50 spirit jars Bee Ottoman 50 spirit jars
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Spirit Spellbook 1 Spellbook 50 Spirit Crystal 200 Spirit Jar 1 Green Spirit Essence Anvil Level 40 Magic Spirit Lava Lamp 25 Spirit Plank 100 Spirit Jar 1 Green Spirit Essence 10 Spirit Crystal Furniture Workbench None
+
+History [ ]
+
+June 3, 2022 Added spirit jars. June 10, 2022 Spirits now drop spirit jars when caught. Spirit jars can now be used to craft spirit spellbooks . June 18, 2022 Changed the model of spirit jars. Spirit jars can now be used to purchase spirit essence holders . July 16, 2022 Spirit jars can now be used to craft spirit lava lamps . September 10, 2022 Spirit jars can now be used to purchase butterfly couches , butterfly lamps , bush pots , frog topiary pots , rabbit topiary pots , frog fountains , gazebos , plush butterfly couches , flower chairs , ladybug ottomans , and bee ottomans .
+
+Trivia [ ]
+
+Before the June 3, 2022 update added spirit jars, all items that can be purchased from Catherine using the currency nowadays used to cost spirits — Catherine's former exclusive currency.

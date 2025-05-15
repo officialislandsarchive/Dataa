@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Pink_Slime_Crystal
+
+----------------------------------------
+
+Pink Slime Crystal Dropped by Slime Queen Draven A pink slime crystal is a rare mob drop from the Slime Queen and a common drop from Draven . It cannot be dropped, traded , or put in vending machines and chests .
+
+Description [ ]
+
+The Pink Slime Crystal is an in-game item that you can obtain as a rare drop from defeating the Slime Queen or as a guaranteed drop from Draven. The drop rate from the Slime Queen is 14.29%. You can't trade it, drop it, or place it in vending machines or chests.
+
+This crystal is a crucial crafting ingredient for high-level items like the Slime Queen Orb and the Slime Queen's Scepter. The Orb requires a Level 60 Combat skill and is crafted at a Workbench Tier 4, while the Scepter has no Combat Level requirement and is crafted at an Anvil.
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+The Slime Queen has a 14.29% chance of dropping a pink slime crystal upon defeat.
+
+Draven is guaranteed to drop 1-3 pink slime crystals upon defeat.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Slime Queen Orb 10 Glass Block 20 Red Bronze Ingot 1 Pink Slime Crystal Workbench Tier 4 Level 60 Combat Defeated the Slime Queen at least once Slime Queen's Scepter 1 Spellbook 100 Gold Ingot 50 Pink Slime Ball 10 Pink Slime Crystal Anvil None
+
+History [ ]
+
+July 2, 2022 Added Slime Queen crystals. July 23, 2022 Slime Queen crystals can now be used to craft Slime Queen's scepters . Renamed Slime Queen crystals to "Pink Slime Crystal". August 6, 2022 10 pink slime crystals are now required to craft Slime Queen's scepters, down from 20. April 28, 2023 Pink slime crystals can now be dropped from Draven .

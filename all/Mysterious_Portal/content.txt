@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Mysterious_Portal
+
+----------------------------------------
+
+Mysterious Portal Type of block Solid block; Interactable Recipe 1 Mysterious Fragment #1 1 Mysterious Fragment #2 1 Mysterious Fragment #3 1 Mysterious Fragment #4 Crafted with Workbench Tier 3 Workbench Tier 4 Required skill Level 55 Combat (to use) Best tool Luminous Transparent Description An ancient portal crafted from mysterious fragments... The mysterious portal is a placeable portal that leads to the Underworld . It cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Mysterious Portal 1 Mysterious Fragment #1 1 Mysterious Fragment #2 1 Mysterious Fragment #3 1 Mysterious Fragment #4 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Mysterious Portal Breaking Data Hardness 35 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 53 Wooden 105 105 Stone 56 56 Iron 35 35 Gilded Steel 25 25 Diamond 18 18 Opal 14 14 Void Mattock 7
+
+Usage [ ]
+
+Traveling [ ]
+
+Before September 11, 2021 , a timer counting down to the time the portal will be open will appear on top of the portal. Since the release of the update, players can use the portal to travel to the Underworld if the player has reached level 55 Combat .
+
+Additional notes [ ]
+
+Even if given build permissions , players cannot place or break mysterious portals on player islands where they are not the owner. Other players are able to go through any mysterious portal to access the Underworld, even if they are not the owner or given build permissions.
+
+History [ ]
+
+September 5, 2021 Added mysterious portals. It had no use or function. September 11, 2021 The mysterious portal now leads to the Underworld . April 10, 2022 Level 55 Combat is now required to use the mysterious portal.
+
+Trivia [ ]
+
+As the countdown ticked down to its opening on September 11, 2021 , the mysterious portal became less and less transparent and emitted orange-yellow particles more frequently every few seconds. The mysterious portal is the second portal that is not the regular purple color, the first being the golden portal, obtainable only by having 100 million or more coins before the Economy Wipe .

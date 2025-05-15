@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Forge_Hammer
+
+----------------------------------------
+
+Forge Hammer Type Tool Recipe 2 Enchanted Diamond 30 Steel Plate 20 Pine Wood Crafted with Workbench Tier 4 A Forge hammer is a tool that builds blocks in a 7x1 grid. It cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+To get its crafting recipe, players need to complete Master islands player achievement .
+
+Name Recipe Crafting station Required skill Forge Hammer 2 Enchanted Diamond 30 Steel Plate 20 Pine Wood Workbench Tier 4 None
+
+Usage [ ]
+
+Building blocks [ ]
+
+The forge hammer can be used to build blocks in a 7x1 grid.
+
+History [ ]
+
+February 17, 2023 Added forge hammers.
+
+Trivia [ ]
+
+The forge hammer shares the same crafting recipe as the Greg's hammer .

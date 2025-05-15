@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Food_Poison
+
+----------------------------------------
+
+Food Poison Causes The affected players to be unable to consume any food . (Currently bugged) Source Iron Skorp Gold Skorp Ruby Skorp Azarathian Serpent Type Attack Food Poison is an effect that prevents players from consuming any food items . It is received from skorps or the Azarathian Serpent 's attack.
+
+Source [ ]
+
+Food Poison lasts for 15 seconds after the player has been hit by a skorp or the Azarathian Serpent 's attack.
+
+Causes [ ]
+
+The affected players to be unable to eat any food items for 15 seconds, making it harder to regain lost health. However there are 5 ways around this:
+
+Countermeasures [ ]
+
+Players can only heal themselves by other means while afflicted with the effect.  This can be achieved by:
+
+Obtaining the Regeneration Effect from Regen Potions , which overrides the Food Poison effect. Successfully attacking an enemy with an ethereal weapons , such as a Jolly Dagger 's healing , a Slime Queen's Scepter 's healing , or Cursed Hammer 's healing effect. The Chili Pepper is not affected by the food poison effect. Since the November 13, 2021 update, any foods are not affected by the food poison effect.
+
+Trivia [ ]
+
+The Polymorph , Stun , 50% attack speed , and Slowed effects also use this icon, but affect players differently. Due to a bug on mobile, the effect does not work and the player will still be able to heal themselves. This bug has been fixed though it can still occur when the player is lagging. Since the November 13, 2021 update, players could still consuming any food due to the effect. This was likely bugged, players could still restores HP when consuming any food.

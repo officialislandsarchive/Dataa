@@ -1,0 +1,65 @@
+Source: https://robloxislands.fandom.com/wiki/Void_Serpent
+
+----------------------------------------
+
+Void Serpent Health 50,000 HP Behavior Hostile Attack strength 20 HP (Burrow) 80 HP (Dive) 60 HP (Body Slam) 40 HP (Bite) Drops Amethyst Crystal Serpent Egg Serpent's Scale Serpent's Fang Void Serpent Token Jukebox Disk Location Void Isles The Void Serpent is a boss that was added in the August 13, 2022 update. It has 50,000 health and can be summoned in the Void Isles for at least 300 Void Serpent tokens . It has no summon cooldown.
+
+Description [ ]
+
+The Void Serpent can be summoned in its arena in the Void Isles for at least 300 Void Serpent tokens .
+
+Like other bosses , if there are no players in the arena, if the player is idle for too long, or if the battle takes more than 10 minutes, the Void Serpent will despawn and the player will have to respawn it with at least 300 more Void Serpent tokens.
+
+Attacks [ ]
+
+Burrow [ ]
+
+The Void Serpent will burrow itself, creating a burrow hole and pink square trail when targeting a player in the arena. Once its target is near it, it will pop out, dealing 20 damage and dealing extremely high knockback.
+
+Dive [ ]
+
+The Void Serpent will dive in and out of the ground and create a burrow hole to reach areas of the arena. Any player that goes near it while it is diving will be dealt 80 damage and moderate knockback.
+
+Hound Summon [ ]
+
+Burrow holes in the arena will summon a void hound every 1 - 5 seconds. The total number of void hounds the number summoned varies in proportion to the number of players currently fighting the serpent.
+
+Unlike the Grand High Witch , Bhaa , the Infernal Dragon , Percival the Pumpkin King , the Slime Queen , and Zombie Cletus , it always summon void hounds.
+
+Roar [ ]
+
+The Void Serpent will roar, summoning 2 - ? void hounds and puffing out void smoke that will damage players in contact with it 7 HP every second. The smoke will dissipate after 45 seconds. The number of void hounds summoned varies in proportion to the number of players currently fighting the serpent.
+
+Body Slam [ ]
+
+The Void Serpent will smash its body on the ground, dealing 60 HP of damage and extremely high knockback to players if hit.
+
+Bite [ ]
+
+The Void Serpent will lower its head and bite players that are in front of it. Players that are bitten will be dealt 40 HP.
+
+Drops [ ]
+
+The Void Serpent rewards 2250 (9000 with the 4x daily bonus or 225 when maxed out) Combat XP and 2250 (9000 with the 4x daily bonus or 225 when maxed out) Light Melee , Heavy Melee , Magic , or Archery XP depending on the weapon the player used to defeat it.
+
+With a Jam Sandwich , the Void Serpent rewards 2587 (10350 with the 4x daily bonus or 258 when maxed out) Combat XP and 2587 (10350 with the 4x daily bonus or 258 when maxed out) Light Melee , Heavy Melee , Magic , or Archery XP depending on the weapon the player used to defeat it.
+
+Prior to October 22, 2022 , only a certain number of players will receive drops if too many players are simultaneously fighting it. However, all players will still receive Combat XP.
+
+Image Name Drop chance Void Serpent Token * 100 - 200 Amethyst Crystal * 4 - 8 Serpent Egg 100% Serpent's Scale 5% Serpent's Fang 5% Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Purple Jukebox Disk 0.01% Orange Jukebox Disk 0.01%
+
+* The drop amount is not affected by the captain's rapier , the dragon roll , or the blueberry cookie .
+
+Damage reduction [ ]
+
+The Void Serpent reduces the amount of damage dealt to it by 10% to 80% depending on the number of players (compounds) in the arena.
+
+Number of players Damage reduction 1 0% 2 10% 3 25% 4 35% 5 45% 6 55% 7 65% 8 75% 9+ 80%
+
+History [ ]
+
+August 13, 2022 Added the Void Serpent. Fixed a bug that caused the Void Serpent to get stuck inside of the ground. August 15, 2022 Increased Void Serpent health from 30,000 to 50,000. Decreased the drop rates of serpent's fangs and serpent's scales from 10% to 5%. August 20, 2022 The Void Serpent can now drop serpent eggs upon defeat. The Void Serpent's health now increases in proportion to the amount of players currently fighting it. Changed the Void Serpent's damage reduction. May 16, 2023 Decreased knockbacks of the Void Serpent's attacks. Decreased the amount of void hounds spawned by the Void Serpent. Increased the movement speed of underground state of the Void Serpent.
+
+Trivia [ ]
+
+The Void Serpent is the first and only boss whose summon message says which player spawned the boss. The Void Serpent may be inspired by Apophis/Apep, the Egyptian god of darkness. The Void Serpent's summon message is in the same format as Terraria's boss summon messages. This boss is most likely to be a reference to The Devourer of Gods from Calamity Mod, as both bosses are serpentine, can summon a mob to aid them in battle and have a head charge attack as their strongest attack. Many attacks seem to be based off of the Volcanic Sandworm boss from Soul Knight . The Void Serpent, Percival the Pumpkin King , the Infernal Dragon , the Slime Queen , and Draven are the only bosses that don't have a summon cooldown. They are also the only bosses that require tokens to be summoned. This boss has the most HP of any boss. This is one of the only bosses that drops its own token upon defeat, along with Zombie Cletus . Due to the constant spawns of void hounds , this boss is one of the hardest bosses added in Islands as the hounds do damage to players while the void serpent is vulnerable to attacks by players due to it being unbalanced. Like Zombie Cletus , the Void Serpent can be summoned over and over.

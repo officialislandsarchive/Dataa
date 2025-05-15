@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Wooden_Trough
+
+----------------------------------------
+
+Wooden Trough Empty Half-full Full Type of block Solid block; Interactable Recipe 30 Pine Wood 3 Iron Ingot Crafted with Animal Bench Required skill Level 4 Animal Care Best tool Luminous Transparent The wooden trough (formerly wheat trough ) is a block used to feed animals food .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Wooden Trough 30 Pine Wood 3 Iron Ingot Animal Bench Level 4 Animal Care
+
+Breaking [ ]
+
+Wooden Trough Breaking Data Hardness 12 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 18 Wooden 36 36 Stone 20 20 Iron 12 12 Gilded Steel 9 9 Diamond 6 6 Opal 5 5 Void Mattock 3
+
+Usage [ ]
+
+Feeding animals [ ]
+
+Wooden troughs can be filled with 2 stacks of 10 food items to be fed to cows , sheep , pigs , chickens , turkeys , ducks , yaks , and horses . Animals will only eat their favorite foods or the that animal type's food.
+
+History [ ]
+
+October 3, 2020 Added wheat troughs. January 22, 2021 Renamed wheat troughs into wooden troughs. February 26, 2021 Fixed a bug where animals could not be milked or sheared after being full from eating from a wooden trough. December 29, 2021 Disabled manually placing items into wooden troughs. January 2, 2022 Re-enabled the ability to manually place items into wooden troughs. January 3, 2022 Disabled manually placing items into wooden troughs. Re-enabled the ability to manually place items into wooden troughs. January 4, 2022 Disabled manually placing items into wooden troughs. January 6, 2022 Re-enabled the ability to manually place items into wooden troughs. April 9, 2022 Fixed a bug that prevented ducks and yaks from eating from wooden troughs.
+
+Trivia [ ]
+
+When the wooden trough was first released, it was called the "wheat trough" since it could only hold wheat . This was changed on January 22, 2021 , when sheep were added.

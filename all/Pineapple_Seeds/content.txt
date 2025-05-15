@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Pineapple_Seeds
+
+----------------------------------------
+
+Pineapple Seeds Planted on Farmland Buy cost 2,850 coins Required skill Level 37 Farming Pineapple seeds are seeds used to grow pineapples .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Pineapple seeds can sometimes be purchased from Cletus during spring on the player's island after reaching level 37 Farming , selling one for 2,850 coins in place of radish seeds . Players can only purchase 6 seeds before Cletus has to restock.
+
+Harvesting [ ]
+
+Harvesting a pineapple crop will give 1 - 3 pineapples and 1 pineapple seed.
+
+Usage [ ]
+
+Planting [ ]
+
+Pineapple seeds can be planted on farmland to be grown into a pineapple.
+
+Growth [ ]
+
+The growth time of pineapples can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Pineapple Seeds Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 45s 3m 30s 5m 15s Note: The durations of time above are on an unfertilized and unwatered plant Pineapple Seeds Growth Time Type Growth Time Normal 5m 15s Fertilized 4m 12s Watered 4m 12s Watered + Fertilized 3m 41s
+
+History [ ]
+
+January 8, 2022 Added pineapple seeds. January 11, 2022 Pineapple seeds can now be purchased from Cletus during the spring instead of the summer . Introduced a bug that prevented players from purchasing pineapple seeds from Cletus. January 18, 2022 Fixed bug preventing players from purchasing pineapple seeds from Cletus. June 3, 2022 Level 37 Farming is now required to purchase pineapple seeds. October 15, 2022 Pineapple seeds can now be purchased from Tom instead of from Cletus. November 4, 2022 Pineapple seeds can now be purchased from Cletus instead of from Tom.

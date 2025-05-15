@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Broom
+
+----------------------------------------
+
+Broom The broom is a mount that can be ridden to receive a 50% increase in movement speed.
+
+Obtaining [ ]
+
+Quests [ ]
+
+Completing the "Sweep the Floor" quest will unlock the broom for usage.
+
+Usage [ ]
+
+Mounting [ ]
+
+Players can mount the broom by selecting the mount button in their profile, then clicking the bicycle button next to the backpack button. Once mounted, players will receive a 50% speed boost while on it. The speed boost can stack with other items that provide speed boost as well. Players can manually dismount the broom or when they receive damage. Dismounting it will lose the speed boost, but the broom will linger around the player so they can mount it again. There is a glitch that allows you to levitate, if you use the broom and take damage in lava on your own island, you will be levitating a few studs off the ground.
+
+History [ ]
+
+October 15, 2022 Added brooms. October 16, 2022 Removed the 5 second cooldown on mounting when receiving damage.

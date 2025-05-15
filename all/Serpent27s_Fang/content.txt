@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Serpent%27s_Fang
+
+----------------------------------------
+
+Serpent's Fang Dropped by Void Serpent Description Rare drop from the Void Serpent used for crafting. A serpent's fang is an item rarely dropped by the Void Serpent .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+The Void Serpent has a 5% chance of dropping a serpent's fang upon defeat.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Void Serpent Orb 10 Glass Block 25 Amethyst Crystal 3 Serpent's Fang 3 Serpent's Scale Workbench Tier 4 Defeated the Void Serpent at least once. Serpent's Hook 3 Serpent's Fang 30 Amethyst Crystal 100 Iron Ingot 5 Gilded Steel Rod Anvil Level 68 Light Melee
+
+History [ ]
+
+August 13, 2022 Added serpent's fangs. August 20, 2022 Changed the drop rate of serpent's fangs from the Void Serpent from 10% to 5%.

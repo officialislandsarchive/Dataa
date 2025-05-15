@@ -1,0 +1,87 @@
+Source: https://robloxislands.fandom.com/wiki/Fhanhorn
+
+----------------------------------------
+
+Fhanhorn Health 6,969 HP Behavior Hostile Attack strength Normal Mode: 25 HP ( Antler Smash ; Antler Charge ; Stomp ) 30 HP ( Buck ) Hardcore Mode: 38 HP ( Antler Smash ; Antler Charge ; Stomp ) 45 HP ( Buck ) Drops Fhanhorn's Flower Fhanhorn Pet Spawn Egg Jukebox Disk Location Maple Isles (Any Combat level; 1-hour cooldown, No bypass ; No token ) Fhanhorn is a boss that was added in the November 27, 2021 update. It has 6,969 HP and can be summoned, with no Combat level requirement, on the Maple Isles after gaining access to its spawn area by completing Emma 's, Bailey 's, and Don 's questlines. It has a summon cooldown of 60 minutes (1 hour) when being summoned.
+
+Unlike most bosses, Fhanhorn does not have a token and therefore cannot have its cooldown skipped.
+
+Description [ ]
+
+Fhanhorn is a speedy boss who specializes in charges, heals, and smashes. It has 6,969 HP and can be summoned on an island in the Maple Isles that can be reached by interacting with Don after completing her questline. It can be summoned every 60 minutes.
+
+When a player summons Fhanhorn, a blue message appears in chat, reading:
+
+"[SERVER] Fhanhorn summoning in 5 seconds!"
+
+After 5 seconds, another blue message appears in chat, reading:
+
+"[SERVER] Fhanhorn has summoned!"
+
+Like other bosses , if there are no players in the battle area, if the player is idle for too long, or if the battle takes more than 10 minutes, Fhanhorn will despawn and the player will have to wait for another 60 minutes; 1 hour in real-life time before being able to summon it again.
+
+Attacks [ ]
+
+Antler Smash [ ]
+
+Fhanhorn swings its antlers in front of it, causing a shockwave. If successful, it deals 25 HP (38 HP in Hardcore Mode) of damage. Its damage of Antler Smash can be decreased with the maple shield , the antler shield , or by inflicting it with the weakness effect.
+
+If the attack misses, it still swings its antlers in front of it, deals no damage.
+
+Stomp [ ]
+
+Fhanhorn stomps on the ground with its forelimbs in front of it, causing a shockwave of rocks in front of it. If successful, it deals 25 HP (38 HP in Hardcore Mode) of damage and a small amount of knockback. Its damage of Stomp can be decreased with the maple shield , the antler shield , or by inflicting it with the weakness effect.
+
+This can be dodged by jump over shockwave of rocks.
+
+Antler Charge [ ]
+
+Fhanhorn locks onto with its antlers in front of it and charges at a player in the battle area. If successful, it swings its antlers upward, dealing 25 HP (38 HP in Hardcore Mode) of damage and a small amount of knockback. Its damage of Antler Charge can be decreased with the maple shield , the antler shield , or by inflicting it with the weakness effect. If the attack misses, it still swings its antlers upward, deals no damage.
+
+It will charge in a random direction if no players are nearby, but doing so will not deal any damage or knockback. However, it still swings its antlers upward when the attack misses.
+
+Buck [ ]
+
+Unlike most attacks in front of Fhanhorn's antlers, forelimbs, or healing ability, if any player is in front of/behind Fhanhorn's hindlimbs, it will buck back behind it and kicking its hindlimbs backward whose in front of/behind its hindlimbs. If successful, it deals 30 HP (45 HP in Hardcore Mode), and a large amount of knockback. Its damage of Buck can be decreased with the maple shield , the antler shield , or by inflicting it with the weakness effect. If a player is in mid-air while Fhanhorn performs its buck attack behind it, the knockback of buck will more effective than normal.
+
+This attack being unavoidable, deals more damage, and strong knockback compared to its other attacks. However, its buck attack can be only performs behind its hindlimbs.
+
+Maple Tree Summon [ ]
+
+Fhanhorn summons a maple tree with 55 hardness in the arena. Fhanhorn will be healed by 5-10% HP every 7 seconds the tree is present and perform the Pull attack. It can be broken with a pickaxe or an axe to stop the healing. However, the Woodcutting skill does not affect its breaking speed and neither do most tools. If Fhanhorn summons 2 maple trees, it will heal more effective than normal. Fhanhorn can summon up to 2 maple trees. This attack is disabled if Fhanhorn is summoned on a mobile device.
+
+Unlike the Slime Queen , Fhanhorn can summon another maple tree when destroyed.
+
+Pull [ ]
+
+Fhanhorn latches onto a player using the vines on its antlers in front of it and a large amount of knockback. If a maple tree is present in the battle area, Fhanhorn will heal a large amount of health.
+
+Drops [ ]
+
+Fhanhorn rewards 1,251 (4,998 with the 4x daily bonus) Combat XP and 1,251 (4,998 with the 4x daily bonus) Light Melee , Heavy Melee , Magic , or Archery XP depending on the weapon the player used to defeat it.
+
+If Combat, Light Melee, Heavy Melee, Magic, or Archery level is maxed out to 100 when Fhanhorn is defeated, it rewards 126 Combat XP and 126 Light Melee, Heavy Melee, Magic, or Archery XP instead.
+
+Image Name Drop chance Fhanhorn's Flower 250% Fhanhorn Pet Spawn Egg 0.33% Jukebox Disks Red Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Green Jukebox Disk 0.01% Purple Jukebox Disk 0.01% Orange Jukebox Disk 0.01%
+
+Damage reduction [ ]
+
+Fhanhorn reduces the amount of damage dealt to it by 10% to 80% depending on the number of players (compounds) in the arena.
+
+Number of players Damage reduction 1 0% 2 10% 3 25% 4 35% 5 45% 6 50% 7 55% 8 60% 9 65% 10 70% 11 75% 12+ 80%
+
+Resistances and weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical Slashing Hydro , Ethereal Piercing Inferno , Void
+
+Bugs and glitches [ ]
+
+If too many players are simultaneously fighting Fhanhorn, it may be unable to perform any attacks or even move. Fhanhorn may get stuck inside a maple tree on the island. Fhanhorn may summon a maple tree that is off or in the ground, preventing players from chopping down the tree. Prior to April 16, 2022 , Fhanhorn could have thrown itself into the void with its antler charge attack, instantly killing itself and rewarding no drops or XP. Contrastingly, Kontos does count this as a kill and will reward the player a turkey trophy .
+
+History [ ]
+
+November 27, 2021 Added Fhanhorn. Fhanhorn's summon cooldown is no longer be bypassed with tokens , as it doesn't have its own token . Fhanhorn is no longer have its own token to bypass the summon cooldown. The " Failed to Summon " notification is no longer pop up and nothing happens if any player attempts to summon Fhanhorn while on cooldown, as it doesn't have its own token . December 14, 2021 Decreased the magnitude of Fhanhorn's pull and knockback from attacks. April 16, 2022 Decreased Fhanhorn's pull by 25% and increased healing time from 1.6 seconds to 2.3 seconds. Decreased Fhanhorn's antler smash, stomp, and antler charge damage from 45 HP to 30 HP. Decreased Fhanhorn's buck damage from 90 HP to 60 HP. April 29, 2022 Fixed a bug where maple trees summoned by Fhanhorn would float. June 18, 2022 Fhanhorn now has a 5-second countdown before being summoned. ? Added a death sound and death animation. September 17, 2022 Fhanhorn now has resistances and weaknesses. September 24, 2022 Fhanhorn is now resistant to slashing weapons and weak to piercing weapons . Fhanhorn is no longer resistant or weak to quake and storm weapons . ? Decreased Fhanhorn's running speed in the antler charge attack. Decreased Fhanhorn's antler smash, stomp, and antler charge damage from 30 HP to 25 HP. Decreased Fhanhorn's buck damage from 60 HP to 50 HP. Increased Fhanhorn's healing time from 2.3 seconds to 5 seconds. October 28, 2022 Changed Fhanhorn's summoning UI. The token requirement is no longer indicate on Fhanhorn's summoning UI while on cooldown, as it doesn't have its own token . May 12, 2023 Fhanhorn now deals 50% more damage in the Hardcore Mode. May 16, 2023 Decreased the hardness of Fhanhorn's healing tree from 83 to 55. Increased Fhanhorn's healing time from 5 seconds to 7 seconds. ? Decreased Fhanhorn's buck damage from 50 HP to 30 HP and no longer deals double damage. ? Fixed a bug causing the player to teleport to Fhanhorn's arena island when dying.
+
+Trivia [ ]
+
+Fhanhorn is the first regular boss in Islands who does not have its respective token . Prior to nerfs speed to its antler charge attack, Fhanhorn was the fastest boss in Islands in terms of speed. Fhanhorn has the third-longest summon cooldown at 60 minutes. It is beaten by Kor and Bhaa , at 90 and 120 minutes respectively. Unlike most bosses , a player attempts to summon Fhanhorn while on cooldown, as it doesn't have its own token , nothing happens. Fhanhorn is the first regular boss in Islands with the ability to heal itself, with the second being the Slime Queen . Fhanhorn also shares the same magical resistances and weaknesses as the Slime Queen. Fhanhorn rewards the same amount of XP as the Wizard Boss , Bhaa, the Infernal Dragon , and Percival the Pumpkin King when defeated. Fhanhorn is the second-tallest boss in Islands , with the tallest being the Infernal Dragon. Fhanhorn, the Slime King , Percival the Pumpkin King, Zombie Cletus , the Lunar Rabbit , and Draven are the only six bosses in Islands that can be summoned without any Combat level requirement. Due to fact of the Maple Isles has no Combat level requirement, Fhanhorn can be summoned without any Combat level requirement. There used to be a bug where Fhanhorn's island could be accessed without completing the Maple Isles questline. This was fixed in the October 22, 2022 update. Fhanhorn, Kor, and Bhaa are the only mobs with a spawn animation. Fhanhorn, Kor, and the Slime Queen are the only mobs with a death sound when defeated. Fhanhorn, Kor, Bhaa, the Slime Queen, and bandits are the only mobs with a death animation when defeated. When Fhanhorn is performs its buck attack behind it, it looks behind any player behind its hindlimbs.

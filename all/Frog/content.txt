@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Frog
+
+----------------------------------------
+
+Frog Green Brown Yellow Behavior Passive Location Player's Island A frog is a passive mob that may appear on a player's island near the end of a rain shower.
+
+Spawning [ ]
+
+Frogs can naturally spawn on the player's island near or after the end of a rain shower. Frogs come in three colors, which are green, brown, and yellow; green frogs are the most common and yellow frogs are the rarest. Like rabbits , fireflies and bees , frogs can be captured by a net . When caught, the player will receive a frog jar in their inventory . Frogs released from frog jars will not despawn.
+
+There is a limit of four frogs that can be on the player's island at once. Once the limit is reached, the player cannot release any more frogs from jars nor will more naturally generate.
+
+Behavior [ ]
+
+Frogs can spawn during the rain. Rain does not guarantee that a frog will spawn, but it can spawn multiple frogs at once as well.
+
+Like all other passive mobs, frogs are attracted to grass blocks and can also jump over 3 blocks at once. If the player drops a red berry near the frog, the frog will eat it using their tongue. Frogs can interact with some furniture items such as chairs, stools, and toilets. Once the frog sits, they will remain there. If the player destroys what the frog is sitting on, the frog will ragdoll. Like all other passive mobs, dropping a frog off of the island will make it respawn.
+
+Color Spawn Chance Green 97% Brown 2% Yellow 1%
+
+History [ ]
+
+April 4, 2021 Added frogs. February 7, 2022 Fixed a bug causing frogs to spawn inside blocks .
+
+Trivia [ ]
+
+Frogs may glitch and stick out their tongue forever until the player rejoins the server. Frogs may spawn upside down for an unknown reason. Frogs have the same eye model as cows , sheep , pig , chickens , and rabbits . Frogs are the second passive mobs that can be released from jars, the first being bees .
+
+Gallery [ ]

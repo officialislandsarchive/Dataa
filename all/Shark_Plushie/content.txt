@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Shark_Plushie
+
+----------------------------------------
+
+Shark Plushie Type of block Solid block; Interactable Recipe 2 Sewing Button 30 Cyan Yarn 30 White Yarn 10 Red Yarn Crafted with Sewing Station Best tool Luminous Transparent Description Shark plushie toy The shark plushie is a plushie that produces a squeaky sound when interacted with.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Shark Plushie 2 Sewing Button 30 Cyan Yarn 30 White Yarn 10 Red Yarn Sewing Station
+
+Breaking [ ]
+
+Shark Plushie Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+November 11, 2022 Added shark plushies.

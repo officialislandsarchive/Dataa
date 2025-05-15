@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Fish_Tank_Anchor
+
+----------------------------------------
+
+Fish Tank Anchor Recipe 25 Iron Ingot Crafted with Furniture Workbench Required skill Level 30 Fishing Description A decoration item that can be placed inside fish tanks. The fish tank anchor is an item that can be placed inside a small or medium fish tank .
+
+Obtaining [ ]
+
+Fishing [ ]
+
+Prior to the May 13, 2022 update, the fish tank anchor blueprint had a small chance to be reeled in from fishing with an iron fishing rod . Bait could have been used to increase the chances of obtaining the blueprint.
+
+Coral [ ]
+
+Breaking coral had a small chance of rewarding a fish tank anchor blueprint.
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Fish Tank Anchor 25 Iron Ingot Furniture Workbench Level 30 Fishing
+
+Usage [ ]
+
+Decoration [ ]
+
+The fish tank anchor can be placed inside a small or medium fish tank as decoration, taking up 1 fish slot.
+
+History [ ]
+
+September 18, 2020 Added fish tank anchors. May 13, 2022 Level 30 Fishing is now required to craft fish tank anchors. June 3, 2022 A fish tank anchor blueprint is no longer required to unlock the recipe of fish tank anchors.
+
+Gallery [ ]

@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Slowness
+
+----------------------------------------
+
+Slowness Causes Slows damaged enemies Source Weapons whose magical class is quake Type Attack
+
+Slowness was an effect that affects hostile mobs when attacked by weapons whose magical class was quake until December 23, 2022 .
+
+Source [ ]
+
+Slowness will come into effect when attacking mobs with weapons that has the quake magical class such staff of godzilla and the ruby staff .
+
+Causes [ ]
+
+Slowness adds a slowness effect that slows the attacked mob by 50%. The enemy is also surrounded by dust when with this effect.
+
+History [ ]
+
+October 8, 2022 Added Slowness. December 23, 2022 Removed Slowness.

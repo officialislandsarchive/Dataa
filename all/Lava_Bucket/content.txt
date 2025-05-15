@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Lava_Bucket
+
+----------------------------------------
+
+Lava Bucket A lava bucket is a bucket filled with lava .
+
+Obtaining [ ]
+
+Filling [ ]
+
+Using an empty bucket on a lava source block will fill it with lava . If the lava source block was on a player island , the block will be consumed in the process. Flowing lava does not fill a bucket. Buckets can also be filled in lava pools in the Underworld .
+
+Usage [ ]
+
+Placing [ ]
+
+Using the bucket on a block will not create a lava source block anymore. The player will get an empty bucket back. Placing lava onto a trellis will make the lava stationary and not spill. Breaking the trellis will make the lava float.
+
+History [ ]
+
+September 18, 2021 Added lava buckets.

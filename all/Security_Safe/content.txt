@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Security_Safe
+
+----------------------------------------
+
+Security Safe Type of block Solid block; Interactable Buy cost 15,000 coins Best tool Luminous Transparent Description A safety vault to store your item in A security safe is a furniture block that can store up to 4,500 items .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Security safes can be purchased for 15,000 coins each from Rob .
+
+Breaking [ ]
+
+Security Safe Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Storage [ ]
+
+A security safe has 3 slots that can fit up to 1,500 items per slot, adding up to a total of 4,500 items per safe.
+
+History [ ]
+
+November 25, 2022 Added security safes.

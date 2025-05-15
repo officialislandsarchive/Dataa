@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Kiwi_Tree
+
+----------------------------------------
+
+Kiwi Tree Type of block Solid block Best tool Drops 1 Kiwi Tree Sapling 3 - 4 Oak Wood Luminous Transparent The kiwi tree is a fruit tree naturally found on Pirate Island .
+
+The canopies of kiwi trees never change during seasons .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Kiwi trees are grown from kiwi tree saplings , which can be purchased from Terri for 80 doubloons each on Pirate Island . It takes x minutes for a kiwi tree sapling to grow into a kiwi tree.
+
+Harvesting [ ]
+
+Kiwi tree saplings have a 3% chance of dropping whenever a kiwi is harvested from a kiwi tree on either the player's island or naturally-generated ones on Pirate Island's jungle . It can be planted on grass to be grown into a kiwi tree. It takes 2 minutes for an kiwi tree sapling to grow into a kiwi tree.
+
+Breaking [ ]
+
+Kiwi Tree Breaking Data Hardness 40 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 60 Wooden 60 120 Stone 40 64 Iron 25 40 Gilded Steel 20 28 Diamond 12 20 Opal 8 16 Void Mattock 8
+
+Drops [ ]
+
+When cut down, the player will recieve:
+
+1 kiwi tree sapling 3 - 4 oak wood
+
+Usage [ ]
+
+Harvesting [ ]
+
+Kiwis grow every season on kiwi trees and can be obtained by harvesting them from the tree. There can be up to three kiwi on a tree at a time, and whenever a kiwi is harvested, there is a 3% chance of getting an additional kiwi tree sapling. Harvesting a kiwi yields 3 Farming XP (12 XP with the 4x daily bonus). It takes x minutes for a kiwi tree to grow a kiwi, adding up to a total of xx minutes to grow three kiwis.
+
+Kiwi trees can be harvested with leaf clippers to drop 2 leaves .
+
+History [ ]
+
+July 17, 2021 Added kiwi trees.
+
+Trivia [ ]
+
+If a kiwi tree is chopped down while having kiwis on it, it will only drop the sapling and not any of the kiwis.

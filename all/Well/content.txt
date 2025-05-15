@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Well
+
+----------------------------------------
+
+Well Type of block Solid block Recipe 25 Birch Plank Crafted with Furniture Workbench Best tool Luminous Transparent The well is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting Station Well 25 Birch Plank Furniture Workbench
+
+Breaking [ ]
+
+Well Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+January 4, 2021 Added wells.
+
+Trivia [ ]
+
+Wells cannot be used to fill up water jugs or water buckets . Despite having a bucket of water in it, it is not crafted with any sort of bucket .

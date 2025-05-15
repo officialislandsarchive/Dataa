@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Mining_Tool_Bag
+
+----------------------------------------
+
+Mining Tool Bag Type of block Solid block Best tool Luminous Transparent Description ??? A mining tool bag is a furniture block that could have been purchased from Jed during the Mining Event 2023 .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Mining tool bags could have been purchased from Jed for 20 emerald crystals each during the Mining Event 2023 .
+
+Breaking [ ]
+
+Mining Tool Bag Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+April 28, 2023 Added mining tool bags May 12, 2023 Mining tool bags are made unobtainable.

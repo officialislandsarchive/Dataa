@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Red_Sofa
+
+----------------------------------------
+
+Red Sofa Type of block Solid block; Seat Recipe 25 Pine Wood 4 Red Flower Crafted with Furniture Workbench Best tool Luminous Transparent The red sofa is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Red Sofa 25 Pine Wood 4 Red Flower Furniture Workbench
+
+Breaking [ ]
+
+Red Sofa Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+Usage [ ]
+
+Sitting [ ]
+
+The red sofa has two seat, which means players, mobs , and villagers are able to sit in the sofa.
+
+History [ ]
+
+May 31, 2020 Added red sofas. June 3, 2022 A red sofa blueprint is no longer required to unlock the recipe of red sofas.

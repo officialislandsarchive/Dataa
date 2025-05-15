@@ -1,0 +1,61 @@
+Source: https://robloxislands.fandom.com/wiki/Vending_Machine
+
+----------------------------------------
+
+Vending Machine Tier 1 Tier 2 Type of block Solid block; Interactable Recipe Tier 1: 1 Crystallized Iron 5 Green Sticky Gear 10 Gold Ingot Tier 2: 3 Pink Sticky Gear 3 Blue Sticky Gear 500 Red Bronze Ingot Crafted with Tier 1: Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Tier 2: Workbench Tier 4 Required skill Level 25 Economy (to buy) Level 35 Economy (to sell) Level 45 Economy (to craft tier 1 and edit) Level 70 Economy (to craft tier 2) Best tool Luminous Transparent A vending machine is a block that allows players to exchange items and blocks for coins and vice versa.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Required skill Vending Machine 1 Crystallized Iron 5 Green Sticky Gear 10 Gold Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 40 Economy Vending Machine Tier 2 3 Pink Sticky Gear 3 Blue Sticky Gear 500 Red Bronze Ingot Workbench Tier 4 Level 70 Economy
+
+Breaking [ ]
+
+Vending Machine Breaking Data Hardness 16 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 24 Wooden 48 24 Stone 26 16 Iron 16 10 Gilded Steel 12 8 Diamond 8 5 Opal 7 4 Void Mattock 4
+
+Usage [ ]
+
+Trading [ ]
+
+Vending machines are used to sell items and blocks for coins , or vice versa. Economy level 25 is needed to be able to buy from vending machines and Economy level 35 to sell using vending machines. To craft the block itself and edit it, economy level 45 is required for tier one, for tier two you need Economy level 70. Only players with build permission can access the editing interface.
+
+A 10% and 7% tax is applied to transactions in vending machines and tier 2 vending machines respectively.
+
+A vending machine will say "Out of Money" when the machine doesn't have enough money added to cover the cost of buying an item from a player trying to sell. To fix this, the machine's owner would need to add more money.
+
+A vending machine will say "Items Full" when the machine doesn't have any more capacity to hold additional items (tier 1 - 300; tier 2 - 1000). To fix this, the machine's owner would need to remove some or all of the items already inside the machine.
+
+A vending machine will say "Offline" if the machine is empty or if the island owner does not wish for the items inside to be sold. Turning on "BUY ITEM," or "SELL ITEM," will turn the machine back online.
+
+Editing interface [ ]
+
+Mode Buttons Changes whether or not the item displayed can be bought ("SELL ITEM") or sold ("BUY ITEM"). (Sell is the player selling items, giving items for a price; buy is the player buying an item, and taking away items for a price)
+
+Price Management Used to adjust the price for the item to be bought or sold by simply inputting a number and pressing Enter button to confirm the price. The price can be up to 1 billion (1,000,000,000) coins.
+
+Tax Index Shows how many coins the owner pays/gains from buying/selling items after tax.
+
+Restock Button Once an item has been placed inside the vending machine, the restock option will instantly fill the vending machine with the same item from the player's inventory, until it reaches its limit, or the player has no more of the specified item in their inventory.
+
+Withdraw Button Allows the player to withdraw coins inside the vending machine. A player can select to withdraw a specific amount of coins from its balance, or to withdraw all coins. The Coin Balance allows the player to see how much money the Vending Machine currently holds.
+
+Deposit Buttons Allows the player to deposit coins in the vending machine, in a custom quantity up to a limit of 5 billion coins (5,000,000,000) per machine. Depositing coins is made easier by the use of letter shortcuts including, k, M, B. For example, depositing 100,000 coins can be shortened to "100k", 100,000,000 to "100M" and 1,000,000,000 to "1B".
+
+Coins Balance Shows how many coins are currently stored inside the Vending Machine.
+
+Item Slot Inputs items to be bought or sold by selecting the item from the inventory. Clicking the occupied slot will take all but 1 item from the Vending Machine. The regular Vending Machine slot can hold up to 300 items. The Tier Vending Machine 2 slot can hold up to 1,000 items.
+
+Editing Guide [ ]
+
+In order to set up a vending machine correctly, it is advised to take these steps:
+
+Set the shop to its mode. Set the cost of the desired item(s) to be bought or sold. (Note: If the following step is done before this step, other players will be able to buy/sell the item(s) before the correct price is set up). Place the desired item(s) to be bought or sold.
+
+Bugs [ ]
+
+There is a bug when there is an island that has been up for a long time that makes it so Vending Machines are blank and break the client if attempted to open. To fix this, you should restart your island or break and replace the Vending Machines.
+
+History [ ]
+
+May 31, 2020 Added vending machines. Breaking a vending machine now gives the player its contents. June 23, 2020 Increased vending machine storage. June 26, 2020 Fixed vending machines having delayed response. August 30, 2020 Vending machines no longer show a gray screen after the player resets. November 20, 2020 Added a 10% tax to vending machine transactions. The price can now be manually typed in. January 22, 2021 Level 45 Economy is now required to craft vending machines. Level 25 Economy and level 35 Economy are now required to buy and sell items through vending machines respectively. April 5, 2021 Vending machines now only render UI when nearby. August 21, 2021 Added vending machine tier 2. August 28, 2021 Players can now put items from the hotbar to the vending machines. December 29, 2021 Disabled all vending machine interactions. January 2, 2022 Re-enabled all vending machine interactions. January 3, 2022 Disabled all vending machine interactions. Re-enabled all vending machine interactions. January 4, 2022 Disabled all vending machine interactions. January 6, 2022 Re-enabled all vending machine interactions. March 25, 2022 Fixed a bug causing players to get stuck after configuring prices in vending machines. April 22, 2022 The player's camera no longer passes through vending machine tier 2s. May 27, 2022 Level 70 Economy is now required to craft vending machine tier 2s. July 9, 2022 Vending machines with no items will appear as orange. July 16, 2022 Overhauled the vending machine UI. Vending machines can now go offline. Players can now type in numbers to insert or withdraw certain amounts of items or coins . Vending machines with max or no coins will appear as red. October 8, 2022 Vending machines now display "$" to depict the currency rather than "coins". November 4, 2022 Vending machines now retain the last purchase amount without resetting back to one. May 6, 2023 Vending machines are disabled due to bugs. June 19, 2023 Vending machines are disabled again due to bugs.

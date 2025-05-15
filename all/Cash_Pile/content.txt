@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Cash_Pile
+
+----------------------------------------
+
+Cash Pile Type of block Solid block Buy cost 5,000 coins Best tool Luminous Transparent Description A pile of cash to place on your island A cash pile is a furniture block that can be purchased from Rob .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Cash piles can be purchased for 5,000 coins each from Rob .
+
+Breaking [ ]
+
+Cash Pile Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+November 25, 2022 Added cash piles.

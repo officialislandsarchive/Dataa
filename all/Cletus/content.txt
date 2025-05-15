@@ -1,0 +1,113 @@
+Source: https://robloxislands.fandom.com/wiki/Cletus
+
+----------------------------------------
+
+Cletus Location Hub Player's Island Purpose Sells seeds and saplings and buys crops Occupation Farmer Cletus is a villager located in the Hub and Farming Festival Island . Since the March 13, 2021 update, Cletus can appear at the player's island during spring , summer , and/or fall . Players can buy seeds and saplings from Cletus and sell crops to him.
+
+Shop [ ]
+
+Selling [ ]
+
+Image Name Price Required skill Wheat Seeds 125 coins None Tomato Seeds 250 coins Level 5 Farming Potato Seeds 300 coins Level 9 Farming Carrot Seeds 500 coins Level 18 Farming Spinach Seeds 550 coins Level 22 Farming Onion Seeds 2,000 coins Level 31 Farming Grape Seeds 3,000 coins Level 35 Farming Cactus Seeds 3,000 coins Level 38 Farming Rice Seeds 3,300 coins Level 39 Farming Dragon Fruit Seeds 5,000 coins Level 41 Farming Saplings Oak Sapling 50 coins None Pine Sapling 250 coins Level 5 Woodcutting Birch Sapling 500 coins Level 10 Woodcutting Maple Sapling 1,000 coins Level 14 Woodcutting Hickory Sapling 2,000 coins Level 24 Woodcutting Avocado Tree Sapling 8,000 coins Level 12 Woodcutting Plum Tree Sapling 14,000 coins Level 30 Woodcutting
+
+Buying [ ]
+
+Image Name Sell price Required skill Wheat 7 coins None Candy Cane 24 coins None Rice 24 coins None Red Berry 22 coins None Blueberry 24 coins None Blackberry 26 coins None Apple 20 coins None Orange 20 coins None Lemon 26 coins None Plum 50 coins None Coconut 45 coins None Spirit Crystal 23 coins None Tomato 9 coins Level 3 Farming Starfruit 60 coins Level 7 Combat Potato 11 coins Level 9 Farming Avocado 32 coins Level 12 Woodcutting Carrot 21 coins Level 18 Farming Spinach 18 coins Level 22 Farming Onion 30 coins Level 31 Farming Grape 22 coins Level 35 Farming Cactus 25 coins Level 38 Farming Dragon Fruit 45 coins Level 41 Farming
+
+Dialogue [ ]
+
+Current [ ]
+
+"Hello there, would you like to look at the best crop seeds in town? They're all ethically farmed." "Would you like to look at my shop? Everything here is ethically farmed." >Buy Seeds Opens buy shop. >Sell Crops Opens sell shop. >About Dom? Cousin Dom? He loves wholesale prices, but his products aren't as ethical as mine. >About Petur? Ah Petur, he is one of my regular customers. The man knows what a good quality product looks like.
+
+Before June 3, 2022 [ ]
+
+"I got the best crop seeds in town! Want to take a look?" >View Shop Opens shop menu. >Quests Opens quests menu.
+
+Godzilla vs. Kong event [ ]
+
+"Look at the wreckage.. couldn't be a better time to stock up on seeds!" >View Shop Opens shop menu.
+
+Mystery event [ ]
+
+"I got the best crop seeds in town! Want to take a look?" >Talk about mystery "The Cletus' Family Farm's harvest isn't looking good... all the crops are wilting!" >Oh no! End.
+
+Spring shop [ ]
+
+In the spring , Cletus will arrive to the player's island and offer to sell radish seeds , blackberry seeds , and pineapple seeds and buy radishes and pineapples .
+
+Image Name Price Stock Radish 59 coins (sell) N/A Radish Seeds 1,450 coins (buy) 8 Blackberry Seeds 1,500 coins (buy) 1 Pineapple 96 coins (sell) N/A Pineapple Seeds 2,850 coins (buy) 6
+
+Dialogue [ ]
+
+Before January 11, 2022: [ ]
+
+"Happy spring! I've got some rad(ish) deals for you." >Open Shop Opens shop menu. >[Ask to leave island] "Yes, I better be going. I'll come back next time I have something new. Have a great spring!" >Nevermind, stay! End. >Goodbye. End and Cletus leaves player's island. >Maybe later End.
+
+After January 11, 2022: [ ]
+
+"Happy Spring! I brought you some delicious Pineapple seeds!" >View Shop Opens shop menu. >[Ask to leave island] "Yes, I better be going. I'll come back next time I have something new. Have a great spring!" >Nevermind, stay! End. >Goodbye. End and Cletus leaves player's island. >Maybe later End.
+
+Summer shop [ ]
+
+In the summer , Cletus has a 25% chance of coming to the player's island and offer to sell watermelon seeds and buy watermelons .
+
+Image Name Price Stock Watermelon 85 coins (sell) N/A Watermelon Seeds 1,850 coins (buy) 3
+
+Dialogue [ ]
+
+"What a hot summer! Luckily for you, I just got an import of fresh watermelon seeds.. grow them for a refreshing snack!" >Open Shop Opens shop menu. >[Ask to leave island] "Yes, I better be going. I'll come back next time I have something new. Have a great summer!" >Nevermind, stay! End. >Goodbye. End and Cletus leaves player's island. >Maybe later End.
+
+January 8, 2022 - January 11, 2022: [ ]
+
+"Happy Spring! I brought you some delicious Pineapple seeds!" >View Shop Opens shop menu. >[Ask to leave island] "Yes, I better be going. I'll come back next time I have something new. Have a great spring!" >Nevermind, stay! End. >Goodbye. End and Cletus leaves player's island. >Maybe later End.
+
+Fall shop [ ]
+
+In the fall , Cletus will appear on the player's island and offer to sell pumpkins , buy pumpkin seeds , and sell blueberry seeds . Pumpkins can only be sold during the fall.
+
+Image Name Price Stock Pumpkin 58 coins (sell) N/A Pumpkin Seeds 1,040 coins (buy) 4 Blueberry Seeds 1,500 coins (buy) 2
+
+Dialogue [ ]
+
+"I'm selling special fall crops! Want to take a look?" >Open Shop Opens shop menu. >[Ask to leave island] "Yes, I better be going. I'll come back next time I have something new. Have a great fall!" >Nevermind, stay! End. >Goodbye. End and Cletus leaves player's island. >Maybe later End.
+
+Fishing Festival [ ]
+
+Fishing Festival 2021 [ ]
+
+If interacted with at the Fishing Festival 2021 , Cletus would say one of the two lines below:
+
+"I could probably make a nice fishing rod with my bamboo farm." >Okay End. "Carrots work surprisingly well as fish bait!" >Okay End.
+
+Fishing Festival 2022 [ ]
+
+If interacted with at the Fishing Festival 2022 , Cletus would say the line below:
+
+"I've got the best crop seeds in town! Want to take a look at my shop?" >Buy Seeds End and opens buy shop. >Sell Crops End and opens sell shop.
+
+Farming Festival [ ]
+
+If interacted at the Farming Festival , players could purchase limited edition items or ask about the event.
+
+Shop [ ]
+
+Image Name Price Chili Pepper Seeds 450 Crops Cletus' Scarecrow 600 Crops Indigo Jukebox Disk 3,500 Crops Cletus' Lucky Plow 7,500 Crops Cletus' Lucky Watering Can 7,500 Crops Cletus' Lucky Sickle 7,500 Crops Scarecrow Trophy 10,000 Crops
+
+Dialogue [ ]
+
+"Hello user ! Got any crops for me?" >Redeem Crops Leads to Farming Festival shop. >Crops? "Help me with the harvest on my family farm and I can give you some rewards!" >Okay! End.
+
+Legacy Quests [ ]
+
+Prior to the update on February 26, 2021 , Cletus offered random gardening-related quests to players. Players would not be given the next quest until they had finished their current quest. Finishing a gardening quest awarded more bond points with Cletus. With each level gained, blocks, seeds, or a furniture blueprint would be randomly rewarded.
+
+Quest Harvest 5 wheat crops. Harvest 2 tomato crops. Harvest 2 potato crops. Grow 3 trees from saplings . Harvest 25 wheat crops. Harvest 15 tomato crops. Harvest 15 potato crops. Harvest 8 carrot crops. Harvest 4 onion crops. Grow 15 trees from saplings . Grow 5 pine or birch trees . Harvest 100 wheat crops. Harvest 80 tomato crops. Harvest 80 potato crops. Harvest 75 carrot crops. Harvest 50 onion crops. Grow 75 trees from saplings . Grow 40 pine or birch trees . Grow 25 maple trees
+
+History [ ]
+
+April 10, 2020 Added Cletus. April 27, 2020 Added offer for tomato seeds . May 10, 2020 Cletus no longer sells red berry seeds for 3,000 coins . Added offer for grape seeds , birch saplings , and maple saplings . May 26, 2020 Added offer for potato seeds . June 26, 2020 Added offer for avocado tree saplings and avocados . August 2, 2020 Added offer for hickory saplings . January 22, 2021 Added offer for spinach seeds . February 27, 2021 Cletus now appears on the Fishing Festival Island . March 3, 2021 Cletus can no longer be found on the Fishing Festival Island. March 13, 2021 Cletus will now come to the player's island during the spring to sell radish seeds and buy radishes . Cletus may now come to the player's island during the summer to sell watermelon seeds and buy watermelons . Cletus will now come to the player's island during the fall to sell pumpkin seeds and buy pumpkins . July 23, 2021 Updated Cletus' appearance. July 30, 2021 Cletus now appears on the Farming Festival Island with a shop. August 3, 2021 Cletus can no longer be found on the Farming Festival Island. September 5, 2021 Cletus is given new dialogue about the "mystery". September 25, 2021 Cletus now appears on the Farming Festival Island with a shop again. September 29, 2021 Cletus can no longer be found on the Farming Festival Island again. October 9, 2021 Changed Cletus' spring and fall dialogue. Added offer for plum tree saplings . Added offer for blueberry seeds in the spring shop and blackberry seeds in the fall shop. October 18, 2021 Removed Cletus' dialogue about the "mystery". November 13, 2021 Readded Cletus' quests. Added offer for rice seeds . November 27, 2021 Removed Cletus' quests. January 8, 2022 Added offer for pineapple seeds and pineapples in the summer shop. Changed Cletus' summer shop dialogue. January 11, 2022 Cletus now sells pineapple seeds and buys pineapples in the spring. Changed Cletus' spring shop dialogue. Reverted Cletus' summer shop dialogue back to its initial dialogue. February 27, 2022 Added offer for dragon fruit seeds . March 12, 2022 Cletus now buys pineapples for 92 coins each. April 29, 2022 Cletus now buys pineapples for 85 coins each. March 25, 2022 Cletus now buys starfruit for 67 coins each. May 13, 2022 Cletus now buys watermelons for 75 coins each. Cletus now buys starfruit for 60 coins each. May 20, 2022 Cletus now buys carrots for 25 coins each. Cletus now buys dragon fruit for 52 coins each. May 27, 2022 Cletus now buys avocados for 36 coins each. June 3, 2022 Added a seed shop to Cletus. Changed Cletus' tag from "Seeds" to "Farmer." Changed Cletus' dialogue. Cletus now buys avocados for 32 coins each. Cletus now buys pineapples for 100 coins each. June 25, 2022 Cletus now buys wheat for 5 coins each. Cletus now buys tomatoes for 14 coins each. Cletus now buys dragon fruit for 45 coins each. July 2, 2022 Cletus now buys wheat for 12 coins each. Cletus now buys potatoes for 9 coins each. July 9, 2022 Cletus now buys spinach for 14 coins each. Cletus now buys starfruit for 62 coins each. July 16, 2022 Cletus now buys potatoes for 17 coins each. Cletus now buys grapes for 18 coins each. July 23, 2022 Cletus now buys coconuts for 48 coins each. Cletus now buys radishes for 60 coins each. July 30, 2022 Cletus now buys watermelons for 85 coins each. Cletus now buys pineapples for 72 coins each. August 6, 2022 Cletus now buys cacti for 35 coins each. Cletus now buy spinach for 14 coins each. Cletus now buys pineapples for 92 coins each. August 20, 2022 Introduced a bug that prevented players from talking to Cletus on player's islands . Fixed the bug that prevented players from talking to Cletus on player islands. Cletus now buys rice for 30 coins each. Cletus now buys oranges for 20 coins each. Cletus now buys dragon fruits for 45 coins each. Cletus now buys lemons for 15 coins each. August 27, 2022 Cletus now buys wheat for 14 coins each. Cletus now buys onions for 24 coins each. September 3, 2022 Cletus now buys plums for 56 coins each. September 10, 2022 Cletus now buys tomatoes for 5 coins each. Cletus now buys apples for 25 coins each. September 17, 2022 Cletus now buys potatoes for 17 coins each. Cletus now buys radishes for 59 coins each. October 1, 2022 Cletus now buys tomatoes for 4 coins each. Cletus now buys pineapples for 96 coins each. October 8, 2022 Cletus now buys onions for 25 coins each. Cletus now buys starfruit for 67 coins each. October 15, 2022 Cletus now buys lemons for 26 coins each. Removed Cletus. Cletus can no longer visit player islands during seasons. November 4, 2022 Re-added Cletus to the Hub . Cletus can now visit player islands again. Cletus now buys cacti for 25 coins each. Cletus now buys pumpkins for 58 coins each. November 11, 2022 Cletus now buys wheat for 11 coins each. Cletus now buys radishes for 59 coins each. November 18, 2022 Cletus now buys pineapples for 96 coins each. Cletus now buys spinach for 15 coins each. November 25, 2022 Cletus now buys tomatoes for 14 coins each.
+
+Trivia [ ]
+
+Cletus is the second NPC that can come to the player's island , the first being the Scavenger who appeared from November 26, 2020 - December 14, 2020. Cletus used to share the same model as Ivon and Jack until the July 23, 2021 update. During the summer, despite saying that watermelons are a "refreshing snack," players cannot eat watermelons. From January 8, 2022 to January 11, 2022, two Cletuses could've came to the player's island as watermelon and pineapples were in two different shops. From January 11, 2022 - January 18, 2022, players could not view Cletus' spring shop. It is presumed that Cletus is siblings with Taliyah in the family painting . Cletus' seed shop was transferred from Tom when the latter got removed from the game during the Halloween 2022 event. This is due to Cletus being the boss for the Halloween 2022 event. He is also the only villager that became one.

@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Burning
+
+----------------------------------------
+
+Burning Causes Burns and damages mobs over time Source Weapons whose magical class is inferno Type Attack
+
+Burning is an effect that affects hostile mobs when attacked by weapons whose magical class is inferno .
+
+Causes [ ]
+
+The Inferno Effect can be obtained by attacking mobs with a weapon whose magical class is inferno such as the infernal hammer or spellbook .
+
+Information [ ]
+
+Burning will deal damage over time to enemies. The damage dealt is based off of the initial hit, and can stack, dealing up to 50% of the attack that inflicted the debuff's initial damage (i.e., an 84 damage hit would cause it to stack up to 42 per tick.). Fire damage will always deal 1 damage over time to resisted enemies.
+
+History [ ]
+
+October 8, 2022 Added Burning.

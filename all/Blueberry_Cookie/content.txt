@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Blueberry_Cookie
+
+----------------------------------------
+
+Blueberry Cookie Recipe 1 Blueberry Dough Crafted with Campfire Small Furnace Desert Furnace Industrial Oven Heals 15 HP Effect +30% reward luck in combat Description Consume for +30% reward luck in combat. A blueberry cookie is a food item that heals 15 HP and grants +30% reward luck from defeating mobs when consumed.
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Cooking [ ]
+
+Baking blueberry dough in a campfire , small furnace , desert furnace , or industrial oven will create a blueberry cookie.
+
+Input Output 1 Blueberry Dough 1 Blueberry Cookie
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a blueberry cookie restores 15 HP and grants +30% reward luck when defeating mobs for 1 minute.
+
+Upon defeating a mob, the luck effect granted from consuming a blueberry cookie increases the chance of mob drops by 30% of its original value, meaning it multiplies the drop rate of items from mobs by 1.3x. For example, an item with a 0.35% drop chance will now have a 0.455% chance of dropping. Items with a 100% drop rate will be increased to 130%, meaning that it has a guaranteed chance of dropping one and an additional 30% chance of dropping another.
+
+Its luck effect can be stacked with the looting bonus granted from using the captain's rapier and consuming a dragon roll , allowing a maximum increase of 80%, or 1.8x, to be applied to a mob drop.
+
+History [ ]
+
+July 23, 2022 Added blueberry cookies. Introduced where blueberry cookies now cannot be sold to Petur . July 30, 2022 Decreased the reward luck effect from 50% to 30% and effect duration from 2 minutes to 1 minute. Changed the description from "Consume for +50% reward luck in combat." to "Consume for +30% reward luck in combat."
+
+Trivia [ ]
+
+Despite showing that the crafting recipe for blueberry cookies are unlocked at level 42 Cooking in the Cooking skill roadmap, players can bake blueberry dough into blueberry cookies without any Cooking level requirement. There is a bug whereby the blueberries on blueberry cookies will not show when placed on plates . Blueberry cookies currently cannot be sold to Petur . Prior to July 30, 2022 , it was +50% reward luck in combat due to it being unbalanced.

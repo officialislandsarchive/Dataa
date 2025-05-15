@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Infernal_Hammer
+
+----------------------------------------
+
+Infernal Hammer Type Heavy Melee Physical class Striking Magical class Inferno Attack damage 48 HP (Base) 72 HP (Critical) Recipe 1 Infernal Flame 200 Magma Block 5 Gilded Steel Rod 50 Steel Plate Crafted with Anvil Required skill Level 55 Heavy Melee Description Magical hammer forged from depths of the underworld. The infernal hammer is a heavy melee weapon in the striking and inferno classes.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Infernal Hammer 1 Infernal Flame 200 Magma Block 5 Gilded Steel Rod 50 Steel Plate Anvil Level 55 Heavy Melee
+
+Attacking [ ]
+
+At level 1 Heavy Melee , the infernal hammer deals a base damage of 48 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 24 HP of damage and its damage can be increased by leveling up the Heavy Melee skill and it is in the striking and inferno classes.
+
+Like other melee weapon , only one player can hit damage in each hostile mob. Multiple players cannot hit damage together.
+
+History [ ]
+
+April 22, 2022 Added infernal hammers. September 17, 2022 Infernal hammers are now a striking and inferno weapon. October 8, 2022 Infernal hammers will now burn an attacked hostile mob whenever an attack successfully hits the mob.
+
+Trivia [ ]
+
+The infernal hammer is one of the only weapons with a physical and magical classification, with the others being the frost hammer , the frost sword , the trout's fury , the serpent's hook , the reaper's scythe , jolly dagger , and the noxious stinger . If the mob has a weakness or resistance to both of its classification, then the damage multiplier will be either higher or lower than normal. If the mob has a weakness and resistance to both classifications, then neutral damage will apply.

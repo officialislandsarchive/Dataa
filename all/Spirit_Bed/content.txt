@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Spirit_Bed
+
+----------------------------------------
+
+Spirit Bed Type of block Solid block Recipe 100 Spirit Plank 100 Spirit Wood 15 Spirit Crystal Crafted with Furniture Workbench Best tool Luminous Transparent The spirit bed is a luminous furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Spirit Bed 100 Spirit Plank 100 Spirit Wood 15 Spirit Crystal Furniture Workbench
+
+Breaking [ ]
+
+Spirit Bed Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+Usage [ ]
+
+Sitting [ ]
+
+A spirit bed has two seats, which means two players, mobs , or villagers are able to sit on the bed.
+
+History [ ]
+
+July 16, 2022 Added spirit beds.
+
+Trivia [ ]
+
+The hitbox spirit beds allow blocks to be placed inside the plant overhang, but despite this, still has player and camera collision.

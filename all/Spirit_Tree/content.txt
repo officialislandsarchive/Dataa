@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Spirit_Tree
+
+----------------------------------------
+
+Spirit Tree Type of block Solid block; Technical Best tool Drops 3 - 4 Spirit Wood 1 Spirit Sapling Luminous Transparent The spirit tree is a luminous tree added on June 30, 2021 .
+
+Obtaining [ ]
+
+Growing [ ]
+
+Spirit trees can be grown from their sapling , which can be purchased from Catherine for 20 spirit jars . Like all other trees the sapling must have enough empty blocks around it to grow, it takes about 95 seconds to grow into a full size tree.
+
+Drops [ ]
+
+When a spirit tree is cut down it drops:
+
+3 - 4 spirit wood 1 spirit tree sapling
+
+Using a leaf clippers on a spirit tree's canopy will give:
+
+1 - 2 regular leaves .
+
+Breaking [ ]
+
+Spirit Tree Breaking Data Hardness 35 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 53 Wooden 53 105 Stone 35 56 Iron 22 35 Gilded Steel 18 25 Diamond 11 18 Opal 7 14 Void Mattock 7

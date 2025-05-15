@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Hay_Bed
+
+----------------------------------------
+
+Hay Bed Type of block Non-solid block; Animal bed Recipe 50 Wheat Crafted with Animal Bench Required skill Level 11 Animal Care Luminous Transparent A hay bed is a non-solid block that cows , sheep , turkeys , yaks , and horses sleep on.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Hay Bed 50 Wheat Animal Bench Level 11 Animal Care
+
+Breaking [ ]
+
+Hay Bed Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Animal bed [ ]
+
+When placed down, cows , sheep , turkeys , yaks , , and horses will sleep on hay beds during the night. Animals that sleep on a hay bed will have increased happiness levels.
+
+Hay beds are an effective way of getting animals to return to a specific location without action from the player, though it is not certain that they will sleep on it.
+
+History [ ]
+
+October 3, 2020 Added hay beds. January 22, 2021 Sheep can now sleep on hay beds. November 27, 2021 Turkeys can now sleep on hay beds. March 25, 2022 Yaks can now sleep on hay beds. June 3, 2022 Horses can now sleep on hay beds.

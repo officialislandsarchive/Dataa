@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Washing_Station
+
+----------------------------------------
+
+Washing Station Type of block Solid block; Interactable Recipe 1 Crystallized Iron 100 Maple Wood 30 Iron Ingot Crafted with Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description Clean oily crops. The washing station is a crafting station that can be used to wash oily crops . Water is not actually needed to wash crops. The washing station can clean up to 100 oily crops at a time.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Washing Station 1 Crystallized Iron 100 Maple Wood 30 Iron Ingot Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Washing Station Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Washing [ ]
+
+Crops can be washed in increments of 1 - 100.
+
+History [ ]
+
+June 15, 2020 Added washing stations. January 8, 2022 Washing stations can now wash oily pineapples . May 13, 2022 Changed the recipe of washing machines to require 1 crystallized iron instead of 3 pearls .
+
+Please Note - You do not need to run pineapples through a washing machine anymore.
+
+Trivia [ ]
+
+This is the fastest way to wash oily crops , but cannot be automated. This can wash oily crops as many as 100 at a time, while the industrial washing station can only wash 3. Even though oily starfruit was removed from the game, its recipe is still in the UI.

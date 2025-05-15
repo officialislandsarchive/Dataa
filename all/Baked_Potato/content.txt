@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Baked_Potato
+
+----------------------------------------
+
+Baked Potato Recipe 1 Potato Crafted with Campfire Small Furnace Desert Furnace Industrial Oven Sell price 24 - 36 coins Hot sell price 36 - 54 coins Description That's one hot potato! A baked potato is a food item .
+
+Obtaining [ ]
+
+Cooking [ ]
+
+Cooking a potato in a campfire , small furnace , desert furnace , or industrial oven will create a baked potato.
+
+Input Output 1 Potato 1 Baked Potato
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Potato and Duck Egg Scramble 1 Scrambled Duck Eggs 1 Baked Potato Cooking Table Food Processor Level 42 Cooking
+
+Eating [ ]
+
+Eating a baked potato restores 20 HP.
+
+Selling [ ]
+
+Baked potatoes can be sold to Petur for 24 - 36 coins each, or 36 - 54 coins if baked potatoes are a hot offer.
+
+History [ ]
+
+May 26, 2020 Added baked potatoes. May 31, 2020 Fixed a bug that prevented players from cooking potatoes into baked potatoes. January 8, 2022 Changed the base selling price from 30 coins to 36 - 54 coins. January 8, 2022 Changed the base selling price from 36 - 54 coins to 24 - 36 coins. February 19, 2022 Baked potatoes can now be used to craft potato and duck egg scrambles . April 12, 2022 Baked potatoes can now be consumed.
+
+Trivia [ ]
+
+Despite showing that the crafting recipe for baked potatoes are unlocked at level 11 Cooking in the Cooking skill roadmap, players can bake potatoes into baked potatoes without any skill requirement. Prior to April 12, 2022 , baked potatoes were inedible.

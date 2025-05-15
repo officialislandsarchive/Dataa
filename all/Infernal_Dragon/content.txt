@@ -1,0 +1,63 @@
+Source: https://robloxislands.fandom.com/wiki/Infernal_Dragon
+
+----------------------------------------
+
+Infernal Dragon Health 13,000 HP Behavior Hostile Attack strength 25 - 50 ( Headbutt ) 75 ( Lava Wave ) 40 DPS, 400 total ( Fire Breath) Drops Infernal Dragon Egg Jukebox Disk Location Underworld The Infernal Dragon is a boss that was added in the September 11, 2021 update. It has 13,000 health and can be summoned in the Underworld for at least 750 Underworld Tokens . It has no summon cooldown.
+
+Description [ ]
+
+The Infernal Dragon can be summoned at the bottom of the stairway to its arena in the Underworld for at least 750 Underworld tokens .
+
+Like other bosses , if there are no players in the arena, if the player is idle for too long, or if the battle takes more than 10 minutes, the Infernal Dragon will despawn and the player will have to respawn it with at least 750 more Underworld tokens.
+
+Attacks [ ]
+
+The Infernal Dragon has four different types of attacks that are executed in a specific order with a few random attacks executed sporadically. When summoned, it will start with a fire breath attack towards the nearest player, following up with a headbutt. Afterward, it will summon lava waves and end the cycle by summoning magma blobs before repeating from the beginning.
+
+The dragon will fly into the air and go to a random edge of the summoning area whenever its lava wave or fire breath attacks are finished.
+
+Lava Wave [ ]
+
+The Infernal Dragon summons 6 waves of lava originating under its abdomen and sweeping outwards, spanning the entire arena lengthwise and dealing 75 HP of damage if hit. Each lava wave has gaps within them and a 10 - 20 stud gap between the following wave, allowing the player to safely pass through without taking damage. Once the attack has been finished, the dragon will fly to a random edge of the platform.
+
+Fire Breath [ ]
+
+The Infernal Dragon turns towards the targeted player and breathes a stream of fire for 10 seconds that deals 40 damage per second, dealing a maximum of 400 damage if the player does not move out of the way. The dragon will constantly reposition when executing this attack and will fly to a random edge of the platform after the attack has been finished.
+
+Headbutt [ ]
+
+The Infernal Dragon targets a random player and moves forward to hit them with its head, knocking them back and dealing between 25 and 50 damage if hit. The headbutt can pierce, which damages multiple players at a time.
+
+Summon [ ]
+
+The Infernal Dragon summons between 1 and 7 magma blobs ; the number summoned varies in proportion to the number of players currently fighting the dragon.
+
+Drops [ ]
+
+The Infernal Dragon rewards 1251 XP (4998 with the 4x daily bonus or 126 when maxed out) Combat XP and 1251 XP (4998 with the 4x daily bonus or 126 when maxed out) Light Melee , Heavy Melee , Magic , or Archery XP depending on the weapon the player used to defeat it.
+
+With the XP Boost , the Infernal Dragon rewards 1437 XP (5748 with the 4x daily bonus or 144 when maxed out) Combat XP and 1437 XP (5748 with the 4x daily bonus or 144 when maxed out) Light Melee , Heavy Melee , Magic , or Archery XP depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Infernal Dragon Egg 100% Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Purple Jukebox Disk 0.01% Orange Jukebox Disk 0.01%
+
+Damage reduction [ ]
+
+The Infernal Dragon reduces the amount of damage dealt to it by 10% to 55% depending on the number of players (compounds) in the arena.
+
+Number of players Damage reduction 1 0% 2 10% 3 25% 4 35% 5 45% 6+ 55%
+
+Resistances and weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical Striking Void , Inferno Piercing Ethereal , Hydro
+
+Bugs and glitches [ ]
+
+If too many players constantly hit the Infernal Dragon in one direction with magic attacks, it may fall off its platform and despawn, dropping no loot or refund. The dragon may repeatedly glitch into its idle or flying animations if it is attacked enough times. The dragon may be stuck in its idle animation if it is at low health, unable to attack or move.
+
+History [ ]
+
+September 11, 2021 Added the Infernal Dragon. Buffed the Infernal Dragon to have more health and deal more damage. September 12, 2021 The Infernal Dragon now requires 750 Underworld tokens instead of 500 to summon. Fixed a bug causing the Infernal Dragon to return to its idle animation if attacked too often. The Infernal Dragon can no longer summon bandits to aid it in battle. May 14, 2022 Fixed a bug preventing the Infernal Dragon from spawning and not showing its spawn cost. August 13, 2022 Lowered the Infernal Dragon's health from 30,000 HP to 17,000 HP. May 16, 2023 Lowered the Infernal Dragon's health from 17,000 HP to 13,000 HP.
+
+Trivia [ ]
+
+This is one of the only seven bosses capable of summoning mobs , the other 6 being the Slime Queen , Bhaa , Percival the Pumpkin King , Void Serpent , the Grand High Witch , and Zombie Cletus . The Infernal Dragon is the first boss in Islands that don't have a summon cooldown. It is the first boss in Islands that require its own token to be summoned. The Infernal Dragon has the third-most health of any mob in the game, the second being Percival the Pumpkin King with 20,000 HP, and the first being the Void Serpent with 50,000 HP. The dragon itself has a very large hitbox; it can even be hit while it is flying. This mob has a special soundtrack when battling it. It can be heard here . The Infernal Dragon rewards and shares the same amount of XP as the Wizard Boss , Bhaa, Percival the Pumpkin King, and Fhanhorn . The Infernal Dragon has the least number of non- jukebox disk drops of all mobs in the game, having only one.

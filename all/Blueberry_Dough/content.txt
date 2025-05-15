@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Blueberry_Dough
+
+----------------------------------------
+
+Blueberry Dough Recipe 1 Dough 5 Blueberry Crafted with Cooking Table Food Processor Required skill Level 40 Cooking Description Heat up to bake a blueberry cookie. Blueberry dough is an uncooked food item that turns into blueberry cookie once cooked.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Blueberry Dough 1 Dough 5 Blueberry Cooking Table Food Processor Level 40 Cooking
+
+Usage [ ]
+
+Cooking [ ]
+
+Blueberry dough can be cooked into a blueberry cookie in a campfire , small furnace , desert furnace , or industrial oven .
+
+Input Output 1 Blueberry Dough 1 Blueberry Cookie
+
+History [ ]
+
+July 23, 2022 Added blueberry dough.

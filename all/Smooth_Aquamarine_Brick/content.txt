@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Smooth_Aquamarine_Brick
+
+----------------------------------------
+
+Smooth Aquamarine Brick Type of block Solid block Recipe 1 Smooth Aquamarine Crafted with Stonecutter Industrial Stonecutter Best tool Luminous Transparent Smooth aquamarine bricks are the brick version of smooth aquamarine .
+
+Obtaining [ ]
+
+Polishing [ ]
+
+Smooth aquamarine can be polished into smooth aquamarine bricks in a stonecutter or industrial stonecutter .
+
+Input Item transformer Output 1 Smooth Aquamarine ➡ Stonecutter ➡ 1 Smooth Aquamarine Brick ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Smooth Aquamarine Brick Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Smooth Aquamarine Brick Stair 1 Smooth Aquamarine Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Smooth Aquamarine Brick Slab 1 Smooth Aquamarine Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+History [ ]
+
+June 4, 2021 Added smooth aquamarine bricks.

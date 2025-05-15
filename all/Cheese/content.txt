@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Cheese
+
+----------------------------------------
+
+Cheese Recipe 1 Milk Bucket Crafted with Cheesemaker Heals 25 HP Sell price 100 coins Cheese is a food item obtained from transforming a milk bucket .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Milk buckets can be transformed into cheese in a cheesemaker . It takes a total of 3 minutes and 30 seconds to fully transform milk buckets into cheese.
+
+Input Item transformer Output 1 Milk Bucket ➡ Cheesemaker ➡ 1 Cheese
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Kue Keju 1 Egg 2 Cheese 1 Dough Cooking Table Food Processor
+
+Eating [ ]
+
+Eating cheese restores 25 HP.
+
+Selling [ ]
+
+Cheese can be sold to Taliyah for 100 coins each after reaching level 10 Animal Care .
+
+History [ ]
+
+October 3, 2020 Added cheese. February 7, 2022 Cheese can now be used to craft kue keju .
+
+Trivia [ ]
+
+The model is based off of a wedge of emmental cheese , a variety of swiss.

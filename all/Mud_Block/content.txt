@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Mud_Block
+
+----------------------------------------
+
+Mud Block Type of block Solid block Buy cost 35 coins Best tool Luminous Transparent
+
+A mud block is a decorative block purchased from John .
+
+Obtaining [ ]
+
+Buying [ ]
+
+Mud blocks can be bought from John for 35 coins .
+
+Breaking [ ]
+
+Mud Block Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+Usage [ ]
+
+Players walking on mud blocks will have the stun effect applied which decreases movement speed.
+
+History [ ]
+
+February 17, 2023 Added mud blocks.

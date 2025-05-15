@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Counter_Center
+
+----------------------------------------
+
+Counter Center Blue Red Purple Type of block Solid block Recipe 2 Colored Solid 5 Iron Ingot 5 Electrite Crafted with Furniture Workbench Best tool Luminous Transparent Description A center counter decor A counter center is a furniture block that comes in three color variants: blue, red, and purple.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Blue Counter Center 2 Solid Blue 5 Iron Ingot 5 Electrite Furniture Workbench Red Counter Center 2 Solid Red 5 Iron Ingot 5 Electrite Purple Counter Center 2 Solid Purple 5 Iron Ingot 5 Electrite
+
+Breaking [ ]
+
+Counter Center Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+January 6, 2023 Added counter centers.

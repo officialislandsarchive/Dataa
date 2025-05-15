@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Wheat_Seeds
+
+----------------------------------------
+
+Wheat Seeds Planted on Farmland Buy cost 125 coins Wheat seeds are seeds used to grow wheat .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Wheat seeds can be bought from Cletus for 125 coins each.
+
+Harvesting wheat [ ]
+
+Harvesting wheat gives 1 - 3 wheat, 1 wheat seed, and a 5% chance of getting an additional seed. This chance is increased to owners of the pro gamepass .
+
+Growth [ ]
+
+Wheat Seeds Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 5s 2m 10s 3m 15s Note: The durations of time above are on an unfertilized and unwatered plant
+
+Usage [ ]
+
+Planting [ ]
+
+Wheat seeds can be planted on farmland to produce wheat.
+
+History [ ]
+
+April 10, 2020 Added wheat seeds. October 15, 2022 Wheat seeds can now be bought from Tom .

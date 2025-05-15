@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Egg
+
+----------------------------------------
+
+Egg Required skill (to sell) Level 12 Animal Care Description Infertile egg laid by chickens , can make a great meal. An egg is an item laid by chickens .
+
+Obtaining [ ]
+
+Chickens [ ]
+
+Adult and baby chickens will lay eggs shortly after being fed with their favorite food or red berries . Chickens will lay their eggs in a nest if it is accessible and hasn't reached its max capacity of 3.
+
+If there is no nest that is able to accommodate an extra egg, the chicken will lay eggs on a random block on the player's island . Each block is only able to hold one egg.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Deviled Eggs 4 Egg 4 Mayonnaise Jar Cooking Table Food Processor Level 20 Cooking Dumpling 1 Dough 1 Egg 2 Spinach Cooking Table Food Processor None Kue Keju 1 Egg 2 Cheese 1 Dough Cooking Table Food Processor None Gondo Datshi 1 Tomato 1 Yak Butter 2 Chili Pepper 1 Egg Cooking Table Food Processor Level 49 Cooking
+
+Transforming [ ]
+
+Eggs can be transformed into mayonnaise jars in a churner . It takes 3 minutes and 30 seconds to transform an egg into a mayonnaise jar.
+
+Input Item transformer Output 1 Egg Churner 1 Mayonnaise Jar
+
+Selling [ ]
+
+Egg can be sold to Taliyah for 145 coins each after reaching level 12 Animal Care .
+
+History [ ]
+
+February 26, 2021 Added eggs. November 13, 2021 4 eggs are now required to craft deviled eggs , up from 1. February 7, 2022 Eggs can now be used to craft dumplings and kue keju . March 25, 2022 Eggs can now be used to craft gondo datshis .
+
+Trivia [ ]
+
+Whenever an egg is laid from a chicken , an item port spawns with it, keeping the egg from despawning.

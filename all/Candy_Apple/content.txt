@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Candy_Apple
+
+----------------------------------------
+
+Candy Apple Recipe 4 Apple 12 Jar of Honey Crafted with Cooking Table Food Processor Sell price 704 - 1,056 coins Hot sell price 1,056 - 1,584 coins Required skill Level 60 Cooking A candy apple is a food item that does not heal the player or grant any additional effect when consumed.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Candy Apple 4 Apple 12 Jar of Honey Cooking Table Food Processor Level 60 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a candy apple does not restore any HP or grant any additional effect.
+
+Selling [ ]
+
+Candy apples can be sold to Petur for 704 - 1,056 coins each, or 1,056 - 1,584 coins if candy apples are a hot offer.
+
+History [ ]
+
+August 30, 2020 Added candy apples. November 13, 2021 Candy apples now grant +20% reward luck when fishing when consumed. Added a description. Changed the recipe from 1 apple and 3 jars of honey to 4 apples and 12 jars of honey. Changed the base selling price from 220 coins to 880 coins. Candy apples no longer heal 30 HP when consumed. January 8, 2022 Changed the base selling price from 880 coins to 1,056 - 1,584 coins. January 15, 2022 Changed the base selling price from 1,056 - 1,584 coins to 704 - 1,056 coins. May 13, 2022 Candy apples now grant 25% fishing speed when consumed. June 3, 2022 Candy apples no longer grant +25% fishing speed when consumed. Removed the description.
+
+Trivia [ ]
+
+Despite the fact that the candy apple has a stick, the player holds this item by the apple instead of the stick.

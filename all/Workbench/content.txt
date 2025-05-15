@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Workbench
+
+----------------------------------------
+
+Workbench Type of block Solid block; Interactable Spawns Player's Island Best tool Luminous Transparent Description "Used to construct starter island craftables."
+
+The workbench is a crafting station that is spawned when a player's island is first generated.
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+A workbench naturally generates on the player's island when first playing Islands or after resetting the island.
+
+Breaking [ ]
+
+Workbench Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Crafting recipes [ ]
+
+Image Name Recipe Wooden Pickaxe 3 Oak Wood Workbench Tier 1 5 Oak Wood 2 Iron Ore
+
+Tutorial [ ]
+
+Using a workbench is a part of the tutorial .
+
+Upgrading [ ]
+
+The workbench can be upgraded into a workbench tier 1 with 5 oak wood and 2 iron ore . Upgrading the crafting station will replace the workbench with a workbench tier 1.
+
+History [ ]
+
+July 17, 2020 Added the workbench.

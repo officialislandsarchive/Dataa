@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Blueberries
+
+----------------------------------------
+
+Blueberry Seed cost 1,500 coins Planted on Grass Sell price 24 coins Edible Blueberries are a food item collected from blueberry bushes. A blueberry bush is a plant that grows blueberries and will occasionally produce an extra blueberry seed when harvested.
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Blueberries can be grown on the player's island by planting blueberry seeds on grass , a seed purchasable from Cletus during the fall . Blueberry bushes can be harvested by hand, sickle , or turkeys , although turkeys cannot reward extra blueberry seeds. When harvested, the player will obtain 1 - 2 blueberries, a 1% chance of a blueberry seed, and 6 Farming XP (18 XP with the 4x daily bonus).
+
+Totems [ ]
+
+A blueberry totem will collect blueberries from bushes in a 3 block radius. The blueberries can be collected by interacting with the totem. A blueberry totem placed next to a conveyor belt will drop the blueberries onto the conveyor. Blueberry bushes harvested from totems cannot yield blueberry seeds.
+
+Growth [ ]
+
+A blueberry bush grows through three stages after it is planted. Its first growth stage is a small seed. It becomes a bush in its second stage, and produces berries in its third growth stage. Its growth time is not affected by water nor basic fertilizer .
+
+Blueberries Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 5s 2m 20s 2m 20s after harvesting Note: The durations of time above are on an unfertilized and unwatered plant Blueberries Growth Time Type Growth Time Normal 2m 20s Fertilized 2m 20s Watered 2m 20s Watered + Fertilized 2m 20s
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required Skill Dragon Fruit Acai Bowl 1 Dragon Fruit 1 Starfruit 2 Blueberry 2 Raspberry Cooking Table Food Processor None Dragon Fruit Ice Cream 1 Dragon Fruit 1 Starfruit 3 Blueberry 1 Milk Bucket Cooking Table Food Processor None Blueberry Dough 1 Dough 5 Blueberry Cooking Table Food Processor Level 40 Cooking Blueprint required Berry Pancakes 1 Sweet Pancakes 6 Raspberry 6 Blueberry Cooking Table Food Processor None
+
+Eating [ ]
+
+Eating blueberries restores 20 HP.
+
+Selling [ ]
+
+Blueberries can be sold to Cletus for 24 coins each.
+
+History [ ]
+
+October 9, 2021 Added blueberries. November 27, 2021 Blueberries can now be used to craft berry pancakes . Blueberry bushes can now be harvested by turkeys . Blueberries can now be used to feed turkeys. February 27, 2022 Blueberries can now be used to craft dragon fruit acai bowls and dragon fruit ice cream . June 3, 2022 Blueberries can now be sold to Cletus instead of to Tom . July 23, 2022 Blueberries can now be used to craft blueberry dough . October 15, 2022 Blueberries can now be sold to Tom instead of to Cletus.
+
+Trivia [ ]
+
+Despite being a seasonal crop, blueberries can grow in any season .

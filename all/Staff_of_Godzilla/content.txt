@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Staff_of_Godzilla
+
+----------------------------------------
+
+Staff of Godzilla Type Magic weapon Magical class Quake Magic weapon type Staff Attack damage 20 HP Description Found by completing Godzilla event quests. The staff of Godzilla is a ranged magic weapon that could have been earned during the Godzilla vs. Kong event. It is in the quake class.
+
+Obtaining [ ]
+
+Quests [ ]
+
+The player could have obtained the staff of Godzilla by completing Holt's second quest, which required the player to clean up the rubble and complete a parkour course on Godzilla Island . Once completed, the player can interact with Holt to earn the staff of Godzilla as well as the Godzilla Badge .
+
+Attacking [ ]
+
+At level 1 Magic , projectiles can be shot from the staff of Godzilla to deal a base damage of 20 HP. The projectiles are shot horizontally in the direction the player is facing. Its damage can be increased by leveling up the Magic skill and it is in the quake class.
+
+History [ ]
+
+March 19, 2021 Added the staff of Godzilla. April 4, 2021 The staff of Godzilla is made unobtainable. April 24, 2021 Nerfed the base damage from 50 HP to 30 HP. May 27, 2022 The Staff of Godzilla can now be charged up to deal more damage to mobs. Changed the appearance of projectiles fired by staff of Godzillas. June 10, 2022 The staff of Godzilla can no longer do AOE damage. Nerfed the base damage from 30 HP to 25 HP. Nerfed charging damage. September 17, 2022 Nerfed staff of Godzilla damage from 25 HP to 20 HP. Removed the staff of Godzilla's charging ability. The staff of Godzilla is now in the quake class. October 8, 2022 The staff of Godzilla now slow down hostile mobs by 50% when successfully landing a hit.
+
+Trivia [ ]
+
+The attack damage of both Kong's axe and the staff of Godzilla were nerfed on April 24, 2021 . This staff resembles Godzilla's dorsal plates in the movie, Godzilla vs. Kong .

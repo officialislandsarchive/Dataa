@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Potato_Salad
+
+----------------------------------------
+
+Potato Salad Recipe 12 Potato 4 Tomato 4 Mayonnaise  Jar Crafted with Cooking Table Food Processor Effect +10% crop seed yield multiplier (Currently cannot be stacked with Gondo Datshi ) Sell price 1,136 - 1,704 coins Hot sell price 1,704 - 2,556 coins Required skill Level 13 Cooking Description Consume for +10% crop seed yield multiplier. Potato salad is a food item that grants a +10% crop seed yield multiplier when consumed.
+
+Since the March 25, 2022 update, its crop seed yield multiplier of potato salad is currently cannot be stacked with gondo datshi 's crop seed yield multiplier.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Potato Salad 12 Potato 4 Tomato 4 Mayonnaise Jar Cooking Table Food Processor Level 13 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a potato salad grants +10% crop seed yield multiplier for 15 minutes, increasing the chances of receiving an extra seed from harvesting non- fruit crops where applicable.
+
+Its crop seed yield multiplier effect of potato salads currently cannot be stacked with gondo datshis .
+
+Selling [ ]
+
+Potato salads can be sold to Petur for 1,136 - 1,704 coins each, or 1,704 - 2,556 coins if potato salad is a hot offer.
+
+History [ ]
+
+May 26, 2020 Added potato salads. January 22, 2021 Level 13 Cooking is now required to craft potato salads. February 26, 2021 Changed the model of potato salads. Changed the recipe from 3 potatoes and 1 tomato to 3 potatoes, 1 tomato, and 1 mayonnaise jar . November 13, 2021 Potato salads now grant +10% crop seed yield multiplier when consumed. Changed the description from "Apparently people eat this..." to "Eat for +10% crop seed yield multiplier." Changed the recipe to 12 potatoes, 4 tomatoes, and 4 mayonnaise jars. Changed the base selling price from 355 coins to 1,420 coins. Potato salads no longer heal 15 HP when consumed. January 8, 2022 Changed the base selling price from 1,420 coins to 1,704 - 2,556 coins. January 15, 2022 Changed the base selling price from 1,704 - 2,556 coins to 1,136 - 1,704 coins. March 25, 2022 Introduced where the crop seed yield multiplier of potato salads now cannot be stacked with gondo datshis .
+
+Trivia [ ]
+
+Since the March 25, 2022 update, the crop seed yield multiplier of potato salad cannot be stacked with gondo datshi .

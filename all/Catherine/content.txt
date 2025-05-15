@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Catherine
+
+----------------------------------------
+
+Catherine Location Spirit Island Butterfly Festival Island Purpose Sells spirit-themed items Occupation Spirit Merchant Catherine is a villager located on Spirit Island . Players can buy various spirit-themed items from her in exchange for spirit jars .
+
+Shop [ ]
+
+Spirit Island [ ]
+
+Image Name Price Spirit Sapling 20 spirit jars Spirit Seeds 50 spirit jars Hanging Spirit Light 100 spirit jars Spirit Bench 75 spirit jars Spirit Flower Pot 50 spirit jars Spirit Flower Vase 50 spirit jars Spirit Jar Light 100 spirit jars Spirit Lantern 100 spirit jars Spirit Plant 50 spirit jars Spirit Statue 500 spirit jars Spirit Stool 75 spirit jars Spirit Table 150 spirit jars Spirit Essence Holder 1,000 spirit jars Butterfly Couch 100 spirit jars Butterfly Lamp 50 spirit jars Small Bush Pot 75 spirit jars Medium Bush Pot 75 spirit jars Tall Bush Pot 75 spirit jars Frog Topiary Pot 100 spirit jars Rabbit Topiary Pot 100 spirit jars Frog Fountain 125 spirit jars Benched Gazebo 350 spirit jars Grey Gazebo 350 spirit jars Purple Gazebo 350 spirit jars Red Gazebo 350 spirit jars Pink Plush Butterfly Couch 150 spirit jars Purple Plush Butterfly Couch 150 spirit jars Red Flower Chair 75 spirit jars White Flower Chair 75 spirit jars Cyan Flower Chair 75 spirit jars Ladybug Ottoman 50 spirit jars Bee Ottoman 50 spirit jars
+
+Butterfly Festival Island [ ]
+
+Image Name Price Butterfly Festival Trophy 650 butterfly tickets Golden Net 750 butterfly tickets Butterfly Event Bench 25 butterfly tickets Frog Topiary 50 butterfly tickets Rabbit Topiary 50 butterfly tickets Butterfly Event Archway 25 butterfly tickets
+
+Dialogue [ ]
+
+Current [ ]
+
+Catherine randomly says one of the lines below:
+
+"Hey! Got any captured spirits for me? Use a net to capture spirits around the island & you'll be rewarded!" >View Shop Opens shop "Spirits are so beautiful!" >View Shop Opens shop "Sometimes I find a glowing fish down the river! Wish I could catch one..." >View Shop Opens shop.
+
+On Butterfly Festival Island [ ]
+
+"Hey user ! Got any tickets with you?" >Redeem Tickets Opens shop. >Tickets? "Help me catch a ton of butterflies and come back with tickets in exchange for some rewards!" >Okay! End.
+
+Quests [ ]
+
+Prior to the revamp of quests in the June 3, 2022 update, Catherine offered quests that players can complete in exchange for spirits, her exclusive currency at the time. A maximum of 4 quests were offered and it took 22 real life hours for a new quest to appear once the player had completed a quest.
+
+Quest Reward Capture 15 orange spirits. 30 Spirits Capture 10 red spirits. 30 Spirits Capture 5 blue spirits. 30 Spirits Capture 1 green spirits. [ sic ] 50 Spirits
+
+History [ ]
+
+June 30, 2021 Added Catherine. Fixed an issue that caused Catherine to fall over. May 20, 2022 Changed Catherine's appearance. June 3, 2022 Removed Catherine's quests. Spirit jars can now be used to purchase items from Catherine's shop instead of spirits. Removed Catherine's animation. June 18, 2022 Added offer for spirit essence holders . Added new randomized dialogue. September 3, 2022 Catherine now sells butterfly festival trophies , golden nets , frog topiaries , rabbit topiaries , garden archways , and butterfly event benches . September 10, 2022 Catherine now sells gazebos , frog topiary pots , rabbit topiary pots , bush pots , frog fountains , butterfly couches , plush butterfly couches , flower chairs , butterfly lamps , ladybug ottomans , and bee ottomans .
+
+Trivia [ ]
+
+The visual rework on May 20, 2022 was most likely done due to the design allegedly being a copy of Twitter artist BumbleSteak's character [ 1 ] . According to the artist, they did not give Easy.gg permission to use the design [ 2 ] .
+
+References [ ]

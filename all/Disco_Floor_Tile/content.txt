@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Disco_Floor_Tile
+
+----------------------------------------
+
+Disco Floor Tile Disco Floor Tile 1 Disco Floor Tile 2 Disco Floor Tile 3 Disco Floor Tile 4 Type of block Solid block; Luminous Recipe Tile 1: 10 Electrite , 4 Glass Pane , 2 Neon Red , 2 Neon Pink Tile 2: 10 Electrite , 4 Glass Pane , 2 Neon Light Green , 2 Neon Blue Tile 3: 10 Electrite , 4 Glass Pane , 2 Neon Yellow , 2 Neon Purple Tile 4: 10 Electrite , 4 Glass Pane , 2 Neon White , 2 Neon Cyan Crafted with Electrical Workbench (Level 1) Best tool Luminous Transparent A disco floor tile is a luminous furniture block . There are four numbered variants.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Disco Floor Tile 1 10 Electrite 4 Glass Pane 2 Neon Red 2 Neon Pink Electrical Workbench (Level 1) Disco Floor Tile 2 10 Electrite 4 Glass Pane 2 Neon Light Green 2 Neon Blue Disco Floor Tile 3 10 Electrite 4 Glass Pane 2 Neon Yellow 2 Neon Purple Disco Floor Tile 4 10 Electrite 4 Glass Pane 2 Neon White 2 Neon Cyan
+
+Breaking [ ]
+
+Disco Floor Tile Breaking Data Hardness 2.5 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 4 Wooden 8 8 Stone 4 4 Iron 3 3 Gilded Steel 2 2 Diamond 2 2 Opal 1 1 Void Mattock 1
+
+History [ ]
+
+October 28, 2022 Added disco floor tiles.

@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Conveyor_Belt
+
+----------------------------------------
+
+Conveyor Belt Forward Left Right Forward Tier 2 Left Tier 2 Right Tier 2 Type of block Solid block Recipe Tier 1: 1 Steel Rod 5 Iron Ingot Tier 2: 1 Conveyor Belt 3 Red Bronze Ingot Crafted with Tier 1: Workbench Tier 3 Workbench Tier 4 Tier 2: Workbench Tier 4 Required skill Tier 1 straight: Level 8 Forging Left, right, & tier 2: None Best tool Luminous Transparent Conveyor belts are blocks that can be used to transport players and items .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Required skill Conveyor Belt 1 Steel Rod 5 Iron Ingot Workbench Tier 3 Workbench Tier 4 Level 8 Forging Left Conveyor Belt 1 Steel Rod 5 Iron Ingot Workbench Tier 3 Workbench Tier 4 Level 12 Forging Right Conveyor Belt 1 Steel Rod 5 Iron Ingot Workbench Tier 3 Workbench Tier 4 Level 12 Forging Conveyor Belt Tier 2 1 Straight Conveyor Belt 3 Red Bronze Ingot Workbench Tier 4 None Left Conveyor Belt Tier 2 1 Left Conveyor Belt 3 Red Bronze Ingot Workbench Tier 4 None Right Conveyor Belt Tier 2 1 Right Conveyor Belt 3 Red Bronze Ingot Workbench Tier 4 None
+
+Jack [ ]
+
+Upon creating the first steel mill , Jack will visit the player's island and will reward the player with one industrial chest and eight conveyor belts.
+
+Breaking [ ]
+
+Conveyor Belt Breaking Data Hardness 2 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 6 Stone 4 4 Iron 2 2 Gilded Steel 2 2 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Transportation [ ]
+
+Conveyor belts can be used to transport items to and from industrial machines or automatable chests . Left or right conveyor belts are used to make turns. Conveyor belts can be crafted into tier 2 conveyor belts through the workbench tier 4 , which doubles the speed of the conveyor. Conveyor belts can also move players, but not mobs .
+
+Placing a totem next to a conveyor belt will make drop its contents onto the conveyor instead of storing them inside of itself or producing ore rocks . Tomatoes , potatoes , carrots , and onions dropped onto a conveyor belt from a crop totem will become oily .
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Up/Down Conveyor Ramp 3 Conveyor Belt 3 Steel Rod Workbench Tier 3 Workbench Tier 4 None Industrial Lumbermill 1 Conveyor Belt 2 Blue Sticky Gear 3 Steel Rod Workbench Tier 3 Workbench Tier 4 None Input/Output Chest 2 Conveyor Belt 1 Medium Chest 50 Iron Ingot Workbench Tier 3 Workbench Tier 4 Level 62 Forging Industrial Chest 1 Conveyor Belt 30 Iron Ingot 1 Medium Chest Workbench Tier 3 Workbench Tier 4 Level 8 Forging Conveyor Belt Tier 2 1 Conveyor Belt 3 Red Bronze Ingot Workbench Tier 4 None Left Conveyor Belt Tier 2 1 Left Conveyor Belt 3 Red Bronze Ingot Workbench Tier 4 None Right Conveyor Belt Tier 2 1 Right Conveyor Belt 3 Red Bronze Ingot Workbench Tier 4 None Input/Output Chest Tier 2 1 Large Chest 2 Conveyor Belt Tier 2 5 Red Bronze Ingot Workbench Tier 4 None Industrial Truffle Barrel 1 Truffle Barrel 1 Conveyor Belt 3 Blue Sticky Gear Animal Bench Level 48 Animal Care Industrial Nest 1 Nest 1 Conveyor Belt 3 Blue Sticky Gear Animal Bench Level 45 Animal Care Blueprint required Industrial Berry Basket 1 Berry Basket 1 Conveyor Belt 3 Blue Sticky Gear Maple Workbench None
+
+History [ ]
+
+May 2, 2020 Added straight, left, and right conveyor belts. May 10, 2020 All conveyor belts can now be crafted in the workbench tier 3 instead of the anvil . June 15, 2020 Dropped crops can now be made oily on if dropped from a totem onto a conveyor belt. June 26, 2020 Conveyor belts can now move players. April 4, 2021 Conveyor belts can now be used to craft industrial lumbermills . August 15, 2021 Added straight, left, and right tier 2 conveyor belts. August 28, 2021 8 conveyor belts can be claimed from Jack when he visits the player's island . October 9, 2021 Conveyor belts can now be used to craft input/output chest tier 2's and conveyor ramp down . November 27, 2021 Conveyor belts can now be used to craft industrial berry baskets . Left and right conveyor belts now move diagonally rather than in the direction of the output. February 17, 2023 Conveyor belts can now be used to craft industrial truffle barrels . March 3, 2023 Conveyor belts can now be used to craft industrial nests .
+
+Trivia [ ]
+
+Although the walls of the tier 2 conveyor belts are taller than normal ones, there is no actual hitbox for the taller walls and is purely visual. Prior to the November 27, 2021 update, left and right conveyors move items and players diagonally rather in the direction of the output, causing round items to get stuck on the corner of the conveyor.

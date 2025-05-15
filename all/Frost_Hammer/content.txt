@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Frost_Hammer
+
+----------------------------------------
+
+Frost Hammer Type Heavy Melee Physical class Striking Magical class Frost Attack damage 24 HP (Base) 36 HP (Critical) 5 HP (Frost) The frost hammer is a heavy melee weapon in the striking and frost classes.
+
+Obtaining [ ]
+
+Christmas presents [ ]
+
+Opening a Christmas present 2021 has a 0.33% chance of rewarding a frost hammer. Since the event ended, the only way to obtain it is by trading for presents or by trading to get the frost hammer directly.
+
+Behavior [ ]
+
+Attacking [ ]
+
+At level 1 Heavy Melee , the frost hammer deals a base damage of 24 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 12 HP of damage. Its damage can be increased by leveling up the Heavy Melee skill and it is in the striking and frost classes.
+
+Frost Damage [ ]
+
+Every three hits dealt to a hostile mob or bosses inflicts the frost effect, causing the attacked mob to move slower and deals damage of 5 HP. The amount of damage dealt can be increased by the player's Heavy Melee level.
+
+History [ ]
+
+December 18, 2021 Added frost hammers. September 17, 2022 Frost hammers are now a striking weapon. December 23, 2022 Frost hammers are now in the frost class.
+
+Trivia [ ]
+
+Unlike other weapons , the frost hammer and the frost sword have collision hitboxes set to true. Due to this weapon's large hitbox, it was able to collide with nearby players when swung, but this bug was shortly patched. Prior to December 23, 2022 , the frost effect of the frost hammer does not affect the bosses . Contrary to its description, it takes 3 hits instead of 4 hits. The frost hammer shares the same damage as the obsidian greatsword , except frost damage.

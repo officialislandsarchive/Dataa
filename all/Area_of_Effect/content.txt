@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Area_of_Effect
+
+----------------------------------------
+
+Area of Effect Causes Causes nearby mobs along with the target to be damaged. Source Weapons whose magical class is hydro Type Attack
+
+Area of Effect or simply AOE is an effect that affects hostile mobs when attacked by weapons whose magical class is hydro .
+
+Source [ ]
+
+Area of Effect will affect mobs when hit with a weapon whose magical class is hydro such as the tidal spellbook and the trout's fury .
+
+Causes [ ]
+
+Area of Effect creates a water torrent that appears the attacked mob, then splashes and damages nearby enemies.
+
+History [ ]
+
+July 25, 2020 Added Area of Effect. June 10, 2022 Removed Area of Effect damage from tidal spellbooks and the staff of Godzilla . October 8, 2022 Re-added Area of Effect damage to tidal spellbooks .

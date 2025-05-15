@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Instrument_Workbench
+
+----------------------------------------
+
+Instrument Workbench Block Gamepass Type of block Solid block; Crafting Recipe 20 Oak Wood Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Buy cost (gamepass) 499 Robux Best tool Luminous Transparent Description Craft instruments. The instrument workbench is a premium crafting station that is used to craft instruments .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+The player needs the instrument workbench gamepass to craft the instrument workbench.
+
+Name Recipe Crafting station Gamepass required Instrument Workbench 20 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Instrument Workbench Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Crafting recipes [ ]
+
+Image Name Recipe Bongo Drum 10 Iron Ingot 10 Oak Wood Guitar 10 Iron Ingot 10 Oak Wood Kalimba 10 Iron Ingot 10 Oak Wood Melodica 10 Iron Ingot 10 Oak Wood Pan Flute 10 Iron Ingot 10 Oak Wood Tambourine 10 Iron Ingot 10 Oak Wood
+
+History [ ]
+
+July 9, 2021 Added instrument workbenches.
+
+Trivia [ ]
+
+This is tied with the banner workbench as the most expensive crafting station that can be bought with robux, both costing 499 Robux .

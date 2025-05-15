@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Neon_Light_Welcome_Sign
+
+----------------------------------------
+
+Neon Light Welcome Sign Blue Red Yellow Type of block Solid block; Luminous Recipe 1 Colored Neon 5 Electrite Crafted with Furniture Workbench Best tool Luminous Transparent Description A wall mounted neon light sign A neon light welcome sign is a luminous furniture block that can be crafted in the furniture workbench . It can only be placed on walls and comes in three color variants: blue, red, and yellow.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Blue Neon Light Welcome Sign 1 Neon Blue 5 Electrite Furniture Workbench Red Neon Light Welcome Sign 1 Neon Red 5 Electrite Yellow Neon Light Welcome Sign 1 Neon Yellow 5 Electrite
+
+Breaking [ ]
+
+Neon Light Welcome Sign Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+January 6, 2023 Added neon light welcome signs. Neon light welcome signs can now be crafted in the furniture workbench instead of in the level 1 electrical workbench .

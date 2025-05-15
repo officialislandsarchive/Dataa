@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Fence
+
+----------------------------------------
+
+Fence Oak Pine Birch Maple Hickory Spirit Cherry Blossom Vine Stem Type of block Solid block Recipe Wood: 5 Plank Vine Stem: 5 Vine Stem Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent A fence is a decorative block . It has 8 variations: oak, pine, birch, maple, hickory, spirit, cherry blossom, and vine stem.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Oak Fence 5 Oak Plank Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Pine Fence 5 Pine Plank Birch Fence 5 Birch Plank Maple Fence 5 Maple Plank Hickory Fence 5 Hickory Plank Spirit Fence 5 Spirit Plank Cherry Blossom Fence 5 Cherry Blossom Plank Vine Stem Fence 5 Vine Stem
+
+Breaking [ ]
+
+Fence Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Scratching Post 1 Oak Fence 1 Ancient Slime String Animal Bench Level 28 Animal Care
+
+History [ ]
+
+April 24, 2020 Added oak fences. April 27, 2020 Added pine fences. May 10, 2020 Added birch and maple fences. August 2, 2020 Added hickory fences. June 30, 2021 Added spirit fences. January 20, 2023 Added cherry blossom fences March 17, 2023 Added vine stem fences. March 31, 2023 Mobs are no longer able to jump over fences.
+
+Trivia [ ]
+
+Fences can mix-and-match with other types of fences. A fence can act as a pillar if not placed next to another fence.

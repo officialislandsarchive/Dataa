@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Small_Medieval_Table
+
+----------------------------------------
+
+Small Medieval Table Type of block Solid block Recipe 20 Oak Wood Crafted with Furniture Workbench Best tool Luminous Transparent The small medieval table is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Small Medieval Table 20 Oak Wood Furniture Workbench
+
+Breaking [ ]
+
+Small Medieval Table Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+March 12, 2022 Added small medieval tables.

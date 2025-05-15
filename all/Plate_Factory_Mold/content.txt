@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Plate_Factory_Mold
+
+----------------------------------------
+
+Plate Factory Mold Recipe 5000 Steel Ingot Crafted with Anvil Description Placed inside factory assemblers to produce plates. The plate factory mold is one of the 3 factory molds in Islands , the others being the bolt factory mold and the rod factory mold .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Plate Factory Mold 5000 Steel Ingot Anvil
+
+Usage [ ]
+
+Transforming [ ]
+
+Input Item transformer + Factory mold Output 50 Copper Ingot ➡ Copper Press + Plate Factory Mold ➡ 1 Copper Plate 50 Steel Ingot ➡ Steel Press + Plate Factory Mold ➡ 1 Steel Plate
+
+History [ ]
+
+September 18, 2020 Added plate factory mold.
+
+Trivia [ ]
+
+This item requires the most steel to craft out of any item in the game.

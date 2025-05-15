@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Poison
+
+----------------------------------------
+
+Poison Causes Poisons and damages mobs over time Source Weapons whose magical class is toxin Type Attack
+
+Poison is an effect that affects hostile mobs when attacked by weapons whose magical class is toxin .
+
+Causes [ ]
+
+The Poison Effect can be obtained by attacking mobs with a weapon whose magical class is toxin such as a noxious stinger , the divine dao , or poison long arrows .
+
+Information [ ]
+
+Poison will deal damage over time, dealing 15% of the attacks initial damage that inflicted it. It does not stack. Enemies that resist toxin will only take a maximum of 1 damage per tick over time.
+
+History [ ]
+
+March 17, 2023 Added Poison.

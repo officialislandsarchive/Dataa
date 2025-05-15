@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Flower_Pot_(Floral_Bench)
+
+----------------------------------------
+
+Flower Pot Blue Flower Pot Red Flower Pot Yellow Flower Pot Type of block Solid block Recipe 1 Yellow/Red/Blue Flower 3 Brick Crafted with Floral Bench Best tool Luminous Transparent
+
+Flower pots are decorative blocks that are crafted with flowers and bricks .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Flower pots can only be crafted by players who own the floral bench gamepass, which costs 149 Robux , in a floral bench. Any kind of flowers can be used in this recipe.
+
+Name Recipe Crafting station Blue Flower Pot 1 Blue Flower 3 Brick Floral Bench Red Flower Pot 1 Red Flower 3 Brick Floral Bench Yellow Flower Pot 1 Yellow Flower 3 Brick Floral Bench
+
+Breaking [ ]
+
+Flower Pot Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Trivia [ ]
+
+The flower pots use a legacy flower as the flower, explaining why there is only red, yellow, and blue flower pots.

@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Medal
+
+----------------------------------------
+
+Medal Master of Fishing Master of Farming Master of Forging Master of Combat Master of Light Melee Master of Heavy Melee Master of Magic Master of Archery Master of Mining Master of Woodcutting Master of Economy Master of Cooking Master of Animal Husbandry Medals are items used to commemorate the player in completing certain achievements . There are currently 13 medals, one for each skill . They cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Achievements [ ]
+
+Achievement Description AP rewarded Bonus rewards Master of Fishing Reach Level 100 Fishing 50 1x Master of Fishing Medal Master of Farming Reach Level 100 Farming 1x Master of Farming Medal Master of Forging Reach Level 100 Forging 1x Master of Forging Medal Master of Combat Reach Level 100 Combat 1x Master of Combat Medal Master of Light Weapons Reach Level 100 Light Melee 1x Master of Light Melee Medal Master of Heavy Weapons Reach Level 100 Heavy Melee 1x Master of Heavy Melee Medal Master of Magic Reach Level 100 Magic 1x Master of Magic Medal Mastery of Archery Reach Level 100 Archery 1x Master of Archery Medal Mastery of Mining Reach Level 100 Mining 1x Master of Mining Medal Mastery of Woodcutting Reach Level 100 Woodcutting 1x Master of Woodcutting Medal Master of Economy Reach Level 100 Economy 1x Master of Economy Medal Master of Cooking Reach Level 100 Cooking 1x Master of Cooking Medal Master of Animals Reach Level 100 Animal Care 1x Master of Animal Husbandry Medal Master of Hardcore Survive 720 hours(30 days) in Hardcore 1x Master of Hardcore
+
+Usage [ ]
+
+Displaying [ ]
+
+Medals can be displayed in a single medal display stand mounted on the side of blocks . Up to one medal can be showcased per stand.
+
+History [ ]
+
+February 3, 2023 Added medals.

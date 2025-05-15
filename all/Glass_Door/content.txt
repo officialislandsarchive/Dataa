@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Glass_Door
+
+----------------------------------------
+
+Glass Door Type of block Solid block; Interactable Recipe 5 Solid Black 5 Glass Pane Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description Hand crafted glass door. A glass door is a block that can be opened and closed upon interaction by any player even without build permission .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Glass Door 5 Solid Black 5 Glass Pane Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Glass Door Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+Usage [ ]
+
+Opening [ ]
+
+To open a glass door interact with it, players do not need build permission to open them.
+
+History [ ]
+
+March 31, 2023 Added glass doors.

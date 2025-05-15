@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Trout%27s_Fury
+
+----------------------------------------
+
+Trout's Fury Type Heavy Melee Physical class Striking Magical class Hydro Attack damage 11 HP (Base) +6 HP (Critical) Buy cost 200 Fishing Tickets Description A fishy weapon, you sea... The trout's fury is a heavy melee weapon in the striking and hydro classes.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+The trout's fury could have been purchased from Thomas on Fishing Festival Island for 200 fishing tickets during the 2022 Fishing Festival event.
+
+Attacking [ ]
+
+At level 1 Heavy Melee , the trout's fury deals a base damage of 11 HP. It has the ability to damage multiple mobs in one swing and deals extremely high knockback. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 6 HP of damage. Its damage can be increased by leveling up the Heavy Melee skill and it is in the striking and hydro classes.
+
+Like other melee weapon , only one player can hit damage in each hostile mob. Multiple players cannot hit damage together.
+
+History [ ]
+
+July 23, 2022 Added trout's furies. July 30, 2022 Trout's furies are now unobtainable. August 1, 2022 Trout's furies can now be dropped, traded , and put in vending machines and chests . September 17, 2022 Trout's furies are now a striking weapon. September 24, 2022 Trout's furies are now a hydro weapon. October 8, 2022 Trout's furies now deal AOE damage.
+
+Trivia [ ]
+
+The trout's fury is one of the only weapons with a physical and magical classification, with the others being the infernal hammer , the serpent's hook and the reaper's scythe . If the mob has a weakness or resistance to both of its classification, then the damage multiplier will be either higher or lower than normal. While if the mob has a weakness and resistance to each of its classification, then neutral damage will apply.

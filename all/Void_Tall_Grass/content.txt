@@ -1,0 +1,17 @@
+Source: https://robloxislands.fandom.com/wiki/Void_Tall_Grass
+
+----------------------------------------
+
+Void Tall Grass Type of block Non-solid block Best tool Luminous Transparent Void tall grass is an an unimplemented block in Islands .
+
+Information [ ]
+
+Void tall grass was added on August 13, 2022 along with other void blocks but was left unimplemented.
+
+Breaking [ ]
+
+Void Tall Grass Breaking Data Hardness 1 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 2 Stone 2 1 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+History [ ]
+
+August 13, 2022 Added void tall grass.

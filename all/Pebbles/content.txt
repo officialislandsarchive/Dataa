@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Pebbles
+
+----------------------------------------
+
+Pebbles Type of block Solid block Recipe 3 Stone Crafted with Furniture Workbench Best tool Luminous Transparent
+
+Pebbles are furniture blocks that can be crafted in a furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+The crafting ratio is 3:5, meaning 3 stone makes 5 pebbles.
+
+Name Recipe Crafting station 5 Pebbles 3 Stone Furniture Workbench
+
+Breaking [ ]
+
+Pebbles Breaking Data Hardness 3 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 5 Stone 5 3 Iron 3 2 Gilded Steel 3 2 Diamond 2 1 Opal 2 1 Void Mattock 1
+
+History [ ]
+
+January 4, 2021 Added pebbles.

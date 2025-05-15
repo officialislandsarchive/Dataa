@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Category:Trees
+
+----------------------------------------
+
+Trees Oak Tree Variant 1 Oak Tree Variant 2 Oak Tree Variant 3 Pine Tree Birch Tree Maple Tree Avocado Tree Apple Tree Hickory Tree Orange Tree Palm Tree Kiwi Tree Plum Tree Legacy Oak Tree Spirit Tree Best tool
+
+Trees are plants that are currently the only sources of Wood . Seven trees can be bought from Cletus which are Oak Trees , Maple Trees , Pine Trees , Avocado trees , Birch Trees , Hickory Trees , Plum Trees , Kiwi Trees and Spirit Trees but there are 4 island-exclusive trees, which are the Lemon Tree , Apple Tree , Palm Tree , and Orange Tree . All players will begin with one exclusive tree and one tree on their islands. The optimal tool to cut trees is an axe of any kind (with the exception of the Iron War Axe and Kong Axe ). However, a pickaxe will also work.
+
+When chopped, trees will drop a sapling of its respective species, thereby allowing the player to replant trees. However, they cannot drop bonus saplings, therefore the only way to get more saplings is to buy them from the Seeds Merchant or trading.
+
+If the leaf clippers are used on the trees, they will produce two leaf . If you clip any tree except for maple, you get a regular leaf, but if you use the clipper on Maple trees, you will get maple leaves. The leaves can all be crafted into decorative bushes via floral bench , but can also be crafted into leaf blocks with a normal workbench.
+
+Trees need to be kept at least 5-7 blocks away from another tree in order to grow. (5 blocks when a nearby tree is a sapling and 7 blocks when it is grown.) Pine Trees can have 4 blocks between each other making them easier to fit into smaller spaces.
+
+Fruit Trees [ ]
+
+Fruit trees consist of the Plum, Avocado, Lemon, Kiwi, Orange, Coconut, and Apple trees. They will all still produce wood and it's own sapling when chopped down, and but their main purpose is to create fruit. They each grow their respective fruits, which have to be hand picked. Each tree can grow up to 3 fruit at a time.
+
+Lemon trees , Apple trees , Palm Tree , and Orange trees are mutually exclusive to each island. Players only get one on their island. The only way for a player to receive different types or more are via trading, or by harvesting the fruits until the player gains another sapling. The Avocado and Plum trees are sold in the Seeds Merchants shop for 8000 coins and 14000 coins respectively.
+
+The Palm Tree is the first and currently the only event tree. Harvesting coconuts on Skull Island , during the Godzilla vs. Kong event, gave a small percentage of obtaining a palm tree sapling.
+
+Bee Hives [ ]
+
+There's a chance of spawning a Bee Hive if it's surrounded by flowers and it will spawn bees .
+
+Trivia [ ]
+
+If you break the grass under where the tree was grown on, this causes the tree to be harvested without it needing to be hit at all, resorting in the full amount of wood gained and sapling. Because of this, it's possible to one shot trees as long as you can one shot grass. The only downside is the fact that the grass needs to be replaced afterwards if you plan to replant the sapling in the same spot. On some developer islands, there appears to be a unimplemented " test tree ". Not much is known about it compared to other secret items. It has a unique model not used for regular trees, and seems to be able to grow/be placed on any block.

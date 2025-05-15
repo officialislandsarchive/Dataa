@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Dom
+
+----------------------------------------
+
+Dom is a villager located in the Hub . Players can sell crates of crops or fruits and pallets to him.
+
+Shop [ ]
+
+Dom buys crates and pallets for various prices in exchange for coins . Each sale is sold at a higher value than if sold individually to Cletus or John .
+
+Buying [ ]
+
+Image Name Sell price % increase from other buyers Crate of Wheat 840 coins 20% Crate of Tomatoes 480 coins 20% Crate of Potatoes 1,320 coins 20% Crate of Carrots 3,000 coins 20% Crate of Onions 3,600 coins 20% Crate of Starfruit 7,200 coins 20% Crate of Pumpkins 6,240 coins 20% Crate of Melons 10,200 coins 20% Crate of Pineapples 11,520 coins 20% Crate of Cactus 3,600 coins 20% Crate of Spinach 2,160 coins 20% Crate of Radishes 7,680 coins 20% Crate of Apples 4,000 coins 100% Crate of Avocados 6,400 coins 100% Crate of Coconuts 9,000 coins 100% Crate of Kiwis 6,400 coins 100% Crate of Lemons 4,000 coins 100% Crate of Oranges 4,000 coins 100% Crate of Plums 10,000 coins 100% Large Crate of Wheat 2,362 coins 35% Large Crate of Tomatoes 1,350 coins 35% Large Crate of Potatoes 3,712 coins 35% Large Crate of Carrots 8,437 coins 35% Large Crate of Onions 10,125 coins 35% Large Crate of Starfruit 20,250 coins 35% Large Crate of Pumpkins 17,550 coins 35% Large Crate of Melons 28,687 coins 35% Large Crate of Pineapples 32,400 coins 35% Large Crate of Cactus 10,125 coins 35% Large Crate of Spinach 6,075 coins 35% Large Crate of Radishes 21,600 coins 35% Large Crate of Apples 12,500 coins 150% Large Crate of Avocados 20,000 coins 150% Large Crate of Coconuts 28,125 coins 150% Large Crate of Kiwis 20,000 coins 150% Large Crate of Lemons 12,500 coins 150% Large Crate of Oranges 12,500 coins 150% Large Crate of Plums 31,250 coins 150% Birch Pallet 1,050 coins 500% Hickory Pallet 4,200 coins 500% Maple Pallet 2,250 coins 500% Oak Pallet 300 coins 500% Pine Pallet 600 coins 500% Spirit Pallet 5,100 coins 500% Cherry Blossom Pallet 6,000 coins 500%
+
+Selling [ ]
+
+Image Name Price Crate Packer 10,000 coins
+
+Dialogue [ ]
+
+Upon interacting, Dom may say:
+
+"Mornin' user , got any crates for me?" "My creature loves pineapples." "Could use some more large melon crates... carrots too." >View Shop Leads to shop. >Why Crates? "I've been raising a large creature.. Once it is fully grown I will bring it to town." >Oh.. Okay. End. >Talk about mystery "There's something big coming... but it's not my creature!" >Okay! End.
+
+History [ ]
+
+June 4, 2021 Added Dom. August 15, 2021 Dom now purchases large crates . August 21, 2021 Dom now purchases apple , avocado , coconut , kiwi , lemon , and orange crates along with birch , hickory , maple , oak , pine , and spirit pallets . September 5, 2021 Dom is given new dialogue about the "mystery". October 9, 2021 Dom now purchases plum crates . October 18, 2021 Removed dialogue about the "mystery". January 8, 2022 Lowered the selling price of normal and large crop crates. January 15, 2022 Increased the selling price of crates and large crates of starfruit from 5,400 coins and 15,187 coins to 7,200 coins and 20,250 coins respectively. April 1, 2022 Increased the selling price of crates of tomatoes from 1,080 coins to 1,800 coins. May 13, 2022 Lowered the selling price of regular and large watermelon crates from 9,600 coins and 27,000 coins to 9,000 coins and 25,312 coins respectively. Increased the selling price of regular and large kiwi crates from 4,800 coins and 15,000 coins to 6,400 coins and 20,000 coins respectively. July 30, 2022 Dom now purchases pineapple , cactus , and spinach crates. October 1, 2022 Lowered the selling price of regular and large tomato crates from x and x coins to 480 coins and 1,350 coins respectively. Increased the selling price of regular and large pineapple crates from x and x coins to 11,520 and 32,400 coins respectively. January 20, 2023 Dom now purchases cherry blossom pallets .
+
+Trivia [ ]
+
+The large creature that Dom claims he is raising may suggest an update in the future or an upcoming event. It may also be a nod to Islands' sister games, Bedwars. In Bedwars, there is a kit named Dino Tamer Dom . Dom's creature loves pineapples , as suggested in one of his dialogues. His creature also seems to like watermelons and carrots , as one of his dialogues reads "Could use some more large melon crates... carrots too."

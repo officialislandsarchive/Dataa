@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Smooth_Aquamarine
+
+----------------------------------------
+
+Smooth Aquamarine Type of block Solid block Recipe 1 Aquamarine Block Crafted with Polishing Station Industrial Polishing Station Best tool Luminous Transparent Smooth aquamarine is the smooth version of aquamarine blocks .
+
+Obtaining [ ]
+
+Polishing [ ]
+
+Aquamarine blocks can be polished into smooth aquamarine in a polishing station or an industrial polishing station .
+
+Input Item transformer Output 1 Aquamarine Block ➡ Polishing Station ➡ 1 Smooth Aquamarine ➡ Industrial Polishing Station ➡
+
+Breaking [ ]
+
+Smooth Aquamarine Breaking Data Hardness 4 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 6 Stone 7 4 Iron 4 3 Gilded Steel 3 2 Diamond 2 2 Opal 2 1 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Smooth Aquamarine Stair 1 Smooth Aquamarine Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Smooth Aquamarine Slab 1 Smooth Aquamarine Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Smooth aquamarine can be transformed into smooth aquamarine bricks in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Smooth Aquamarine ➡ Stonecutter ➡ 1 Smooth Aquamarine Brick ➡ Industrial Stonecutter ➡
+
+History [ ]
+
+June 4, 2021 Added smooth aquamarine February 19, 2022 Changed the texture of smooth aquamarine.

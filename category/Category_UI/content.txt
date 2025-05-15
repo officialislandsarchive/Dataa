@@ -1,0 +1,5 @@
+Source: https://robloxislands.fandom.com/wiki/Category:UI
+
+----------------------------------------
+
+UI stands for User Interface, it's also called GUI which stands for Graphical User Interface. UI elements range from the Inventory to the Settings Menu . This category holds all the default player UI elements.

@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Tall_Grass
+
+----------------------------------------
+
+Tall Grass Type of block Non-solid block Spawns Player's Island Best tool Luminous Transparent Tall grass is a foliage block that randomly spawns on top of unoccupied grass blocks on player islands .
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+There is a random chance for tall grass to spawn on grass blocks on player islands that aren't occupied by other blocks. They can be broken and will drop a single tall grass. The exact spawn chance is unknown.
+
+Breaking [ ]
+
+Tall Grass Breaking Data Hardness 1 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 2 Stone 2 1 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Tall grass can only be placed on grass for decoration. It can also be used in some crafting recipes.
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Mossy Stone Brick 4 Stone Brick 1 Tall Grass Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None 4 Mossy Block 4 Tall Grass Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None 4 Mossy Cobblestone Block 8 Stone 4 Tall Grass Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Trellis 30 Birch Wood 1 Tall Grass Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 35 Farming Mud Pile 2 Tall Grass 20 Grass 1 Black Truffle Animal Bench Level 37 Animal Care '70s Lime Table 30 Birch Wood 1 Tall Grass Furniture Workbench None Aquamarine Potted Plant 2 Tall Grass 10 Aquamarine Shard 5 Grass Furniture Workbench None
+
+History [ ]
+
+April 10, 2020 Added tall grass. May 10, 2020 Tall grass can now be used to craft trellises . May 26, 2020 Tall grass can now be used to craft mossy stone bricks . May 31, 2020 Tall grass can now be used to craft '70s lime table . January 29, 2021 Tall grass can now be used to craft aquamarine potted plants . February 5, 2021 Tall grass can now be used to craft mud piles . June 4, 2021 Rabbits are now able to eat tall grass. July 16, 2022 Tall grass can now be used to craft mossy blocks and mossy cobblestone blocks .
+
+Trivia [ ]
+
+Seasons change the color of some natural blocks like grass and trees , but not tall grass. Rabbits may eat from a tall grass, similar to cows , sheep , pigs , chickens , turkeys , ducks , yaks , and horses eating from a grass block . Rabbits do not break the non-soild block while eating tall grass.

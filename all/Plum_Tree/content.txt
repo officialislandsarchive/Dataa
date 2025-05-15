@@ -1,0 +1,47 @@
+Source: https://robloxislands.fandom.com/wiki/Plum_Tree
+
+----------------------------------------
+
+Plum Tree Type of block Solid block Spawns Player's Island Best tool Drops 1 Plum Tree Sapling 3 - 4 Oak Wood Luminous Transparent The plum tree is a fruit tree added in the October 9, 2021 update.
+
+The canopies of plum trees change color based on the current in-game season ; dark green in spring , light green in summer , dark red in fall , and white in winter , but its sapling always has light green leaves on its canopy.
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+Players have a 25% chance of starting with a plum tree on their island upon island creation.
+
+Purchasing [ ]
+
+Plum trees are grown from plum tree saplings , which can be purchased from Cletus for 14,000 coins in the Hub . It takes 1 minute and 35 seconds for a plum tree sapling to grow into a plum tree.
+
+Harvesting [ ]
+
+Plum tree saplings have a 3% chance of dropping whenever a plum is harvested from the tree. It can be planted on grass to be grown into a plum tree.
+
+Breaking [ ]
+
+Plum Tree Breaking Data Hardness 8 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 12 24 Stone 8 13 Iron 5 8 Gilded Steel 4 6 Diamond 3 4 Opal 2 4 Void Mattock 2
+
+Drops [ ]
+
+When cut down, the player will receive:
+
+1 plum tree sapling 3 - 4 oak wood
+
+Usage [ ]
+
+Harvesting [ ]
+
+Plums grow every season on plum trees and can be obtained by harvesting them from the tree. There can be up to three plums on a tree at a time, and whenever a plum is harvested, there is a 3% chance of getting an additional plum tree sapling. Harvesting a plum yields 6 Farming XP (24 XP with the 4x daily bonus). It takes 5 minutes for a plum tree to grow a plum, adding up to a total of 15 minutes to grow three plums.
+
+Plum trees can be harvested with leaf clippers to drop 2 leaves .
+
+History [ ]
+
+October 9, 2021 Added plum trees.
+
+Trivia [ ]
+
+If a plum tree is chopped down while having plums on it, it will only drop the sapling and not any of the plums. It is the most expensive sapling purchasable from Tom . The plum tree is the fastest growing fruit tree.

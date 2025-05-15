@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Void_Stone_Tiled
+
+----------------------------------------
+
+Void Stone Tiled Type of block Solid block Recipe 1 Void Stone Carved Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Stonecutter Industrial Stonecutter Best tool Luminous Transparent A void stone tiled is a block cut from void stone carved .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Void Stone Tiled 1 Void Stone Carved Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Void stone carved can be transformed into void stone tiled in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Void Stone Carved ➡ Stonecutter ➡ 1 Void Stone Tiled ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Void Stone Tiled Breaking Data Hardness 8 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 12 Stone 13 8 Iron 8 5 Gilded Steel 6 4 Diamond 4 3 Opal 4 2 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Void Stone Tiled Stair 1 Void Stone Tiled Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Void Stone Tiled Slab 1 Void Stone Tiled Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+History [ ]
+
+August 27, 2022 Added void stone tiled.

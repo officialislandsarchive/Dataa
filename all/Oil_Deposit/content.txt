@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Oil_Deposit
+
+----------------------------------------
+
+Oil Deposit Type of block Solid block Spawns Resource Island Best tool Luminous Transparent An oil deposit is a resource block which generates in oil resource islands spawned using an oil resource deed .
+
+Spawning [ ]
+
+Resource islands [ ]
+
+One temporary oil deposit naturally generates as part of oil resource islands spawned using oil resource deeds . Oil resource deeds will only spawn an oil resource island provided that a workbench tier 4 is present on their island and the limit of 15 resource islands of any kind has not been reached.
+
+Breaking [ ]
+
+Breaking an oil deposit will not drop the actual block nor will it drop any items.
+
+Oil Deposit Breaking Data Hardness 100 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 150 Wooden 300 150 Stone 160 100 Iron 100 63 Gilded Steel 70 50 Diamond 50 30 Opal 40 20 Void Mattock 20
+
+Pumping [ ]
+
+Placing a pumpjack on top of an oil deposit and fueling it with coal or petrified petroleum will provide a constant supply of 1 oil fuel every 5 seconds. Oil deposits will run dry after producing 5,000 units of oil fuel.
+
+Any natural oil resource islands spawned prior to the June 3, 2022 update will have an oil deposit with 12,000 units of oil fuel that is pumped out 3.3x slower than one spawned using an oil resource deed.
+
+History [ ]
+
+August 15, 2021 Added oil deposits. August 16, 2021 Oil resource islands can now be spawned using an oil resource deed . June 3, 2022 Oil resource islands no longer naturally spawn. June 10, 2022 Fixed a bug that prevented oil deposits from spawning when using an oil resource deed . Changed the limit of oil resource islands from two to 15 resource islands of any kind.

@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Avocado
+
+----------------------------------------
+
+Avocado Heals 10 HP Sell price 36 coins An avocado is a fruit grown on avocado trees .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Avocados grow every season on avocado trees and can be obtained by harvesting the trees. There can be up to three avocados on a tree at a time. When harvested, the player will obtain 1 avocado, 6 Farming XP (24 with the 4x daily bonus), and a 3% chance for an additional avocado tree sapling .
+
+It takes 1 minute and 30 seconds for an avocado to grow and 4 minutes and 30 seconds for the three avocados to grow.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Avocado Toast 1 Bread 2 Avocado Cooking Table Food Processor Level 33 Cooking Dragon Roll 1 Sushi Roll 2 Cut Eel 2 Avocado Cooking Table Food Processor Level 72 Cooking
+
+Crate-packing [ ]
+
+Image Name Recipe Crafting station Crate of Avocados 100 Avocado Crate Packer Large Crate of Avocados 250 Avocado Tier 2 Crate Packer
+
+Eating [ ]
+
+Eating an avocado restores 10 HP.
+
+Selling [ ]
+
+Avocados can be sold to Tom for 36 coins .
+
+History [ ]
+
+June 26, 2020 Added avocados. August 21, 2021 Avocados can now be packed into crates and large crates . November 13, 2021 Avocados can now be used to craft dragon rolls . May 27, 2022 Changed the sell price of avocados from 32 coins to 36 coins. June 3, 2022 Changed the sell price of avocados from 36 coins to 32 coins. Avocados can now be sold to Cletus instead of to Tom . October 15, 2022 Avocados can now be sold to Tom instead of to Cletus. October 28, 2022 Changed the sell price of avocados from 32 coins to 36 coins.
+
+Trivia [ ]
+
+If an avocado tree is chopped down while having avocados on it, it will only drop the sapling and not any of the avocados.

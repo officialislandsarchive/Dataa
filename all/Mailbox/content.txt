@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Mailbox
+
+----------------------------------------
+
+Mailbox Type of block Solid block; Interactable Recipe 10 Oak Wood Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Spawns Player's Island Best tool Luminous Transparent Description "Place to send and receive mail!" The mailbox is a block used to send and receive letters.
+
+Obtaining [ ]
+
+Player's Island [ ]
+
+A mailbox is spawned near the portal to the Hub to every player that joins Islands . However, if you have blocks that is blocking the portal on the day of the update, the mailbox will automatically be sent to your inventory.
+
+Crafting [ ]
+
+Name Recipe Crafting station Mailbox 10 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Mailbox Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Mail [ ]
+
+Mailboxes can be used to send letters to Roblox friends, to do so players must interact with the mailbox and select the "Send Mail" button. After that they must fill out three fields: Recipient, Subject and the Message. The Message and Subject fields are censored with Roblox's censor service, letters with inappropriate words will NOT be sent, those words will be highlighted in red. Likewise after every in-game update each player will receive an official letter containing the most recent update's changelog.
+
+History [ ]
+
+May 21, 2021 Added mailboxes.

@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Single_Medal_Display_Stand
+
+----------------------------------------
+
+Single Medal Display Stand Type of block Solid block; Interactable Recipe 4 Golden Plate 1 Glass Pane 1 Steel Plate 1 Red Carpet Crafted with Workbench Tier 4 Best tool Luminous Transparent Description Display a medal of your choosing! A single medal display stand a block used to display medals obtained from maxing out certain achievements .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Single Medal Display Stand 4 Golden Plate 1 Glass Pane 1 Steel Plate 1 Red Carpet Workbench Tier 4
+
+Achievements [ ]
+
+Achievement Description AP rewarded Bonus rewards Practice makes perfect Reach level 100 for any level on islands [sic] 10 1x Single Medal Display Stand
+
+Breaking [ ]
+
+Single Medal Display Stand Breaking Data Hardness ? Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+Usage [ ]
+
+Displaying [ ]
+
+Players can display one medal in single medal display stands.
+
+History [ ]
+
+February 3, 2023 Added single medal display stands.

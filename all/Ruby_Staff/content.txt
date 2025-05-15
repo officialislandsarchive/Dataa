@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Ruby_Staff
+
+----------------------------------------
+
+Ruby Staff Type Magic weapon Magical class Quake Magic weapon type Staff Attack damage 36 HP Recipe 10 Ruby 2 Gilded Steel Rod Crafted with Anvil Required skill Level 36 Magic Description A staff similar to Bhaa's, heals lowest health nearby player for 15 health on hit. [sic] The ruby staff is a ranged magic weapon added in the April 24, 2021 update. It is in the quake class.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required Skill Ruby Staff 10 Ruby 2 Gilded Steel Rod Anvil Level 36 Magic
+
+Attacking [ ]
+
+Casting [ ]
+
+At level 1 Magic , fireballs can be shot from the ruby staff to deal a base damage of 36 HP every second. The fireballs are shot horizontally in the direction the player is facing, and its damage can be increased by levelling up the Magic skill.
+
+History [ ]
+
+April 24, 2021 Added ruby staffs. ? Reduced the ruby staff's healing power from 20 HP to 15 HP. May 27, 2022 Ruby staffs are now able to be charged to deal more damage. Level 36 Magic is now required to craft ruby staffs. Changed the appearance of projectiles fired by ruby staffs. Added the ability to aim projectiles. June 10, 2022 Nerfed the ruby staff's base damage from 50 HP to 42 HP. Nerfed the ruby staff's charging damage. September 17, 2022 Nerfed the ruby staff's base damage from 42 HP to 36 HP. Removed the ruby staff's charging ability. The ruby staff is now an ethereal weapon. ? The ruby staff's projectiles now explode instead of disappearing. October 8, 2022 The ruby staff is now a quake weapon. Removed the ruby staff's healing. Ruby staffs will now affect hostile mobs with the Slowness effect when attacked by this. December 23, 2022 Ruby staffs will now affect hostile mobs with the Vulnerability effect instead of Slowness when attacked by this.
+
+Trivia [ ]
+
+Although Bhaa holds his own ruby staff, he cannot heal himself nor the skorps he summons with it. This used to be the only magic weapon where its projectile doesn't explode after reaching a short distance; instead, it disappears. This weapon is likely inspired by the Ruby Staff from Terraria . The ruby staff deals the same amount of damage as the tidal spellbooks . The ruby staff could heal other players around the player who uses it prior to the October 8, 2022 update.

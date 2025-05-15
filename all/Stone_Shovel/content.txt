@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Stone_Shovel
+
+----------------------------------------
+
+Stone Shovel Type Tool Recipe 20 Stone 10 Oak Wood Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Description Used to collect snow from snow piles in the Hub. A stone shovel is a tool that is used to collect snow and dig up treasure chests . It functions the same as the Christmas shovel , and only visually differs from it.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Stone Shovel 20 Stone 10 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Davey [ ]
+
+Upon the release of the July 17, 2021 update, players could obtain a stone shovel when first interacting with Davey on the player's island . However, Davey no longer gave the player a stone shovel since the following day.
+
+Usage [ ]
+
+The stone shovel can be used to shovel piles of snow on the Hub's Mountain or dig up buried treasure chests found through the help of a treasure map . If there is nothing to be shoveled, it will emit grey particles after an animation, but if there is, a different animation will play and the shovel will emit snowflake-shaped particles. Stone shovels can also be used to break blocks on the player's island.
+
+History [ ]
+
+December 18, 2020 Added stone shovels. July 17, 2021 A stone shovel can be received when first interacting with Davey on the player's island . July 18, 2021 A stone shovel can no longer be received when first interacting with Davey on the player's island. July 30, 2021 The stone shovel can now break blocks on your island. December 10, 2021 Removed animations of stone shovel due to lag. ? Re-added the stone shovel's animations.
+
+Trivia [ ]
+
+The stone shovel has the least efficiency among other tools like wood, stone, iron, glided steel. The efficiency is close to wooden tools.

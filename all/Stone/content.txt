@@ -1,0 +1,47 @@
+Source: https://robloxislands.fandom.com/wiki/Stone
+
+----------------------------------------
+
+Stone Stone Rock Spawns Player's Island Hub Slime Island Best tool Luminous Transparent Stone is a block that can be mined from wild rocks or stone rocks in the Hub and Slime Island .
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+The player automatically starts with 3,047 blocks of stone on their island .
+
+Mining [ ]
+
+Stone rocks naturally spawn in the Hub and on Slime Island . Mining a stone rock grants 4 - 6 stone and 3 Mining XP (6 with the 4x daily bonus) per stage, resulting in a total of 8 - 12 stone and 6 Mining XP (12 with the 4x daily bonus) per rock.
+
+Additionally, mining a wild rock on the player's island will drop 1 stone.
+
+Mining a fossil rock grants the player ??-?? stone.
+
+Totems [ ]
+
+Stone totems can be purchased from Arius in the Hub for 2,000 coins after reaching level 10 Mining . A stone totem will spawn stone rocks around it when placed, or if placed next to a conveyor belt , the totem will drop stone directly onto the conveyor.
+
+Breaking [ ]
+
+Stone Breaking Data Hardness 8 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 12 Stone 13 8 Iron 8 5 Gilded Steel 6 4 Diamond 4 3 Opal 4 2 Void Mattock 2 Stone Rock Breaking Data Hardness 14 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 21 Wooden 42 21 Stone 23 14 Iron 14 9 Gilded Steel 10 7 Diamond 7 5 Opal 6 3 Void Mattock 3
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Stone Pickaxe 20 Stone 10 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Stone Axe 20 Stone 10 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Stone Sword 40 Stone 10 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Plow 5 Oak Wood 2 Stone Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Stone Sickle 5 Oak Wood 15 Stone Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Stone Shovel 20 Stone 10 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Small Furnace 10 Stone 10 Iron Ingot Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 3 Forging Polishing Station 45 Oak Wood 5 Iron Ingot 20 Stone Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 24 Forging Composter 30 Birch Wood 10 Stone Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 14 Farming Firefly Lantern 1 Yellow Firefly Jar 25 Stone Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Workbench Tier 2 50 Oak Wood 50 Iron Ingot 50 Stone Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Pond Planter 40 Stone 10 Grass 1 Water Bucket Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Workbench Tier 3 400 Iron Ingot 50 Stone 20 Maple Wood Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Slime Portal 80 Stone 1 Slime Portal Shard Workbench Tier 3 Workbench Tier 4 None Stone Short Arrow 4 Stone 1 Oak Wood Anvil None Fish Tank Castle 10 Stone 10 Iron Ingot Furniture Workbench Level 35 Fishing Water Fountain 30 Stone 4 Coal Furniture Workbench None Pebbles 3 Stone Furniture Workbench None Potted Tree 1 Oak Sapling 20 Stone 5 Grass Furniture Workbench None Sword in Stone 2 Stone 1 Iron Sword Furniture Workbench None
+
+Transforming [ ]
+
+Stone can be transformed into stone bricks in a stonecutter or an industrial stonecutter , or into smooth stone in a polishing station or an industrial polishing station .
+
+Input Item Transformer Output 1 Stone ➡ Stonecutter ➡ 1 Stone Brick ➡ Industrial Stonecutter ➡ 1 Stone ➡ Polishing Station ➡ 1 Smooth Stone ➡ Industrial Polishing Station ➡
+
+Totem upgrading [ ]
+
+Stone can be used to upgrade mineral totems .
+
+Trivia [ ]
+
+Stone used to be sellable to John for 2 coins before an unknown update. Stone used to have a different texture before May 8, 2021 .

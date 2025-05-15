@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Diorite_Carved
+
+----------------------------------------
+
+Diorite Carved Type of block Solid block Recipe 1 Diorite Tiles Crafted with Stonecutter Industrial Stonecutter Best tool Luminous Transparent Diorite carved is a block that can be cut from diorite tiles .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Diorite tiles can be transformed into diorite carved in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Diorite Tiles ➡ Stonecutter ➡ 1 Diorite Carved ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Diorite Carved Breaking Data Hardness 12 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 18 Wooden 36 36 Stone 20 20 Iron 12 12 Gilded Steel 9 9 Diamond 6 6 Opal 5 5 Void Mattock 3
+
+History [ ]
+
+March 6, 2022 Added diorite carved.

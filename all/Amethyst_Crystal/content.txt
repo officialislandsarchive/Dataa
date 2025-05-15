@@ -1,0 +1,41 @@
+Source: https://robloxislands.fandom.com/wiki/Amethyst_Crystal
+
+----------------------------------------
+
+Amethyst Crystal Amethyst Crystal Rock Dropped by Void Hound , Void Serpent , Void Crop Eater Spawns Void Isles Sell price 7 coins An amethyst crystal is a crystal that can be mined from an amethyst rock .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Amethyst rocks naturally generate throughout the Void Isles . Mining an amethyst rock yields 1 - 2 amethyst crystals after each stage and 9 Mining XP (36 with the 4x daily bonus), resulting in a total of 2 - 4 amethyst crystals and 18 Mining XP (72 with the 4x daily bonus) per rock.
+
+Mob drop [ ]
+
+Void hounds have a 1% chance of dropping an amethyst crystal upon defeat.
+
+Serpent eggs [ ]
+
+Opening a serpent egg has a 75% chance of rewarding 15 - 30 amethyst crystals, having a rarity of 'common'.
+
+Breaking [ ]
+
+Amethyst Rock Breaking Data Hardness 60 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 90 Wooden 180 90 Stone 96 60 Iron 60 38 Gilded Steel 42 30 Diamond 30 18 Opal 24 12 Void Mattock 12
+
+Quests [ ]
+
+Quest Type Tasks Reward Prerequisites Cooldown duration Fight Void Hounds x coins 20 amethyst crystal
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill 3 Amethyst Block 10 Amethyst Crystal Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Void Isles Orb 10 Glass Block 20 Void Grass 30 Respawn Block 9 Amethyst Crystal Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Void Serpent Orb 10 Glass Block 25 Amethyst Crystal 3 Serpent's Fang 3 Serpent's Scale Workbench Tier 4 Defeated the Void Serpent at least once. Serpent's Hook 3 Serpent's Fang 30 Amethyst Crystal 100 Iron Ingot 5 Gilded Steel Rod Anvil Level 68 Combat Serpent's Bane 3 Serpent's Scale 40 Amethyst Crystal 200 Iron Ingot 10 Gilded Steel Rod Anvil Level 68 Combat Void Mattock 1 Void Mattock Hilt 100 Amethyst Crystal 15 Gilded Steel Rod Anvil Level 58 Mining Void Potion 3 Amethyst Crystal 1 Empty Potion Bottle 5 Void Parasite Brewing Stand None
+
+Selling [ ]
+
+Amethyst crystals can be sold to Larry for 7 coins each.
+
+History [ ]
+
+August 13, 2022 Added amethyst crystals. August 20, 2022 Amethyst crystals can now be used to craft void mattocks . Amethyst crystals can now be obtained from opening serpent eggs . Amethyst crystals can now be sold to Larry for 7 coins . October 1, 2022 Amethyst crystals can now be obtained from quests . May 12, 2023 Amethyst crystals can now be obtained from void crop eater Amethyst crystals can now be used to craft pesticide spray

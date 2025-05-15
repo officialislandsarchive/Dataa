@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Obby_Kit
+
+----------------------------------------
+
+Obby Kit Block Gamepass Icon Type of block Solid block; Interactable Recipe 11 Oak Wood Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Buy cost (gamepass) 399 Robux Best tool Luminous Transparent Description "Create obby courses with checkpoints and leaderboards." The obby kit is a premium crafting station that is used to craft obby items.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Purchasing the obby kit gamepass will grant the player with one obby kit and access to use the crafting station.
+
+Crafting [ ]
+
+Name Recipe Crafting station Gamepass required Obby Kit 11 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Usage [ ]
+
+Crafting recipes [ ]
+
+Image Name Recipe Obby Leaderboard 40 Maple Wood 5 Gold Ingot Obby Checkpoint 1 Blue Flower 10 Oak Wood Obby Finish 1 Red Flower 10 Oak Wood Obby Start 1 Yellow Flower 10 Oak Wood
+
+History [ ]
+
+August 16, 2020 Added obby kits. July 23, 2021 Changed the crafting recipe from 10 oak wood to 11 wood.

@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Small_Chest
+
+----------------------------------------
+
+Small Chest Type of block Solid block; Interactable Recipe 25 Oak Wood Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description A small storage container The small chest is a storage block that can be used to hold up to 180 items . The small chest is the cheapest and smallest storage block in the game.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Small Chest 25 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Small Chest Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Storage [ ]
+
+If a player interacts with a small chest a UI will appear along with their inventory . If that player clicks/taps on an item in the chest, those items will added to their inventory. Likewise if they click/tap on an item in their inventory thirty of them will be added to the chest (If there is less than 30 of that item all of them will be moved). Any player can interact with a small chest and see its contents, but the player must have build permission to take or add items.
+
+History [ ]
+
+May 2, 2020 Added small chests. May 26, 2020 Small chests will now drop their contents when broken. August 30, 2020 Added 2 additional slots to small chests (previously 4 slots). September 6, 2020 Changed the small chest's apperance. Removed the small chest's opening animation. December 29, 2021 Disabled the ability to manually place items into small chests. January 2, 2022 Re-enabled the ability to manually place items into small chests. January 3, 2022 Disabled the ability to manually place items into small chests. Re-enabled the ability to manually place items into small chests. January 4, 2022 Disabled the ability to manually place items into small chests. January 6, 2022 Re-enabled the ability to manually place items into small chests.

@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Azur
+
+----------------------------------------
+
+Azur Location City of Azarath ( Desert Island ) Purpose Sells fossil statues. Azur is a villager located in City of Azarath on Desert Island .
+
+Shop [ ]
+
+Image Name Price T-Rex Fossil Statue 35 ruby skorp scales Dodo Fossil Statue 55 ruby skorp scales Mammoth Fossil Statue 65 ruby skorp scales
+
+Dialogue [ ]
+
+After July 7, 2023 [ ]
+
+"Welcome to Azarath, the Desert City. The town square is under construction, but feel free to look around." >View shop Opens shop.
+
+Between June 3, 2022 and July 7, 2023 [ ]
+
+"Welcome to Azarath, user " >View offers End.
+
+Between November 20, 2020 and June 3, 2022 [ ]
+
+Before November 20, 2020 [ ]
+
+Azur randomly says one of the lines below:
+
+"The caravan should be here soon... There's lots to be done." >Close End. "Skorps... They'll be useful once tamed." >Close End. "Soft sand... Sandstone rocks... This could work." >Close End. "These skeletons are huge..." >Close End.
+
+History [ ]
+
+November 7, 2020 Added the Desert Nomad. November 20, 2020 Renamed the Desert Nomad to Azur. Added quests to Azur. Added a shop to Azur. Changed Azur's dialogue. May 13, 2022 Introduced a bug that prevented Azur's fishing quest from saving. May 14, 2022 Fixed a bug that prevented Azur's fishing quest from saving. June 3, 2022 Removed Azur's shop. Removed Azur's quests. July 7, 2023 Readded Azur's shop.
+
+Trivia [ ]
+
+Prior to the November 20, 2020 update, Azur formerly had no other function aside from producing dialogue. During this period, Azur was also known as "Desert Nomad". After November 20, 2020 , Azur has a shop which the main currency is sand dollars. Sand dollars can be obtained by completing quests made by Azur.

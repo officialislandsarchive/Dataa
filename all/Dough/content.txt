@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Dough
+
+----------------------------------------
+
+Dough Recipe 3 Wheat Crafted with Cooking Table Food Processor Dough is a basic food ingredient that is used in many uncooked food recipes.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Dough 3 Wheat Cooking Table Food Processor
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Dumpling 1 Dough 1 Egg 2 Spinach Cooking Table Food Processor None Kue Keju 1 Dough 1 Egg 2 Cheese Cooking Table Food Processor None Spring Rolls 1 Dough 1 Carrot 2 Spinach Cooking Table Food Processor None Berry Dough 1 Dough 5 Red Berry Cooking Table Food Processor Level 2 Cooking Uncooked Pizza 1 Dough 1 Tomato Sauce Cooking Table Food Processor Level 3 Cooking Carrot Cake Batter 4 Dough 8 Carrot Cooking Table Food Processor Level 7 Cooking Uncooked Pineapple Pizza 1 Dough 1 Tomato Sauce 2 Pineapple Slice Cooking Table Food Processor Level 14 Cooking Uncooked Apple Pie 1 Dough 3 Apple Cooking Table Food Processor Level 22 Cooking Orange Cake Batter 1 Dough 3 Orange Cooking Table Food Processor Level 25 Cooking Lemon Bread Dough 1 Dough 3 Lemon Cooking Table Food Processor Level 30 Cooking Blueberry Dough 1 Dough 5 Blueberry Cooking Table Food Processor Level 40 Cooking Uncooked Starfruit Cake 4 Dough 8 Starfruit Cooking Table Food Processor Level 52 Cooking
+
+Cooking [ ]
+
+Dough can be cooked into bread in a campfire , small furnace , desert furnace , or industrial oven .
+
+Input Output 1 Dough 1 Bread
+
+History [ ]
+
+April 10, 2020 Added dough. May 10, 2020 Dough can now be used to craft berry dough and uncooked pizza . May 17, 2020 Dough can now be used to craft carrot cake batter . June 26, 2020 Dough can now be used to craft uncooked apple pie , orange cake batter , and lemon bread dough . July 11, 2020 Dough can now be used to craft uncooked starfruit cake . November 13, 2021 4 dough is now required to craft carrot cake batter, up from 1. 4 dough is now required to craft uncooked starfruit cake, up from 1. January 8, 2022 Dough can now be used to craft uncooked pineapple pizza . February 7, 2022 Dough can now be used to craft dumplings , kue kejus , and spring rolls . July 23, 2022 Dough can now be used to craft blueberry dough .

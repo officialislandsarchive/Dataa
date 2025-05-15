@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Butterfly_Event_Archway
+
+----------------------------------------
+
+Butterfly Event Archway Type of block Solid block Buy cost 25 Butterfly Tickets Best tool Luminous Transparent The butterfly event archway is a furniture block that was purchasable from Catherine during the Butterfly Festival event.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Butterfly event archways could have been purchased from Catherine on Butterfly Festival Island for 25 butterfly tickets during the Butterfly Festival event.
+
+Breaking [ ]
+
+Butterfly Event Archway Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+September 3, 2022 Added butterfly event archways. September 10, 2022 Butterfly event archways are now unobtainable. October 22, 2022 Modified the collisions of butterfly event archways.

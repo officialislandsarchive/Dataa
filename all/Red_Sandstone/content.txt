@@ -1,0 +1,47 @@
+Source: https://robloxislands.fandom.com/wiki/Red_Sandstone
+
+----------------------------------------
+
+Red Sandstone Red Sandstone Rock Legacy Rock Type of block Solid block Spawns Desert Island Best tool Luminous Transparent Red sandstone is a block that is mined from red sandstone rocks .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Red sandstone rocks naturally spawn on Desert Island . Mining a red sandstone rock grants the player 1 - 2 red sandstone and 9 Mining XP (36 with the 4x daily bonus) per stage, resulting in a total of 2 - 4 red sandstone and 18 Mining XP (72 with the 4x daily bonus) per full rock.
+
+Totems [ ]
+
+A red sandstone totem will spawn red sandstone rocks in a 5 block radius. After the totem has spawned 6 red sandstone rocks or has run out of space, the totem will begin to mine the rocks and hold rewards equivalent to a half of an ore rock, which can be collected by interacting with the totem.
+
+A red sandstone totem placed next to a conveyor belt will drop red sandstone onto the conveyor belt.
+
+Breaking [ ]
+
+Red Sandstone Block Breaking Data Hardness 5 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 8 Wooden 15 8 Stone 8 5 Iron 5 4 Gilded Steel 4 3 Diamond 3 2 Opal 2 1 Void Mattock 1 Red Sandstone Rock Breaking Data Hardness 60 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 90 Wooden 180 90 Stone 96 60 Iron 60 38 Gilded Steel 42 30 Diamond 30 18 Opal 24 12 Void Mattock 12
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Red Sandstone Stair 1 Red Sandstone Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Red Sandstone Slab 1 Red Sandstone Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Red sandstone can be transformed into red sandstone bricks in a stonecutter or an industrial stonecutter , or into smooth red sandstone in a polishing station or an industrial polishing station .
+
+Input Item transformer Output 1 Red Sandstone ➡ Stonecutter ➡ 1 Red Sandstone Brick ➡ Industrial Stonecutter ➡ 1 Red Sandstone ➡ Polishing Station ➡ 1 Smooth Red Sandstone ➡ Industrial Polishing Station ➡
+
+Quests [ ]
+
+Breaking 40 red sandstone rocks was required in one of the quests offered by Azur .
+
+Quest Reward Break 40 red sandstone rocks . 6 Sand Dollars
+
+History [ ]
+
+August 9, 2020 Added red sandstone. November 20, 2020 Breaking red sandstone rocks is now part of a quest for Azur . June 4, 2021 Red sandstone can now be polished into smooth sandstone . October 9, 2021 Red sandstone can now be obtained from sandstone totems . March 6, 2022 Red sandstone can no longer be used to craft red sandstone stairs . March 25, 2022 Red sandstone can be used to craft red sandstone stairs once again.
+
+Trivia [ ]
+
+This was the first sandstone-type block added to the game, the second being sandstone .

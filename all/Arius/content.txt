@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Arius
+
+----------------------------------------
+
+Arius Location Hub , Player's Island Purpose Sells totems Occupation Totems Arius is a villager located in the Hub , next to the instrument workbench seller, Melody . Players can use coins to purchase totems from him. He is located in front of a hobbit-like house with glowing orange/yellow windows. Arius comes to the player's island upon crafting of a tier 2 workbench to give a free iron totem .
+
+Shop [ ]
+
+Arius sells various totems for coins.
+
+Name Price Required skill Stone Totem 2,000 coins Level 10 Mining Coal Totem 3,000 coins Level 14 Mining Iron Totem 4,000 coins Level 18 Mining Marble Totem 22,000 coins Level 28 Mining Slate Totem 30,000 coins Level 38 Mining Clay Totem 10,000 coins None Andesite Totem 8,000 coins Level 12 Mining Diorite Totem 8,000 coins Level 12 Mining Granite Totem 8,000 coins Level 12 Mining Pineapple Totem 35,000 coins Level 37 Farming Aquamarine Totem 100,000 coins Level 20 Mining Sandstone totem 250,000 coins Level 36 Mining Red Sandstone totem 250,000 coins Level 36 Mining Obsidian Totem 500,000 coins None Wheat Totem 3,000 coins Level 16 Farming Potato Totem 5,500 coins Level 28 Farming Pumpkin Totem 14,000 coins Level 29 Farming Watermelon Totem 20,000 coins Level 32 Farming Carrot Totem 6,000 coins Level 33 Farming Onion Totem 8,000 coins Level 40 Farming Starfruit Totem 150,000 coins Level 52 Farming Tomato Totem 5,000 coins Level 24 Farming Radish Totem 12,500 coins Level 26 Farming Grape Totem 7,500 coins Level 42 Farming Spinach Totem 10,000 coins Level 48 Farming Dragonfruit Totem 10,000 coins Level 56 Farming
+
+Removed offers [ ]
+
+These items were once offered before being removed.
+
+Name Price Required skill Red Berry Totem 20,000 coins None Blueberry Totem 25,000 coins None Blackberry Totem 30,000 coins None
+
+Dialogue [ ]
+
+When the August 15, 2021 update released, Arius had a glitched dialogue.
+
+"[TODO: Greetings]" >View Shop Leads to shop.
+
+After August 16, 2021, Arius's dialogue was fixed. He may say the lines below:
+
+"Hey, can I interest you in a totem?" >View Shop Leads to shop. "Totems are neat, you can upgrade them too!" >View Shop Leads to shop. "I prefer to use magic to farm! Factories are too noisy." >View Shop Leads to shop.
+
+Player's island [ ]
+
+"Hey user ! I've got a free Iron Totem for you! Place this down on your island to spawn Iron Ores. Visit me any time in the hub to purchase more totems!" >Claim reward Arius gives the player an iron totem.
+
+When trying to claim a reward again
+
+"You've already claimed your reward!" >Goodbye End.
+
+History [ ]
+
+April 10, 2020 Added the Totems villager. April 24, 2020 Added offer for clay totems . April 27, 2020 Added offer for tomato totems . May 26, 2020 Added offer for potato totems . Updated the Totems villager's appearance. July 11, 2020 Added offer for starfruit totems . February 26, 2021 Renamed the Totems villager to Arius. May 21, 2021 Added offers for radish , watermelon , and pumpkin totems . Added offers for slate and marble totems . August 28, 2021 Arius now visits the player's island upon creation. January 8, 2022 Added offer for pineapple totems . January 15, 2022 Removed offers for red berry , blueberry , and blackberry totems. March 6, 2022 Added offers for andesite , diorite , and granite totems . April 1, 2022 Changed Arius' shop menu. July 2, 2022 Updated Arius' appearance.
+
+Trivia [ ]
+
+Obsidian and red sandstone totems were mislabeled as sandstone totems in Arius' shop UI before being corrected shortly afterwards. The model of Arius is very similar to the Zeno kit from BedWars.

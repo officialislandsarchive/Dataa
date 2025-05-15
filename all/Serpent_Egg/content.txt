@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Serpent_Egg
+
+----------------------------------------
+
+Serpent Egg Unopened Opened Type of block Solid block; Interactable Dropped by Void Serpent Best tool Luminous Transparent A serpent egg is a roulette block that can be obtained by defeating the Void Serpent .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+The Void Serpent is guaranteed to drop one serpent egg upon defeat. However, if too many players are fighting the serpent, only a set amount of players will receive an egg.
+
+Loot [ ]
+
+Serpent eggs can be opened by holding "F" on PC, holding the button on mobile, or holding X on Xbox while hovering over it. Once opened, the serpent egg will scroll through the items like a roulette wheel and reward one item, similar to treasure chests .
+
+The listed reward chances are community made and may not be accurate .
+
+Item Rarity Estimated % chance Void Serpent Pet Spawn Egg Mythic 1% Void Mattock Hilt Rare 2% Void Parasite Seeds Rare 2% 3 Void Fish Rare 5% 15 - 30 Void Serpent Token Uncommon 15% 14 - 30 Amethyst Crystal Common 75%
+
+Note: Once opened, breaking a serpent egg will NOT be returned to the player's inventory . After collecting the rewarded item, the egg will act as a storage block with a single slot able to hold 100 items.
+
+History [ ]
+
+August 20, 2022 Added serpent eggs. October 22, 2022 Added a present icon next to unopened serpent eggs.

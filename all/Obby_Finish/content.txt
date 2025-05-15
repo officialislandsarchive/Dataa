@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Obby_Finish
+
+----------------------------------------
+
+Obby Finish Type of block Non-solid block; Interactable Recipe 10 Oak Wood 1 Red Flower Crafted with Obby Kit Best tool Luminous Transparent The obby finish is a block used in obbies . It was added in the August 16, 2020 Obby update.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Gamepass required Obby Finish 10 Oak Wood 1 Red Flower Obby Kit
+
+Breaking [ ]
+
+Obby Finish Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Obbies [ ]
+
+Obby finishes are used to finish or beat an obby on a Player Island . A player must first touch an obby start , after touching a obby finish the player's time will be counted and added to a nearby obby leaderboard (If the player beat one of the top 3).

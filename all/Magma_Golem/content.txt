@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Magma_Golem
+
+----------------------------------------
+
+Magma Golem Health 350 HP Behavior Hostile Attack strength 35 HP (Big) 25 HP (Small) Drops Underworld Token Opal Obsidian Jukebox Disk Location Underworld A magma golem is a hostile mob that spawns in the Underworld .
+
+Spawning [ ]
+
+Underworld [ ]
+
+Magma golems spawn throughout the Underworld .
+
+Attacks [ ]
+
+Punch [ ]
+
+Magma Golems will throw a punch to players dealing 35 damage.
+
+Catapult [ ]
+
+Magma Golems, after 2 consecutive punches, will throw the player to a large distance while also dealing 35 damage.
+
+Split [ ]
+
+Once defeated, Magma Golems will split into 2 smaller golems who deal 25 damage instead.
+
+Drops [ ]
+
+A magma golem rewards 25 (99 with the 4x daily bonus) Combat XP and 25 (99 with the 4x daily bonus) Light Melee , Heavy Melee , Magic , or Archery XP depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Underworld Token 500% Opal 10% Obsidian 20% Jukebox Disks Blue Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Red Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Resistances and Weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical Slashing Quake , Inferno Striking Storm , Hydro
+
+History [ ]
+
+July 23, 2022 Added magma golems. September 17, 2022 Magma golems now have resistances and weaknesses. September 24, 2022 Changed the resistances and weaknesses of magma golems.

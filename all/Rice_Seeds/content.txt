@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Rice_Seeds
+
+----------------------------------------
+
+Rice Seeds Planted on Pond Planter Buy cost 3,300 coins Required skill Level 39 Farming Description Placed in a pond instead of soil. Rice seeds are seeds used to grow rice .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Rice seeds can be bought from Cletus for 3,300 coins each after reaching level 39 Farming .
+
+Harvesting [ ]
+
+Harvesting rice yields at least 1 rice seed, with a 2% chance of giving an additional seed. This chance is increased for players who own the Pro Gamepass .
+
+Usage [ ]
+
+Planting [ ]
+
+Rice seeds can be planted in pond planters to be grown into rice.
+
+Growth [ ]
+
+The growth time of rice can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Rice Seeds Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 2m 3m Note: The durations of time above are on an unfertilized and unwatered plant Rice Seeds Growth Time Type Growth Time Normal 3m Fertilized 2m 24s Watered 2m 24s Watered + Fertilized 2m 6s
+
+History [ ]
+
+November 13, 2021 Added rice seeds. October 15, 2022 Rice seeds can now be bought from Tom .
+
+Trivia [ ]
+
+Rice seeds are the most expensive crop seed in the game in terms of coins .

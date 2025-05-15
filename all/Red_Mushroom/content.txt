@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Red_Mushroom
+
+----------------------------------------
+
+Red Mushroom Type of block Non-solid block; Harvestable Spawns Wizard Island Best tool Luminous Transparent A red mushroom is a plant that naturally spawns on Wizard Island .
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+Red mushrooms naturally spawn on Wizard Island . It can be harvested by pressing "F" on PC, but breaking a naturally-generated red mushroom will not drop itself.
+
+Breaking [ ]
+
+Red mushrooms can be instantly removed by harvesting it, but will take slightly longer to remove if mining it. Only mining a red mushroom on a player island will drop it.
+
+Red Mushroom Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Mushroom Block 5 Red Mushroom Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Wizard Island Orb 10 Glass Block 15 Empty Potion Bottle 10 Red Mushroom 5 Daffodil Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 20 Combat Mushroom Plant 1 Red Mushroom 20 Maple Plank Furniture Workbench None Strength Potion 1 Gold Skorp Claw 1 Red Mushroom 1 Empty Potion Bottle Brewing Stand None Regen Potion 1 Starfruit 1 Red Mushroom 1 Empty Potion Bottle Brewing Stand Level 40 Cooking
+
+History [ ]
+
+July 17, 2020 Added red mushrooms. August 9, 2020 Red mushrooms can now be used to craft regen and strength potions . January 4, 2021 Red mushrooms can now be used to craft mushroom plants . April 9, 2022 Red mushrooms can now be used to craft Wizard island orbs .
+
+Trivia [ ]
+
+In the Hub , there are red and brown mushrooms. However, they cannot be broken or harvested.

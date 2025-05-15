@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Coal
+
+----------------------------------------
+
+Coal Coal Rock Dropped by Coal Rock Mimic Spawns Hub Slime Island Buffalkor Island Wizard Island Coal is an item mainly used as a source of fuel, but is also used to craft various items.
+
+Obtaining [ ]
+
+Mining [ ]
+
+Coal rocks naturally generate in the mining zone in the Hub , Slime Island , and Buffalkor Island . Mining a coal rock yields 1 - 2 coal after each stage and 3 Mining XP (6 with the 4x daily bonus), resulting in a total of 2 - 4 coal and 9 Mining XP (18 with the 4x daily bonus) per rock.
+
+Mob drop [ ]
+
+Coal rock mimics are guaranteed to drop 5 - 9 coal upon defeat.
+
+Totem [ ]
+
+Coal totems can be purchased from Arius in the Hub for 3,000 coins . A coal totem will spawn coal rocks around it when placed, or if placed next to a conveyor belt , the totem will drop coal directly onto the conveyor.
+
+Breaking [ ]
+
+Coal Rock Breaking Data Hardness 12 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 18 Wooden 36 36 Stone 20 20 Iron 12 12 Gilded Steel 9 9 Diamond 6 6 Opal 5 5 Void Mattock 3
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Torch 2 Oak Wood 1 Coal Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Coal Block 10 Coal Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Hub Island Orb 10 Glass Block 15 Oak Wood 15 Coal 10 Iron Ingot 10 Sand 8 Aquamarine Shard Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Barbecue 25 Iron Ingot 15 Coal Furniture Workbench Fireplace 30 Brick 30 Coal Furniture Workbench Spherical Ceiling Light 30 Coal 20 Iron Ingot Furniture Workbench Circular Ceiling Light 20 Coal 30 Iron Ingot Furniture Workbench Chandelier 15 Coal 20 Iron Ingot Furniture Workbench Firecrackers 50 Coal Furniture Workbench Fluorescent Light 40 Coal 20 Iron Ingot Furniture Workbench Water Fountain 5 Coal 30 Stone Furniture Workbench Modern Fridge 5 Coal 20 Iron Ingot Furniture Workbench Wall Lamp 10 Coal 20 Iron Ingot Furniture Workbench Wooden Lamp 10 Coal 30 Oak Plank Furniture Workbench Hanging Lantern 20 Coal 40 Oak Plank Furniture Workbench Red Lantern 10 Coal 20 Iron Ingot 10 Red Flower Furniture Workbench Modern Oven 5 Coal 20 Iron Ingot 2 Glass Block Furniture Workbench Street Lamp 10 Coal 30 Iron Ingot Furniture Workbench Double Street Lamp 10 Coal 30 Iron Ingot Furniture Workbench Ancient Wall Light 10 Coal 5 Pine Wood 1 Ancient Slime String Furniture Workbench Moon Light 15 Iron Ingot 5 Gold Ingot 15 Coal Furniture Workbench Star Light 15 Iron Ingot 5 Gold Ingot 15 Coal Furniture Workbench Modern Ceiling Light 15 Coal 20 Iron Ingot Furniture Workbench Modern Skinny Ceiling Light 15 Coal 20 Iron Ingot Furniture Workbench Modern Torus Ceiling Light 20 Coal 10 Iron Ingot Furniture Workbench Tall Lantern 20 Coal 5 Maple Wood 5 Cloth Furniture Workbench Decorated Street Lamp 30 Coal 45 Iron Ingot Furniture Workbench Long Modern Street Lamp 10 Coal 35 Iron Ingot Furniture Workbench Castle Shield 20 Iron Ingot 1 Purple Flower 5 Coal 1 Iron Sword Furniture Workbench Horse Shield 20 Iron Ingot 15 Coal 2 Iron Sword Furniture Workbench Knight Lamp Drawer 1 Coal 4 Birch Wood Furniture Workbench Gamepass required Candle 3 Oak Wood 2 Coal 2 Clay Lighting Station Lantern 5 Iron Ingot 2 Coal 2 Clay Lighting Station Lamp Post 10 Oak Plank 5 Coal 5 Iron Ingot Lighting Station Sea Lantern 20 Aquamarine Shard 10 Coal Lighting Station Small Firework 2 Coal Firework Barrel Medium Firework 4 Coal Firework Barrel Large Firework 6 Coal Firework Barrel
+
+Fuel [ ]
+
+Coal can be used as a fuel source for the campfire , small furnace , sawmill , stonecutter , industrial oven , industrial sawmill , industrial smelter , industrial stonecutter , industrial washing station , industrial lumbermill , industrial polishing station , steel mill , drill , pumpjack , and steam generator . The fuel lasts for approximately 30 seconds and is the fundamental resource for industrial automation. Coal inside small furnaces can smelt 2.25 items. Coal inside campfires can smelt 1.25 items.
+
+Automated fuel [ ]
+
+A coal totem placed next to a conveyor leading to an industrial machine will automatically drop coal onto the conveyor belt and fuel the machine.

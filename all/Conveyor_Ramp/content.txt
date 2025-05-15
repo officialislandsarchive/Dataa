@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Conveyor_Ramp
+
+----------------------------------------
+
+Conveyor Ramp Up Down Up Tier 2 Down Tier 2 Type of block Solid block Recipe Normal: 3 Conveyor Belt 3 Steel Rod Tier 2: 1 Conveyor Ramp 2 Red Bronze Ingot Crafted with Normal: Workbench Tier 3 Workbench Tier 4 Tier 2: Workbench Tier 4 Best tool Luminous Transparent Description Tier 2: A faster conveyor belt. The conveyor ramp is a block used to transport items and players to a higher or lower elevation.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Conveyor Ramp Up 3 Conveyor Belt 3 Steel Rod Workbench Tier 3 Workbench Tier 4 Conveyor Ramp Down 3 Conveyor Belt 3 Steel Rod Workbench Tier 3 Workbench Tier 4 Conveyor Ramp Up Tier 2 1 Conveyor Ramp 2 Red Bronze Ingot Workbench Tier 4 Conveyor Ramp Down Tier 2 1 Conveyor Ramp 2 Red Bronze Ingot Workbench Tier 4
+
+Breaking [ ]
+
+Conveyor Ramp Breaking Data Hardness 2 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 6 Stone 4 4 Iron 2 2 Gilded Steel 2 2 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Transportation [ ]
+
+Conveyor ramps can be used to transport items to and from industrial machines or automatable chests up or down a small incline. Conveyor ramps can also act as a merger , being able to combine the paths of two conveyor belts into one by dropping the items of one onto another.
+
+Items without a flat surface such as iron ore and onions may occasionally have trouble going up. Players are able to be moved on conveyor ramps, but not when mounted on an animal .
+
+The conveyor ramp tier 2 acts the same as a normal conveyor ramp but with double the speed.
+
+History [ ]
+
+May 2, 2020 Added conveyor ramps. May 10, 2020 The conveyor ramp can now be crafted in the workbench tier 3 instead of the anvil . June 15, 2020 Dropped crops can now be made oily on if dropped from a totem onto a conveyor ramp. June 26, 2020 Conveyor ramps can now move players. August 15, 2021 Added convenyor ramp tier 2's. October 9, 2021 Added conveyor ramp downs and conveyor ramp down tier 2's. Renamed conveyor ramps and conveyor ramp tier 2's to conveyor ramp ups and conveyor ramp up tier 2's.
+
+Trivia [ ]
+
+Even though conveyor ramps don't require any skills to craft, conveyor belts , which are required to craft a conveyor ramp, do.

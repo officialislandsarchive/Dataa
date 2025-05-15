@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Butterfly
+
+----------------------------------------
+
+Butterfly White Red Yellow Green Blue Silver Behavior Passive Location Butterfly Festival Island Butterflies are flying passive mobs that spawn on Butterfly Festival Island .
+
+Spawning [ ]
+
+Butterflies naturally spawned on Butterfly Festival Island during the Butterfly Festival . There are 6 colors of butterflies: white, red, yellow, green, blue, and silver. Butterflies were only be able to spawn if there were flowers present nearby.
+
+Image Butterfly Spawn Chance White Butterfly 19% Red Butterfly 19% Yellow Butterfly 19% Green Butterfly 19% Blue Butterfly 19% Silver Butterfly 5%
+
+Usage [ ]
+
+Catching [ ]
+
+Butterflies can be caught with a net or golden net . When caught, the player will receive a butterfly jar of the respective color when caught and 5 Animal Care XP (15 Animal Care XP with x4 daily bonus) when caught on Butterfly Festival Island.
+
+Butterfly Festival [ ]
+
+During a Butterfly Festival, catching butterflies on Butterfly Festival Island would add a point to the player's total points. After 3 minutes, the player would receive butterfly tickets depending on how many butterflies the player caught.
+
+History [ ]
+
+September 3, 2022 Added white, red, yellow, green, blue, and silver butterflies. September 10, 2022 Butterflies no longer spawn on Butterfly Festival Island . March 31, 2023 Fixed bug causing butterflies to stop moving when spawned.
+
+Trivia [ ]
+
+If a player releases a butterfly and recaptures it, the player will receive XP , thus giving the player a source of infinite XP.

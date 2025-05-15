@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Slime_Portal_Shard
+
+----------------------------------------
+
+Slime Portal Shard Dropped by Green Slime Blue Slime Description Rare elemental item used to craft portals. The slime portal shard is an item dropped by green and blue slimes to be used to craft the slime portal .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Green slimes and blue slimes have a 0.05% or a 0.1% chance respectively of dropping a slime portal shard upon defeat.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Slime Portal 1 Slime Portal Shard 80 Stone Workbench Tier 3 Workbench Tier 4
+
+History [ ]
+
+February 5, 2021 Added slime portal shards.
+
+Trivia [ ]
+
+The slime portal shard uses the same model and texture as the Slime Island key . This is the rarest drop available on Slime Island .

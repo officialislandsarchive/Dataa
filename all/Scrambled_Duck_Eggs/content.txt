@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Scrambled_Duck_Eggs
+
+----------------------------------------
+
+Scrambled Duck Eggs Recipe 2 Poached Duck Egg Crafted with Cooking Table Food Processor Heals 30 HP Required skill Level 42 Cooking Scrambled duck eggs are a food item that heals 30 HP when consumed.
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Scrambled Duck Eggs 2 Poached Duck Egg Cooking Table Food Processor Level 42 Cooking
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Potato and Duck Egg Scramble 1 Scrambled Duck Eggs 1 Baked Potato Cooking Table Food Processor Level 42 Cooking
+
+Eating [ ]
+
+Eating scrambled duck eggs restores 30 HP.
+
+History [ ]
+
+February 19, 2022 Added scrambled duck eggs. Introduced where scrambled duck eggs now cannot be sold to Petur .
+
+Trivia [ ]
+
+Scrambled duck eggs currently cannot be sold to Petur .

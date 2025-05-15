@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Pet_Egg_Stand
+
+----------------------------------------
+
+Pet Egg Stand White Cyan Red Blue Purple Type of block Solid block; Interactable Recipe See Crafting Crafted with Workbench Tier 4 Best tool Luminous Transparent Description Display your pet egg drops received from bosses! Pet egg stands are decorative blocks used for the player to display any type of pet spawn egg . There are five color variants: white, cyan, red, blue, and purple.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station White Pet Egg Stand 7 Golden Plate 2 Glass Block 1 Diamond Workbench Tier 4 Cyan Pet Egg Stand 7 Golden Plate 2 Cyan Glass Block 1 Diamond Red Pet Egg Stand 7 Golden Plate 2 Red Glass Block 1 Diamond Blue Pet Egg Stand 7 Golden Plate 2 Blue Glass Block 1 Diamond Purple Pet Egg Stand 7 Golden Plate 2 Purple Glass Block 1 Ruby
+
+Breaking [ ]
+
+Pet Egg Stand Breaking Data Hardness 5 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 8 Wooden 15 15 Stone 8 8 Iron 5 5 Gilded Steel 4 4 Diamond 3 3 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Displaying [ ]
+
+Players can display any type of pet spawn egg on pet egg stands. Each stand can hold up to one item .
+
+History [ ]
+
+November 4, 2022 Added pet egg stands. November 11, 2022 Renamed pet egg stands.
+
+Trivia [ ]
+
+Before the November 11, 2022 update, all five pet egg stands used to be referred simply as "Pet Egg Stand" in-game.

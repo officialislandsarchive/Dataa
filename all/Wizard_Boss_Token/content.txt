@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Wizard_Boss_Token
+
+----------------------------------------
+
+Wizard Boss Token Dropped by Wizard Lizard Description A token obtained from the Wizard Island! The Wizard Boss token is an item used to bypass the summon cooldown of the Wizard Boss .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Wizard lizards are guaranteed to drop 5 Wizard Boss tokens upon defeat.
+
+Usage [ ]
+
+Summoning [ ]
+
+At least 500 Wizard Boss tokens can be used to bypass the summon cooldown needed to summon the Wizard Boss .
+
+History [ ]
+
+September 18, 2021 Added Wizard Boss tokens. February 7, 2022 Wizard Boss tokens can now be dropped, traded , and put into vending machines and chests .

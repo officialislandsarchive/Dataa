@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Carpet
+
+----------------------------------------
+
+Carpet Carpet Black Blue Cyan Dark Green Light Green Orange Pink Purple Red Yellow Type of block Solid block Recipe 1 Wool Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Carpets are thin blocks which are used for decoration or crafting.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+One block of wool will craft three white carpets.
+
+Name Recipe Crafting station 3 Carpet 1 Wool Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Carpet Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Coloring [ ]
+
+Image Name Recipe Crafting station 3 Black Carpet 1 Black Wool Coloring Station 3 Blue Carpet 1 Blue Wool 3 Cyan Carpet 1 Cyan Wool 3 Dark Green Carpet 1 Dark Green Wool 3 Light Green Carpet 1 Light Green Wool 3 Orange Carpet 1 Orange Wool 3 Pink Carpet 1 Pink Wool 3 Purple Carpet 1 Purple Wool 3 Red Carpet 1 Red Wool 3 Yellow Carpet 1 Yellow Wool
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Wizard Portal 30 Red Carpet 120 Stone Brick 1 Wizard Portal Shard Workbench Tier 3 Workbench Tier 4 '70s Rug 10 Carpet Furniture Workbench White Rug 10 Carpet Furniture Workbench Flat Red Bed 40 Oak Wood 5 Red Carpet Furniture Workbench Large Red Bed 10 Red Carpet 30 Pine Wood Furniture Workbench Red Picnic Blanket 5 Red Carpet 5 Carpet Furniture Workbench Stripe Red Beach Towel 5 Carpet 1 Red Flower Furniture Workbench Stripe Blue Beach Towel 5 Carpet 1 Blue Flower Furniture Workbench

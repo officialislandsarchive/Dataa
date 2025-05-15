@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/White_Rug
+
+----------------------------------------
+
+White Rug Type of block Solid block Recipe 10 Carpet Crafted with Furniture Workbench Best tool Luminous Transparent The white rug is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station White Rug 10 Carpet Furniture Workbench
+
+Breaking [ ]
+
+White Rug Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+History [ ]
+
+May 31, 2020 Added white rugs. June 3, 2022 A white rug blueprint is no longer required to unlock the recipe of white rugs.

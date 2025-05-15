@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Truffle_Avocado_Toast
+
+----------------------------------------
+
+Truffle Avocado Toast Recipe 1 Avocado Toast 1 Black Truffle Crafted with Cooking Table Food Processor Effect +20% farming crop yield Required skill Level 70 Cooking Description Consume for +20% farming crop yield. A truffle avocado toast is a food item that grants +20% farming crop yield when consumed.
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Truffle Avocado Toast 1 Avocado Toast 1 Black Truffle Cooking Table Food Processor Level 70 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a truffle avocado toast grants +20% farming crop yield for 15 minutes. The effect only affects the drops of crops harvested by hand or sickle and not their seeds .
+
+History [ ]
+
+November 13, 2021 Added truffle avocado toasts. Introduced where truffle avocado toasts now cannot be sold to Petur .
+
+Trivia [ ]
+
+Truffle avocado toasts currently cannot be sold to Petur .

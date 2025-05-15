@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Cloth
+
+----------------------------------------
+
+Cloth Recipe 1 White Wool Crafted with Cloth Loom Sell price 350 coins Description Sell to Taliyah for more money than wool. Cloth is an item that is made out of white wool .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Cloth is crafted by inserting white wool into a cloth loom .
+
+Input Item transformer Output 1 White Wool Cloth Loom 1 Cloth
+
+Usage [ ]
+
+Selling [ ]
+
+Cloth can be sold to Taliyah for 350 coins after reaching level 24 in Animal Care .
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Ancient Stool 5 Cloth 30 Pine Wood 1 Ancient Slime String Furniture Workbench Modern Lounge Chair 1 Cloth 4 Black Wool Furniture Workbench Pink Lounge Chair 1 Cloth 3 Pink Wool 10 Birch Wood Furniture Workbench Tall Lantern 5 Cloth 20 Coal 5 Maple Wood Furniture Workbench Modern Sofa 2 Cloth 8 Black Wool Furniture Workbench Pink Sofa 2 Cloth 5 Pink Wool 10 Birch Wood Furniture Workbench Modern Stool 1 Cloth 5 Pine Wood 3 White Wool Furniture Workbench
+
+History [ ]
+
+January 22, 2021 Added cloth.

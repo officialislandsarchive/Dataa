@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Maple_Syrup
+
+----------------------------------------
+
+Maple Syrup Recipe 1 Maple Sap Crafted with Sap Boiler Maple syrup is a liquid item that can be transported using wood tubes . It cannot be collected into the player's inventory .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Maple syrup can be obtained by boiling maple sap in a sap boiler . It takes 15 seconds to fully boil the sap into maple syrup.
+
+Input Item transformer Output 1 Maple Sap ➡ Sap Boiler ➡ 1 Maple Syrup
+
+Usage [ ]
+
+Transforming [ ]
+
+Maple syrup can be bottled into maple syrup bottles in a syrup bottler . It takes 5 seconds to bottle maple syrup into a maple syrup bottle. Up to 6 maple syrup can be bottled in a syrup bottler at once.
+
+Input Item transformer Output 1 Maple Syrup ➡ Syrup Bottler ➡ 1 Maple Syrup Bottle
+
+History [ ]
+
+November 27, 2021 Added maple syrup.

@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Larry
+
+----------------------------------------
+
+Larry Location Void Isles Occupation Explorer Larry is a villager found in the Void Isles .
+
+Shop [ ]
+
+Larry buys void related items for coins.
+
+Image Name Sell price Void Parasite 30 coins Amethyst Crystal 7 coins
+
+Dialogue [ ]
+
+Current [ ]
+
+"Hey there stranger! If you find anything interesting out there, I'd be more then happy to take them off your hands!" >View Shop Opens shop.
+
+Before August 20, 2022 [ ]
+
+TBA
+
+History [ ]
+
+August 13, 2022 Added Larry. August 20, 2022 Larry now hosts a shop. Larry now buys void parasites for 30 coins each. Larry now buys amethyst crystals for 7 coins each. Added new dialogue.

@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Slate
+
+----------------------------------------
+
+Slate Slate Rock Spawns Buffalkor Island Best tool Luminous Transparent Slate is a block that can be mined from slate rocks .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Slate rocks naturally generate on Buffalkor Island in the hole in front of the Slime Portal . Mining a slate rock yields 1 - 3 slate after each stage and 6 Mining XP (24 with the 4x daily bonus), resulting in a total of 2 - 6 slate and 12 Mining XP (48 with the 4x daily bonus) per rock.
+
+Totems [ ]
+
+Slate totems can be purchased from Arius in the Hub for 30,000 coins after reaching level 32 Mining . A slate totem will spawn slate rocks around it when placed, or if placed next to a conveyor belt , the totem will drop slate directly onto the conveyor.
+
+Breaking [ ]
+
+Slate Breaking Data Hardness 15 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 23 Wooden 45 23 Stone 24 15 Iron 15 10 Gilded Steel 11 8 Diamond 8 5 Opal 6 3 Void Mattock 3 Slate Rock Breaking Data Hardness 150 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 225 Wooden 450 225 Stone 240 150 Iron 150 94 Gilded Steel 105 75 Diamond 75 45 Opal 60 30 Void Mattock 30
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Slate Stair 1 Slate Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Slate Slab 1 Slate Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Buffalkor Island Orb 10 Glass Block 20 Electrite 5 Slate 5 Marble Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Slate can be transformed into slate bricks in a stonecutter or an industrial stonecutter or smooth slate in a polishing station or an industrial polishing station .
+
+Input Item transformer Output 1 Slate ➡ Stonecutter ➡ 1 Slate Brick ➡ Industrial Stonecutter ➡ 1 Slate ➡ Polishing Station ➡ 1 Smooth Slate ➡ Industrial Polishing Station ➡
+
+History [ ]
+
+April 4, 2021 Added slate. April 9, 2022 Slate can now be used to craft Buffalkor Island orbs . April 10, 2022 5 slate is now required to craft Buffalkor Island orbs, down from 15.

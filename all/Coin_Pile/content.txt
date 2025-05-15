@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Coin_Pile
+
+----------------------------------------
+
+Coin Pile Type of block Solid block Buy cost 2,500 coins Best tool Luminous Transparent Description A pile of gold coins to place on your island A coin pile is a furniture block that can be purchased from Rob .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Coin piles can be purchased for 2,500 coins each from Rob .
+
+Breaking [ ]
+
+Coin Pile Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+November 25, 2022 Added coin piles.

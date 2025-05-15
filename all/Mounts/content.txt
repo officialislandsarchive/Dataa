@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Mounts
+
+----------------------------------------
+
+Mounts are a feature added in the October 15, 2022 update. They are types of transportation that can be used to give speed boosts to players riding them. Mounts can be selected by pressing the button on the left and can be equipped by pressing the "C" key (PC only) or by pressing the button next to the backpack button. Players cannot change mounts while on one. Mounts will automatically be dismounted when the player takes any damage from mobs , with the exception of animal mounts.
+
+Methods of obtaining [ ]
+
+Quests [ ]
+
+Broom (Sweep the Floor) Witch's Broom (The Wicked Witch)
+
+Animals [ ]
+
+Not boosted [ ]
+
+Cow Sheep Pig Chicken Turkey
+
+With boosts [ ]
+
+Duck Yak Horse Vulture
+
+Function [ ]
+
+When mounted, most mounts will give a speed boost that lasts until the player dismounts it, and only one gives a jump boost.
+
+Mounts [ ]
+
+Animal mounts [ ]
+
+Full-grown animals can be mounted. Some animal mounts will give the player a speed boost and only one gives the player a jump boost.
+
+Unlike the broom or the witch's broom , animal mounts will no longer automatically be dismounted when the player takes any damage from mobs .
+
+Not boosted [ ]
+
+With boosts [ ]
+
+Trivia [ ]
+
+Prior to the patch on October 16, 2022 , mounts had a 5 second cooldown on mounting when receiving any damage. Horse and vulture are the only animal mounts that don't have or indicate the status effect icon if players mount them due to their permanent boosts. Turkey is the first and only animal mount that don't have any animation if a player mounts it. Horse is the fastest animal mount in Islands if a player mounts it, even faster when consuming chili peppers , potato and duck egg scrambles , and sweet rice desserts . Its permanent speed boost was likely 100%. Horse is the first and only animal mount in Islands that grants a jump boost. if a player mounts it. Its permanent jump boost was likely 50%. Horse, turkey, and vulture are the only animal mounts able to turn around while jumping and mounting. They are also the only animals that don't have a looking animation. This was likely can be done if camera lock or first-person view. If the player attempts to use another mount when already on a mount, the notification says: " Already on a mount - You are already on a mount. ".
+
+Gallery [ ]

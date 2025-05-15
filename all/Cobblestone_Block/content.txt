@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Cobblestone_Block
+
+----------------------------------------
+
+Cobblestone Block Type of block Solid block Recipe 8 Stone Brick Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent A cobblestone block is a decorative block crafted with stone bricks .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station 4 Cobblestone Block 8 Stone Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Cobblestone Block Breaking Data Hardness 8 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 12 Stone 13 8 Iron 8 5 Gilded Steel 6 4 Diamond 4 3 Opal 4 2 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Cobblestone Stair 1 Cobblestone Block Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Cobblestone Slab 1 Cobblestone Block Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+History [ ]
+
+July 16, 2022 Added cobblestone blocks.

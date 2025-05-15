@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Lemon_Puff
+
+----------------------------------------
+
+Lemon Puff Recipe 4 Lemon 12 Jar of Honey 4 Bread Crafted with Cooking Table Food Processor Effect +20% reward luck when mining Sell price 768 - 1,152 coins Hot sell price 1,152 - 1,728 coins Required skill Level 62 Cooking Description Eat for +20% reward luck when mining. A lemon puff is a food item that grants +20% reward luck when mining when consumed.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Lemon Puff 4 Lemon 12 Jar of Honey 4 Bread Cooking Table Food Processor Level 62 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a lemon puff grants +20% reward luck when mining for 15 minutes.
+
+Selling [ ]
+
+Lemon puffs can be sold to Petur for 768 - 1,152 coins each, or 1,152 - 1,728 coins if lemon puffs are a hot offer.
+
+History [ ]
+
+August 30, 2020 Added lemon puffs. January 22, 2021 Level 62 Cooking is now required to craft lemon puffs. November 13, 2021 Lemon puffs now grant +20% reward luck when mining when consumed. Added a description Changed the recipe from 1 lemon , 3 jars of honey , and 1 bread to 4 lemons, 12 jars of honey, and 4 bread. Changed the base selling price from 240 coins to 960 coins. Lemon puffs no longer heal 35 HP when consumed. January 8, 2022 Changed the base selling price from 960 coins to 1,152 - 1,728 coins. January 15, 2022 Changed the base selling price from 1,152 - 1,728 coins to 768 - 1,152 coins. June 3, 2022 Welded the lemon puff model to prevent it from breaking into pieces when dropped.
+
+Trivia [ ]
+
+There is a bug whereby when placed on plates , lemon puffs appear invisible.

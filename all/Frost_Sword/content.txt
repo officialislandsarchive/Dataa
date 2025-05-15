@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Frost_Sword
+
+----------------------------------------
+
+Frost Sword Type Light Melee Physical class Slashing Magical class Frost Attack damage 18 HP (Base) 27 HP (Critical) 5 HP (Frost) The frost sword is a light melee weapon in the slashing and frost classes.
+
+Obtaining [ ]
+
+Christmas presents [ ]
+
+Opening a Christmas present 2021 has a 0.33% chance of rewarding a frost sword. Since the event ended, the only way to obtain it is by trading for presents or by trading to get the frost sword directly.
+
+Behavior [ ]
+
+Attacking [ ]
+
+At level 1 Light Melee , the frost sword deals a base damage of 18 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 9 HP of damage. Its damage can be increased by leveling up the Light Melee skill and it is in the slashing and frost classes.
+
+Frost Damage [ ]
+
+Every three hits dealt to a hostile mob or bosses inflicts the frost effect, causing the attacked mob to move slower and deals damage of 5 HP. The amount of damage dealt can be increased by the player's Light Melee level.
+
+History [ ]
+
+December 18, 2021 Added frost swords. September 17, 2022 Frost swords are now a slashing weapon. December 23, 2022 Frost swords are now in the frost class.
+
+Trivia [ ]
+
+Unlike other weapons , the frost sword and the frost hammer have collision hitboxes set to true. Prior to December 23, 2022 , the frost effect of the frost sword does not affect the bosses . Contrary to its description, it takes 3 hits instead of 4 hits. The frost sword shares the same damage as the aquamarine sword and the cutlass , except frost damage.

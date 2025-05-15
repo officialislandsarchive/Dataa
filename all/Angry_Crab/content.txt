@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Angry_Crab
+
+----------------------------------------
+
+Angry Crab Health 150 HP Behavior Hostile Attack strength 10 HP Drops Coral Sea Grass Coconut Sand Jukebox Disk Location Pirate Island Angry crabs are hostile mobs that spawn on the beaches of Pirate Island .
+
+Spawning [ ]
+
+Angry crabs spawn on Pirate Island's beaches .
+
+Drops [ ]
+
+Defeating an angry crab rewards 6 Combat XP (24 with the 4x daily bonus) and 6 Light Melee , Heavy Melee , Magic , or Archery XP (24 with the 4x daily bonus) depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Coral or Sea Grass 500% Sand 100% Doubloon 100% Coconut 50% Jukebox Disks Blue Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Red Jukebox Disk 0.35% Green Jukebox Disk 0.1% Orange Jukebox Disk 0.1% Purple Jukebox Disk 0.1%
+
+Resistances and Weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical None Hydro Piercing Inferno
+
+Quest [ ]
+
+Killing angry crabs is a part of a quest.
+
+Quest Type Tasks Reward Defeat Angry Crab Battle Kill 5 Crab Kill 20 Crab 5 - 20 Doubloons 20 - 100 Coins
+
+History [ ]
+
+July 17, 2021 Added angry crabs. June 3, 2022 Angry crabs now have a chance of dropping doubloons upon defeat.
+
+Trivia [ ]
+
+When an angry crab tries to move underwater, it may flip forward and get stuck in the ground. Angry crabs sometimes flee from players when their HP is low.

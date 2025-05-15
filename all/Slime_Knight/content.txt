@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Slime_Knight
+
+----------------------------------------
+
+Slime Knight Health 250 HP Behavior Hostile Attack strength 16 Drops Jukebox Disk Location Slime Dungeon A slime knight is a hostile mob found exclusively in the Slime Dungeon .
+
+Spawning [ ]
+
+Slime knights are found in the Slime Dungeon during the " Clear all Slime Knights " quests or can be summoned by the Primordial Slime .
+
+Drops [ ]
+
+A slime knight rewards 8 (33 with the 4x daily bonus) Light Melee, Heavy Melee, Magic, or Archery XP depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Blue Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Red Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Resistances and Weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical None Hydro Slashing Inferno
+
+History [ ]
+
+June 23, 2023 Added slime knights.

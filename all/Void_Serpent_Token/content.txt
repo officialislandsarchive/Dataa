@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Void_Serpent_Token
+
+----------------------------------------
+
+Void Serpent Token Dropped by Void Hound Void Serpent Description A token obtained from the Void Isles! The Void Serpent token is an item used to summon the Void Serpent . It cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Void hounds have a chance to drop 1 - 3 Void Serpent tokens upon defeat and the Void Serpent is guaranteed to drop 100 - 200 Void Serpent tokens upon defeat.
+
+Serpent eggs [ ]
+
+Opening a serpent egg has a 15% chance of rewarding 15 - 30 Void Serpent tokens, having a rarity of 'uncommon'.
+
+Quests [ ]
+
+Quest Type Tasks Reward Prerequisites The Wanderer Multiple Defeat 20 void hounds 50 Void Serpent Token Access to next task A New World Return to the mysterious Wanderer. Access to next task Kill 2x Void Serpent 1,000 coins 30 Void Serpent Token Secrets Multiple Speak to Larry 250 coins Access to next task The Wanderer Mine rocks on Void Island [sic] 450 coins Access to next task Craft Amethyst Blocks using Amethyst Crystals 450 coins Access to next task Shovel 10 Void Sand piles Shovel 10 Void Grass piles 1,400 coins 50 Void Serpent Token Uncovering the void Multiple Investigate the smoke-covered lowlands Access to next task A New World Go into the fog 10 Void Serpent Token Access to next task Mine 3x Amethyst Rock 100 coins 20 Void Serpent Token Resisting the smoke Multiple Craft 1x Void Potion 100 coins Access to next task Uncovering the void Enter the smoke while using the void potion 200 coins 10 Void Serpent Token Access to next task Needing to vent... Multiple Use the geysers to travel around 300 coins 20 Void Serpent Token Resisting the smoke
+
+Usage [ ]
+
+Summoning [ ]
+
+At least 300 Void Serpent tokens can be used summon the Void Serpent .
+
+History [ ]
+
+August 13, 2022 Added Void Serpent tokens. Introduced where Void Serpent tokens now cannot be traded . August 20, 2022 Void Serpent tokens can now be opened from serpent eggs .
+
+Trivia [ ]
+
+It is the only token that cannot be traded in any way.

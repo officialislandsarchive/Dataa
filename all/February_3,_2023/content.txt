@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/February_3,_2023
+
+----------------------------------------
+
+February 3, 2023 Basic Information Day released February 3, 2023 Version number 115 Version Navigator Previous version Next version January 20, 2023 February 17, 2023 The February 3, 2023 update, also known as the achievement points update, is an update in Islands that new achievements , concluded the Lunar New Year 2023 event, and added medals .
+
+Content [ ]
+
+Additions [ ]
+
+Added achievements : Added Mastery of Fishing. Added Mastery of Farming. Added Mastery of Forging. Added Mastery of Combat. Added Mastery of Light Melee. Added Mastery of Heavy Melee. Added Mastery of Magic. Added Mastery of Archery. Added Mastery of Mining. Added Mastery of Woodcutting. Added Mastery of Economy. Added Mastery of Cooking. Added Mastery of Animal Husbandry. Added Medals . Added Single Medal Display Stands .
+
+Modifications [ ]
+
+All Lunar New Year 2023 items are now tradable. Updated block sounds for grass , wood , stone , and glass blocks . Increased skill levels' maximum cap from 99 to 100. Pirate and Maple travel merchants teleport you back to the Hub . Increased the sell price of wheat from 7 coins to 12 coins. Decreased the sell price of radishes from 64 coins to 60 coins.
+
+Bug fixes [ ]
+
+Fixed bug preventing achievement rewards to be given out correctly.
+
+February 5, 2023 [ ]
+
+Bug fixes [ ]
+
+Fixed bug causing some players to get stuck on "Downloading Profile..." when loading into the game.
+
+February 6, 2023 [ ]
+
+Bug fixes [ ]
+
+Fixed bug causing some players' profile slots to not load properly, causing them to be kicked from the game.
+
+Islands update history 2020 April April 10 • April 24 • April 27 May May 2 • May 4 • May 7 • May 10 • May 17 • May 26 • May 31 June June 15 • June 26 July July 4 • July 11 • July 17 • July 25 August August 2 • August 9 • August 16 • August 30 September September 6 • September 18 October October 3 • October 16 November November 1 • November 7 • November 20 • November 26 December December 11 • December 18 2021 January January 4 • January 22 • January 29 February Feburary 5 • Feburary 12 • Feburary 19 • Feburary 26 March March 5 • March 13 • March 19 April April 4 • April 10 • April 16 • April 24 May May 8 • May 21 June June 4 • June 30 July July 9 • July 17 • July 23 • July 30 August August 8 • August 15 • August 21 • August 28 September September 5 • September 11 • September 18 • September 25 October October 9 • October 18 November November 13 • November 27 December December 10 • December 18 • December 29 2022 January January 8 • January 15 • January 30 February February 7 • February 19 • February 27 March March 6 • March 12 • March 25 April April 1 • April 9 • April 16 • April 22 • April 29 May May 13 • May 20 • May 27 June June 3 • June 10 • June 18 • June 25 July July 2 • July 9 • July 16 • July 23 • July 30 August August 6 • August 13 • August 20 • August 27 September September 3 • September 10 • September 17 • September 24 October October 1 • October 8 • October 15 • October 22 • October 28 November November 4 • November 11 • November 18 • November 25 December December 2 • December 16 • December 23 2023 January January 6 • January 20 February February 3 • February 17 March March 3 • March 17 • March 31 April April 14 • April 28 May May 12 • May 26 June June 23 July July 7 • July 21 August August 18 October October 13 November November 7 Discontinuation

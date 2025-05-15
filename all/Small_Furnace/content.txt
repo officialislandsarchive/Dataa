@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Small_Furnace
+
+----------------------------------------
+
+Small Furnace Type of block Solid block; Interactable Recipe 10 Stone 10 Iron Ingot Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description Improved and larger version of the campfire . The small furnace is a manual heating device block .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Small Furnace 10 Stone 10 Iron Ingot Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Small Furnace Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Heating, smelting, and cooking [ ]
+
+Small furnaces can be used to smelt, heat, or cook different items and blocks into other items and blocks. It has a total of three slots able to hold 50 items each — one slot on the top left for the item to be smelted, one in the top right for the smelted items, and one in the bottom row for fuel. When powered with coal or petrified petroleum , the small furnace will activate for approximately xx seconds. During this time, it will begin smelting the queued items inside, taking 33 seconds per two items.
+
+Input Output 1 Iron Ore 1 Iron Ingot 1 Gold Ore 1 Gold Ingot 1 Clay 1 Brick 1 Sand 1 Glass Block 1 Bamboo 1 Dried Bamboo 1 Grass 1 Dried Grass 1 Dough 1 Bread 1 Carrot 1 Roasted Carrot 1 Berry Dough 1 Berry Pie 1 Uncooked Pizza 1 Pizza 1 Carrot Cake Batter 1 Carrot Cake 1 Potato 1 Baked Potato 1 Uncooked Apple Pie 1 Apple Pie 1 Orange Cake Batter 1 Orange Cake 1 Lemon Bread Dough 1 Lemon Bread 1 Uncooked Starfruit Cake 1 Starfruit Cake 1 Uncooked Pineapple Pizza 1 Pineapple Pizza 1 Pancake Dough 1 Pancakes
+
+History [ ]
+
+April 10, 2020 Added small furnaces. September 6, 2020 Added a progress bar and updated the GUI. January 22, 2021 The small furnace now requires Forging level 2 to craft. July 23, 2021 The small furnace no longer requires any Forging level to craft. The small furnace can now hold up to 5 fuel items per slot, up from 1 per slot. November 27, 2021 Small furnaces can now cook pancake dough into pancakes . January 8, 2022 Small furnaces can now cook uncooked pineapple pizzas into pineapple pizzas . April 1, 2022 Updated the GUI to have one slot for the unheated item, one for the final product, and one for the fuel instead of two for items and one for fuel. 50 items can now queued to be heated in a slot, up from 5.
+
+Trivia [ ]
+
+The design of this furnace heavily resembles the furnace from Rust, a survival game released in 2013.

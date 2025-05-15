@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Pineapple
+
+----------------------------------------
+
+Pineapple Pineapple Oily Seed cost 2,850 coins Planted on Farmland Sell price 96 coins Edible A pineapple is a crop that grows on farmland from pineapple seeds .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting a pineapple plant yields 1 - 3 pineapples, 1 pineapple seed , and 6 Farming XP (24 XP with the 4x daily bonus). The chance of obtaining more than one pineapple per plant is increased by the player's Farming level and for owners of the VIP gamepass . Extra pineapple seeds cannot be yielded.
+
+Totems [ ]
+
+A pineapple totem will collect and replant pineapples in a 3-block radius, which can then be collected by interacting it. A pineapple totem placed next to a conveyor belt will drop the pineapples onto the conveyor. This process cannot yield extra pineapple seeds nor will it make pineapples oily.
+
+Growth [ ]
+
+The growth time of pineapples can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Pineapple Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 45s 3m 30s 5m 15s Note: The durations of time above are on an unfertilized and unwatered plant Pineapple Growth Time Type Growth Time Normal 5m 15s Fertilized 4m 12s Watered 4m 12s Watered + Fertilized 3m 41s
+
+Usage [ ]
+
+Cutting [ ]
+
+Image Name Recipe Crafting station 5 Pineapple Slice 1 Pineapple Cutting Table
+
+Crate-packing [ ]
+
+Image Name Recipe Crafting station Crate of Pineapples 100 Pineapple Crate Packer Large Crate of Pineapples 250 Pineapple Tier 2 Crate Packer
+
+Selling [ ]
+
+Pineapples can be sold to Cletus in spring on the player's island for 96 coins each if he arrives with his pineapple shop.
+
+History [ ]
+
+January 8, 2022 Added pineapples. January 11, 2022 Pineapples can now be sold to Cletus during the spring instead of the summer . Introduced a bug that prevented players from selling pineapples to Cletus. January 18, 2022 Fixed the bug preventing players from selling pineapples to Cletus. March 12, 2022 Changed the sell price of pineapples from 85 coins to 92 coins. March 25, 2022 Changed the sell price of pineapples from 92 coins to 85 coins. June 3, 2022 Changed the sell price of pineapples from 85 coins to 100 coins. July 30, 2022 Pineapples can be packed into normal and large crates of pineapples . Changed the sell price of pineapples from 100 coins to 72 coins. August 6, 2022 Changed the sell price of pineapples from 72 coins to 92 coins. October 1, 2022 Changed the sell price of pineapples from 92 coins to 96 coins. October 15, 2022 Pineapples can now be sold to Tom instead of to Cletus. November 4, 2022 Pineapples can now be sold to Cletus instead of Tom. November 18, 2022 Changed the sell price of pineapples from 92 coins to 96 coins.
+
+Trivia [ ]
+
+Pineapples are the highest selling crop , with the second being watermelons . Pineapples used to have models anchored in one spot, but this is no longer the case with Phase 1 and above. There used to be a bug where pineapple totems used to not be able to harvest pineapples. This was fixed shortly after it was found. Like starfruits , although the existence of oily pineapples in the game's code implies that it gets oily on conveyors , pineapples cannot get oily. Yielding an extra seed while harvesting pineapples are not impossible but has a near 0 percentage.

@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Slime_Queen_Pet_Spawn_Egg
+
+----------------------------------------
+
+Slime Queen Pet Spawn Egg Dropped by Slime Queen The Slime Queen pet spawn egg is a spawn egg used to spawn a Slime Queen pet . It cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+The Slime Queen has a 0.33% chance of dropping a Slime Queen pet spawn egg upon defeat.
+
+Usage [ ]
+
+Spawning [ ]
+
+To spawn a Slime Queen pet , the player must be the owner of the island they are currently on. While holding the egg, clicking or tapping anywhere on their screen will spawn a Slime Queen pet.
+
+History [ ]
+
+September 18, 2021 Added Slime Queen pet spawn eggs. September 3, 2022 Decreased the drop rate of Slime Queen pet spawn eggs from 0.33% to 0.29% October 16, 2022 Increased the drop rate of Slime Queen pet spawn eggs from 0.29% to 0.33%.

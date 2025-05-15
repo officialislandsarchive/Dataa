@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Copper_Ingot
+
+----------------------------------------
+
+Copper Ingot Recipe 1 Copper Ore Crafted with Industrial Smelter Sell price 6 coins Description Refined copper ingot. Used for crafting. A copper ingot is an item obtained from smelting copper ore .
+
+Obtaining [ ]
+
+Smelting [ ]
+
+Smelting copper ore in an industrial smelter will create copper ingots.
+
+Input Output 1 Copper Ore 1 Copper Ingot
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Copper Block 10 Copper Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Copper Press 500 Copper Ingot 5 Steel Rod Workbench Tier 3 Workbench Tier 4 Blueprint required Sap Boiler 30 Copper Ingot 2 Steel Rod 8 Green Sticky Gear Maple Workbench Syrup Bottler 20 Copper Ingot 1 Pink Sticky Gear 3 Steel Plate Maple Workbench
+
+Molding [ ]
+
+Copper ingots can be molded into copper bolts , rods , and plates with a copper press . The respective mold must be inserted into the copper press in order to process the copper ingot.
+
+Input Item transformer/ mold Output 15 Copper Ingot Copper Press Bolt Factory Mold 1 Copper Bolt 25 Copper Ingot Copper Press Rod Factory Mold 1 Copper Rod 50 Copper Ingot Copper Press Plate Factory Mold 1 Copper Plate
+
+Red bronze [ ]
+
+Copper ingots and gold ingots can be transformed together to create red bronze ingots in a red bronze refinery .
+
+Input Item transformer Output 30 Copper Ingot 2 Gold Ingot Red Bronze Refinery 1 Red Bronze Ingot
+
+Selling [ ]
+
+Copper ingots can be sold to Jade for 6 coins each.
+
+History [ ]
+
+September 18, 2020 Added copper ingots. November 27, 2021 Copper ingots now can be used to craft sap boilers and syrup bottlers . March 25, 2022 Copper ingots can now be used to craft copper blocks .

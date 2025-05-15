@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Pets
+
+----------------------------------------
+
+Pets are a feature added on July 17, 2021 . They are passive mobs that can follow the player around everywhere they go. Pets can be equipped in the pets UI, opened with the button. Players are not able to have multiple pets equipped at a time.
+
+Spawning [ ]
+
+To spawn a pet using a pet spawn egg , the player must be the owner of the island they are currently on. While holding the egg, clicking or tapping anywhere on their screen will spawn the pet.
+
+Pet UI [ ]
+
+Pets can be equipped, unequipped, and named in the pet user interface, found on the left-hand side of the screen represented by a paw. Players are able to equip/unequip pets by clicking on the box of the unlocked pet and name it by typing in the box under the pet's icon. All pets have a default name of "Name Me!" when first spawned in.
+
+Function [ ]
+
+Pets currently have no beneficial functions. They will follow its owner around on any island , but will not aid in battling, mining, or any other action.
+
+List of pets [ ]
+
+This list below shows all of the pets currently available in-game. The player may only have one of each pet.
+
+Image Name Spawn egg Fhanhorn Fhanhorn Pet Spawn Egg Bhaa Bhaa Pet Spawn Egg Pumpkin Boss Pumpkin Boss Pet Spawn Egg Kor Kor Pet Spawn Egg Baby Buffalkor Baby Buffalkor Pet Spawn Egg Dragon Dragon Pet Spawn Egg Slime King Slime King Pet Spawn Egg Wizard Boss Wizard Boss Pet Spawn Egg Crab Crab Pet Spawn Egg Snowman Snowman Pet Spawn Egg Slime Queen Slime Queen Pet Spawn Egg Void Serpent Void Serpent Pet Spawn Egg Spider Spider Pet Spawn Egg Penguin Penguin Pet Spawn Egg Dog Dog Pet Spawn Egg
+
+History [ ]
+
+July 17, 2021 Added crab pets. September 11, 2021 Added dragon pets. September 18, 2021 Added Slime King, Kor, Wizard Boss, and Bhaa pets. Fixed an issue with pets not displaying as owned after being unlocked. October 18, 2021 Added Pumpkin Boss pets. November 27, 2021 Added Fhanhorn pets. December 18, 2021 Added snowman pets. April 29, 2022 Added baby buffalkor pets. July 2, 2022 Added Slime Queen pets. August 20, 2022 Added Void Serpent pets. October 22, 2022 Added spider pets. December 16, 2022 Added penguin pets. April 14, 2023 Added dog pets.

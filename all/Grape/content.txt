@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Grape
+
+----------------------------------------
+
+Grapes Seed cost 3,000 coins Planted on Trellis Sell price 22 coins Required skill Level 35 Farming (to sell) Edible A grape is a crop that grows on trellises from grape seeds .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting a grape vine yields 1 - 3 grapes, 1 - 2 grape seeds , and 27 Farming XP (108 XP with the 4x daily bonus). The chance of obtaining more than one grape per plant is increased by the player's Farming level and for owners of the VIP gamepass . The 5% chance of obtaining an extra grape seed is increased for owners of the pro gamepass .
+
+Totems [ ]
+
+A grape totem will collect and replant grape in a 3-block radius, which can then be collected by interacting it. A grape totem placed next to a conveyor belt will drop the grapes onto the conveyor. This process cannot yield extra grape seeds.
+
+Growth [ ]
+
+The growth time of grapes can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Grape Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 0s 2m 5s 3m 5s Note: The durations of time above are on an unfertilized and unwatered plant Grape Growth Time Type Growth Time Normal 3m 5s Fertilized 2m 28s Watered 2m 28s Watered + Fertilized 2m 10s
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Grape Jam 2 Grape Cooking Table Food Processor
+
+Eating [ ]
+
+Eating grapes restores 10 HP.
+
+Selling [ ]
+
+Grapes can be sold to Tom for 22 coins each.
+
+History [ ]
+
+May 10, 2020 Added grapes. June 15, 2020 The growth time of grapes can now be shortened by the watering can , basic sprinkler , and basic fertilizer . January 22, 2021 Grapes now grant 27 Farming XP when harvested. Level 35 Farming is now required to sell grapes. June 3, 2022 Grapes can now be sold to Cletus instead of to Tom . July 16, 2022 Changed the sell price of grapes from 22 coins to 18 coins. July 23, 2022 Changed the sell price of grapes from 18 coins to 22 coins. August 6, 2022 Grapes can now be harvested by grape totems . October 15, 2022 Grapes can now be sold to Tom instead of to Cletus.
+
+Trivia [ ]
+
+Prior to December 18, 2021 , grapes were the only crop that could be grown on a trellis .

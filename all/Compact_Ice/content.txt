@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Compact_Ice
+
+----------------------------------------
+
+Compact Ice Type of block Solid block; Slippery Recipe 2 Ice Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Compact ice is a block made out of ice .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Compact Ice 2 Ice Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Compact Ice Breaking Data Hardness 2 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 6 Stone 4 4 Iron 2 2 Gilded Steel 2 2 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Transforming [ ]
+
+Input Item transformer Output 1 Compact Ice ➡ Stonecutter ➡ 1 Ice Brick ➡ Industrial Stonecutter ➡
+
+History [ ]
+
+December 18, 2021 Added compact ice.
+
+Trivia [ ]
+
+Dropped items can slide on compact ice due to its low friction.

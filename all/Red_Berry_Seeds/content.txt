@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Red_Berry_Seeds
+
+----------------------------------------
+
+Red Berry Seeds Planted on Grass Red berry seeds are seeds used to grow red berry bushes .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting a red berry bush will give 1 - 2  red berries and a 1% chance of getting a red berry seed.
+
+Starter pack [ ]
+
+Players can obtain 1 red berry seed and other items by purchasing the Starter Pack for 199 Robux in the Robux Shop .
+
+Usage [ ]
+
+Planting [ ]
+
+Red berry seeds can be planted only be planted on grass to be grown into a red berry bush.
+
+Growth [ ]
+
+A red berry bush grows through three stages after it is planted. Its first growth stage is a small seed. It becomes a bush in its second stage and produces berries in its third growth stage. Its growth time is not affected by water nor basic fertilizer .
+
+Red Berry Seeds Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 2m 35s 7m 45s 5m 10s after harvesting Note: The durations of time above are on an unfertilized and unwatered plant Red Berry Seeds Growth Time Type Growth Time Normal 7m 45s Fertilized 7m 45s Watered 7m 45s Watered + Fertilized 7m 45s
+
+History [ ]
+
+April 10, 2020 Added berry seeds. May 4, 2020 One berry seed can now be obtained by purchasing the Starter Pack . May 10, 2020 Berry seeds could now only be dropped from berry bushes after 20 minutes of playtime. Berry seeds can no longer be purchased from Cletus . ? Waiting 20 minutes is no longer necessary to have a chance of receiving an extra berry seed. October 9, 2021 Renamed berry seeds to red berry seeds. April 22, 2022 Introduced a bug that prevented players from placing red berry seeds into chests . April 29, 2022 Fixed a bug that prevented players from placing red berry seeds into chests.
+
+Trivia [ ]
+
+The developers hinted that Roblox YouTuber KonekoKitten brought the issue of berry farming using alts to their attention in his video, " i BROKE roblox skyblock by accident LOL ," thus causing them to add a 20 minute time period upon joining the game where the player cannot receive extra red berry seeds. This was later removed a few months later. The maximum number of red berry seeds a single player can have in their inventory at one time is 10,000. Joining a new server with more than the limit in the inventory or hotbar will reset it back to 10,000. Utilizing storage blocks such as chests can allow one to bypass the limit. Before May 10, 2020 , berry seeds could be purchased for 3,000 coins from Cletus .

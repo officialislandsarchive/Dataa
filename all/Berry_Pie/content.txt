@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Berry_Pie
+
+----------------------------------------
+
+Berry Pie Recipe 1 Berry Dough Crafted with Campfire Small Furnace Desert Furnace Industrial Oven Heals 40 HP Sell price 168 - 252 coins Hot sell price 252 - 378 coins Berry pie is a food item .
+
+Obtaining [ ]
+
+Cooking [ ]
+
+Baking berry dough in a campfire , small furnace , desert furnace , or industrial oven will create a berry pie.
+
+Input Output 1 Berry Dough 1 Berry Pie
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a berry pie restores 40 HP.
+
+Selling [ ]
+
+Berry pie can be sold to Petur for 168 - 252 coins each, or 252 - 378 coins if berry pie is a hot offer.
+
+History [ ]
+
+May 10, 2020 Added berry pie. January 8, 2022 Changed the base selling price from 210 coins to 252 - 378 coins. January 15, 2022 Changed the base selling price from 252 - 378 coins to 168 - 252 coins.

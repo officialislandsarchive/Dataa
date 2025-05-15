@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Industrial_Berry_Basket
+
+----------------------------------------
+
+Industrial Berry Basket Recipe 1 Berry Basket 1 Conveyor Belt 3 Blue Sticky Gear Crafted with Maple Workbench The industrial berry basket is a block used to automatically farm any types of berries dropped by turkeys .
+
+Obtaining [ ]
+
+After the player completes Emma 's second (final) quest, both the industrial berry basket and the berry basket crafting recipes are unlocked for the player.
+
+Crafting [ ]
+
+Name Recipe Crafting station Blueprint required Industrial Berry Basket 1 Berry Basket 1 Conveyor Belt 3 Blue Sticky Gear Maple Workbench
+
+Breaking [ ]
+
+Industrial Berry Basket Breaking Data Hardness 4 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 6 Stone 7 4 Iron 4 3 Gilded Steel 3 2 Diamond 2 2 Opal 2 1 Void Mattock 1
+
+History [ ]
+
+November 27, 2021 Added industrial berry basket.
+
+Trivia [ ]
+
+The day after its addition, the number of inventory slots was reduced from 3 slots to only 1. The same basket model is present on the berry basket .

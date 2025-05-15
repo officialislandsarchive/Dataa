@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Basalt
+
+----------------------------------------
+
+Basalt Basalt Rock Type of block Solid block Dropped by Coal Rock Mimic Iron Rock Mimic Gold Rock Mimic Best tool Luminous Transparent Basalt is a block obtained by defeating rock mimics and mining basalt rocks .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Basalt rocks naturally generate on Buffalkor Island . Mining a basalt rock yields 2 - 4 basalt after each stage and 3 Mining XP (6 with the 4x daily bonus), resulting in a total of 4 - 8 basalt and 9 Mining XP (18 with the 4x daily bonus) per rock.
+
+Mob drop [ ]
+
+Rock mimics of any kind are guaranteed to drop 4 - 7 basalt upon defeat.
+
+Breaking [ ]
+
+Basalt Breaking Data Hardness 8 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 12 Stone 13 8 Iron 8 5 Gilded Steel 6 4 Diamond 4 3 Opal 4 2 Void Mattock 2 Basalt Rock Breaking Data Hardness 18 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 27 Wooden 54 27 Stone 29 18 Iron 18 12 Gilded Steel 13 9 Diamond 9 6 Opal 8 4 Void Mattock 4
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Basalt Stair 1 Basalt Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Basalt Slab 1 Basalt Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Basalt can be transformed into basalt bricks in a stonecutter or an industrial stonecutter or smooth basalt in a polishing station or an industrial polishing station .
+
+Input Item transformer Output 1 Basalt ➡ Stonecutter ➡ 1 Basalt Brick ➡ Industrial Stonecutter ➡ 1 Basalt ➡ Polishing Station ➡ 1 Smooth Basalt ➡ Industrial Polishing Station ➡
+
+History [ ]
+
+June 18, 2022 Added basalt.

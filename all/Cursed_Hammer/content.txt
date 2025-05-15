@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Cursed_Hammer
+
+----------------------------------------
+
+Cursed Hammer Type Heavy Melee Physical class Striking Magic weapon type Ethereal Attack damage 60 HP (Base) 90 HP (Critical) Dropped by Cauldron Description Magical hammer said to hold ethereal energy The cursed hammer is a heavy melee weapon in the striking and ethereal classes.
+
+Obtaining [ ]
+
+2023 Cauldron [ ]
+
+Opening a Cauldron from the Halloween 2023 event has about a 1.25% chance of rewarding the Cursed Hammer, having a rarity of "Mythical.". Since the Halloween Event 2023 ended, the only way to obtain it is by trading for the hammer or trading to get cauldrons to open them.
+
+Attacking [ ]
+
+At level 1 Heavy Melee , the cursed hammer deals a base damage of 60 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 30 HP of damage and its damage can be increased by leveling up the Heavy Melee skill and it is in the striking and ethereal classes.
+
+Healing [ ]
+
+This weapon has a chance of healing when it's used, it can heal you and the players around you

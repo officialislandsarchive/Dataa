@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Berry_Pancakes
+
+----------------------------------------
+
+Berry Pancakes Recipe 1 Sweet Pancakes 6 Raspberry 6 Blueberry Crafted with Cooking Table Food Processor ( blueprint required) Heals 55 HP Sell price 750 coins Description Very tasty pancakes made with the maple island's [sic] famous recipe. Berry pancakes are a food item that heals 55 HP when consumed.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+The recipe for berry pancakes will automatically be unlocked after starting Emma 's second quest.
+
+Name Recipe Crafting station Blueprint required Berry Pancakes 1 Sweet Pancakes 6 Raspberry 6 Blueberry Cooking Table Food Processor
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Blueprint required Fhanhorn's Pancakes 1 Berry Pancakes 3 Fhanhorn's Flower Cooking Table Food Processor Level 75 Cooking
+
+Eating [ ]
+
+Eating berry pancakes restores 55 HP.
+
+Selling [ ]
+
+Berry pancakes can be sold to Emma or Bailey for 750 coins each after completing their respective first quests.
+
+History [ ]
+
+November 27, 2021 Added berry pancakes.
+
+Trivia [ ]
+
+Berry pancakes heal the second-most health out of any food item, with fish and chips healing the most.

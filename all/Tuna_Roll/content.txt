@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Tuna_Roll
+
+----------------------------------------
+
+Tuna Roll Recipe 1 Sushi Roll 3 Cut Tuna Crafted with Cooking Table Food Processor Effect +7% coins when selling to villagers Required skill Level 72 Cooking Description Consume for +7% coins when selling to merchants. A tuna roll is a food item that grants +7% coins when selling items to villagers when consumed.
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Tuna Roll 1 Sushi Roll 3 Cut Tuna Cooking Table Food Processor Level 72 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a tuna roll grants +7% coins when selling items to villagers for 15 minutes. This effect does not influence the amount earned from using the industrial merchant teleseller .
+
+History [ ]
+
+November 13, 2021 Added tuna rolls. Introduced where tuna rolls now cannot be sold to Petur . January 15, 2022 Changed the recipe to require 3 cut tuna instead of 1. Tuna rolls now grant +7% coins when selling to villagers , up from 5%. Changed the description from "Eat for +5% coins when selling to merchants." to "Eat for +7% coins when selling to merchants."
+
+Trivia [ ]
+
+Tuna rolls currently cannot be sold to Petur . Prior to January 15, 2022 , it was +5% coins when selling to merchants and 1 cut tuna due to it being unbalanced.

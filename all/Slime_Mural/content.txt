@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Slime_Mural
+
+----------------------------------------
+
+Slime Mural 1 2 3 4 5 Type of block Solid block Best tool Luminous Transparent Description ???
+
+A slime mural is a furniture block that comes in five different variants.
+
+Description [ ]
+
+Slime murals contains lore that can be read by interacting with it.
+
+Slime Mural 1 [ ]
+
+Slime Mural 2 [ ]
+
+Slime Mural 3 [ ]
+
+Slime Mural 4 [ ]
+
+Slime Mural 5 [ ]
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+All slime mural variants can be purchased from Ivon for 1,200 dungeon coins .
+
+Breaking [ ]
+
+Slime Mural Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+June 23, 2023 Added slime murals.

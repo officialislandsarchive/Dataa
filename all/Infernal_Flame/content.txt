@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Infernal_Flame
+
+----------------------------------------
+
+Infernal Flame Description A single yet rare flame from the infernal dragon. The infernal flame is an item that has a chance to be obtained from infernal dragon eggs .
+
+Obtaining [ ]
+
+Dragon eggs [ ]
+
+Opening an infernal dragon egg has a 9% chance of rewarding an infernal flame, having a rarity of 'rare'.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Infernal Dragon Orb 10 Glass Block 20 Red Bronze Ingot 1 Infernal Flame Workbench Tier 4 Level 55 Combat Defeated the Infernal Dragon at least once Infernal Hammer 1 Infernal Flame 200 Magma Block 5 Gilded Steel Rod 50 Steel Plate Anvil Level 55 Heavy Melee
+
+History [ ]
+
+April 16, 2022 Added infernal flames. April 22, 2022 Infernal flames can now be used to craft infernal hammers .
+
+Trivia [ ]
+
+Contrary to its description, the infernal flame is not directly dropped by the Infernal Dragon .

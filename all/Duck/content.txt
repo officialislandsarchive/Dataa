@@ -1,0 +1,71 @@
+Source: https://robloxislands.fandom.com/wiki/Duck
+
+----------------------------------------
+
+Duck Behavior Passive Effect Speed (+25% when mounted) Location Player's Island A duck is a small passive mob added in the February 19, 2022 update. It can be spawned from a duck spawn egg and can be mounted for a 25% speed boost when fully grown.
+
+It is the sixth animal passive mob in Islands .
+
+Spawning [ ]
+
+Ducks can be spawned through a duck spawn egg , which can be bought from Taliyah once the player has reached level 40 in the Animal Care skill. Higher-tier eggs can be obtained by breeding two ducks.
+
+Behavior [ ]
+
+Laying eggs [ ]
+
+Ducks will lay infertile duck eggs shortly after being fed with their favorite foods or bread . If there is a nest or the industrial nest nearby it might lay an egg in it, but it's not guaranteed. Duck eggs laid in a nest or on a grass block will not despawn.
+
+Sleeping [ ]
+
+When it becomes night in-game, ducks will go to sleep. While they can sleep anywhere and sometimes will, they prefer to sleep on a nest.
+
+Following [ ]
+
+Ducks will follow players that are holding bread .
+
+Breeding [ ]
+
+After two ducks have been given a potion of fertility each, they will breed, creating a duck spawn egg . The egg will be of a tier between 1 and 3.
+
+Inspecting [ ]
+
+Ducks can be inspected to show a menu that allows the player to see information about the duck, listed below:
+
+Mount Sell value Information Food level Favorite foods Happiness level Traits (fertility, productivity, and friendliness) Personality
+
+Feeding [ ]
+
+Ducks can be fed approximately every ?? - ?? seconds. Ducks eat bread , but will also each have their favorite foods . The foods a duck can have as its favorite food are pizza , baked potato , potato salad , roasted carrots , and roasted honey carrots .
+
+Feeding a duck will increase its food and friendliness level. The food level is necessary to keep above 20% or the duck will start losing happiness.
+
+A wooden trough , metal trough , or automated trough can be used to feed ducks.
+
+Like other animals , if no troughs are in its vicinity, it will eat from a grass block , but doing so will not replenish its hunger meter nor give Animal Care XP.
+
+Petting [ ]
+
+A duck can be pet every 5 minutes which increases its happiness level. The action yields 5 Animal Care XP (18 with the 4x daily bonus).
+
+Mounting [ ]
+
+Ducks can be mounted via the button in the inspect menu if the player is level 8 or higher in Animal Care. A mounted duck can be ridden anywhere within the server. If the duck is dismounted outside the player's island or falls into the void, the duck will respawn on the island spawn point. Mounting a duck will grant a 25% speed boost to the player, which can be stacked with chili peppers , potato and duck egg scrambles , the speed boost of horses , yaks or vultures and sweet rice desserts . When the player taking any damage while mounting a duck, it will no longer automatically be dismounted.
+
+Personality [ ]
+
+Ducks are assigned a personality upon spawning. All personalities have the same probability, except for resourceful which is more uncommon.
+
+Personality Description Effects Trivia Lazy "Your duck is lazy. They sleep for a long time, but gain a bit of happiness while sleeping." Duck will sleep during the afternoon and evening, but will still gain happiness while sleeping. Level-headed "Your duck is level-headed. They will not gain or lose happiness quickly." Self-Explanatory Loyal "Your duck is loyal. They are extra happy around players and animals but can become very lonely when left alone." Ducks will gain happiness faster if players and/ or animals are within an unknown number blocks, but will lose happiness fast if they are further than that threshold. Friendly "Your duck is friendly. They will bring you extra gifts." Unknown Resourceful "Woah! Your duck is resourceful. They will produce items faster than other animals." Ducks will make products faster than normal. This is the rarest personality.
+
+History [ ]
+
+February 19, 2022 Added ducks. Introduced where ducks are now able to eat grass blocks . April 9, 2022 Fixed a bug that prevented ducks from eating from wooden troughs , metal troughs , or automated troughs .
+
+Trivia [ ]
+
+Like yaks , ducks were unable to eat from a wooden trough , metal trough , or an automated trough . This was fixed in the April 9, 2022 update. Ducks are able to move with sleeping animation, but this can be fixed by mounting and dismounting. Like all other animals, ducks may eat from a grass blocks instead of from troughs, but doing so will not replenish their hunger meter nor give Animal Care XP. This can be done if no troughs are nearby. The eating sound of ducks is reduced when eating grass blocks.
+
+Like yaks and horses , if a player mounts another animal while being mounted on a duck, they will be bugged and have the speed boost even when off the animal. This is due to the effect is removed only when dismounting a duck
+
+Contrary to the duck spawn egg's description, ducks cannot be fed wheat . Ducks share many things with other animals . Ducks have the same eye model as turkeys , yaks, horses, and the old model of cows . Ducks have the same animations, amount of Animal Care XP, and favorite foods as chickens . Ducks were the first and only animal that has a processed food, bread , as their primary food; all other animals prefer raw crops . Like yaks and horses, there was a bug where the extra boosts granted when mounting a duck will wear off when joining other servers. This was fixed in the July 9, 2022 Update. Ducks were the first animal that granted a speed boost when mounted. Ducks were reported jittering when close to players, causing them to fling off the map or despawn, this was later fixed. Unlike chickens, ducks could collision with eggs or duck eggs into nests .

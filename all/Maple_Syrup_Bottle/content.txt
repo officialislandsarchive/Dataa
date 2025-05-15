@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Maple_Syrup_Bottle
+
+----------------------------------------
+
+Maple Syrup Bottle Recipe 1 Maple Syrup Crafted with Syrup Bottler A maple syrup bottle is an item obtained by bottling maple syrup .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Maple syrup bottles can be obtained by bottling maple syrup in a syrup bottler . It takes 5 seconds to fully transform maple syrup into a maple syrup bottle.
+
+Input Item transformer Output 1 Maple Syrup ➡ Syrup Bottler ➡ 1 Maple Syrup Bottle
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Maple Isles Orb 10 Glass Block 20 Raspberry 10 Maple Syrup Bottle Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Sweet Rice Cakes 3 Rice 1 Maple Syrup Bottle Cooking Table Food Processor Blueprint required Sweet Pancakes 1 Pancakes 3 Maple Syrup Bottle Cooking Table Food Processor
+
+History [ ]
+
+November 27, 2021 Added maple syrup bottles. February 7, 2022 Maple syrup bottles can now be used to craft sweet rice cakes . April 9, 2022 Maple syrup bottles can now be used to craft Maple Isles orbs .

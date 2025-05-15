@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Sandbag_Stack
+
+----------------------------------------
+
+Sandbag Stack Type of block Solid block Best tool Luminous Transparent Description A sandbag stack of three for decor.
+
+The sandbag stack is a mining-themed furniture block that can be obtained by purchasing from Jed .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+The sandbag stack can be purchased from Jed for 10 emerald crystals .
+
+Breaking [ ]
+
+Sandbag Stack Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+April 28, 2023 Added sandbag stacks May 12, 2023 Sandbag stacks are made unobtainable.

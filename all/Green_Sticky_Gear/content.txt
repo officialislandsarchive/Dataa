@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Green_Sticky_Gear
+
+----------------------------------------
+
+Green Sticky Gear Dropped by Green Slime Slime King Description Valuable advanced crafting component A green sticky gear is a mob drop uncommonly dropped from green slimes and a guaranteed drop from the Slime King .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Green slimes have a 10% chance of dropping a green sticky gear and the Slime King is guaranteed to drop a green sticky gear upon defeat.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Vending Machine 5 Green Sticky Gear 1 Crystallized Iron 10 Gold Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 55 Economy Basic Sprinkler 2 Green Sticky Gear 1 Crystallized Iron 30 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Iron Door 1 Green Sticky Gear 30 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Food Processor 5 Green Sticky Gear 2 Crystallized Gold 10 Steel Rod Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 25 Forging Industrial Oven 3 Green Sticky Gear 8 Steel Rod Workbench Tier 3 Workbench Tier 4 Level 17 Forging Blueprint required Sap Boiler 30 Copper Ingot 2 Steel Rod 8 Green Sticky Gear Maple Workbench None
+
+Totem upgrades [ ]
+
+Green sticky gears are used to upgrade totems .
+
+History [ ]
+
+May 2, 2020 Added green sticky gears. May 31, 2020 Green sticky gears can be used to craft vending machines . June 15, 2020 Green sticky gears can be used to craft basic sprinklers . June 26, 2020 Green sticky gears can be used to craft food processors . March 13, 2021 The Slime King is now able to drop green sticky gears upon defeat. April 16, 2021 Green sticky gears can now be used to upgrade totems . November 27, 2021 Green sticky gears can be used to craft sap boilers .
+
+Trivia [ ]
+
+The green sticky gear is the only sticky gear to have recipes that are available in the workbench tier 2 .

@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Bell_(Christmas)
+
+----------------------------------------
+
+Bell Type of block Solid block; Interactable Best tool Luminous Transparent The bell is a furniture block that has a chance to be obtained from Christmas present 2021s .
+
+Obtaining [ ]
+
+Christmas presents [ ]
+
+Opening a Christmas present 2021 has a 10% chance of rewarding a bell.
+
+Breaking [ ]
+
+Bell Breaking Data Hardness 5 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 8 Wooden 15 15 Stone 8 8 Iron 5 5 Gilded Steel 4 4 Diamond 3 3 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Interacting [ ]
+
+Bells can be interacted with to make a sound.
+
+History [ ]
+
+December 29, 2021 Added bells.

@@ -1,0 +1,55 @@
+Source: https://robloxislands.fandom.com/wiki/Wheat
+
+----------------------------------------
+
+Wheat Seed cost 125 coins Planted on Farmland Sell price 7 coins Edible Wheat is the cheapest crop in Islands that naturally generates on the creation of new player islands .
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+New player islands will spawn with 6 fully-grown wheat next to a plow .
+
+Harvesting [ ]
+
+Harvesting wheat yields 1 - 3 wheat, 1 - 2 wheat seeds , and 6 Farming XP (18 with the 4x daily bonus). The chance of obtaining more than one wheat per plant is increased by the player's Farming level and for owners of the VIP gamepass . The 5% chance of obtaining an extra wheat seed is increased for owners of the pro gamepass .
+
+Totems [ ]
+
+A wheat totem will collect and replant wheat in a 3-block radius, which can then be collected by interacting it. A wheat totem placed next to a conveyor belt will drop the wheat onto the conveyor. This process cannot yield extra wheat seeds.
+
+Growth [ ]
+
+The growth time of wheat can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Wheat Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 5s 2m 10s 3m 15s Note: The durations of time above are on an unfertilized and unwatered plant Wheat Growth Time Type Growth Time Normal 3m 15s Fertilized 2m 36s Watered 2m 36s Watered + Fertilized 2m 17s
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Dough 3 Wheat Cooking Table Food Processor None Hay Bed 50 Wheat Animal Bench Level 11 Animal Care Nest 40 Wheat 20 Oak Plank Animal Bench Level 19 Animal Care Blueprint required Pancake Dough 9 Wheat Cooking Table Food Processor None
+
+Crate-packing [ ]
+
+Image Name Recipe Crafting station Crate of Wheat 100 Wheat Crate Packer Large Crate of Wheat 250 Wheat Tier 2 Crate Packer
+
+Cows [ ]
+
+Holding wheat will make any cow in the nearby vicinity to approach the player. Wheat can also be fed to cows manually or through a wooden , metal , or automated trough .
+
+Farming Festival [ ]
+
+During the Farming Festival wheat spawned on Farming Festival Island , harvesting a wheat plant gave the player 1 "crop"; Cletus' limited time currency.
+
+Selling [ ]
+
+Wheat can be sold to Cletus for 11 coins each.
+
+History [ ]
+
+April 10, 2020 Added wheat. October 3, 2020 Wheat can now be placed into wooden troughs . Wheat can now be used to craft hay beds . Wheat can now be fed to cows . January 22, 2021 Wheat now grants 6 Farming XP when harvested. January 26, 2021 Changed the sell price of wheat from 5 coins to 7 coins. February 26, 2021 Wheat can now be used to craft nests . April 4, 2021 Wheat can now be placed into metal troughs . June 4, 2021 Wheat can be packed into crates of wheat . August 15, 2021 Wheat can be packed into large crates of wheat . Wheat can now be used to craft automated troughs November 27, 2021 Wheat can now be used to craft pancake dough . January 15, 2022 Changed the sell price of wheat from 7 coins to 9 coins. February 19, 2022 Changed the sell price of wheat from 9 coins to 7 coins. March 6, 2022 Changed the model of wheat. April 1, 2022 Fixed wheat tiling issue. ? 40 wheat is now required to craft nests , up from 20. June 3, 2022 Wheat can now be sold to Cletus instead of Tom . June 25, 2022 Changed the sell price of wheat from 7 coins to 5 coins. July 2, 2022 Changed the sell price of wheat from 5 coins to 12 coins. July 9, 2022 Changed the sell price of wheat from 12 coins to 7 coins. August 27, 2022 Changed the sell price of wheat from 7 coins to 14 coins. October 15, 2022 Wheat can now be sold to Tom instead of to Cletus . November 4, 2022 Wheat can now be sold to Cletus instead of Tom . November 11, 2022 Changed the sell price of wheat from 7 coins to 11 coins.
+
+Trivia [ ]
+
+Wheat, a red berry bush , and a fruit tree are the three crops that naturally generate upon a new island creation.

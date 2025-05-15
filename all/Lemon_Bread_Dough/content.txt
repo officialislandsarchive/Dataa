@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Lemon_Bread_Dough
+
+----------------------------------------
+
+Lemon Bread Dough Recipe 1 Dough 3 Lemon Crafted with Cooking Table Food Processor Required skill Level 30 Cooking Lemon bread dough is an uncooked food item that turns into lemon bread once cooked.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Lemon Bread Dough 1 Dough 3 Lemon Cooking Table Food Processor Level 30 Cooking
+
+Usage [ ]
+
+Cooking [ ]
+
+Lemon bread dough can be cooked into lemon bread in a campfire , small furnace , desert furnace , or industrial oven .
+
+Input Output 1 Lemon Bread Dough 1 Lemon Bread
+
+History [ ]
+
+June 26, 2020 Added lemon bread dough. January 22, 2021 Level 30 Cooking is now required to craft lemon bread dough.

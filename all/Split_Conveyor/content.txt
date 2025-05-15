@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Split_Conveyor
+
+----------------------------------------
+
+Split Conveyor Off Powered Type of block Solid block; Electrical Recipe 1 Crystallized Iron 4 Steel Rod 20 Electrite Crafted with Electrical Workbench (Level 2) Best tool Luminous Transparent The split conveyor is both a conveyor and an electrical component used to change the path of the conveyor belt when powered.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Split Conveyor 1 Crystallized Iron 4 Steel Rod 20 Electrite Electrical Workbench (Level 2)
+
+Breaking [ ]
+
+Split Conveyor Breaking Data Hardness 3 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 5 Stone 5 3 Iron 3 2 Gilded Steel 3 2 Diamond 2 1 Opal 2 1 Void Mattock 1
+
+Usage [ ]
+
+Separating conveyors [ ]
+
+The split conveyor functions as a normal conveyor unless it is powered. When powered, items on the conveyor will go off to the side instead of forward. The green arrow at the top indicates the direction of the output. The input conveyor belt cannot be switched to the side or right conveyor belt.
+
+History [ ]
+
+December 11, 2020 Added split conveyors.
+
+Trivia [ ]
+
+The randomizer and merger have the exact same model but with different designs at the top. The split conveyor can be used as a randomizer if a timer is hooked up to it.

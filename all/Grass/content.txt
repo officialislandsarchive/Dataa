@@ -1,0 +1,63 @@
+Source: https://robloxislands.fandom.com/wiki/Grass
+
+----------------------------------------
+
+Grass Spring Summer Fall Winter Dirt Farmland Dried Grass Type of block Solid block Buy cost 5 coins Best tool Luminous Transparent Grass is a block naturally found on the player's island upon starting the game. Smelting it in a campfire , small furnace , or desert furnace will convert it into dried grass, while plowing it will convert it into farmland.
+
+Design [ ]
+
+The color of grass varies depending on the current season . During spring , grass will become more vibrant, while during summer , grass will return to its original color. Grass will become more yellow-green during fall and during winter , grass will have snow on top of it.
+
+Dried grass shares the same texture as the normal grass block but has a more yellow and saturated grass layer.
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+815 blocks of grass are naturally generated on the player's island when first joining the game. Additional grass can generate on resource islands .
+
+Purchasing [ ]
+
+Grass can be bought from John for 5 coins each.
+
+Quests [ ]
+
+Before the February 26, 2021 update, grass could have been obtainable through completing legacy quests . Since then, those quests have been removed, and grass can not be obtained this way.
+
+Holes [ ]
+
+After digging for truffles , pigs will leave a small hole that will grant 1 block of grass if removed.
+
+Breaking [ ]
+
+Grass, Farmland, Dried Grass Breaking Data Hardness 2 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 6 3 Stone 4 2 Iron 2 2 Gilded Steel 2 1 Diamond 1 1 Opal 1 1 Void Mattock 1 Dirt Breaking Data Hardness 2 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 6 3 Stone 4 2 Iron 2 2 Gilded Steel 2 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Grass is mainly used for building and terraforming. If a block is placed on it, it will lose its top layer and become a dirt block. Tall grass , certain types of flowers , and wild rocks can spawn on grass.
+
+Smelting [ ]
+
+Smelting grass in a campfire , small furnace , or desert furnace will turn it into dried grass. Dried grass will turn back into grass when plowed or if a block is placed above it.
+
+Input Output 1 Grass 1 Dried Grass
+
+Farming [ ]
+
+Saplings , berry bushes , flowers , and bamboo can be planted and grown on normal grass.
+
+Using a plow on a grass block will create farmland. Wheat , tomatoes , potatoes , carrots , onions , starfruits , spinach , pumpkins , watermelon , radishes , spirit crops , chili peppers , pineapples , and void parasites can be planted and grown on this block. Plowing the farmland again or placing a block above it will turn it back into grass.
+
+Farmland can be watered with a watering can or basic sprinkler or fertilized with basic fertilizer to turn it into watered/fertilized farmland respectively, allowing crops to grow 20% faster. Watering and fertilizing farmland will allow crops to grow 30% faster.
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Pond Planter 40 Stone 10 Grass 1 Water Bucket Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Aquamarine Potted Plant 10 Aquamarine Shard 2 Tall Grass 5 Grass Furniture Workbench Potted Tree 1 Oak Sapling 20 Stone 5 Grass Furniture Workbench Mud Pile 2 Tall Grass 20 Grass 1 Black Truffle Animal Bench Flower Pot 20 Brick 1 Grass Pottery Bench
+
+History [ ]
+
+April 10, 2020 Added grass blocks. November 20, 2020 Grass can now be used to craft flower pots . January 22, 2021 System grass has been removed from the game. Animals are now able to eat from grass blocks if no troughs are nearby, including cows and sheep . January 29, 2021 Grass can now be used to craft aquamarine potted plants and potted trees . February 5, 2021 Grass can now be used to craft mud piles . Grass can now be obtained from dirt piles . Pigs are now able to eat from grass blocks if no troughs are nearby. February 26, 2021 Chickens are now able to eat from grass blocks if no troughs are nearby. March 13, 2021 Grass blocks now change colors depending on the season . November 13, 2021 Grass can now be used to craft pond planters . November 27, 2021 Turkeys are now able to eat from grass blocks if no troughs are nearby. February 19, 2022 Ducks are now able to eat from grass blocks if no troughs are nearby. March 25, 2022 Yaks are now able to eat from grass blocks if no troughs are nearby. April 29, 2022 Fixed an issue that caused grass blocks to lose their texture when seasons change. June 3, 2022 Horses are now able to eat from grass blocks if no troughs are nearby. December 16, 2022 Christmas present 2022s can now spawn on grass blocks. March 17, 2023 Vultures are now able to eat from grass blocks if no troughs are nearby.
+
+Trivia [ ]
+
+When a block is placed on any kind of grass block, removing the placed block will always change the grass-variant block back to the original grass block. Grass is the cheapest block that can be bought from villagers , coming in at only 5 coins per block. Farmland is slightly shorter than the regular blocks. The thin colored grass layer makes grass slightly taller than regular blocks. A system grass block could be obtained via glitch. To this day, there are only a few users who have this item. Dirt, a grass block with any full block on top of it, is slightly harder to break than a regular grass block, in addition to farmland. Regardless of season, a grass block in the player's hand always displays the green spring color. Since the January 22, 2021 update, all animals , including cows and sheep may eat from a grass block instead of from troughs, but doing so will not replenish their hunger meter nor give Animal Care XP. This was likely can be done if no troughs are nearby. Since the February 5, 2021 update, pigs are now able to eat from grass blocks. Since the February 26, 2021 update, chickens are now able to eat from grass blocks. Since the November 27, 2021 update, turkeys are now able to eat from grass blocks. Since the February 19, 2022 update, ducks are now able to eat from grass blocks. Since the March 25, 2022 update, yaks are now able to eat from grass blocks. Since the June 3, 2022 update, horses are now able to eat from grass blocks. Horses do not have an eating animation while eating from grass blocks. Since the March 17, 2023 update, vultures are now able to eat from grass blocks. Vultures do not have an eating animation or a eating sound while eating from grass blocks. The eating sound of animals is reduced while eating from grass blocks. All animals but vultures have the following eating sound set in place: Cows, sheep, pigs, yaks, and horses use a long eating sound while eating from grass blocks. Chickens use a cluck sound while eating from grass blocks. Turkeys use a harvest berry bush sound while eating from grass blocks. Ducks use a quack sound while eating from grass blocks. All animals do not break the block while eating from grass blocks. All animals but horses use an eating animation while eating from grass blocks. All animals but horses and vultures have the following eating animation set in place: Cows, sheep, pigs, and yaks use a cow's eating animation while eating from grass blocks. Chickens and ducks use a chicken's eating animation while eating from grass blocks. Turkeys use the harvest berry bush animation as eating animation while eating from grass blocks.

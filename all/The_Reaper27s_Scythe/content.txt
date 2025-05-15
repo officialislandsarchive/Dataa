@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/The_Reaper%27s_Scythe
+
+----------------------------------------
+
+The Reaper's Scythe Type Heavy Melee Physical class Slashing Magical class Void Attack damage 68 HP (Base) +34 HP (Critical) The reaper's scythe is a heavy melee weapon in the slashing and void classes. As of November 4, 2022 , it can now be dropped, placed on another player's island , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Cauldron [ ]
+
+Opening a cauldron from the Halloween 2022 event has a 1% chance of rewarding the reaper's scythe, having a rarity of 'mythic'. On November 4, 2022, the event ended making the only way to obtain it by trading to obtain cauldrons or to obtain the reaper's scythe directly.
+
+Attacking [ ]
+
+At level 1 Heavy Melee , the reaper's scythe deals a base damage of 68 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing and deals knockback. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 34 HP of damage. Its damage can be increased by leveling up the Heavy Melee skill and it is in the slashing and void classes.
+
+Like other melee weapon , only one player can hit damage in each hostile mob. Multiple players cannot hit damage together.
+
+Trivia [ ]
+
+There used to be a bug where players with short avatars will get ragdolled or teleport to the players' last location when using this. The bug was fixed on the next day. The reaper's scythe is the strongest melee weapon in terms of base damage, with the serpent's bane being the second. The reaper's scythe is one of the only melee weapons with a magical classification, with the others being the frost hammer , the frost sword , the infernal hammer , the trout's fury , the serpent's hook , and the jolly dagger . If the mob has a weakness or resistance to both of its classification, then the damage multiplier will be either higher or lower than normal. While if the mob has a weakness and resistance to each of its classification, then neutral damage will apply.
+
+History [ ]
+
+October 15, 2022 Added the reaper's scythe. October 16, 2022 Scaled down the reaper's scythe's model to counter ragdolling issues. November 4, 2022 The reaper’s scythe is no longer trade-locked.

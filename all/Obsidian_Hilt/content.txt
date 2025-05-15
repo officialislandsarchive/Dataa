@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Obsidian_Hilt
+
+----------------------------------------
+
+Obsidian Hilt Buy cost 250 Doubloons Description The hilt for an Obsidian Greatsword , crafted on the anvil . An obsidian hilt is an item used to craft the obsidian greatsword .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+An obsidian hilt can be purchased from Evans for 250 doubloons .
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Obsidian Greatsword 1 Obsidian Hilt 6 Crystallized Obsidian Anvil
+
+History [ ]
+
+July 17, 2021 Added obsidian hilts. October 1, 2022 Changed the model of obsidian hilts.

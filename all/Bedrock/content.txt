@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Bedrock
+
+----------------------------------------
+
+Bedrock Type of block Solid block; Unbreakable Spawns Player's Island Luminous Transparent Bedrock is an indestructible block located at the bottom of every player island upon island creation.
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+Bedrock naturally spawns on the player's island when the island is first generated.
+
+Usage [ ]
+
+Bedrock's primary usage is as a solid unbreakable block to prevent players from respawning above a hole, which would create an infinite falling loop.
+
+History [ ]
+
+April 10, 2020 Added bedrock. April 24, 2020 Removed bedrock from player islands . May 2, 2020 Re-added bedrock to player islands . May 16, 2020 Other blocks can now be placed on top of the bedrock block. August 22, 2020 Blocks underneath the bedrock block can now be broken. March 5, 2021 Removed bedrock from player islands . April 4, 2021 Re-added bedrock to player islands .

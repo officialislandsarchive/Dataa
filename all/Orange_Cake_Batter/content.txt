@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Orange_Cake_Batter
+
+----------------------------------------
+
+Orange Cake Batter Recipe 1 Dough 3 Orange Crafted with Cooking Table Food Processor Required skill Level 25 Cooking Orange cake batter is an uncooked food item that turns into orange cake once cooked.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Orange Cake Batter 1 Dough 3 Orange Cooking Table Food Processor Level 25 Cooking
+
+Usage [ ]
+
+Cooking [ ]
+
+Orange cake batter can be cooked into orange cake in a campfire , small furnace , desert furnace , or industrial oven .
+
+Input Output 1 Orange Cake Batter 1 Orange Cake
+
+History [ ]
+
+June 26, 2020 Added orange cake batter. January 22, 2021 Level 25 Cooking is now required to craft orange cake batter.

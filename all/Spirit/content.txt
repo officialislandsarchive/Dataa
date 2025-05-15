@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Spirit
+
+----------------------------------------
+
+Spirit White Blue Pink Green Behavior Passive Drops Green Spirit Essence Location Spirit Island A spirit is a passive mob that spawns on the Spirit Island .
+
+Spawning [ ]
+
+Spirits spawn on Spirit Island . There are 4 color variants that each have a different chance of spawning, being white, blue, pink, and green.
+
+The listed spawn chances are community made and may not be accurate .
+
+Color Spawn chance White 63% Blue 25% Pink 10% Green 2%
+
+Catching spirits [ ]
+
+Spirits can be caught with a net , granting the player 3 Animal Care XP (15 XP with the 4x daily bonus) regardless of rarity and a varying amount of spirit jars . Catching a green spirit has a 40% chance of rewarding a green spirit essence .
+
+Image Name # of spirit jars White Spirit 1 Blue Spirit 2 - 3 Pink Spirit 3 - 5 Green Spirit 5 - 7
+
+Quests [ ]
+
+Catching spirits are a part of a quest .
+
+Quest Type Tasks Reward Prerequisites Cooldown duration Catch Spirits Catch Catch 15 white spirits . 20 spirit jar Access to next task 50 spirit jar Level 5 - 99 Animal Care 1 day Catch 10 blue spirits . 30 spirit jar Access to next task Catch 5 pink spirits . 40 spirit jar Access to next task Catch 1 green spirit . 50 spirit jar
+
+History [ ]
+
+June 30, 2021 Added orange, red, blue, and green spirits. July 1, 2021 Fixed a bug that prevented nets from catching spirits in private servers. June 3, 2022 Added white and pink spirits. Removed orange and red spirits. Changed the color of blue spirits. Spirits now give green spirit essences when caught. June 4, 2022 Spirits no longer drop green spirit essences when caught. June 10, 2022 Spirits now drop spirit jars when caught. Green spirits now have a 40% chance of dropping green spirit essences when caught. June 28, 2022 Spirit spawn locations are now randomized.
+
+Trivia [ ]
+
+There was a bug that prevented nets to be able to catch any passive mob , including spirits, in private servers when they were first added. This was fixed the following day.
+
+Gallery [ ]

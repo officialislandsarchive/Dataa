@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Medieval_Green_Vanity
+
+----------------------------------------
+
+Medieval Green Vanity Type of block Solid block Recipe 10 Maple Wood 2 Dark Green Flower 1 Glass Block Crafted with Furniture Workbench Best tool Luminous Transparent The medieval green vanity is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Medieval Green Vanity 10 Maple Wood 2 Dark Green Flower 1 Glass Block Furniture Workbench
+
+Breaking [ ]
+
+Medieval Green Vanity Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+March 12, 2022 Added medieval green vanities.

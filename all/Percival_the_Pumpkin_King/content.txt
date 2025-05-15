@@ -1,0 +1,57 @@
+Source: https://robloxislands.fandom.com/wiki/Percival_the_Pumpkin_King
+
+----------------------------------------
+
+Percival the Pumpkin King Health 20,000 HP Behavior Hostile Attack strength 45 ( Vine Slam ; Boulder Throw ; Vine Whip ) 30 - 50 ( Pumpkin Roll ) Effect Stun Drops Cauldron Jukebox Disk Location Hub Percival the Pumpkin King was a boss that could have been summoned in the Hub during the Halloween 2021 event. It has no summon cooldown.
+
+Description [ ]
+
+Percival the Pumpkin King was a moderately-fast boss who specializes in wide-ranged attacks. It has 20,000 health and could have been summoned in its spawn area in the Hub for 500 Pumpkin Boss tokens during the Halloween 2021 event and without any Combat level requirement.
+
+Like other bosses , if there are no players in the battle area, Percival the Pumpkin King will despawn and the player will have to spend another 500 Pumpkin Boss tokens to summon it.
+
+Attacks [ ]
+
+Vine Slam [ ]
+
+Percival slams its vines on the ground, creating a shockwave of rocks. If hit, the rocks deal 45 damage to the player inflicts 5 seconds of the Stun effect.
+
+Boulder Throw [ ]
+
+Percival throws a boulder at a player, dealing 45 damage to any player who makes contact with the boulder. Players can be damaged multiple times by the boulder.
+
+Pump Summon [ ]
+
+Percival summons 2 - 8 pumps , with the number of pumps summoned in proportion to the number of players in the spawn area .
+
+Pumpkin Roll [ ]
+
+Percival rolls to a player and bursts out its appendages, dealing 30 - 50 damage to the player and a small amount of knockback if hit by it. It will roll in a random direction if no player are nearby.
+
+Vine Whip [ ]
+
+Percival strikes a player with its vines, dealing 45 damage if hit.
+
+Drops [ ]
+
+Percival the Pumpkin King rewards 1,251 (4,998 with the 4x daily bonus) Combat XP and 1,251 (4,998 with the 4x daily bonus) Light Melee , Heavy Melee , Magic , or Archery XP depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Cauldron 100% Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Purple Jukebox Disk 0.01% Orange Jukebox Disk 0.01%
+
+Damage reduction [ ]
+
+Percival the Pumpkin King reduces the amount of damage dealt to it by 10% to 55% depending on the number of players (compounds) in the arena.
+
+Number of players Damage reduction 1 0% 2 10% 3 25% 4 35% 5 45% 6+ 55%
+
+Bugs and glitches [ ]
+
+Like Fhanhorn , Percival the Pumpkin King can throw itself into the void or knock the entrance gate with its pumpkin roll attack, instantly killing itself. This doesn't reward the player with drops or XP. Percival has a chance to get permanently stuck when performing his pumpkin roll attack.
+
+History [ ]
+
+October 18, 2021 Added Percival the Pumpkin King. November 13, 2021 Percival The Pumpkin King can no longer be spawned.
+
+Trivia [ ]
+
+It was the first ever boss that can be fought in the Hub . Percival the Pumpkin King has the third most health out of any mob in the game, the second being Zombie Cletus and the first the Void Serpent with 50,000 HP. Percival the Pumpkin King was the second-fastest boss in the game in terms of speed, with the first being Fhanhorn . Percival the Pumpkin King was the second boss in Islands that don't have a summon cooldown, the first being the Infernal Dragon . It was the second boss in Islands that require its own token to be summoned. Percival the Pumpkin King rewards the same amount of XP as the Wizard Boss , Bhaa , Infernal Dragon, and Fhanhorn. Percival the Pumpkin King, the Slime King , Fhanhorn, Zombie Cletus, and the Lunar Rabbit are the only five bosses that can be summoned without a Combat level requirement. It might be a reference to Pumpking, from Terraria .

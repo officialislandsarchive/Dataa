@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Andesite_Brick
+
+----------------------------------------
+
+Andesite Brick Type of block Solid block Recipe 1 Andesite Crafted with Stonecutter Industrial Stonecutter Best tool Luminous Transparent Andesite bricks are the brick variant of andesite .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Andesite can be transformed into andesite bricks in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Andesite ➡ Stonecutter ➡ 1 Andesite Brick ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Andesite Brick Breaking Data Hardness 8 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 12 Stone 13 8 Iron 8 5 Gilded Steel 6 4 Diamond 4 3 Opal 4 2 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Andesite Brick Stair 1 Andesite Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Andesite Brick Slab 1 Andesite Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Andesite bricks can be transformed into andesite tiles in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Andesite Brick ➡ Stonecutter ➡ 1 Andesite Tiles ➡ Industrial Stonecutter ➡
+
+History [ ]
+
+March 6, 2022 Added andesite bricks.

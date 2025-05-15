@@ -1,0 +1,9 @@
+Source: https://robloxislands.fandom.com/wiki/Glitches
+
+----------------------------------------
+
+A glitch (also known as a bug ) is a mistake or error that players may encounter during gameplay, often due to scripting mistakes.
+
+In Islands, a glitch can range from an item disappearing when dropped, to the inventory getting wiped upon loading the game, to blocks having the wrong model. Glitches are an inevitable side-effect of game development, which are always present when the game is updated. Updates add new features or change how the game functions, which can have unintended side-effects that affect other game mechanics. Developers for Islands constantly work on fixing these bugs while producing updates, as sometimes a glitch can make the game aggravating, or even unplayable.
+
+Because of the vast amount of bugs and glitches that have occurred in Islands , there will not be a list of bugs on this wiki.

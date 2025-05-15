@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Rabbit
+
+----------------------------------------
+
+Rabbit White Brown Pink Behavior Passive Location Player's Island A rabbit is a passive mob that has a chance of spawning on a player's island during or after a rain shower in the winter .
+
+Spawning [ ]
+
+Rabbits, like frogs , naturally spawn on the player's island on or after rainy days in the winter . Rabbits come in three colors, which are white, brown and pink; brown being the most common and pink being the rarest. A player can catch a rabbit using a net . When caught, the player will receive a caged rabbit in their inventory that can be released again. Only a maximum of three rabbits can be released on an island that will stay permanently, unlike naturally-spawned rabbits which disappear after a while.
+
+Behavior [ ]
+
+Rabbits, like all other passive mobs, are attracted to grass blocks . They run away from the player in order to not get caught. They can respawn back after falling off in the void.
+
+The listed spawn chances are community made and may not be accurate .
+
+Color Spawn chance Brown 59.9% White 40% Pink 0.1%
+
+History [ ]
+
+June 4, 2021 Added rabbits. April 16, 2022 Fixed a bug that caused pink rabbits to crash Roblox.
+
+Trivia [ ]
+
+Rabbits have the same eye model as cows , sheep , pigs , chickens , and frogs . Rabbits may eat from a tall grass , similar to cows, sheep, pigs, chickens, turkeys , ducks , yaks , and horses eating from a grass block . Rabbits have a chance of spawning inside a block on the player's island.

@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Sapling_Automatic_Planter
+
+----------------------------------------
+
+Sapling Automatic Planter Type of block Solid block; Interactable Recipe 5 Red Bronze Ingot 2 Copper Plate 5 Copper Bolt Crafted with Workbench Tier 4 Best tool Luminous Transparent The sapling automatic planter is an industrial machine used to automatically plant saplings .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Sapling Automatic Planter 5 Red Bronze Ingot 2 Copper Plate 5 Copper Bolt Workbench Tier 4
+
+Breaking [ ]
+
+Sapling Automatic Planter Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Planting saplings [ ]
+
+The sapling automatic planter automatically plants a sapling on the block in-between its two "forks" if there is no pre-existing block there. Saplings can be inputted through the conveyor belt at one end and powered with petroleum fuel through the pipe at the other. The sapling automatic planter needs 1 unit of petroleum to begin running for approximately 1 minute.
+
+History [ ]
+
+August 15, 2021 Added sapling automatic planter. August 16, 2021 Sapling automatic planters now can plant any sapling. April 29, 2022 Fixed a bug where sapling automatic planters were able to place saplings on any block .
+
+Trivia [ ]
+
+When it was first introduced, there was a bug where the machine could only place down oak saplings . This was fixed the next day. Spirit saplings will not grow when planted next to the machine due to the hitbox being bigger. Spirit saplings also disappear when placed by the machine if a block is on the left or right side of the "forks".

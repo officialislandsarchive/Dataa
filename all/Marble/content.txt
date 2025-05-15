@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Marble
+
+----------------------------------------
+
+Marble Marble Rock Spawns Buffalkor Island Best tool Luminous Transparent Marble is a block obtained by breaking marble rocks naturally found on Buffalkor Island .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Marble rocks naturally generate on Buffalkor Island in a pit next to the large crane . Mining a marble rock yields 1 - 3 marble after each stage and 6 Mining XP (24 with the 4x daily bonus), resulting in a total of 2 - 6 marble and 12 Mining XP (48 with the 4x daily bonus) per rock.
+
+Totems [ ]
+
+Marble totems can be purchased from Arius in the Hub for 22,000 coins after reaching level 22 Mining . A marble totem will spawn marble rocks around it when placed, or if placed next to a conveyor belt , the totem will drop marble directly onto the conveyor.
+
+Breaking [ ]
+
+Marble Breaking Data Hardness 12 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 18 Wooden 36 18 Stone 20 12 Iron 12 8 Gilded Steel 9 6 Diamond 6 4 Opal 5 3 Void Mattock 3 Marble Rock Breaking Data Hardness 100 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 150 Wooden 300 150 Stone 160 100 Iron 100 63 Gilded Steel 70 50 Diamond 50 30 Opal 40 20 Void Mattock 20
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Marble Stair 1 Marble Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Marble Column 2 Marble Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Marble Slab 1 Marble Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Buffalkor Island Orb 10 Glass Block 20 Electrite 5 Slate 5 Marble Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 White Table Top 10 Iron Ingot 2 Marble 2 Glass Block Furniture Workbench Red Table Top 10 Iron Ingot 2 Marble 2 Red Glass Block Furniture Workbench Blue Table Top 10 Iron Ingot 2 Marble 2 Blue Glass Block Furniture Workbench Pink Table Top 10 Iron Ingot 2 Marble 2 Pink Glass Block Furniture Workbench Short Table Top 8 Iron Ingot 1 Marble 1 Black Glass Block Furniture Workbench
+
+Transforming [ ]
+
+Marble can be transformed into marble bricks in a stonecutter or an industrial stonecutter or smooth marble in a polishing station or an industrial polishing station .
+
+Input Item transformer Output 1 Marble ➡ Stonecutter ➡ 1 Marble Brick ➡ Industrial Stonecutter ➡ 1 Marble ➡ Polishing Station ➡ 1 Smooth Marble ➡ Industrial Polishing Station ➡
+
+History [ ]
+
+April 4, 2021 Added marble. February 19, 2022 Marble can now be polished into smooth marble . March 6, 2022 Marble can no longer be used to craft marble stairs. March 25, 2022 Marble can be used to craft marble stairs once again. April 9, 2022 Marble can now be used to craft Buffalkor Island orbs . April 10, 2022 5 marble is now required to craft Buffalkor Island orbs, down from 15. October 28, 2022 Marble can now be used to craft table tops and short table tops .

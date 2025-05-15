@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Maple_Wood
+
+----------------------------------------
+
+Maple Wood Current Old Type of block Solid block Sell price 15 coins Best tool Luminous Transparent Maple wood is a block that can be obtained from cutting down a maple tree .
+
+Obtaining [ ]
+
+Cutting [ ]
+
+Cutting down a maple tree will drop 3 - 4 maple wood along with a maple sapling .
+
+Breaking [ ]
+
+Maple Wood Breaking Data Hardness 8 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 12 24 Stone 8 13 Iron 5 8 Gilded Steel 4 6 Diamond 3 4 Opal 2 4 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Maple Sign 3 Maple Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Trap Door Maple 5 Maple Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Iron Fishing Rod 50 Maple Wood 40 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 20 Fishing Water Barrel 2 Steel Rod 20 Iron Ingot 50 Maple Wood Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Workbench Tier 3 400 Iron Ingot 50 Stone 20 Maple Wood Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Brewing Stand 300 Maple Wood 100 Iron Ingot 10 Empty Potion Bottle Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 40 Cooking Washing Station 1 Crystallized Iron 100 Maple Wood 30 Iron Ingot Workbench Tier 3 Workbench Tier 4 None Ancient Longbow 100 Steel Ingot 100 Maple Wood 4 Ancient Slime String Anvil Level 25 Archery Iron Shortbow 30 Maple Wood 30 Iron Ingot 2 Ancient Slime String Anvil Level 10 Archery Bookshelf 30 Maple Wood 30 Pine Wood Furniture Workbench None King's Blue Bed 80 Maple Wood 3 Blue Flower Furniture Workbench None Umbrella Table 60 Maple Wood 10 Iron Ingot Furniture Workbench None Tool Stand 10 Iron Ingot 10 Maple Wood Furniture Workbench None Medieval Green Couch 10 Iron Ingot 2 Dark Green Wool 15 Maple Wood Furniture Workbench None Medieval Green Vanity 10 Maple Wood 2 Dark Green Flower 1 Glass Block Furniture Workbench None Throne 10 Maple Wood 2 Black Flower 2 Red Wool Furniture Workbench None Blueprint required Maple Workbench 30 Maple Wood 10 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Rageblade 100 Red Bronze Ingot 20 Maple Wood Anvil Level 60 Light Melee Maple Shield 150 Maple Wood 25 Iron Ingot Maple Workbench None Berry Basket 60 Maple Wood Maple Workbench None Gamepass required Obby Leaderboard 40 Maple Wood 5 Gold Ingot Obby Kit None
+
+Transforming [ ]
+
+Input Item transformer Output 1 Maple Wood ➡ Sawmill ➡ 4 Maple Plank ➡ Industrial Sawmill ➡
+
+Fueling [ ]
+
+Maple wood can be used as fuel for campfires , small furnaces , or desert furnaces . Each maple wood fuels the heating device for 20 seconds.
+
+Selling [ ]
+
+Maple wood can be sold to John for 15 coins each.
+
+Trivia [ ]
+
+Before the July 4, 2020 update, maple wood wasn't a placeable block ; it was just an item .

@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Christmas_Street_Light
+
+----------------------------------------
+
+Christmas Street Light Red Green Black Type of block Solid block; Luminous Buy cost 25 snowflake tickets Best tool Luminous Transparent Description A decorative street light A Christmas street light is a luminous furniture block that comes in three color variants: red, green, and black.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+All three Christmas street light variants can be purchased from Eddie for 25 snowflake tickets each.
+
+Breaking [ ]
+
+Christmas Street Light Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+December 23, 2022 Added Christmas street lights.

@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Hickory_Tree
+
+----------------------------------------
+
+Hickory Tree Type Hickory Sapling Cost 2,000 coins Growth Duration 90 seconds The Hickory Tree is a type of tree that came out on August 2, 2020 update.  It resembles an oak tree with yellow leaves that appears during the fall.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Hickory trees are grown from hickory saplings , which can be purchased from Cletus for 2,000 coins in the Hub . The approximate growing time for the saplings are 90 seconds from planting. It must be at least 7 unoccupied blocks to be able to grow.
+
+Drops [ ]
+
+When chopped, it drops:
+
+3-4 Hickory Wood 1 Hickory Sapling
+
+When harvested by Leaf Clippers , it drops:
+
+2 Leaves
+
+Breaking [ ]
+
+Hickory Tree Breaking Data Hardness 100 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 150 Wooden 150 300 Stone 100 160 Iron 63 100 Gilded Steel 50 70 Diamond 30 50 Opal 20 40 Void Mattock 20
+
+Trivia [ ]
+
+This tree is the hardest tree in the game to chop down. The leaves stay the same during fall, summer, and winter along with palm tree and pine tree .

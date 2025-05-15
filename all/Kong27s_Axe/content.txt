@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Kong%27s_Axe
+
+----------------------------------------
+
+Kong's Axe Type Heavy Melee Physical class Slashing Attack damage 17 HP (Base) +9 HP (Critical) Kong's axe is a heavy melee weapon in the slashing class that could have been earned during the Godzilla vs. Kong event.
+
+Obtaining [ ]
+
+Quests [ ]
+
+The player could have obtained Kong's axe by completing Bosco's second quest, which required the player to find his pouch and interact with the binoculars on top of 3 different mountains on Skull Island . Once completed, the player could interact with Bosco to earn Kong's axe as well as the Kong Badge .
+
+Attacking [ ]
+
+At level 1 Heavy Melee , Kong's axe deals a base damage of 17 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 9 HP of damage. Its damage can be increased by leveling up the Heavy Melee skill and it is in the slashing class.
+
+History [ ]
+
+March 19, 2021 Added Kong's axe. April 4, 2021 Kong's axe is now unobtainable. April 24, 2021 Nerfed the base damage from 25 HP to 17 HP. September 17, 2022 Kong's axe is now a slashing weapon.
+
+Trivia [ ]
+
+The attack damage of both Kong's axe and the staff of Godzilla were nerfed on April 24, 2021 . Unlike the staff of Godzilla, Kong's axe does not have a description. This axe is owned by Kong in the movie, Godzilla vs. Kong .

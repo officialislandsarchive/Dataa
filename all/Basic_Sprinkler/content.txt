@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Basic_Sprinkler
+
+----------------------------------------
+
+Basic Sprinkler Type of block Solid block Recipe 1 Crystallized Iron 2 Green Sticky Gear 30 Iron Ingot Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description Periodically waters nearby crops. Must be within 10 blocks of a water storage block. The basic sprinkler is used to water crops to speed up their growth rate, having the same use as the watering can . A water storage block, such as the water catcher , must be placed nearby in order for the sprinkler to function.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Basic Sprinkler 1 Crystallized Iron 2 Green Sticky Gear 30 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Basic Sprinkler Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+A water storage block has to be placed within a 9x9x9 block radius, meaning it can also be placed above or below the sprinkler. Each sprinkler covers a 3x3 area or one block in every direction of farmland around it. If there is no available water storage block nearby, an icon will appear above the sprinkler to indicate this.
+
+Crops [ ]
+
+The basic sprinkler reduces growth time of crops by roughly 20%. It does not have an effect on trees , red berries , blueberries , blackberries , cacti , flowers , or candy canes .
+
+This effect can be stacked with basic fertilizers .
+
+Image Crop Growth time Without water With water Wheat 3:30 2:48 Tomato 5:30 4:24 Potato 6:30 5:12 Carrot 5:30 4:24 Grape 3:05 2:28 Spinach 5:00 4:00 Onion 5:00 4:00 Starfruit 6:30 5:12 Radish 6:30 5:12 Watermelon 5:00 3:20 Pumpkin 5:00 3:20 Chili Pepper 4:05 2:45 Rice 3:00 2:24 Seaweed 3:10 ? Pineapple 5:30 4:24 Dragon Fruit 3:15 2:36
+
+History [ ]
+
+June 15, 2020 Added basic sprinklers.

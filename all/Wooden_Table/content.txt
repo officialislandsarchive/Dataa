@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Wooden_Table
+
+----------------------------------------
+
+Wooden Table Type of block Solid block Recipe 30 Oak Wood Crafted with Furniture Workbench Best tool Luminous Transparent The wooden table is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Wooden Table 30 Oak Wood Furniture Workbench
+
+Breaking [ ]
+
+Wooden Table Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+History [ ]
+
+May 31, 2020 Added wooden tables.

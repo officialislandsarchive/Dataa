@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Iron_Fishing_Rod
+
+----------------------------------------
+
+Iron Fishing Rod Recipe 50 Maple Wood 40 Iron Ingot Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Required skill Level 20 Fishing The iron fishing rod is a tool used for fishing unlocked at level 20 Fishing . It was added in the February 26, 2021 update and is an upgraded version of the wooden fishing rod . It cannot be dropped.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Iron Fishing Rod 50 Maple Wood 40 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 20 Fishing
+
+Usage [ ]
+
+Fishing [ ]
+
+Fishing rods can be cast into bodies of water . After a short period of time, a fish shadow will approach the bobber and “bite” it. A UI will appear above the player's hotbar where they must keep a red block within a certain area until the yellow progress bar reaches the end. If the player fails to fill the bar within 25 seconds, the fish will disappear and the rod will reel itself in. The iron fishing rod can only be used if the player is level 20 Fishing .
+
+History [ ]
+
+February 26, 2021 Added iron fishing rods. April 1, 2022 Fixed a bug that prevented players from reeling back the iron fishing rod.
+
+Trivia [ ]
+
+Before the iron fishing rod was added, the wooden fishing rod could catch any fish and treasure. Now, the wooden fishing rod can only catch lower tiers of fish.

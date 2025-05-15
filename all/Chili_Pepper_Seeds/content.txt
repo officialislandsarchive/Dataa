@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Chili_Pepper_Seeds
+
+----------------------------------------
+
+Chili Pepper Seeds Planted on Farmland Cost 450 crops Description Limited edition seeds earned only during the Farming Festival 2021 event! Chili pepper seeds are seeds used to grow chili peppers .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Chili pepper seeds could have been purchased from Cletus on Farming Festival Island for 450 crops during the Farming Festival event.
+
+Harvesting [ ]
+
+Harvesting a chili pepper crop will give 1 chili pepper seed and 1 - 3 chili peppers.
+
+Usage [ ]
+
+Planting [ ]
+
+Chili pepper seeds can be planted on farmland to grown into chili peppers .
+
+Growth [ ]
+
+The growth time of chili peppers can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Chili Pepper Seeds Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Phase 4 Time since planted 0m 0s 1m 0s 2m 0s 3m 0s 4m 5s Note: The durations of time above are on an unfertilized and unwatered plant Chili Pepper Seeds Growth Time Type Growth Time Normal 4m 5s Fertilized 3m 16s Watered 3m 16s Watered + Fertilized 2m 52s
+
+History [ ]
+
+July 30, 2021 Added chilli pepper seeds. August 3, 2021 Chilli pepper seeds can no longer be purchased from Cletus . September 25, 2021 Chilli pepper seeds can be purchased from Cletus again. September 29, 2021 Chilli pepper seeds can no longer be purchased from Cletus . December 18, 2021 "Chilli Pepper Seeds" have been renamed to "Chili Pepper Seeds". April 1, 2022 Fixed collisions on chili pepper seeds.
+
+Trivia [ ]
+
+Chili pepper seeds were the first event seed . Chili pepper seeds are the first ever crop seed to have a unique model.

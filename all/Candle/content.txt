@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Candle
+
+----------------------------------------
+
+Candle Type of block Solid block; Luminous Recipe 3 Oak Wood 2 Coal 2 Clay Crafted with Lighting Station Best tool Luminous Transparent Candles are decorative blocks that emit light .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Candles can be crafted in a lighting station by players who own the gamepass.
+
+Name Recipe Crafting station Gamepass required Candle 3 Oak Wood 2 Coal 2 Clay Lighting Station
+
+Breaking [ ]
+
+Candle Breaking Data Hardness 2 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 6 Stone 4 4 Iron 2 2 Gilded Steel 2 2 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Caged Candle Ceiling Light 1 Candle 20 Coal Furniture Workbench
+
+History [ ]
+
+May 17, 2020 Added candles.

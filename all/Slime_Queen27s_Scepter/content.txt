@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Slime_Queen%27s_Scepter
+
+----------------------------------------
+
+Slime Queen's Scepter Type Magic weapon Magical class Ethereal Magic weapon type Staff Attack damage 46 HP 62 HP (Fully charged) 20 HP (Health drain) Recipe 1 Spellbook 100 Gold Ingot 50 Pink Slime Ball 10 Pink Slime Crystal Crafted with Anvil Description Harness the power of Slime Crystals! The Slime Queen's scepter is a ranged ethereal magic weapon that shoots pink slime ball projectiles horizontally.
+
+It can be crafted without any Magic level requirement.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Slime Queen's Scepter 1 Spellbook 100 Gold Ingot 50 Pink Slime Ball 10 Pink Slime Crystal Anvil
+
+Attacking [ ]
+
+Casting [ ]
+
+At level 1 Magic , shots from the Slime Queen's scepter deal a base damage of 46 HP. The shots are fired horizontally in the direction the player is facing, and its damage can be increased by leveling up the Magic skill. If a shot hits a mob , it will heal the player by 5% every 1 second.
+
+Charging [ ]
+
+Charging a shot will increase the amount of damage dealt by 1.35x at full charge. This additional damage can be increased by leveling up the Magic skill and does not affect the amount of health healed by the projectiles.
+
+Health drain [ ]
+
+After three successful fully charged hits, the Slime Queen's scepter will target the closest mob and drain 20 HP five times at a fast rate, dealing a total of 100 HP of damage. The amount of hits needed to perform this ability is depicted by small pink crystals above the player's health bar. The amount of damage dealt can be increased by the player's Magic level.
+
+History [ ]
+
+July 23, 2022 Added the Slime Queen's scepter. August 6, 2022 Buffed Slime Queen's scepter damage from 40 to 50. The Slime Queen's scepter now requires 10 pink slime crystals , down from 20. The Slime Queen's scepter can now be placed into tool stands . September 3, 2022 Buffed Slime Queen's scepter health drain attack damage from 10 to 20. September 17, 2022 Nerfed Slime Queen's scepter damage from 50 to 40. Slime Queen's scepters are now in the quake class. Introduced a bug where Slime Queen's scepters would not heal the player when damaging a mob . September 24, 2022 Slime Queen's scepters are now in the ethereal class. Fixed the bug where Slime Queen's scepters would not heal the player when damaging a mob. October 8, 2022 The Slime Queen's scepter now can heal the player again when damaging a mob. October 15, 2022 Buffed Slime Queen's scepter damage from 40 to 46.
+
+Trivia [ ]
+
+As of September 17, 2022 , the Slime Queen's scepter is the only Magic weapon that can be charged. Due to a bug after the health drain, the Slime Queen's scepter triggers the charging meter. The Slime Queen's scepters and the spellbooks are the only two magic weapons that can be crafted without a Magic level requirement. Since the September 24, 2022 update, the health drain of the Slime Queen's scepter  actually deals quake damage instead of ethereal damage. As such, the health drain of the Slime Queen's scepter grants the vulnerability effect to a mob and cannot heal the player. This effect was added in the December 23, 2022 update.

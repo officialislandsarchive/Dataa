@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Teleporter_Pad
+
+----------------------------------------
+
+Teleporter Pad Type of block Solid block; Interactable Recipe 20 Iron Ingot 10 Steel Ingot 30 Aquamarine Shard Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description Place on your island and unlock teleportation access to islands using craftable teleport orbs. A teleporter pad is a block that teleports players to different locations based on the inserted orbs .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Teleporter Pad 20 Iron Ingot 10 Steel Ingot 30 Aquamarine Shard Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Teleporter Pad Breaking Data Hardness 15 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 23 Wooden 45 23 Stone 24 15 Iron 15 10 Gilded Steel 11 8 Diamond 8 5 Opal 6 3 Void Mattock 3
+
+Usage [ ]
+
+Teleporting [ ]
+
+Players can place up to five different orbs inside the teleporter pad and choose to teleport to a desired location based on the inserted orbs. Teleporter pads can be found next to the spawn point of Slime Island , the Hub , Pirate Island , Maple Isles , Spirit Island , Buffalkor Island , Diamond Mines , Wizard Island , Desert Island , and the Underworld . Using a teleporter pad does not consume orbs.
+
+History [ ]
+
+April 9, 2022 Added teleporter pads. April 16, 2022 Black personal orbs , green personal orbs , yellow personal orbs , blue personal orbs , lime personal orbs , purple personal orbs , pink personal orbs , cyan personal orbs , orange personal orbs , red personal orbs , Slime King orbs , Fhanhorn orbs , Kor orbs , Wizard Boss orbs , Bhaa orbs , and Infernal Dragon orbs can now be placed into teleporter pads. April 17, 2022 Boss orbs now display the boss' name in the teleporter pad GUI. Teleporter pads can now be used to teleport players to boss spawn locations from their own island . Teleporter pads now orientate the player to face the boss spawn area after using a boss orb. Renamed the teleport display of Diamond Mines orbs in the teleporter pad GUI from "Diamond Mine Island" to "Diamond Mines." April 29, 2022 Updated the banner of the Hub Island orb in the teleporter pad GUI. Orbs on teleporter pads no longer have a hitbox. Changed the banner of the Fhanhorn orb in the teleporter pad GUI to Bhaa's . May 1, 2022 Reverted the Fhanhorn orb's banner change. July 2, 2022 Slime Queen orbs can now be placed into teleporter pads. August 13, 2022 Void Serpent orbs and Void Isles orbs can now be placed into teleporter pads. August 27, 2022 Fixed public teleporter pads displaying the incorrect name of an orb. September 3, 2022 Players can teleport to Butterfly Festival Island using public teleporter pads. September 10, 2022 Players can no longer teleport to Butterfly Festival Island using public teleporter pads.
+
+Trivia [ ]
+
+From April 16, 2022 to April 29, 2022 , the banner of the Hub Island orb in the teleporter pad's GUI showed the Hub during Islands' second year anniversary instead of the current version. Prior to the April 29, 2022 update, certain personal orbs were censored and tagged by ROBLOX in the teleporter pad GUI.

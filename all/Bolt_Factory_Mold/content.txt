@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Bolt_Factory_Mold
+
+----------------------------------------
+
+Bolt Factory Mold Recipe 1000 Steel Ingot Crafted with Anvil Description Placed inside factory presses to produce bolts. The bolt factory mold is one of the three factory molds in the game, the other two being the plate factory mold and the rod factory mold .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Bolt Factory Mold 1,000 Steel Ingot Anvil
+
+Usage [ ]
+
+Transforming [ ]
+
+Input Item transformer + factory mold Output 15 Copper Ingot ➡ Copper Press + Bolt Factory Mold ➡ 1 Copper Bolt 10 Steel Ingot ➡ Steel Press + Bolt Factory Mold ➡ 1 Steel Bolt
+
+History [ ]
+
+September 18, 2020 Added bolt factory mold. December 29, 2021 Disabled the ability to insert bolt factory molds into copper presses and steel presses . January 2, 2022 Re-enabled the ability to insert bolt factory molds into copper presses and steel presses. January 3, 2022 Disabled the ability to insert bolt factory molds into copper presses and steel presses. Re-enabled the ability to insert bolt factory molds into copper presses and steel presses. January 4, 2022 Disabled the ability to insert bolt factory molds into copper presses and steel presses. January 6, 2022 Re-enabled the ability to insert bolt factory molds into copper presses and steel presses.
+
+Trivia [ ]
+
+This the cheapest mold in the game, with the second most expensive being the rod factory mold and the most expensive being the plate factory mold .

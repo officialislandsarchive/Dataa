@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Ruby_Skorp
+
+----------------------------------------
+
+Ruby Skorp Health 1,200 HP Behavior Hostile Attack strength 45 HP Effect Food Poison Drops Ruby Skorp Scale Ruby Skorp Claw Ruby Skorp Stinger Desert Portal Shard Bhaa Token Jukebox Disk Location Desert Island The ruby skorp is a hostile mob that spawns on Desert Island along with iron skorps and gold skorps .
+
+Spawning [ ]
+
+Desert Island [ ]
+
+Ruby skorps spawn on the outskirts of Desert Island 's central island, and are the rarest type of skorp , with a 5% chance to spawn.
+
+Bhaa [ ]
+
+Bhaa will summon a ruby skorp in quick succession after summoning an iron skorp and gold skorp if a sufficient number of players are simultaneously fighting him. Bhaa always has a chance to summon a ruby skorp regardless.
+
+Behavior [ ]
+
+Ruby skorps attack with quick, close ranged attacks that deal 45 HP of damage and inflict the Food Poison effect to the player if hit, which prevents the player from consuming food for 7 - 10 seconds. Regen potions and healing weapons can still be used to regenerate a player's health while having the Food Poison effect.
+
+Drops [ ]
+
+A ruby skorp rewards 501 Combat XP (1998 with the 4x daily bonus) and 501 Light Melee , Heavy Melee , Magic , or Archery XP (1998 with the 4x daily bonus) depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Ruby Skorp Scale 150% Ruby Skorp Claw 10% Ruby Skorp Stinger 10% Desert Portal Shard 0.05% Bhaa Token 2500% Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Resistances and Weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical Piercing Storm , Ethereal Striking Quake , Void
+
+History [ ]
+
+August 9, 2020 Added ruby skorps. January 22, 2021 Ruby skorps now reward 501 Combat XP (1998 with the 4x daily bonus) and 501 Light Melee , Heavy Melee , Magic , or Archery XP (1998 with the 4x daily bonus) depending on the weapon the player used to defeat it. June 18, 2022 Ruby skorps are no longer able to drop ruby skorp stingers . Ruby skorps are now able to drop ruby skorp claws . ? Ruby skorps are now able to drop ruby skorp stingers again. September 17, 2022 Ruby skorps are no longer able to drop vamp bow blueprints .
+
+Trivia [ ]
+
+Before the July 9, 2022 update increased the Slime King 's health, ruby skorps were the only regular mob that had more health than a boss , having had 200 more HP than the Slime King.

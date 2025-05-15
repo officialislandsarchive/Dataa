@@ -1,0 +1,55 @@
+Source: https://robloxislands.fandom.com/wiki/August_9,_2020
+
+----------------------------------------
+
+August 9, 2020 Basic Information Day released August 9th, 2020 Version number 18 Version Navigator Previous version Next version August 2, 2020 August 16, 2020
+
+The August 9, 2020 update, or more commonly known as the Skorp Islands update, is the 17th major Islands update. This update adds a new island to the game, as well as a new enemy, a new workbench, and a variety of new blocks.
+
+Changes [ ]
+
+Additions [ ]
+
+Islands [ ]
+
+Desert Island has been added to the game The desert island key came alongside in order to enter the portal
+
+Blocks/Items [ ]
+
+Red sandstone has been added, available by destroying its node It can be crafted into its brick , brick slab , and stair variants. The brewing stand , a new crafting station , is now implemented in the game Grants the ability to craft regen potions and strength potions Dead bushes have been added to the game Hardened bow limbs are craftable, and are used to craft the artifact bow
+
+Mobs [ ]
+
+Introduced the iron skorp , ruby skorp , and gold skorp , all of which are hostile mobs located on Desert Island Obtain iron skorp scale , ruby skorp scale , and gold skorp scale by killing their skorp variety Obtain gold skorp claws by killing Gold Skorps Obtain ruby skorp stingers by killing Ruby Skorps Slimes are now able to drop ancient slime string .
+
+Weapons [ ]
+
+Basic bows and artifact bows , as well as arrows , have been added, and are able to be crafted in the anvil The vamp bow has been added, and requires a new blueprint to be crafted
+
+Music Disks [ ]
+
+Yellow jukebox disks , red jukebox disks , and blue jukebox disks can be obtained by killing hostile mobs
+
+Modifications [ ]
+
+Adventurer [ ]
+
+Ivon now buys all skorp scales
+
+Inventory [ ]
+
+Improved inventory tooltips Selected item titles have been improved
+
+Indicators [ ]
+
+Taking damage now has an indicator with the damage taken
+
+Game Translation [ ]
+
+The game fully supports the French translation
+
+Bug Fixes [ ]
+
+Bows are easier to hit, and the artifact bow does more damage now Fixed an issue causing some users to not load into the game The regen potion works properly now
+
+Islands update history 2020 April April 10 • April 24 • April 27 May May 2 • May 4 • May 7 • May 10 • May 17 • May 26 • May 31 June June 15 • June 26 July July 4 • July 11 • July 17 • July 25 August August 2 • August 9 • August 16 • August 30 September September 6 • September 18 October October 3 • October 16 November November 1 • November 7 • November 20 • November 26 December December 11 • December 18 2021 January January 4 • January 22 • January 29 February Feburary 5 • Feburary 12 • Feburary 19 • Feburary 26 March March 5 • March 13 • March 19 April April 4 • April 10 • April 16 • April 24 May May 8 • May 21 June June 4 • June 30 July July 9 • July 17 • July 23 • July 30 August August 8 • August 15 • August 21 • August 28 September September 5 • September 11 • September 18 • September 25 October October 9 • October 18 November November 13 • November 27 December December 10 • December 18 • December 29 2022 January January 8 • January 15 • January 30 February February 7 • February 19 • February 27 March March 6 • March 12 • March 25 April April 1 • April 9 • April 16 • April 22 • April 29 May May 13 • May 20 • May 27 June June 3 • June 10 • June 18 • June 25 July July 2 • July 9 • July 16 • July 23 • July 30 August August 6 • August 13 • August 20 • August 27 September September 3 • September 10 • September 17 • September 24 October October 1 • October 8 • October 15 • October 22 • October 28 November November 4 • November 11 • November 18 • November 25 December December 2 • December 16 • December 23 2023 January January 6 • January 20 February February 3 • February 17 March March 3 • March 17 • March 31 April April 14 • April 28 May May 12 • May 26 June June 23 July July 7 • July 21 August August 18 October October 13 November November 7 Discontinuation

@@ -1,0 +1,41 @@
+Source: https://robloxislands.fandom.com/wiki/Conveyor
+
+----------------------------------------
+
+Conveyors are blocks that can be used to transport items and blocks , but can also carry players. there are currently 15 different conveyors: 5 tier 1 variants, 5 tier 2 variants, and 5 more advanced variants. Certain crops dropped from crop totems will become oily when transported by conveyors.
+
+Conveyor types [ ]
+
+Tier 1 [ ]
+
+These 4 conveyors are used to transport items forward, left, right, or up.
+
+Tier 2 [ ]
+
+These 4 conveyor types function like their tier 1 counterparts, but are twice as fast and have taller sides.
+
+Advanced [ ]
+
+These other 5 conveyor types can still transport items, but have additional special properties.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Required skill Conveyor Belt 1 Steel Rod 5 Iron Ingot Workbench Tier 3 Workbench Tier 4 Level 8 Forging Left Conveyor Belt 1 Steel Rod 5 Iron Ingot Workbench Tier 3 Workbench Tier 4 level 12 Forging Right Conveyor Belt 1 Steel Rod 5 Iron Ingot Workbench Tier 3 Workbench Tier 4 Level 12 Forging Conveyor Ramp Up 3 Conveyor Belt 3 Steel Rod Workbench Tier 3 Workbench Tier 4 None Conveyor Ramp Down 3 Conveyor Belt 3 Steel Rod Workbench Tier 3 Workbench Tier 4 None Conveyor Belt Tier 2 1 Straight, Left, or Right Conveyor Belt 3 Red Bronze Ingot Workbench Tier 4 None Left Conveyor Belt Tier 2 1 Straight, Left, or Right Conveyor Belt 3 Red Bronze Ingot Workbench Tier 4 None Right Conveyor Belt Tier 2 1 Straight, Left, or Right Conveyor Belt 3 Red Bronze Ingot Workbench Tier 4 None Conveyor Ramp Up Tier 2 1 Conveyor Ramp 2 Red Bronze Ingot Workbench Tier 4 None Conveyor Ramp Down Tier 2 1 Conveyor Ramp 2 Red Bronze Ingot Workbench Tier 4 None Randomizer 1 Crystallized Iron 3 Steel Rod 5 Iron Ingot Workbench Tier 3 Workbench Tier 4 None Merger 1 Crystallized Iron 4 Steel Rod 5 Iron Ingot Workbench Tier 3 Workbench Tier 4 None Filter Conveyor 3 Crystallized Iron 12 Steel Rod 40 Iron Ingot Workbench Tier 3 Workbench Tier 4 None Split Conveyor 1 Crystallized Iron 4 Steel Rod 20 Electrite Electrical Workbench (Level 2) None Conveyor Sensor 1 Conveyor Belt 3 Ruby Skorp Scale 50 Electrite Electrical Workbench (Level 3) Level 50 Forging
+
+Usage [ ]
+
+Transportation [ ]
+
+The main use for the basic conveyors is to transport items and blocks from conveyor outputs on machines , chests , or totems to conveyor inputs on other machines or chests, although they are also able to transport unmounted players. Randomizers are used to evenly distribute items/blocks from one conveyor line into two while mergers do the opposite. filter conveyors filter up to four different items from a conveyor belt. Split conveyors output items/blocks to the right when powered , and conveyor sensors create an electrical signal when an item passes through it.
+
+Tomatoes , potatoes , carrots , and onions dropped onto a conveyor belt will become oily .
+
+Totems [ ]
+
+Placing a totem next to a straight, left, or right conveyor belt will make it drop its contents on that conveyor instead of storing them inside of itself or producing ore rocks .
+
+History [ ]
+
+May 2, 2020 Added straight, left, right, and ramp conveyor belts . May 10, 2020 All conveyors can now be crafted in the workbench tier 3 instead of the anvil . June 15, 2020 Dropped crops can now be made oily if dropped from a totem . June 26, 2020 Conveyors can now move players. November 7, 2020 Added randomizers . December 11, 2020 Added split conveyors and conveyor sensors . The randomizer's crafting recipe has been modified, requiring 1 crystallized iron instead of 1 buffalkor crystal . August 15, 2021 Added tier 2 straight, left, right, and ramp conveyor belts and mergers . August 21, 2021 Added filter conveyors. August 28, 2021 8 conveyor belts can be claimed from Jack when he visits the player's island . October 9, 2021 Added conveyor ramp downs and conveyor ramp down tier 2's. Renamed conveyor ramps and conveyor ramp tier 2's to conveyor ramp ups and conveyor ramp up tier 2's. November 27, 2021 Fixed a bug causing items to be stuck on conveyors.

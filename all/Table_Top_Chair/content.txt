@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Table_Top_Chair
+
+----------------------------------------
+
+Table Top Chair White Red Blue Pink Type of block Solid block Recipe White: 4 Iron Ingot , 2 White Wool Red: 4 Iron Ingot , 2 Red Wool Blue: 4 Iron Ingot , 2 Blue Wool Pink: 4 Iron Ingot , 2 Pink Wool Crafted with Furniture Workbench Best tool Luminous Transparent A table top chair is a furniture block that comes in four colored variants: white, red, blue, and pink.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station White Table Top Chair 4 Iron Ingot 2 White Wool Furniture Workbench Red Table Top Chair 4 Iron Ingot 2 Red Wool Blue Table Top Chair 4 Iron Ingot 2 Blue Wool Pink Table Top Chair 4 Iron Ingot 2 Pink Wool
+
+Breaking [ ]
+
+Table Top Chair Breaking Data Hardness 3.75 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 6 6 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+October 28, 2022 Added table top chairs.

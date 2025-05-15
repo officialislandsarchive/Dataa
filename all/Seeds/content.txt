@@ -1,0 +1,17 @@
+Source: https://robloxislands.fandom.com/wiki/Seeds
+
+----------------------------------------
+
+Seeds are items that can be grown into various plants. There are two different types of seeds: crop seeds and flower seeds.
+
+Crop seeds [ ]
+
+Crop seeds are used to grow different crops that can then be harvested. Most seeds can be planted on farmland , but some can only be planted on grass , sand , trellises , or pond planters .
+
+Image Name Price Required skill Planted on Available from Base growth time Wheat Seeds 125 coins None Farmland Cletus 3m 10s Tomato Seeds 250 coins Level 5 Farming Farmland Cletus 5m 10s Potato Seeds 300 coins Level 9 Farming Farmland Cletus 6m 15s Carrot Seeds 500 coins Level 18 Farming Farmland Cletus 5m Spinach Seeds 550 coins Level 22 Farming Farmland Cletus 4m 35s Onion Seeds 2,000 coins Level 31 Farming Farmland Cletus 4m 30s Rice Seeds 3,300 coins Level 39 Farming Pond Planter Cletus 3m Seaweed Seeds N/A N/A Pond Planter Bodies of water 3m 10s Grape Seeds 3,000 coins Level 35 Farming Trellis Cletus 3m 5s Dragon Fruit Seeds 5,000 coins Level 41 Farming Trellis Cletus 3m 15s Bean Seeds (Unused) N/A N/A Trellis N/A N/A Red Berry Seeds N/A N/A Grass Red Berry Bushes 2m 35s (bush), 5m 10s (berries) Starfruit Seeds N/A N/A Farmland Buffalkor Island , Wizard Island 5m 50s Radish Seeds 1,450 coins None Farmland Cletus ( Spring shop ) 7m Pineapple Seeds 2,850 coins None Farmland Cletus ( Spring shop ) 5m 15s Pumpkin Seeds 1,040 coins None Farmland Cletus ( Fall shop ) 5m 10s Watermelon Seeds 2,150 coins None Farmland Cletus ( Summer shop ) 5m Cactus Seeds 20 sand dollars , 3,000 coins Level 38 Farming Sand Azur (Former) Cletus (Current) 20h Blackberry Seeds 1,500 coins None Grass Cletus ( Spring shop ) 2m 35s (bush) 2m 35s (berries) Blueberry Seeds 1,500 coins None Grass Cletus ( Fall shop ) 2m 35s (bush) 2m 35s (berries) Raspberry Seeds 1,000 coins None Grass Emma 2m 35s (bush) 2m 35s (berries) Spirit Seeds 50 spirit jars None Farmland Catherine 3m 10s Chili Pepper Seeds 450 crops None Farmland Cletus ( Farming Festival shop ) 4m 5s Candy Cane Seeds N/A None Trellis Christmas Present 2021 3m 5s Void Parasite Seeds N/A None Farmland The Void Isles ? Crystalline Ivy Seeds 3,500 coins Level 55 Combat Farmland Maria
+
+Flower seeds (removed) [ ]
+
+Flower seeds were used to grow flowers and were planted on grass . In the November 1, 2020 update, flower seeds were removed and replaced with  cross-breeding. All flower seeds in a player's Inventory were replaced with unfertile lilies of their respective colors.
+
+Image Name Yellow Flower Seed Blue Flower Seed Red Flower Seed

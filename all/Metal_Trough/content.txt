@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Metal_Trough
+
+----------------------------------------
+
+Metal Trough Type of block Solid block; Interactable Recipe 40 Iron Ingot 1 Crystalized Iron Crafted with Animal Bench Required skill Level 26 Animal Care Best tool Luminous Transparent A metal trough is a block used to feed animals .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Metal Trough 40 Iron Ingot 1 Crystallized Iron Animal Bench Level 26 Animal Care
+
+Breaking [ ]
+
+Metal Trough Breaking Data Hardness 12 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 18 Wooden 36 36 Stone 20 20 Iron 12 12 Gilded Steel 9 9 Diamond 6 6 Opal 5 5 Void Mattock 3
+
+Usage [ ]
+
+Feeding animals [ ]
+
+The metal trough can be filled with food items to feed animals. There are 2 slots each having a 20 item capacity.
+
+History [ ]
+
+February 26, 2021 Added metal troughs. April 4, 2021 Wheat can now be added into metal troughs. December 29, 2021 Disabled manually placing items into metal troughs. January 2, 2022 Re-enabled the ability to manually place items into metal troughs. January 3, 2022 Disabled the ability to manually place items into metal troughs. Re-enabled the ability to manually place items into metal troughs. January 4, 2022 Disabled the ability to manually place items into metal troughs. January 6, 2022 Re-enabled the ability to manually place items into metal troughs. April 9, 2022 Fixed a bug that prevented ducks and yaks from eating from metal troughs.

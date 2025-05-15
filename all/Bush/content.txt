@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Bush
+
+----------------------------------------
+
+Bush Blue Red Yellow Maple Blue Red Maple Maple Yellow Type of block Solid block Recipe 2 Blue/Red/Yellow Flowers 10 Leaves/Maple Leaves Crafted with Floral Bench Best tool Luminous Transparent Bushes are decorative blocks crafted in the floral bench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Bushes are crafted in the floral bench with 2 red, yellow, or blue flowers and 10 leaves or maple leaves .
+
+Image Name Recipe Crafting station Blue Bush 2 Blue Flower 10 Leaves Floral Bench Red Bush 2 Red Flower 10 Leaves Floral Bench Yellow Bush 2 Yellow Flower 10 Leaves Floral Bench Blue Maple Bush 2 Blue Flower 1x Maple Leaves Floral Bench Red Maple Bush 2 Red Flower 10 Maple Leaves Floral Bench Yellow Maple Bush 2 Yellow Flower 10 Maple Leaves Floral Bench
+
+Breaking [ ]
+
+Bush Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+May 4, 2020 Added bushes. May 10, 2020 Added maple bushes.

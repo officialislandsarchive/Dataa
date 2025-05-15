@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Crystallized_Iron
+
+----------------------------------------
+
+Crystallized Iron Description Rare drop from mining iron rocks. Crystallized iron is a crystal that has a chance of dropping when mining iron rocks .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Crystallized iron has a 1.5% chance of dropping when breaking iron rocks, both naturally-spawning ones and totem -spawning ones as well. It can only be obtained by breaking an iron rock fully, and can never be obtained by breaking it to its halfway point. Iron and test totems will not output crystallized iron onto conveyor belts .
+
+Usage [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Required skill Vending Machine 1 Crystallized Iron 5 Green Sticky Gear 10 Gold Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 55 Economy Basic Sprinkler 1 Crystallized Iron 2 Green Sticky Gear 30 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Washing Station 1 Crystallized Iron 100 Maple Wood 30 Iron Ingot Workbench Tier 3 Workbench Tier 4 None Randomizer 1 Crystallized Iron 4 Steel Rod 5 Iron Ingot Workbench Tier 3 Workbench Tier 4 None Merger 1 Crystallized Iron 4 Steel Rod 5 Iron Ingot Workbench Tier 3 Workbench Tier 4 None Filter Conveyor 3 Crystallized Iron 12 Steel Rod 40 Iron Ingot Workbench Tier 3 Workbench Tier 4 None Drill 1 Crystallized Iron 1 Blue Sticky Gear 8 Steel Rods Workbench Tier 3 Workbench Tier 4 Level 18 Forging Iron War Axe 3 Crystallized Iron 1 Steel Rod 40 Iron Ingot Anvil Level 12 Combat Split Conveyor 1 Crystallized Iron 4 Steel Rod 20 Electrite Electrical Workbench (Level 1) None Metal Trough 1 Crystallized Iron 40 Iron Ingot Animal Bench Level 26 Animal Care
+
+Trivia [ ]
+
+The drop rate for crystallized iron has been changed multiple times since it was added to the game. On September 18, 2020 it was increased, likely due to the addition of drills , which required crystallized iron in its recipe. The limit for crystallized iron is 5,000. Joining a new server with an amount more than the limit in the inventory or hotbar will reset it back to 5,000. Utilizing chests or vending machines can allow one to bypass the limit.

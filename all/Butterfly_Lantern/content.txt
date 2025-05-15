@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Butterfly_Lantern
+
+----------------------------------------
+
+Butterfly Lantern Silver Red Green Recipe Silver: 1 Yellow Firefly Jar 10 Iron Ingot Red: 1 Red Firefly Jar 10 Red Bronze Ingot Green: 1 Green Firefly Jar 5 Iron Ingot 5 Electrite Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Description A silver/green/red butterfly lantern! A butterfly lantern is a luminous item that emits light when held. It comes in three color variants: silver, red, and green.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Silver Butterfly Lantern 1 Yellow Firefly Jar 10 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Red Butterfly Lantern 1 Red Firefly Jar 10 Red Bronze Ingot Green Butterfly Lantern 1 Green Firefly Jar 5 Iron Ingot 5 Electrite
+
+Usage [ ]
+
+Light source [ ]
+
+Equipping a butterfly lantern will emit light that can be used to guide the player. Unequipping the lantern or switching items will make the light disappear.
+
+History [ ]
+
+September 10, 2022 Added silver, red, and green butterfly lanterns. October 10, 2022 Butterfly lanterns can now be traded .

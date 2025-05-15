@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Pine_Tree
+
+----------------------------------------
+
+Pine Tree Type: Pine Duration to grow: 90 seconds Pine trees are a tree introduced upon the game's release.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Pine trees are grown from pine saplings , which can be purchased from Cletus for 250 coins in the Hub . The approximate growing time for the saplings is 90 seconds from planting. There must be at least 2 unoccupied blocks to be able to grow.
+
+Drops [ ]
+
+When cut down, the player will receive:
+
+3-4 Pine Wood 1 Pine Sapling
+
+Usage [ ]
+
+Pine trees can be harvested with leaf clippers to drop 2 leaves .
+
+Breaking [ ]
+
+Pine Tree Breaking Data Hardness 8 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 12 24 Stone 8 13 Iron 5 8 Gilded Steel 4 6 Diamond 3 4 Opal 2 4 Void Mattock 2
+
+Trivia [ ]
+
+This and the oak tree are the first 2 trees in the game.
+
+This, the hickory tree , the cherry blossom tree , the spirit tree and the palm tree are the only trees whose color is not affected by winter.

@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Oak_Tree
+
+----------------------------------------
+
+Oak Tree Oak Tree 1 Oak Tree 2 Oak Tree 3 Type Oak Tree Sapling Cost 50 coins Growth Duration 90 seconds The oak tree is a type of tree in game. Each player starts with 3 of these trees when they start the game. It drops Oak Wood and an Oak Sapling when chopped down or 2 leaves when harvested with leaf clippers .
+
+Like any other species of trees, it must be placed 7 or more blocks away from another tree to grow.
+
+Drops [ ]
+
+When chopped, it drops:
+
+3 - 4 Oak Wood 1 Sapling
+
+When harvested by leaf clippers , it drops:
+
+2 Leaves
+
+Breaking [ ]
+
+Oak Tree Breaking Data Hardness 8 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 12 24 Stone 8 13 Iron 5 8 Gilded Steel 4 6 Diamond 3 4 Opal 2 4 Void Mattock 2
+
+Trivia [ ]
+
+Unlike most trees, the oak tree can grow into different shapes. The oak tree was originally known as the starter tree.

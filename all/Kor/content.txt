@@ -1,0 +1,75 @@
+Source: https://robloxislands.fandom.com/wiki/Kor
+
+----------------------------------------
+
+Kor Health 9,001 HP Behavior Hostile Attack strength 40 ( Punch Attack ) 35 ( Stomp Attack ) 110 ( Smash Attack ) Effect Stun Drops Diamond Mines Portal Shard Mysterious Fragment #2 Kor Pet Spawn Egg Jukebox Disk Location Diamond Mines Kor is a boss that was added in the February 12, 2021 update. It has 9,001 health and can be summoned in the Diamond Mines with at least level 46 Combat . It has a summon cooldown of 90 minutes; 1 hour and 30 minutes when being summoned.
+
+As of September 18, 2021 , its summon cooldown can be bypassed with at least 500 Kor tokens .
+
+Description [ ]
+
+Kor is a fairly slow boss who specializes in slow-moving yet high-damage attacks. It has 9,001 health and can be summoned once every 60 minutes in its spawn area and with at least level 46 Combat .
+
+As of September 18, 2021 , the summon cooldown of Kor can be bypassed by using at least 500 Kor tokens .
+
+When a player summons Kor, a blue message appears in chat, reading:
+
+"[SERVER] Kor summoning in 5 seconds!"
+
+After 5 seconds, another blue message appears in chat, reading:
+
+"[SERVER] Kor has summoned!"
+
+If a player attempts to summon Kor while has less than 500 Kor tokens and on cooldown, the notification appears the screen, reading:
+
+"Failed to Summon - You need 500x Kor Tokens to summon this boss!"
+
+Like other bosses , if the player is idle for 5 or more minutes or if the fight lasts more than 10 minutes, Kor will despawn and the player will have to wait another 60 minutes or spend at least 500 Kor tokens before being able to summon it again.
+
+Attacks [ ]
+
+Punch Attack [ ]
+
+Kor will reel back one of its arms before swinging at the player in front of it, dealing 40 damage and significant knockback to the player.
+
+Stomp Attack [ ]
+
+Kor will lift up its foot and stomp on the ground, creating a wave of rocks in the form of a circle around it. If hit, the rocks deal 35 damage and inflict the Stun effects.
+
+Smash Attack [ ]
+
+Kor will reel back both of its arms before smashing them at the player in front of it, dealing 111 damage. This attack will always be used if its stomp attack hits a player.
+
+Effects [ ]
+
+Stun [ ]
+
+The player's movement speed is decreased by 50% or unable to sprint.
+
+Drops [ ]
+
+Kor rewards 2,500 (9,999 with the 4x daily bonus or 249 when maxed out) Combat XP and 2,500 (9,999 with the 4x daily bonus or 249 when maxed out) Light Melee , Heavy Melee , Magic , or Archery XP depending on the weapon the player used to defeat it. In addition to the following drops, four diamond rocks will spawn in the battle area. There is also a small chance for an enchanted diamond rock to spawn in place of a normal diamond rock.
+
+Image Name Drop chance Diamond Mines Portal Shard 0.5% Mysterious Fragment #2 5% Kor Pet Spawn Egg 0.33% Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Purple Jukebox Disk 0.01% Orange Jukebox Disk 0.01%
+
+Note: If more than one player defeats Kor, each individual does not get their own diamond rock . Each Kor kill yields four diamond rocks that yield the same amount of diamonds per stage no matter the player count.
+
+Damage reduction [ ]
+
+Kor reduces the amount of damage dealt to it by 10% to 55% depending on the number of players (compounds) in the arena.
+
+Number of players Damage reduction 1 0% 2 10% 3 25% 4 35% 5 45% 6+ 55%
+
+Resistances and weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical Piercing , Slashing Quake None Storm
+
+History [ ]
+
+February 12, 2021 Added Kor. ? Fixed a bug that caused Kor's cooldown timer to reset if the player defeats the Slime King . July 2, 2021 Kor now has a damage reduction of up to 55%. September 5, 2021 Kor is now able to drop mysterious fragment #2s with a 3.33% chance. September 11, 2021 Changed the drop chance of mysterious fragment #2's to 5%. September 18, 2021 The cooldown of Kor can now be bypassed with Kor tokens . Kor is now able to drop Kor pet spawn eggs . April 16, 2022 Fixed Kor's stomp attack. August 15, 2022 Fixed a bug that allowed Kor to spawn multiple diamond rocks . August 20, 2022 Correctly fixed the bug that allowed Kor to spawn multiple diamond rocks .
+
+Trivia [ ]
+
+There is currently a bug where multiple Kor can be summoned at once, whether a singular player summons Kor twice in quick succession (once with a Free Summon, again with Tokens right after) or two players summoning Kor at the same time. Kor is the second boss in Islands , the first being the Grand High Witch . It is the first mob unaffected by the knockback from melee weapons , although it can be knocked back slightly with any attack from ranged weapon except the lightning scepter . Kor's eyes glow and produce light. This also applies to its pet variant. Kor rewards the most XP out of any mob in the game -- 2500 XP, or 9999 XP with the 4x daily bonus. Kor, the Slime Queen , Fhanhorn , and Bhaa are the only mobs that have a death animation upon defeat. Kor, Bhaa, and Fhanhorn are the only mobs that have a spawn animation. Kor will not automatically despawn if it is flung into the void around its battle area, awarding no rewards and forcing the player to despawn Kor manually. Kor's health is 9,001, a reference to the "Over 9,000!" meme from the Dragon Ball franchise in which the character Vegeta says the phrase, "It's Over 9,000!" (source?) There used to be a glitch where the cooldown timer would reset after defeating the Slime King . Kor has the second longest cooldown timer, the first being Bhaa with a cooldown of 2 hours. The boss is featured in the luxury egg sculpture . Kor was (was? which boss is currently the slowest?) the slowest boss in Islands in terms of speed. Like Bhaa, Kor does not have any physical weaknesses. Prior to September 18, 2021 , the summon cooldown of Kor cannot be bypassed with tokens . Like Fhanhorn and the Slime Queen, a death sound is played upon Kor's defeat.
+
+Gallery [ ]

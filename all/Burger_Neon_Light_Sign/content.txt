@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Burger_Neon_Light_Sign
+
+----------------------------------------
+
+Burger Neon Light Sign Type of block Solid block; Luminous Recipe 1 Neon Yellow 1 Neon Red 1 Neon Light Green 5 Electrite Crafted with Furniture Workbench Best tool Luminous Transparent Description A wall mounted neon light sign of a burger A burger neon light sign is a luminous furniture block that can be crafted in the furniture workbench . It can only be placed on walls.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Burger Neon Light Sign 1 Neon Yellow 1 Neon Red 1 Neon Light Green 5 Electrite Furniture Workbench
+
+Breaking [ ]
+
+Burger Neon Light Sign Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+January 6, 2023 Added burger neon light signs. Burger neon light signs can now be crafted in the furniture workbench instead of in the level 1 electrical workbench .

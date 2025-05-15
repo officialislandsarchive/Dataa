@@ -1,0 +1,59 @@
+Source: https://robloxislands.fandom.com/wiki/Carrot
+
+----------------------------------------
+
+Carrot Carrot Oily Seed cost 500 coins Planted on Farmland Sell price 21 coins Required skill Level 18 Farming (to sell) Oily description A crop that is covered in motor oil. Must be washed before selling. Edible A carrot is a crop that grows on farmland from carrot seeds .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting a carrot plant yields 1 - 3 carrots, 1 - 2 carrot seeds , and 12 Farming XP (51 with the 4x daily bonus). The chance of obtaining more than one carrot per plant is increased by the player's Farming level and for owners of the VIP gamepass . The 5% chance of obtaining an extra carrot seed is increased for owners of the pro gamepass .
+
+Totems [ ]
+
+A carrot totem will collect and replant carrots in a 3-block radius, which can then be collected by interacting it. A carrot totem placed next to a conveyor belt will drop the carrots onto the conveyor, but doing so will make them oily. This process cannot yield extra carrot seeds.
+
+Washing [ ]
+
+Name Recipe Crafting station Carrot 1 Oily Carrot Washing Station
+
+Input Item transformer Output 1 Oily Carrot ➡ Industrial Washing Station ➡ 1 Carrot
+
+Growth [ ]
+
+The growth time of carrots can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Carrot Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 40s 3m 20s 5m Note: The durations of time above are on an unfertilized and unwatered plant Carrot Growth Time Type Growth Time Normal 5m Fertilized 4m Watered 4m Watered + Fertilized 3m 30s
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Tier 2 Bait 8 Carrot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 20 Fishing Carrot Cake Batter 8 Carrot 4 Dough Cooking Table Food Processor Level 15 Cooking Spring Rolls 1 Dough 1 Carrot 2 Spinach Cooking Table Food Processor None
+
+Crate-packing [ ]
+
+Image Name Recipe Crafting station Crate of Carrots 100 Carrot Crate Packer Large Crate of Carrots 250 Carrot Tier 2 Crate Packer
+
+Cooking [ ]
+
+Carrots can be cooked into roasted carrots in any heating device except for the industrial smelter .
+
+Input Output 1 Carrot 1 Roasted Carrot
+
+Eating [ ]
+
+Carrots can be eaten to restore 10 HP.
+
+Animals [ ]
+
+Holding a carrot will attract nearby pigs and horses to the player. They are also the pig's and horse's favorite food and can be used to feed either of them.
+
+Selling [ ]
+
+Carrots can be sold to Cletus for 21 coins each after reaching level 18 Farming .
+
+History [ ]
+
+April 10, 2020 Added carrots. June 15, 2020 Added oily carrots. Carrots will now become oily when dropped onto a conveyor belt from a totem . Carrots can now be obtained by washing oily carrots. Carrots can now be used to craft bait . August 30, 2020 Carrots can be cooked into roasted carrots January 22, 2021 Carrots now grant 12 Farming XP when harvested. Carrots now require level 18 Farming to be sold to Tom . February 5, 2021 Carrots can now be fed to pigs . February 26, 2021 Oily carrots can no longer be sold for coins . June 4, 2021 Carrots can be packed into crates of carrots . August 15, 2021 Carrots can be packed into large crates of carrots . November 13, 2021 8 carrots are now required to craft carrot cake batter , up from 2. February 7, 2022 Carrots can now be used to craft spring rolls . April 29, 2022 Changed the sell price of carrots from 25 coins to 21 coins. May 13, 2022 Carrots can no longer be used to craft tier 1 bait. Carrots can now be used to craft tier 2 bait . May 20, 2022 Changed the sell price of carrots from 21 coins to 25 coins. May 27, 2022 Changed the sell price of carrots from 25 coins to 21 coins. June 3, 2022 Carrots can now be sold to Cletus instead of to Tom. Carrots can now be fed to horses . October 15, 2022 Carrots can now be sold to Tom instead of to Cletus. October 28, 2022 Changed the sell price of carrots from 21 coins to 16 coins. November 4, 2022 Carrots can now be sold to Cletus instead of to Tom. Changed the sell price of carrots from 16 coins to 12 coins.

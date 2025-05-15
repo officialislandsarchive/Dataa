@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Ghost
+
+----------------------------------------
+
+Ghost Happy Angry Surprised Type of block Solid block; Luminous Best tool Luminous Transparent Ghosts are luminous furniture blocks that can be obtained from cauldrons . They come in three variants: happy, angry, and surprised.
+
+Obtaining [ ]
+
+Cauldron [ ]
+
+Opening a cauldron has a 30% chance of rewarding 5 happy, angry, or surprised ghosts, all having a rarity of 'common'.
+
+Breaking [ ]
+
+Ghost Breaking Data Hardness 1 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 2 Stone 2 1 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+History [ ]
+
+October 15, 2022 Added happy, angry, and surprised ghosts.

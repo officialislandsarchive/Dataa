@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Dragon_Fruit_Seeds
+
+----------------------------------------
+
+Dragon Fruit Seeds Planted on Trellis Buy cost 5,000 coins Required skill Level 41 Farming Description Plant in a trellis to grow dragon fruit. Dragon fruit seeds are seeds that can be grown into dragon fruit .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Dragon fruit seeds can be purchased from Tom for 5,000 coins each after reaching level 41 Farming .
+
+Harvesting [ ]
+
+Harvesting a dragon fruit crop will give 1 - 4 dragon fruits and 1 dragon fruit seed.
+
+Usage [ ]
+
+Planting [ ]
+
+Dragon fruit seeds can be planted on trellises to be grown into dragon fruits.
+
+Growth [ ]
+
+The growth time of dragon fruits can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Dragon Fruit Seeds Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 5s 2m 10s 3m 15s Note: The durations of time above are on an unfertilized and unwatered plant Dragon Fruit Seeds Growth Time Type Growth Time Normal 3m 15s Fertilized 2m 36s Watered 2m 36s Watered + Fertilized 2m 17s
+
+History [ ]
+
+February 27, 2022 Added dragon fruit seeds. October 15, 2022 Dragon fruit seeds can now be bought from Tom .
+
+Trivia [ ]
+
+Dragon fruit seeds are the most expensive crop seed in terms of coins .

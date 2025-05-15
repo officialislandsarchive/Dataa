@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Expanded_Diamond_Chest
+
+----------------------------------------
+
+Expanded Diamond Chest Type of block Solid block; Interactable Recipe 50 Diamond 10 Enchanted Diamond 40 Steel Plate 30 Steel Bolt Crafted with Workbench Tier 4 Best tool Luminous Transparent Description Large diamond chest to hold twice as many items! An expanded diamond chest is a storage block that can be used to hold up to 20,000 items .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Expanded Diamond Chest 50 Diamond 10 Enchanted Diamond 40 Steel Plate 30 Steel Bolt Workbench Tier 4
+
+Breaking [ ]
+
+Expanded Diamond Chest Breaking Data Hardness 5.5 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 17 9 Stone 9 6 Iron 6 4 Gilded Steel 4 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Storage [ ]
+
+An expanded diamond chest has 16 slots that can fit up to 1,250 items per slot, adding up to a total of 20,000 items per chest.
+
+History [ ]
+
+November 4, 2022 Added expanded diamond chests.

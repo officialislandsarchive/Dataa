@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Steel_Mill
+
+----------------------------------------
+
+Steel Mill Type of block Solid block; Interactable Recipe 100 Iron Ingot 50 Gold Ingot Crafted with Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent The steel mill is an industrial machine used to convert iron ingots into steel ingots .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Steel Mill 100 Iron Ingot 50 Gold Ingot Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Steel Mill Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Transforming [ ]
+
+Steel mills convert iron ingots into steel ingots . There are a total of four slots inside the machine, each able to hold only one item - one for iron ingots and the other 3 for fuel. It takes approximately 20 seconds to completely transform an iron ingot into a steel ingot.
+
+The input conveyor must be receiving coal or petrified petroleum as fuel and iron ingots to turn into steel ingots. Iron ore will NOT work. After an iron ingot is turned into a steel ingot, the steel ingot will be outputted through the conveyor belt at the other side of the machine. It also yields 3 Forging XP (18 with the 4x daily bonus) for each ingot transformed.
+
+Input Output 1 Iron Ingot ➡ 1 Steel Ingot
+
+History [ ]
+
+September 18, 2020 Added steel mills. December 29, 2021 Disabled the ability to manually place items into steel mills. January 2, 2022 Re-enabled the ability to manually place items into steel mills. January 3, 2022 Disabled the ability to manually place items into steel mills. Re-enabled the ability to manually place items into steel mills. January 4, 2022 Disabled the ability to manually place items into steel mills. January 6, 2022 Re-enabled the ability to manually place items into steel mills.
+
+Trivia [ ]
+
+The steel mill shares the same model as the red bronze refinery but with a slightly different texture and color. When the steel mill is active, smoke comes out from the top.

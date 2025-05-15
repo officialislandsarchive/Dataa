@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Lemon_Bread
+
+----------------------------------------
+
+Lemon Bread Recipe 1 Lemon Bread Dough Crafted with Campfire Small Furnace Desert Furnace Industrial Oven Heals 25 HP Sell price 120 - 180 coins Hot sell price 180 - 270 coins Lemon bread is a food item .
+
+Obtaining [ ]
+
+Cooking [ ]
+
+Baking lemon bread dough in a campfire , small furnace , desert furnace , or industrial oven will create lemon bread.
+
+Input Output 1 Lemon Bread Dough 1 Lemon Bread
+
+Usage [ ]
+
+Eating [ ]
+
+Eating lemon bread restores 25 HP.
+
+Selling [ ]
+
+Lemon bread can be sold to Petur for 120 - 180 coins each, or 180 - 270  coins if lemon bread is a hot offer.
+
+History [ ]
+
+June 26, 2020 Added lemon bread. January 8, 2022 Changed the base selling price from 150 coins to 180 - 270 coins. January 15, 2022 Changed the base selling price from 180 - 270 coins to 120 - 180 coins.

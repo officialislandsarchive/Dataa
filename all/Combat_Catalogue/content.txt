@@ -1,0 +1,5 @@
+Source: https://robloxislands.fandom.com/wiki/Combat_Catalogue
+
+----------------------------------------
+
+The combat catalogue is a feature in Islands that contains information on the resistances and weaknesses of mobs and the statistics and damage classes of weapons . It is separated into four sections: Enemies, Melee, Archery, and Magic. It can be accessed by clicking the Combat Catalogue button.

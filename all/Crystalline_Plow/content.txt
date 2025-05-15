@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Crystalline_Plow
+
+----------------------------------------
+
+Crystalline Plow Type Farming Tool Recipe 30 Steel Plate 3 Crystalline 20 Pine Wood Crafted with Workbench Tier 4
+
+A crystalline plow is a tool that is used to turn grass into farmland in a 5x1 grid, and vice versa.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+To get its crafting recipe, players need to complete the Master Farmer achievement .
+
+Name Recipe Crafting station Required skill Crystalline Plow 3 Crystalline 30 Steel Plate 20 Pine Wood Workbench Tier 4 None
+
+Usage [ ]
+
+Plowing [ ]
+
+The crystalline plow is used to till grass into farmland that most crops can be planted on. To use the crystalline plow, click on the blocks of grass and they will turn into farmland in a 5x1 grid. It can can also turn farmland back into grass.
+
+History [ ]
+
+March 3, 2023 Added crystalline plows.

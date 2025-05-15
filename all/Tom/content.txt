@@ -1,0 +1,61 @@
+Source: https://robloxislands.fandom.com/wiki/Tom
+
+----------------------------------------
+
+Tom Location Hub Player's Island Purpose Buys crops , fruits , and other items Occupation Sell Crops Tom was a villager located in the Hub . Players could have sold crops and fruits to him for coins before he was removed on June 3, 2022 and on November 4, 2022 . Since the aforementioned update, his shop menu has been given to Cletus , although during the Halloween 2022 event he operated Cletus' shop.
+
+Shop [ ]
+
+Selling [ ]
+
+Image Name Price Required skill Wheat Seeds 125 coins None Tomato Seeds 250 coins Level 5 Farming Potato Seeds 300 coins Level 9 Farming Carrot Seeds 500 coins Level 18 Farming Spinach Seeds 550 coins Level 22 Farming Onion Seeds 2,000 coins Level 31 Farming Grape Seeds 3,000 coins Level 35 Farming Cactus Seeds 3,000 coins Level 38 Farming Rice Seeds 3,300 coins Level 39 Farming Dragon Fruit Seeds 5,000 coins Level 41 Farming Saplings Oak Sapling 50 coins None Pine Sapling 250 coins Level 5 Woodcutting Birch Sapling 500 coins Level 10 Woodcutting Maple Sapling 1,000 coins Level 14 Woodcutting Hickory Sapling 2,000 coins Level 24 Woodcutting Avocado Tree Sapling 8,000 coins Level 12 Woodcutting Plum Tree Sapling 14,000 coins Level 30 Woodcutting
+
+Buying [ ]
+
+Image Name Sell price Required skill Wheat 7 coins None Candy Cane 24 coins None Rice 24 coins None Red Berry 22 coins None Blueberry 24 coins None Blackberry 26 coins None Apple 20 coins None Orange 20 coins None Lemon 26 coins None Plum 46 coins None Coconut 45 coins None Spirit Crystal 23 coins None Tomato 9 coins Level 3 Farming Starfruit 60 coins Level 7 Combat Potato 11 coins Level 9 Farming Avocado 32 coins Level 12 Woodcutting Carrot 21 coins Level 18 Farming Spinach 18 coins Level 22 Farming Onion 30 coins Level 31 Farming Grape 22 coins Level 35 Farming Cactus 35 coins Level 38 Farming Dragon Fruit 45 coins Level 41 Farming
+
+Spring shop [ ]
+
+In the spring during the Halloween 2022 event, Tom would arrive to the player's island and offer to sell radish seeds , blackberry seeds , and pineapple seeds and buy radishes and pineapples .
+
+Image Name Price Stock Radish 60 coins (sell) N/A Radish Seeds 1,450 coins (buy) 8 Blackberry Seeds 1,500 coins (buy) 1 Pineapple 96 coins (sell) N/A Pineapple Seeds 2,850 coins (buy) 6
+
+Dialogue [ ]
+
+When selling radishes :
+
+"Happy spring! I've got some rad(ish) deals for you." >Open Shop Opens shop menu. >[Ask to leave island] "Yes, I better be going. I'll come back next time I have something new. Have a great spring!" >Nevermind, stay! End. >Goodbye. End and Tom leaves player's island. >Maybe later End.
+
+When selling pineapples :
+
+"Happy Spring! I brought you some delicious Pineapple seeds!" >View Shop Opens shop menu. >[Ask to leave island] "Yes, I better be going. I'll come back next time I have something new. Have a great spring!" >Nevermind, stay! End. >Goodbye. End and Tom leaves player's island. >Maybe later End.
+
+Summer shop [ ]
+
+In the summer during the Halloween 2022 event, Tom had a 25% chance of coming to the player's island and offer to sell watermelon seeds and buy watermelons .
+
+Image Name Price Stock Watermelon 85 coins (sell) N/A Watermelon Seeds 1,850 coins (buy) 3
+
+Dialogue [ ]
+
+"What a hot summer! Luckily for you, I just got an import of fresh watermelon seeds.. grow them for a refreshing snack!" >Open Shop Opens shop menu. >[Ask to leave island] "Yes, I better be going. I'll come back next time I have something new. Have a great summer!" >Nevermind, stay! End. >Goodbye. End and Tom leaves player's island. >Maybe later End.
+
+Fall shop [ ]
+
+In the fall during the Halloween 2022 event, Tom would appear on the player's island and offer to sell pumpkins , buy pumpkin seeds , and sell blueberry seeds . Pumpkins can only be sold during the fall.
+
+Image Name Price Stock Pumpkin 52 coins (sell) N/A Pumpkin Seeds 1,040 coins (buy) 4 Blueberry Seeds 1,500 coins (buy) 2
+
+Dialogue [ ]
+
+"I'm selling special fall crops! Want to take a look?" >Open Shop Opens shop menu. >[Ask to leave island] "Yes, I better be going. I'll come back next time I have something new. Have a great fall!" >Nevermind, stay! End. >Goodbye. End and Tom leaves player's island. >Maybe later End.
+
+Dialogue [ ]
+
+Halloween 2022 [ ]
+
+"Cletus seems to have gone missing so I'm watching over the shop until he returns. Want to take a look at our wares?" >Buy seeds Opens the buy shop. >Sell crops Opens the sell shop.
+
+History [ ]
+
+April 10, 2020 Added the Sell Crops merchant. March 19, 2021 Tom now buys coconuts . February 27, 2022 Tom now buys dragon fruits. June 3, 2022 Removed Tom. October 15, 2022 Re-added Tom. Tom now sells crop seeds. Tom can now visit player islands during seasons . October 22, 2022 Tom now buys cacti for 35 coins each. Tom now buys plum for 46 coins each. October 28, 2022 Tom now buys avocados for 36 coins each. Tom now buys carrots for 16 coins each. November 4, 2022 Removed Tom from the Hub . Tom can no longer visit player islands.

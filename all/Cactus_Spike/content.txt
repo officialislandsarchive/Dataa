@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Cactus_Spike
+
+----------------------------------------
+
+Cactus Spike Type Light Melee Physical class Piercing Attack damage 25 HP (Base) +13 HP (Critical) Recipe 100 Cactus Crafted with Anvil Required skill Level 36 Combat The cactus spike is a light melee weapon in the piercing class.
+
+Obtaining [ ]
+
+Blueprint [ ]
+
+Prior to the June 3, 2022 update, the cactus spike blueprint could have been purchased from Azur for 300 sand dollars.
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Cactus Spike 100 Cactus Anvil Level 36 Combat
+
+Attacking [ ]
+
+At level 1 Light Melee , the cactus spike deals a base damage of 25 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing and deals very little knockback. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 13 HP of damage. Its damage can be increased by leveling up the Light Melee skill and it is in the piercing class.
+
+History [ ]
+
+November 20, 2020 Added cactus spikes. February 5, 2021 Nerfed the base damage from 40 HP to 25 HP. February 12, 2021 Cactus spikes are now able to be displayed on tool stands . May 27, 2022 Level 36 Combat is now required to craft cactus spikes. June 3, 2022 A cactus spike blueprint is no longer required to unlock the recipe of cactus spikes. Changed the recipe of cactus spikes from 20 cacti to 100 cacti. September 17, 2022 Cactus spikes are now a slashing weapon. September 24, 2022 Cactus spikes are now a piercing weapon instead of a slashing weapon.
+
+Trivia [ ]
+
+Before the February 12, 2021 update, players were unable to display this on a tool stand . This is the first weapon that can be crafted from a crop . Before strength potions were modified in an unknown update, the cactus spike received a +30% damage bonus from them instead of +50%. The cactus spike was the strongest weapon in terms of damage before February 5, 2021 . However, since then, its damage was nerfed from 40 to 25 HP. This is the first weapon whose blueprint was obtained by a method outside of defeating mobs . This is one of the only melee weapons to have two melee classifications changed and a piercing classification, the other being the captain's rapier .

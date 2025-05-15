@@ -1,0 +1,85 @@
+Source: https://robloxislands.fandom.com/wiki/Category:Bosses
+
+----------------------------------------
+
+Bosses are tough hostile mobs that take longer to kill compared to normal mobs , but grant bigger rewards. The amount of damage a player does to the bosses decreases by 10% to 80% depending on the number of players (compounds) in the arena. All event bosses can be summoned without any Combat level requirement, except the Grand High Witch . The only bosses that can be summoned without any Combat level requirement are the Slime King and Fhanhorn .
+
+List of bosses [ ]
+
+Regular bosses [ ]
+
+* Summon cooldown ** No summon cooldown *** No token [ 1 ] [ 2 ]
+
+Mini-bosses [ ]
+
+Event bosses [ ]
+
+* Summon cooldown [ 6 ]
+
+Combat level requirement [ ]
+
+All bosses have the following Combat level requirements set in place:
+
+List of Combat level requirement [ ]
+
+List of bosses Location Can be summoned by players? Have a summon cooldown? Have the "Failed to Summon" notification? Can be summoned with any Combat level requirement? Regular bosses Slime King * Slime Island Yes (Summoned once every 15 minutes) Yes (15 minutes) Yes No (Any Combat levels) Kor Diamond Mines Yes (Summoned once every 90 minutes; 1 hour and 30 minutes) Yes (90 minutes; 1 hour and 30 minutes) Yes Yes (Level 46 Combat or higher) Wizard Boss Wizard Island Yes (Summoned once every 45 minutes) Yes (45 minutes) Yes Yes (Level 20 Combat or higher) Bhaa Desert Island Yes (Summoned once every 120 minutes; 2 hours) Yes (120 minutes; 2 hours) Yes Yes (Level 36 Combat or higher) Infernal Dragon Underworld Yes (Summoned with 750 Underworld tokens ) No Yes Yes (Level 55 Combat or higher) Fhanhorn * Maple Isles Yes (Summoned once every 60 minutes; 1 hour) Yes (60 minutes; 1 hour) No (Nothing happens) [ 8 ] No (Any Combat levels) Slime Queen Slime Island Yes (Summoned with 100 Slime Queen tokens ) No Yes Yes (Level 60 Combat or higher) Void Serpent Void Isles Yes (Summoned with 300 Void Serpent tokens ) No Yes Yes (Level 70 Combat or higher) Primordial Slime Slime Dungeon Yes (Open the door) N/A N/A Yes (Level 30 Combat or higher) Mini-bosses Azarathian Serpent Desert Island No (Summons itself) N/A N/A Yes (Level 36 Combat or higher) Event bosses Grand High Witch Hub ( Halloween 2020 ) No (Summons herself) N/A N/A N/A (Not applicable prior to XP + Animals update) Percival the Pumpkin King * Hub ( Halloween 2021 ) Yes (Summoned with 500 Pumpkin Boss tokens ) No Yes No (Any Combat levels) Zombie Cletus * Hub ( Halloween 2022 ) Yes (Summoned with 500 Zombie Cletus tokens ) Yes (30 minutes) Yes No (Any Combat levels) Lunar Rabbit * Hub ( Lunar New Year 2023 ) No (Summons itself) N/A N/A No (Any Combat levels) Draven * Hub ( Mining Event 2023 ) Yes (Summoned with 250 Bat Boss tokens ) No Yes No (Any Combat levels) * Can be summoned without any Combat level requirement
+
+Notes [ ]
+
+The Slime King , Fhanhorn , Percival the Pumpkin King , Zombie Cletus , the Lunar Rabbit , and Draven are the only bosses that can be summoned without any Combat level requirement.
+
+Summon cooldowns [ ]
+
+All bosses with the exceptions of Grand High Witch , the Infernal Dragon , Percival the Pumpkin King , the Slime Queen , the Void Serpent , the Lunar Rabbit , the Azarathian Serpent , Draven , and the Primordial Slime have the following summon cooldowns set in place:
+
+As of September 18, 2021 , the summon cooldown of bosses now can be bypassed with at least 500 tokens .
+
+Since the November 27, 2021 update, Fhanhorn 's summon cooldown currently cannot be bypassed with tokens . However, Fhanhorn currently has no tokens.
+
+As of October 28, 2022 , the token requirement now indicated on the summon cooldown of bosses' respective summoning UI, with the exception of Fhanhorn due to it doesn't have its own token.
+
+List of summon cooldowns [ ]
+
+List of bosses Location Duration of cooldown Have their own token? Can be bypassed with tokens ? Have the "Failed to Summon" notification? Have the token requirement? Regular bosses Slime King Slime Island 15 minutes Yes (As of September 18, 2021 ) Yes (At least 500 Slime King tokens ) Yes (Appears)* Yes (At least 500 Slime King tokens ) Kor Diamond Mines 90 minutes; 1 hour and 30 minutes Yes (As of September 18, 2021 ) Yes (At least 500 Kor tokens ) Yes (Appears)* Yes (At least 500 Kor tokens ) Wizard Boss Wizard Island 45 minutes Yes (As of September 18, 2021 ) Yes (At least 500 Wizard Boss tokens ) Yes (Appears)* Yes (At least 500 Wizard Boss tokens ) Bhaa Desert Island 120 minutes; 2 hours Yes (As of September 18, 2021 ) Yes (At least 500 Bhaa tokens ) Yes (Appears)* Yes (At least 500 Bhaa tokens ) Fhanhorn [ 9 ] Maple Isles 60 minutes; 1 hour No (Currently has no token)** No (Currently has no token) [ 10 ] No (Nothing happens) [ 11 ] No (Currently has no token) [ 12 ] Event bosses Zombie Cletus [ 13 ] Hub ( Halloween 2022 ) 30 minutes Yes Yes (At least 500 Zombie Cletus tokens ) Yes (Appears)* Yes (At least 500 Zombie Cletus tokens ) * Only appears if attempts to summon while on cooldown, except Fhanhorn ** Since the November 27, 2021 update, Fhanhorn currently has no token
+
+Notes [ ]
+
+Slime King 's summon cooldown [ ]
+
+The Slime King has the shortest summon cooldown in Islands in terms of duration.
+
+Bhaa 's summon cooldown [ ]
+
+Bhaa has the longest summon cooldown in Islands in terms of duration.
+
+Fhanhorn 's summon cooldown [ ]
+
+Fhanhorn was the first and only regular boss in Islands whose summon cooldown currently cannot be bypassed with tokens as it doesn't have its own token (likely 500) during it doesn't have its own token , unless forcing players to wait for 60 minutes; 1 hour in real-life time and to be able to re-summon it. It was the second boss in Islands that doesn't have its own token, with the other four being the Grand High Witch , the Lunar Rabbit , the Azarathian Serpent , and the Primordial Slime . Since the October 28, 2022 update, the token requirement is doesn't indicate on Fhanhorn's summoning UI during it doesn't have its own token. Unlike most bosses with the " Failed to Summon " notification, if a player attempts to summon Fhanhorn while on cooldown during it doesn't have its own token, nothing happens. Due to nothing happens if attempted to summon Fhanhorn while on cooldown, it was the first and only regular boss in Islands that doesn't have the "Failed to Summon" notification during it doesn't have its own token.
+
+Zombie Cletus ' summon cooldown [ ]
+
+Zombie Cletus was the first and only event boss in Islands that have a summon cooldown and can be bypassed with at least 500 Zombie Cletus tokens
+
+Damage reduction [ ]
+
+All bosses with the exception of the Grand High Witch have the following damage reductions set in place:
+
+Number of players Damage reduction 1 (solo) 0% 2 10% 3 25% 4 35% 5 45% 6 50% 7 55% 8 60% 9 65% 10 70% 11 75% 12+ 80%
+
+Resistances and Weaknesses [ ]
+
+All bosses with the exceptions of the Grand High Witch , Percival the Pumpkin King , and Draven have the following resistances and weaknesses set in place:
+
+Neutral (Red): Normal damage Resistance (Blue): -20% damage Weakness (Yellow): +25% damage
+
+List of Resistances and Weaknesses [ ]
+
+List of bosses Resistances Weaknesses Physical Magical Physical Magical Regular bosses Slime King Striking Hydro Slashing Inferno Kor Piercing , Slashing Quake None Storm Wizard Boss Striking Inferno , Storm Piercing Hydro , Quake Bhaa Striking Quake , Ethereal None Storm , Void Infernal Dragon Striking Void , Inferno Piercing Ethereal , Hydro Fhanhorn Slashing Hydro , Ethereal Piercing Inferno , Void Slime Queen Striking Hydro , Ethereal Slashing Inferno , Void Void Serpent Piercing Void , Storm Slashing Ethereal , Quake Primordial Slime None Hydro Slashing Inferno Mini-bosses Azarathian Serpent None Quake , Toxin , Inferno Slashing Storm Event bosses Zombie Cletus Striking Hydro , Void Piercing Inferno , Ethereal Lunar Rabbit Striking Hydro , Frost Slashing Inferno
+
+Notes [ ]
+
+The Slime King , the Slime Queen , and the Lunar Rabbit share the same Striking resistances and Slashing weaknesses. Kor and Bhaa do not have any physical weaknesses. Fhanhorn and the Slime Queen share the same Hydro, Ethereal resistances and Inferno, Void weaknesses. The Wizard Boss , the Infernal Dragon , and Zombie Cletus share the same Striking resistances and Piercing weaknesses. The Azarathian Serpent and the Primordial Slime do not have any physical resistances.
+
+Bugs and glitches [ ]
+
+The timers and summoning icons for bosses may not appear for players. This can be fixed by rejoining the game. Some bosses can be knocked out-of-bounds, resulting in no rewards for participating players.

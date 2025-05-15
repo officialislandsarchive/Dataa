@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Yak_Butter
+
+----------------------------------------
+
+Yak Butter Recipe 1 Yak Milk Bucket Crafted with Churner Heals 15 HP Yak butter is a food item obtained from transforming a yak milk bucket .
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Yak milk buckets can be transformed into yak butter in a churner . It takes a total of 3 minutes and 30 seconds to fully transform yak milk buckets into yak butter.
+
+Input Item transformer Output 1 Yak Milk Bucket ➡ Churner ➡ 1 Yak Butter
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Bhutan Butter Tea 2 Yak Butter 1 Yak Milk Bucket 1 Water Bucket Cooking Table Food Processor Level 49 Cooking Sweet Rice Dessert 1 Pineapple Slice 1 Rice 1 Yak Butter Cooking Table Food Processor Level 49 Cooking Gondo Datshi 1 Tomato 1 Yak Butter 2 Chili Pepper 1 Egg Cooking Table Food Processor Level 49 Cooking
+
+Eating [ ]
+
+Eating yak butter restores 15 HP.
+
+History [ ]
+
+March 25, 2022 Added yak butter.

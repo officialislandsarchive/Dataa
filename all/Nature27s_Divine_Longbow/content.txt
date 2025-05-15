@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Nature%27s_Divine_Longbow
+
+----------------------------------------
+
+Nature's Divine Longbow Type Long Bow Attack damage 26 HP 44 HP (Fully charged) 39 - 45 HP ( Stone Short Arrow ) 66 - 75 HP (Stone Long Arrow; Fully charged) 41 - 46 HP ( Iron Long Arrow ) 70 - 78 HP (Iron Long Arrow; Fully charged) 46 - 53 HP ( Steel Long Arrow ) 78 - 90 HP (Steel Long Arrow; Fully charged) Buy cost 550 Mushroom Obby Ticket Description Buyable Bow
+
+A nature's divine longbow is an event item that could have been purchased for 550 Mushroom Obby Tickets .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+The nature's divine longbow could have been purchased for 550 Mushroom Obby Tickets from Jim's shop.
+
+Behavior [ ]
+
+Attacking [ ]
+
+To shoot the bow, at least one large arrow must be in the player's inventory . The bow can be charged by holding left click on PC or holding down on mobile and the damage dealt by the arrow will increase in proportion to the time the bow is charged.
+
+At level 1 Archery , the nature's divine longbow deals a base damage of 26 HP to mobs , and its damage can be increased by leveling up the Archery skill.
+
+Charging [ ]
+
+Nature's divine longbows can be charged in one second. Charging a shot will increase the amount of damage dealt by 1.7x at full charge. This additional damage can be increased by leveling up the Archery skill.
+
+History [ ]
+
+August 18, 2023 Added nature's divine longbows.

@@ -1,0 +1,17 @@
+Source: https://robloxislands.fandom.com/wiki/Jim
+
+----------------------------------------
+
+Jim is a limited-time villager who appears during the 2023 Mushroom Obby Event . He sells the player mushroom-related items in exchange for mushroom obby tickets . His title is "Obby Host".
+
+Dialogue [ ]
+
+"Hey there! Welcome to the Obby Event! Ready for the race?" >Redeem Tickets Opens shop menu.
+
+Shop [ ]
+
+Image Name Sell price Glowing Mushroom Blocks (Pink/Blue/Cyan/Green) 10 Mushroom Obby Tickets Mushroom Tables (Red/Pink/Cyan/Yellow) 20 Mushroom Obby Tickets Trunk Chairs (Red/Pink/Cyan/Yellow) 15 Mushroom Obby Tickets Outhouses (Red/Pink/Cyan/Yellow) 25 Mushroom Obby Tickets Nature Fridges (White/Tan/Light Brown/Purple/Dark Brown) 35 Mushroom Obby Tickets Nature's Divine Longbow 550 Mushroom Obby Tickets Poison Long Arrow 1 Mushroom Obby Ticket The Divine Dao 800 Mushroom Obby Tickets Mushroom Event Trophy 2023 1200 Mushroom Obby Tickets
+
+History [ ]
+
+August 18, 2023 Added Jim.

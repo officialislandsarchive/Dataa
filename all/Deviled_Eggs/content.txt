@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Deviled_Eggs
+
+----------------------------------------
+
+Deviled Eggs Recipe 4 Egg 4 Mayonnaise Jar Crafted with Cooking Table Food Processor Effect +25% mining drop yield Sell price 1,984 - 2,976 coins Hot sell price 2,976 - 4,460 coins Required skill Level 20 Cooking Description Eat for +25% mining drop yield. Deviled eggs are food items that grants +25% mining drop yield when consumed.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Deviled Eggs 4 Egg 4 Mayonnaise Jar Cooking Table Food Processor Level 20 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating deviled eggs grants +25% mining drop yield for 15 minutes.
+
+Selling [ ]
+
+Deviled eggs can be sold to Petur for 1,984 - 2,976 coins each, or 2,976 - 4,460 coins if deviled eggs are a hot offer.
+
+History [ ]
+
+February 26, 2021 Added deviled eggs. November 13, 2021 Changed the recipe from 1 egg and 1 mayonnaise jar to 4 eggs and 4 mayonnaise jars. Changed the base selling price from 620 coins to 2,480 coins. Changed the description from "Doesn't come with mustard..." to "Eat for +25% mining drop yield." November 29, 2021 Deviled eggs are now edible. January 8, 2022 Changed the base selling price from 2,480 coins to 2,976 - 4,460 coins. January 15, 2022 Changed the base selling price from 2,976 - 4,460 coins to 1,984 - 2,976 coins.
+
+Trivia [ ]
+
+Although the item name is in plural form, deviled eggs are only shown as half of a single egg. Although herbs aren't in the recipe and don't exist in the game, some herbs are sprinkled on the egg. Before the November 13, 2021 update, selling this would give less coins than selling the ingredients individually.

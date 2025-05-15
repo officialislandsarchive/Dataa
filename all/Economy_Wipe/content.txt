@@ -1,0 +1,13 @@
+Source: https://robloxislands.fandom.com/wiki/Economy_Wipe
+
+----------------------------------------
+
+Economy Wipe Date January 22, 2021 Description All player inventories and islands have been purged of duped items and coins. We are running a brand new anti-dupe system to protect the economy like never before! Enjoy the race to become the richest Islands player! The Economy Wipe was an event that occurred January 22, 2021 . When the player logged in after the update, the system will automatically wipe items with an amount above the allowed capacity.
+
+Reason [ ]
+
+The reason for the economy wipe was a decision made by the developers of Islands about deleting items and money due to most of it being duped and ruining the economy. In the update announcement in their official Discord server, they wrote:
+
+Reward [ ]
+
+Players who had accumulated over 100 million coins prior to the update received a yellow portal color rather than purple upon logging in.

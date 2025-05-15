@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Cecil
+
+----------------------------------------
+
+Cecil Location Hub Purpose Offered a quest for the Patrick Star Event .
+
+Cecil is villager who could be found in the Hub under a lamp post next to Petur , during the Patrick Star Event .
+
+Quest [ ]
+
+Cecil's quest required players to climb up the mountain behind the Castle in the Hub, and interact with his pancakes.
+
+Dialogue [ ]
+
+Before the player has found his pancakes:
+
+"Up for a HIKE? I dropped a BIG stack of pancakes on the mountain!" >On it! End.
+
+After the player has found his pancakes:
+
+"You got my pancakes?! Well done!" >No problem! End.
+
+After the player completes his quest:
+
+"Amazing hiking!" >Cya! End.
+
+History [ ]
+
+July 2, 2021 Added Cecil. July 17, 2021 Removed Cecil.

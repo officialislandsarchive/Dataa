@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Tool_Stand
+
+----------------------------------------
+
+Tool Stand Type of block Solid block; Interactable Recipe 10 Iron Ingot 10 Maple Wood Crafted with Furniture Workbench Best tool Luminous Transparent Description A stand to hold your tools A tool stand is a block that displays the tool that is inside of it.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Tool Stand 10 Iron Ingot 10 Maple Wood Furniture Workbench
+
+Breaking [ ]
+
+Tool Stand Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Displaying tools [ ]
+
+A tool stand can hold up to one item at a time. Its main purpose is to hold weapons and tools such as nets , pickaxes , and axes . The following items can be placed in the tool stands:
+
+Weapons Iron War Axe Gilded Steel Hammer Diamond War Hammer Obsidian Greatsword Kong's Axe The Dragonslayer Pumpkin Hammer Antler Hammer Frost Hammer Infernal Hammer Trout's Fury Wooden Sword Stone Sword Iron Sword Aquamarine Sword Rageblade Cactus Spike Cutlass Diamond Great Sword The Captain's Rapier Frost Sword Ruby Sword Maple Shield Antler Shield Wooden Shortbow Iron Shortbow Golden Shortbow Ancient Longbow Azarathian Longbow Spellbook Tidal Spellbook Spirit Spellbook Staff of Godzilla Lightning Scepter Ruby Staff Slime Queen's Scepter Candy Cane Scepter Other tools Wooden Axe Stone Axe Iron Axe Gilded Steel Axe Diamond Axe Opal Axe Wooden Pickaxe Stone Pickaxe Iron Pickaxe Gilded Steel Pickaxe Diamond Pickaxe Opal Pickaxe Void Mattock Shovel Christmas Shovel Net Golden Net Plow Cletus' Lucky Plow Stone Sickle Iron Sickle Gilded Steel Sickle Diamond Sickle Cletus' Lucky Sickle
+
+History [ ]
+
+September 18, 2020 Added weapon stands. February 19, 2021 Weapon stands can now place cutlasses and cactus spikes . April 6, 2021 Renamed weapon stands into tool stands. December 29, 2021 Disabled manually placing items into tool stands. ? Reenabled manually placing items into tool stands. January 18, 2022 Fixed bug causing players to lag or crash when frost hammers and frost swords are placed into tool stands. April 22, 2022 Spellbooks , tidal spellbooks , and gilded steel axes can now be placed in tool stands. July 9, 2022 Ruby staffs and static scepters can now be placed in tool stands. September 24, 2022 Bows can now be placed in tool stands. October 28, 2022 Golden nets can now be placed in tool stands. December 16, 2022 Candy cane scepters can now be placed in tool stands.
+
+Trivia [ ]
+
+Prior the October 1, 2022 update, Aquamarine Swords lay flat instead of standing up in a tool stand.

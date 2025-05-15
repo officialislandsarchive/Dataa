@@ -1,0 +1,49 @@
+Source: https://robloxislands.fandom.com/wiki/Christmas_Present_2020
+
+----------------------------------------
+
+Christmas Present 2020 Type of block Solid block Spawns Player's Island Best tool Luminous Transparent Description I wonder what's inside!
+
+A Christmas present 2020 is a roulette block that used to spawn on the player's island during the Christmas 2020 event.
+
+Obtaining [ ]
+
+Spawning [ ]
+
+Christmas present 2020's used to spawn at 9:00 AM (in-game time; approximately every 20 minutes in real time) every day during the Christmas 2020 event. Upon spawning, a short Christmas jingle would play to alert the player of its presence. They spawn on top of any solid block that is not occupied, although they tend to spawn on natural blocks such as grass or stone .
+
+Presents would never replace a block in order to spawn and would always spawn as long as the player's island was still loaded in during the spawn time.
+
+To obtain Christmas presents, players must mine the naturally-spawned block on their island. Once mined, they cannot be manually placed down. Christmas presents will automatically be collected when the block under it is broken, similar to trees .
+
+Breaking [ ]
+
+Christmas Present 2020 Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Opening [ ]
+
+When opened, Christmas present 2020's give miscellaneous items. To do so, players must hold the present and hold down the left mouse button (PC) or the "open" button (mobile). Christmas present 2020's can only be opened once before being consumed.
+
+Loot [ ]
+
+Upon opening, a Christmas present 2020 will reward the player with one the following items :
+
+The listed reward chances are community made and may not be accurate .
+
+Item Estimated % chance Wreath 100% Coal 100% Snow 100% Red Berry 100% Iron Ingot 100% Ice 100%
+
+Quests [ ]
+
+Christmas present 2020's were needed to perform some quests offered by Santa .
+
+Quest Reward Pick up 3 presents on your island . 8 Snowflakes Gift a present to 5 different players. 12 Snowflakes
+
+History [ ]
+
+December 18, 2020 Added Christmas presents. January 4, 2021 Christmas presents no longer spawn on player islands . December 18, 2021 Renamed Christmas presents to Christmas present 2020.
+
+Trivia [ ]
+
+There was a bug where mobile players couldn't open presents. However, this was fixed later by adding an "open" button above the jump button. Any leftover presents spawned during the Christmas 2020 event would not be removed when the event ended. Since presents spawn on any unoccupied block, players who were active during the event may unknowingly have presents still stuck in hollow spaces on their island . This was the first roulette block .

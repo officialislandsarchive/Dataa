@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Stone_Long_Arrow
+
+----------------------------------------
+
+Stone Long Arrow Type Large arrow Physical class Piercing Attack damage 13 - 18 HP 22 - 31 HP (Fully charged) Recipe 4 Oak Wood 2 Stone Crafted with Anvil Description A basic arrow that can be shot from longbows
+
+Stone long arrows are large arrows that can be shot from longbows .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station 2 Stone Long Arrow 4 Oak Wood 2 Stone Anvil
+
+Usage [ ]
+
+Ammunition [ ]
+
+Stone long arrows are used as ammunition in longbows , as at least one is required to be in the player's inventory in order for the bow to fire. Shooting a stone long arrow deals an extra 13 - 18 HP to mobs .
+
+Stone long arrows are a one-time use item , meaning they cannot be retrieved after they have been shot.
+
+History [ ]
+
+September 17, 2022 Added stone long arrows. September 24, 2022 Changed the recipe from 3 oak wood and 6 stone to 6 oak wood and 2 stone. ? Changed the recipe from 6 oak wood to 4 oak wood.
+
+Trivia [ ]
+
+Unlike stone short arrows , the limit of stone long arrows is 2,000 instead of 20,000.
+
+See also [ ]
+
+Iron Long Arrow Steel Long Arrow

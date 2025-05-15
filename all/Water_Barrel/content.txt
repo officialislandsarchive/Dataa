@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Water_Barrel
+
+----------------------------------------
+
+Water Barrel Type of block Solid Block Recipe 2 Steel Rod 20 Iron Ingot 50 Maple Wood Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Water barrels (formerly Water Storage Barrels ) are used to store water, which can be filled with water jugs . They can also fill water barrels.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting Stations Water Barrel 2 Steel Rod 20 Iron Ingot 50 Maple Wood Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Water Barrel Breaking Data Hardness 10 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 15 Wooden 30 30 Stone 16 16 Iron 10 10 Gilded Steel 7 7 Diamond 5 5 Opal 4 4 Void Mattock 2
+
+Usage [ ]
+
+Storage [ ]
+
+Water barrels hold water from water jugs , they can be used to fill them as well. The main use is to store water from water catchers so they can keep collecting water.
+
+Trivia [ ]
+
+Basic sprinklers cannot take water from water barrels.

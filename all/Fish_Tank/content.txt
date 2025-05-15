@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Fish_Tank
+
+----------------------------------------
+
+Fish Tank Small Medium Type of block Solid block; Interactable Recipe Small Fish Tank: 5 Glass Block 15 Oak Wood 2 Crystallized Aquamarine Medium Fish Tank: 2 Small Fish Tank Crafted with Furniture Workbench Best tool Luminous Transparent Description Small Fish Tank: A small fish tank. Medium Fish Tank: A medium fish tank. Fish tanks are blocks that can hold fish and fish tank decorations . There are two sizes, small and medium, and both can hold up to three items despite one being larger in size.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Small Fish Tank 5 Glass Block 15 Oak Wood 2 Crystallized Aquamarine Furniture Workbench Medium Fish Tank 2 Small Fish Tank Furniture Workbench
+
+Breaking [ ]
+
+Small/Medium Fish Tank Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Medium Fish Tank 2 Small Fish Tank Furniture Workbench
+
+Displaying [ ]
+
+Each fish tank can hold up to three fish or fish tank decorations, but they cannot hold eels . To insert an item , the player must interact with the fish tank and select the item in their inventory .
+
+Fish Salmon Carp Trout Catfish Red Snapper Blue Tang Clownfish Talapia Grouper Swordfish Decoration Fish Tank Castle Fish Tank Anchor Fish Tank Shipwreck Fish Tank Treasure Chest
+
+History [ ]
+
+September 18, 2020 Added fish tanks. December 29, 2021 Disabled manually placing items into fish tanks. April 16, 2022 Infernal fish can now be placed into fish tanks. Fixed a bug preventing infernal fish, spirit fish , and puffer fish from appearing in fish tanks. April 22, 2022 Fish tanks can now be placed atop one another.
+
+Trivia [ ]
+
+Any item that gets placed in fish tanks will shrink.

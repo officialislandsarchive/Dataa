@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Granite
+
+----------------------------------------
+
+Granite Granite Rock Type of block Solid block Spawns Hub Best tool Luminous Transparent Granite is a block that can be mined from a granite rock .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Granite rocks naturally generate in the mining zone in the Hub . Mining a granite rock yields 2 - 4 granite after each stage and 3 Mining XP (6 with the 4x daily bonus), resulting in a total of 4 - 8 granite and 9 Mining XP (18 with the 4x daily bonus) per rock.
+
+Totem [ ]
+
+Granite totems can be purchased from Arius in the Hub for 8,000 coins . A granite totem will spawn granite rocks around it when placed, or if placed next to a conveyor belt , the totem will drop granite directly onto the conveyor.
+
+Breaking [ ]
+
+Granite Breaking Data Hardness 8 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 12 Stone 13 8 Iron 8 5 Gilded Steel 6 4 Diamond 4 3 Opal 4 2 Void Mattock 2 Granite Rock Breaking Data Hardness 14 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 21 Wooden 42 21 Stone 23 14 Iron 14 9 Gilded Steel 10 7 Diamond 7 5 Opal 6 3 Void Mattock 3
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Granite Hammer 20 Granite 10 Iron Ingot Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Granite Stair 1 Granite Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Granite Slab 1 Granite Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Granite can be transformed into granite bricks in a stonecutter or an industrial stonecutter or smooth granite in a polishing station or a industrial polishing station .
+
+Input Item transformer Output 1 Granite ➡ Stonecutter ➡ 1 Granite Brick ➡ Industrial Stonecutter ➡ 1 Granite ➡ Polishing Station ➡ 1 Smooth Granite ➡ Industrial Polishing Station ➡
+
+History [ ]
+
+March 6, 2022 Added granite. April 16, 2022 Fixed the texture of granite rocks. October 15, 2022 Granite can now be used to craft granite hammers .
+
+Trivia [ ]
+
+Before April 16, 2022 , the texture of granite rocks match the grey color of andesite instead being red.

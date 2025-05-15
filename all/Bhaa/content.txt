@@ -1,0 +1,81 @@
+Source: https://robloxislands.fandom.com/wiki/Bhaa
+
+----------------------------------------
+
+Bhaa Health 10,000 HP Behavior Hostile Attack strength Normal Mode: 45 HP ( Staff Strike ) 65 HP ( Sandstone Hurl ) 100 HP ( Sandstone Spike ) Hardcore Mode: 68 HP ( Staff Strike ) 98 HP ( Sandstone Hurl ) 150 HP ( Sandstone Spike ) Effect Stun Drops Gold Ingot Ruby Desert Portal Shard Mysterious Fragment #4 Bhaa Pet Spawn Egg Jukebox Disk Location Desert Island Bhaa is a boss that was added in the April 24, 2021 update. He has 10,000 health and can be summoned on Desert Island . He has a summon cooldown at 120 minutes; 2 hours and can be summoned with at least level 36 Combat .
+
+As of September 18, 2021 , his summon cooldown can be bypassed with at least 500 Bhaa tokens .
+
+Description [ ]
+
+Bhaa is a moderately-fast boss who specializes in ranged attacks. He has 10,000 health and can be summoned on an island across from the area where skorps spawn. He can be summoned once every 120 minutes; 2 hours with at least level 36 Combat .
+
+As of September 18, 2021 , the summon cooldown of Bhaa can be bypassed by using at least 500 Bhaa tokens .
+
+When a player summons Bhaa, a blue message appears in chat, reading:
+
+"[SERVER] Bhaa summoning in 5 seconds!"
+
+After 5 seconds, another blue message appears in chat, reading:
+
+"[SERVER] Bhaa has summoned!"
+
+If a player attempts to summon Bhaa while has less than 500 Bhaa tokens and on cooldown, the notification appears the screen, reading:
+
+"Failed to Summon - You need 500x Bhaa Tokens to summon this boss!"
+
+Like other bosses , if there are no players in the battle area, Bhaa will despawn and the player will have to wait another 120 minutes or use at least 500 Bhaa tokens before being able to summon him again.
+
+Attacks [ ]
+
+Staff Strike [ ]
+
+Bhaa winds up for half a second before swiping at the player with his staff in front of him, dealing 45 (68 in Hardcore) damage and a large amount of a knockback.
+
+Sandstone Hurl [ ]
+
+Bhaa brings the staff over his head and waits 2 seconds before thrusting his staff onto the ground in front of him, causing the ground to hurl boulders at the player. If hit, the boulders deal 65 (98 in Hardcore) damage each and inflict the Stun effect, making the player slower and unable to sprint.
+
+Skorp Summon [ ]
+
+Bhaa will summon up to four skorps of any type in proportion to the number of players fighting him. These skorps do not despawn after Bhaa is defeated or has despawned.
+
+Sandstone Spike [ ]
+
+Bhaa will hit the ground with his staff, causing the ground to shake underneath the player's location during that time. A sandstone spike will shoot out shortly afterward and if it hits the player, it will deal 100 (150 in Hardcore) damage and inflict the Stun effect.
+
+Effects [ ]
+
+Stun [ ]
+
+The player's movement speed is decreased by 50% and is unable to sprint.
+
+Drops [ ]
+
+Bhaa rewards 1,251 Combat XP (4,998 with the 4x daily bonus or 126 when maxed out) and 1,251 Light Melee , Heavy Melee , Magic , or Archery XP (4,998 with the 4x daily bonus or 126 when maxed out) depending on the weapon the player used to defeat him.
+
+Prior to October 22, 2022 , only a certain number of players will receive drops if too many players are simultaneously fighting him. However, all players will still receive XP.
+
+Image Name Drop chance Gold Ingot 1500% Ruby 10% Desert Portal Shard 0.25% Mysterious Fragment #4 5% Bhaa Pet Spawn Egg 0.33% Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Purple Jukebox Disk 0.01% Orange Jukebox Disk 0.01%
+
+Damage reduction [ ]
+
+Bhaa reduces the amount of damage dealt to him by 10% to 55% depending on the number of players (compounds) in the arena.
+
+Number of players Damage reduction 1 0% 2 10% 3 25% 4 35% 5 45% 6+ 55%
+
+Resistances and weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical Striking Quake , Ethereal None Storm , Void
+
+Bugs and glitches [ ]
+
+Sometimes when Bhaa is on extremely low health, he will stop attacking and stand still, allowing the player to easily kill him. If there are too many players fighting Bhaa, he may not have enough time to perform any attacks. Similar to the wizard lizard , he may occasionally do a T-pose when attacked too often. Bhaa may occasionally ragdoll and fling a skorp if standing on top of him. Bhaa may trip over, resulting in him flipping and being unable to get up.
+
+History [ ]
+
+April 24, 2021 Added Bhaa. July 2, 2021 Bhaa now has a damage reduction up to 55%. September 5, 2021 Bhaa is able to drop mysterious fragment #4s . September 18, 2021 The summon cooldown of Bhaa now can be bypassed with 500 Bhaa tokens . Bhaa is able to drop Bhaa pet spawn eggs . ? Removed Bhaa's death animation. November 16, 2021 Fixed an issue where Bhaa could throw players into space. April 1, 2022 Decreased the drop chance of rubies from 20% to 10%. September 17, 2022 Bhaa now has resistances and weaknesses. September 24, 2022 Removed Bhaa's physical weaknesses.
+
+Trivia [ ]
+
+Although Bhaa holds a ruby staff , he is unable to heal himself or his skorps with it. Bhaa may be based on the Egyptian god Khnum . (Dubious) Bhaa is one of the two bosses to have his own soundtrack that plays during his battle, the other being the Infernal Dragon . Bhaa, Kor , and Fhanhorn are the only mobs that have a spawn animation. He was the second mob added in Islands that can spawn other mobs, the first being the Grand High Witch . There used to be a glitch where while in Bhaa's arena, the sun would start switching places frantically. Bhaa rewards the same amount of XP as the Wizard Boss , Infernal Dragon, Percival the Pumpkin King , and Fhanhorn. Bhaa and Kor are the only bosses that do not have any physical weaknesses. Sandstone spikes take no damage when underneath structures.

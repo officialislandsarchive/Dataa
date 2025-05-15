@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Pirate_Table
+
+----------------------------------------
+
+Pirate Table Type of block Solid block Best tool Luminous Transparent Description A pirate's table! The pirate table is a furniture block that has a chance to be obtained from treasure chests .
+
+Obtaining [ ]
+
+Treasure chest [ ]
+
+Opening a treasure chest has a 2% chance of rewarding a pirate table, having a rarity of 'legendary'.
+
+Breaking [ ]
+
+Pirate Table Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+History [ ]
+
+July 17, 2021 Added pirate tables.

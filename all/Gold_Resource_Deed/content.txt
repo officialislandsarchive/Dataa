@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Gold_Resource_Deed
+
+----------------------------------------
+
+Gold Resource Deed Buy cost 400,000 coins Description Creates a temporary [sic] gold resource desposit on your island. A gold resource deed is an item that can be used to spawn a permanent gold resource island . It cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+A gold resource deed can be bought for 400,000 coins from Jade . The player can buy one every 4 hours.
+
+Usage [ ]
+
+Creating gold resources [ ]
+
+Gold resource deeds create a gold resource island with a permanent gold deposit . It is the only way to spawn a gold deposit. The resource island can be spawned by holding down with the deed equipped in the hotbar . The deed will only create the resource island if the player has not reached the max of 15 resource islands already.
+
+History [ ]
+
+June 3, 2022 Added gold resource deeds.

@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Horse_Spawn_Egg
+
+----------------------------------------
+
+Horse Spawn Egg Buy cost Tier 1: 20,000 coins Required skill Level 51 Animal Care Description Spawn a horse with tier 1/2/3 trait maximums. Eats carrots. A horse spawn egg is a spawn egg used to spawn horses on player islands . It exists in 3 tiers.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Tier 1 horse spawn eggs can be purchased from Taliyah for 20,000 coins after reaching level 51 Animal Care .
+
+Breeding [ ]
+
+Feeding two horses potions of fertility during the day will create a spawn egg whose tier is based on the two "parent" animals' stats.
+
+Usage [ ]
+
+Spawning [ ]
+
+To spawn a horse, the player must hatch the egg by selecting and holding anywhere on their screen if their large animal limit has not been reached.
+
+History [ ]
+
+June 3, 2022 Added horse spawn eggs.

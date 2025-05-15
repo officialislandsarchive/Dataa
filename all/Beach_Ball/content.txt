@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Beach_Ball
+
+----------------------------------------
+
+Beach Ball Type of block Solid block Recipe 1 Blue Flower 1 Red Flower 1 Yellow Flower Crafted with Furniture Workbench Best tool Luminous Transparent The beach ball is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Beach Ball 1 Blue Flower 1 Red Flower 1 Yellow Flower Furniture Workbench
+
+Breaking [ ]
+
+Beach Ball Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+May 31, 2020 Added beach balls. June 3, 2022 A beach ball blueprint is no longer required to unlock the recipe of beach balls.

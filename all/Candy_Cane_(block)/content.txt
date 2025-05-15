@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Candy_Cane_(block)
+
+----------------------------------------
+
+Candy Cane Type of block Solid block Recipe 2 Candy Cane Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent
+
+The candy cane block is a block crafted with candy canes .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Candy Cane 2 Candy Cane Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Candy Cane (block) Breaking Data Hardness 2 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 6 Stone 4 4 Iron 2 2 Gilded Steel 2 2 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+History [ ]
+
+December 18, 2021 Added candy canes.

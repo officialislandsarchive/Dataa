@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Bee_Hive
+
+----------------------------------------
+
+Bee Hive Type of block Solid block; Interactable Spawns Player's Island Best tool Luminous Transparent Bee hives are naturally-spawning blocks used to generate honeycombs and house bees . Bee hives spawn hanging from fully grown trees . Once generated they cannot be removed from the tree besides chopping the tree down.
+
+Spawning [ ]
+
+There is a chance of a bee hive spawning if a tree is near a flower. Bee hives can spawn on any tree except kiwi trees , palm trees , cherry blossom trees , and tree2 .  The maximum number of hives a player can have on their island at any one time is 4.
+
+Function [ ]
+
+Each bee hive can house up to three bees. Bees will travel to nearby flowers to pollinate and then return to the hive, filling it with honeycomb. After 7 - 10 collections, the player can manually harvest a honeycomb from the hive and earn 7 Animal Care XP (30 with the 4x daily bonus). A single bee hive can store up to four honeycombs at once.
+
+History [ ]
+
+September 6, 2020 Added bee hives. January 22, 2021 Harvesting bee hives now reward 7 Animal Husbandry XP. October 8, 2022 Increased bee hive limit from 2 to 4.
+
+Trivia [ ]
+
+If all bees from a hive have been removed using a net , this will cause the bee hive to go to sleep. If bees can't find their hive or if their current hive is full, they will aimlessly fly around or stay still. Getting a new hive won't stop this behavior. If the tree holding the bee hive is chopped down, the hive may relocate to the closest fully-grown tree.
+
+Gallery [ ]

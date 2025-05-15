@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Spawn_Block
+
+----------------------------------------
+
+Spawn Block Type of block Solid block Buy cost 10,000 coins Best tool Luminous Transparent
+
+The Spawn Block is a block that is used to relocate the island spawn point to its position.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+The Spawn Block can be purchased from Jack for 10,000 coins .
+
+Breaking [ ]
+
+Spawn Block Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+History [ ]
+
+April 4, 2021 Added spawn blocks.
+
+Trivia [ ]
+
+Without a Spawn Block, the default spawn point is the unbreakable Bedrock . NPCs and farm animals will spawn at the Spawn Block if respawned (by falling into the void). There is a bug that if the player breaks the spawn block, they will still respawn the same position the spawn block was. Players can place more than one Spawn Block on their island, but only one of them will be active.

@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Large_Diamond_Chest
+
+----------------------------------------
+
+Large Diamond Chest Type of block Solid block; Interactable Recipe 30 Diamond 5 Enchanted Diamond 20 Steel Plate 15 Steel Bolt Crafted with Workbench Tier 4 Best tool Luminous Transparent Description Large diamond chest to hold even more items! A large diamond chest is a storage block that can be used to hold up to 10,000 items .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Large Diamond Chest 30 Diamond 5 Enchanted Diamond 20 Steel Plate 15 Steel Bolt Workbench Tier 4
+
+Breaking [ ]
+
+Large Diamond Chest Breaking Data Hardness 5.5 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 17 9 Stone 9 6 Iron 6 4 Gilded Steel 4 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Storage [ ]
+
+A large diamond chest has 10 slots that can fit up to 1,000 items per slot, adding up to a total of 10,000 items per chest.
+
+History [ ]
+
+November 4, 2022 Added large diamond chests.

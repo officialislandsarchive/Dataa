@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Gold_Ingot
+
+----------------------------------------
+
+Gold Ingot Dropped by Bhaa Bandit Magma Blob Gold Rock Mimic A gold ingot is a mineral obtained by smelting gold ore or defeating certain mobs .
+
+Obtaining [ ]
+
+Smelting [ ]
+
+Gold ore can be smelted into gold in a campfire , small furnace , desert furnace , or industrial smelter .
+
+Input Output 1 Gold Ore 1 Gold Ingot
+
+Mob drop [ ]
+
+Upon defeat, Bhaa is guaranteed to drop 15 gold, bandits have a 30% chance of dropping 1 gold, magma blobs have a 60% chance of dropping 1 gold, and gold rock mimics are guaranteed to drop 5 - 8 gold.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Golden Plate 10 Gold Ingot Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Vending Machine 1 Crystallized Iron 5 Green Sticky Gear 10 Gold Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 55 Economy Gold Block 10 Gold Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Steel Mill 100 Iron Ingot 50 Gold Ingot Workbench Tier 3 Workbench Tier 4 None Gilded Steel Rod 1 Steel Rod 20 Gold Ingot Anvil None Gilded Steel Axe 5 Gilded Steel Rod 40 Iron Ingot 100 Gold Ingot Anvil Level 26 Woodcutting Gilded Steel Pickaxe 5 Gilded Steel Rod 40 Iron Ingot 100 Gold Ingot Anvil Level 24 Mining Gilded Steel Sickle 3 Gilded Steel Rod 20 Iron Ingot 35 Gold Ingot Anvil Level 36 Farming Gilded Steel Hammer 1 Buffalkor Crystal 5 Gilded Steel Rod 40 Gold Ingot Anvil Level 32 Heavy Melee Golden Shortbow 40 Gold Ingot 4 Ruby 2 Ancient Slime String Anvil Level 35 Archery Slime Queen's Scepter 1 Spellbook 100 Gold Ingot 50 Pink Slime Ball 10 Pink Slime Crystal Anvil None Golden Toilet 30 Gold Ingot Furniture Workbench None Bell 30 Maple Plank 3 Pink Hibiscus 10 Gold Ingot Furniture Workbench None Gong 40 Maple Plank 5 Pink Hibiscus 20 Gold Ingot Furniture Workbench None Ancient Street Lamp 50 Pine Wood 2 Ancient Slime String 30 Gold Ingot Furniture Workbench None Ancient Table 100 Pine Wood 5 Ancient Slime String 25 Gold Ingot Furniture Workbench None Moon Light 15 Coal 15 Iron Ingot 5 Gold Ingot Furniture Workbench None Star Light 15 Coal 15 Iron Ingot 5 Gold Ingot Furniture Workbench None King's Shield 20 Iron Ingot 10 Gold Ingot 10 Iron Sword Furniture Workbench None Grandfather Clock 15 Pine Wood 50 Gold Ingot Furniture Workbench None Fish Tank Treasure Chest 10 Oak Wood 10 Gold Ingot Furniture Workbench Level 40 Fishing Gold Disco Ball 1 Gold Ingot 10 Electrite Electrical Workbench None Gold ATM 1 Pink Sticky Gear 3 Blue Sticky Gear 25 Gold Ingot 25 Electrite Workbench Tier 4 None Gamepass required Obby Leaderboard 40 Maple Wood 5 Gold Ingot Obby Kit None
+
+Transforming [ ]
+
+Gold ingots and copper ingots can be transformed together to create red bronze ingots in a red bronze refinery .
+
+Input Item transformer Output 30 Copper Ingot 2 Gold Ingot Red Bronze Refinery 1 Red Bronze Ingot
+
+Trivia [ ]
+
+Gold ingots and rubies are the only minerals that can be dropped by a boss .

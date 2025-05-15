@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Honey_Press
+
+----------------------------------------
+
+Honey Press Type of block Solid block; Interactable Recipe 30 Birch Wood 50 Iron Ingot Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Required skill Level 6 Animal Care Best tool Luminous Transparent Description Convert your honeycombs into delicious honey. A honey press is an item transformer that is used to make jars of honey .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Honey Press 30 Birch Wood 50 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 6 Animal Care
+
+Breaking [ ]
+
+Honey Press Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Transforming [ ]
+
+Honeycomb can be transformed into jars of honey in a honey press. Up to ten honeycomb can be tranformed at a time, and it takes 3 minutes and 30 seconds to make one jar of honey.
+
+Input Output 1 Honeycomb ➡ 1 Jar of Honey
+
+History [ ]
+
+August 30, 2020 Added honey presses. April 1, 2022 Honey presses can now store 10 honeycombs at a time. Reduced duration on making jars of honey .
+
+Trivia [ ]
+
+This was the first animated item transformer . Similar to the test totem , the honey press does not have a texture when held and disappears if dropped. If you spam in honeycombs just as the honey is finished processing, you can instantly transform a honeycomb or 2.

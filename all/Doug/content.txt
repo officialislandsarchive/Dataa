@@ -1,0 +1,63 @@
+Source: https://robloxislands.fandom.com/wiki/Doug
+
+----------------------------------------
+
+Doug Location Hub Purpose Buys and sells oil-related items. Occupation Oil Baron Doug is a villager located in the desert part of the Hub . He specializes in buying/selling oil-related items.
+
+Shop [ ]
+
+Buying [ ]
+
+Image Name Sell price Oil Barrel 500 coins Petroleum Barrel 1,000 coins
+
+Selling [ ]
+
+Image Name Price Oil Resource Deed 500,000 coins
+
+Dialogue [ ]
+
+Current [ ]
+
+Doug will say the lines below:
+
+"Rumor has it that the Cletus Family Farm has a HUGE oil deposit under it... Shame they're just growin' carrots." That's right!
+
+Before August 16, 2021 [ ]
+
+Doug randomly says one of the lines below:
+
+"Islands oil is gonna make me- uh.. I mean, EVERYONE, rich!" >Continue "I'm still setting up the shop, come back tommorow!" >Oh.. okay End.
+
+"Just sign here and we can get down to business, user !" >Continue "I'm still setting up the shop, come back tommorow!" >Oh.. okay End.
+
+"I wonder if Davey knows anything about digging up oil deposits...." >Continue "I'm still setting up the shop, come back tommorow!" >Oh.. okay End.
+
+"That's right!" >Continue "I'm still setting up the shop, come back tommorow!" >Oh.. okay End.
+
+"The oil here on Islands is the finest I've ever seen!" >Continue "I'm still setting up the shop, come back tommorow!" >Oh.. okay End.
+
+"Rumor has it the Cletus Family Farm has a HUGE oil deposit under it... Shame they're just growin' carrots." >Continue "I'm still setting up the shop, come back tommorow!" >Oh.. okay End.
+
+After August 16, 2021 [ ]
+
+Doug randomly says one of the lines below:
+
+"Islands oil is gonna make me- uh.. I mean, EVERYONE, rich!" >View Shop Opens shop menu. >Talk about mystery "I heard some rumbling back on my island the other day... and it wasn't the oil rig!" >That's odd! End.
+
+"Just sign here and we can get down to business, user !" >View Shop Opens shop menu. >Talk about mystery "I heard some rumbling back on my island the other day... and it wasn't the oil rig!" >That's odd! End.
+
+"I wonder if Davey knows anything about digging up oil deposits...." >View Shop Opens shop menu. >Talk about mystery "I heard some rumbling back on my island the other day... and it wasn't the oil rig!" >That's odd! End.
+
+"That's right!" >View Shop Opens shop menu. >Talk about mystery "I heard some rumbling back on my island the other day... and it wasn't the oil rig!" >That's odd! End.
+
+"The oil here on Islands is the finest I've ever seen!" >View Shop Opens shop menu. >Talk about mystery "I heard some rumbling back on my island the other day... and it wasn't the oil rig!" >That's odd! End.
+
+"Rumor has it the Cletus Family Farm has a HUGE oil deposit under it... Shame they're just growin' carrots." >View Shop Opens shop menu. >Talk about mystery "I heard some rumbling back on my island the other day... and it wasn't the oil rig!" >That's odd! End.
+
+History [ ]
+
+August 15, 2021 Added Doug. August 16, 2021 Updated Doug's dialogue and added his shop for sales for oil barrels , petroleum barrels , and oil resource deed . September 5, 2021 Doug is given new dialogue about the "mystery". October 18, 2021 Doug's dialogue about the "mystery" Is removed.
+
+Trivia [ ]
+
+He is based off of the character in The Fairly Odd Parents with the same name.

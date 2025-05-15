@@ -1,0 +1,17 @@
+Source: https://robloxislands.fandom.com/wiki/Free_Camera
+
+----------------------------------------
+
+Free camera , also known as Free Cam, is a feature that allows players to use their camera freely.
+
+Obtaining [ ]
+
+A player must own a VIP gamepass or the Pro gamepass to gain access to free camera.
+
+Using [ ]
+
+To use free camera, players must press Shift and P at the same time. Players can roam around the game without moving their avatar. To disable it, press Shift and P again. To decrease the camera movement speed, hold shift. You can also use the mouse wheel to increase or decrease the field of view.
+
+Trivia [ ]
+
+Event islands will not appear while using free camera. Mobile players cannot use free camera due to Roblox not allowing the feature onto devices yet. Before the June 10, 2022 update, DV was the only person, who isn't a developer to have access to this feature.

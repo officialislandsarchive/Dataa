@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Petroleum_Barrel
+
+----------------------------------------
+
+Petroleum Barrel Recipe 6 Petroleum Fuel Crafted with Fuel Barrel Filler Sell price 1,000 coins A petroleum barrel is an item that can be obtained by pumping petroleum into a fuel barrel filler .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Petroleum barrels can be obtained by pumping petroleum through pipes into a fuel barrel filler . The petroleum barrels are outputted to the back of the industrial machine and onto a conveyor belt .
+
+Input Item transformer Output 6 Petroleum Fuel ➡ Fuel Barrel Filler ➡ 1 Petroleum Barrel
+
+Usage [ ]
+
+Selling [ ]
+
+Petroleum barrels can be sold to Doug for 1,000 coins each.
+
+Transforming [ ]
+
+Input Item transformer Output 1 Petroleum Barrel ➡ Fuel Barrel Extractor ➡ 6 Petroleum Fuel
+
+History [ ]
+
+August 15, 2021 Added petroleum barrels. August 16, 2021 Petroleum barrels can now be sold to Doug .

@@ -1,0 +1,9 @@
+Source: https://robloxislands.fandom.com/wiki/PvP
+
+----------------------------------------
+
+PvP is a setting added on November 19th, 2022 that can be switched on or off, allowing Player vs Player combat on different islands.
+
+Players with PvP on can deal damage to each other players that also have the setting turned on. To balance it out, the damage of the weapons, magic and physical, will do XX% less damage.
+
+For More context, visit PvP Alpha, or PvP Beta.

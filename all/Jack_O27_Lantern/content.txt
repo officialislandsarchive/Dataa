@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Jack_O%27_Lantern
+
+----------------------------------------
+
+Jack O' Lantern Type of block Solid block; Luminous Best tool Luminous Transparent A jack o' lantern is a block that provides light.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Jack o' lanterns could have been crafted during the Halloween 2020 event with the recipe below:
+
+Name Recipe Crafting station Before November 1, 2020 Jack O' Lantern 1 Pumpkin 1 Torch Workbench Tier 1 Workbench Tier 2 Workbench Tier 3
+
+Cauldron [ ]
+
+Opening a cauldron has a 10% chance of rewarding 5 - 10 jack o' lanterns, having a rarity of 'common'.
+
+Breaking [ ]
+
+Jack O' Lantern Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+October 16, 2020 Added jack o' lanterns. November 1, 2020 Removed the crafting recipe for jack o' lanterns. October 18, 2021 Jack o' lanterns can now be obtained from cauldrons .

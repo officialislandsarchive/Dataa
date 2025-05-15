@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Infernal_Dragon_Egg
+
+----------------------------------------
+
+Infernal Dragon Egg Unopened Opened Type of block Solid block; Interactable Dropped by Infernal Dragon Best tool Luminous Transparent Description A reward from killing the Infernal Dragon! The infernal dragon egg is a roulette block that can be obtained by defeating the Infernal Dragon .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+The Infernal Dragon is guaranteed to drop one infernal dragon egg upon defeat. However, if too many players are fighting the dragon, only a set amount of players will receive an egg.
+
+Loot [ ]
+
+Infernal dragon eggs can be opened by holding "F" on PC, holding the button on mobile, or holding X on Xbox while hovering over it. Once opened, the infernal dragon egg will scroll through the items like a roulette wheel and reward one item, similar to treasure chests and cauldrons.
+
+The listed reward chances are community made and may not be accurate .
+
+Item Rarity Estimated % chance Dragon Pet Spawn Egg Mythic 0.5% Opal Sword Hilt Mythic 3.5% Infernal Flame Rare 9% Opal Pickaxe Hilt Rare 9% Opal Axe Hilt Rare 9% 25 - 100 Infernal Fish Common 23% 300 - 1,000 Underworld Token Common 23% 10 - 50 Opal Common 23%
+
+Note: Once opened, infernal dragon eggs will NOT be returned to the player's inventory . After collecting the rewarded item, the egg will act as a storage block with a single slot able to hold 100 items.
+
+History [ ]
+
+September 11, 2021 Added infernal dragon eggs. December 10, 2021 Fixed a bug that caused opened infernal dragon eggs to constantly play the sound effect of being presented with an item from an infernal dragon egg. December 29, 2021 Disabled manually placing items into infernal dragon eggs. January 2, 2022 Re-enabled the ability to manually place items into infernal dragon eggs. January 3, 2022 Disabled the ability to manually place items into infernal dragon eggs. Re-enabled the ability to manually place items into infernal dragon eggs. January 4, 2022 Disabled the ability to manually place items into infernal dragon eggs. January 6, 2022 Re-enabled the ability to manually place items into infernal dragon eggs. April 16, 2022 Infernal dragon eggs may now reward infernal flames . October 22, 2022 Unopened infernal dragon eggs now have a present icon next to it.
+
+Trivia [ ]
+
+There is currently a bug where players may be unable to collect underworld tokens rewarded by an infernal dragon egg. This can be fixed by mining the egg or the block under the egg, which will automatically drop the rewarded item into the player's inventory once broken.

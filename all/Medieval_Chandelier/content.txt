@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Medieval_Chandelier
+
+----------------------------------------
+
+Medieval Chandelier Type of block Solid block Recipe 4 Torch 10 Pine Wood 10 Iron Ingot Crafted with Furniture Workbench Best tool Luminous Transparent The medieval chandelier is a luminous furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Medieval Chandelier 4 Torch 10 Pine Wood 10 Iron Ingot Furniture Workbench
+
+Breaking [ ]
+
+Medieval Chandelier Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+March 12, 2022 Added medieval chandeliers.
+
+Trivia [ ]
+
+The medieval chandelier used to share the exact same model as the normal chandelier before the April 22, 2022 update.

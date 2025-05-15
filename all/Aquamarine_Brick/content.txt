@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Aquamarine_Brick
+
+----------------------------------------
+
+Aquamarine Brick Type of block Solid block Recipe 1 Aquamarine Block Crafted with Stonecutter Industrial Stonecutter Best tool Luminous Transparent Aquamarine bricks are the brick variant of the aquamarine block .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Aquamarine blocks can be transformed into aquamarine bricks in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Aquamarine Block ➡ Stonecutter ➡ 1 Aquamarine Brick ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Aquamarine Brick Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Aquamarine Brick Stair 1 Aquamarine Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Aquamarine Brick Slab 1 Aquamarine Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Aquamarine bricks can be transformed into aquamarine tiles in a stonecutter or industrial stonecutter .
+
+Input Item transformer Output 1 Aquamarine Brick ➡ Stonecutter ➡ 1 Aquamarine Tiles ➡ Industrial Stonecutter ➡
+
+History [ ]
+
+July 11, 2020 Added aquamarine bricks. May 8, 2021 Changed the texture of aquamarine bricks. February 19, 2022 Aquamarine bricks can now be cut into aquamarine tiles .

@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Glass_Pane
+
+----------------------------------------
+
+Glass Pane Glass Pane Blue Red Yellow Black Orange Light Green Dark Green Cyan Purple Pink Type of block Solid block Recipe Dyed: 1 Glass Pane 1 Colored Flower Crafted with Dyed: Coloring Station Buy cost Undyed: 20 coins Best tool Luminous Transparent Glass panes are transparent blocks that can be used as an alternative to glass blocks .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Undyed glass panes can be bought from John for 20 coins each.
+
+Breaking [ ]
+
+Glass Pane Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Dyeing [ ]
+
+Glass panes can be dyed in a coloring station with one glass pane and one colored flower except white of any type.
+
+Image Name Recipe Crafting station Red Glass Pane 1 Glass Pane 1 Red Flower Coloring Station Black Glass Pane 1 Glass Pane 1 Black Flower Orange Glass Pane 1 Glass Pane 1 Orange Flower Yellow Glass Pane 1 Glass Pane 1 Yellow Flower Light Green Glass Pane 1 Glass Pane 1 Light Green Flower Dark Green Glass Pane 1 Glass Pane 1 Dark Green Flower Cyan Glass Pane 1 Glass Pane 1 Cyan Flower Blue Glass Pane 1 Glass Pane 1 Blue Flower Purple Glass Pane 1 Glass Pane 1 Purple Flower Pink Glass Pane 1 Glass Pane 1 Pink Flower
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Disco Floor Tile 1 10 Electrite 4 Glass Pane 2 Neon Red 2 Neon Pink Electrical Workbench None Disco Floor Tile 2 10 Electrite 4 Glass Pane 2 Neon Light Green 2 Neon Blue Electrical Workbench None Disco Floor Tile 3 10 Electrite 4 Glass Pane 2 Neon Yellow 2 Neon Purple Electrical Workbench None Disco Floor Tile 4 10 Electrite 4 Glass Pane 2 Neon White 2 Neon Cyan Electrical Workbench None
+
+History [ ]
+
+April 10, 2020 Added normal, blue, red, and yellow glass panes. September 18, 2021 Added black, orange, light green, dark green, cyan, purple, and pink glass panes. October 28, 2022 Glass panes can now be used to craft disco floor tiles .

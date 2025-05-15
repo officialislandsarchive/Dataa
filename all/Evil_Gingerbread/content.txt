@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Evil_Gingerbread
+
+----------------------------------------
+
+Evil Gingerbread Health 85 HP Behavior Hostile Attack strength 16 Drops Snowflake Ticket Jukebox Disk Location Hub The evil gingerbread was a hostile mob that spawned in the Hub during the Christmas 2022 event.
+
+Spawning [ ]
+
+Hub [ ]
+
+Evil gingerbreads spawned in the Hub during the Christmas 2022 event.
+
+Behavior [ ]
+
+The evil gingerbread is a small mob who attacks every 1.5 seconds, dealing 16 damage per hit. Their small hitbox limits the suitability in using melee weapons against them.
+
+Drops [ ]
+
+An evil gingerbread rewards 5 Combat XP (18 XP with the 4x daily bonus) and 5 Light Melee , Heavy Melee , Magic , or Archery XP (18 with the 4x daily bonus) depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Snowflake Ticket [ 1 ] 3 - 5 Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Resistances and weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical None Inferno Striking , Slashing , Piercing Hydro
+
+History [ ]
+
+December 16, 2022 Added evil gingerbreads. December 20, 2022 Reduced the evil gingerbread's jump height, increased its movement speed, and increased its damage dealt from 12 to 16. January 6, 2023 Removed evil gingerbreads.
+
+Trivia [ ]
+
+Evil gingerbreads share the same magical resistances and weaknesses with wizard lizards and magma blobs .

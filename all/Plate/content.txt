@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Plate
+
+----------------------------------------
+
+Plate Wood Clay Golden Type of block Solid block; Interactable Recipe Wood: 4 Pine Wood Clay: 4 Clay Golden: 10 Gold Ingot Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description Plate and display your delicious foods! Plates are decorative blocks used for the player to display any type of food . There are three variants: wood , clay , and golden .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Wood Plate 4 Pine Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Clay Plate 4 Clay Golden Plate 10 Gold Ingot
+
+Breaking [ ]
+
+Plate Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Displaying [ ]
+
+Players can display any type of food or potion on plates. Each plate can hold up to one item .
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Silver Pet Egg Stand 7 Golden Plate 2 Glass Block 1 Diamond Workbench Tier 4 Teal Pet Egg Stand 7 Golden Plate 2 Cyan Glass Block 1 Diamond Workbench Tier 4 Red Pet Egg Stand 7 Golden Plate 2 Red Glass Block 1 Diamond Workbench Tier 4 Blue Pet Egg Stand 7 Golden Plate 2 Blue Glass Block 1 Diamond Workbench Tier 4 Purple Pet Egg Stand 7 Golden Plate 2 Purple Glass Block 1 Ruby Workbench Tier 4
+
+History [ ]
+
+February 7, 2022 Added plates. November 4, 2022 Golden plates can now be used to craft pet egg stands .
+
+Trivia [ ]
+
+Golden plates have a shiny effect on them that periodically plays. There is a bug that causes lollipops , honey toast and lemon puffs to appear invisible on plates. The blueberries on blueberry cookies will not show when displayed on plates. The liquid in the regen potion disappears when displayed on plates.

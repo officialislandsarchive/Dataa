@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Polymorph
+
+----------------------------------------
+
+Polymorph Icon Affected Player Affected Witch Causes The Player or Grand High Witch to be turned into a Mouse Source Formula 86 Chocolate Bar Orange Candy Lollipop Type Splash/Consumable
+
+Polymorph is an effect that turns the affected player or witch into a mouse.
+
+Source [ ]
+
+Polymorph can be obtained by consuming a lollipop , an orange candy , or a chocolate bar .
+
+Players can also get the effect by being in the area the splash effect from the Formula 86 potion. Formula 86 can be thrown by other players or by the Grand High Witch .
+
+Causes [ ]
+
+Players [ ]
+
+The effect lasts for about 2.5 seconds and will temporarily turn the affected player into a gray mouse. While the player is morphed they cannot still move and their Hotbar is hidden.
+
+Grand High Witch [ ]
+
+The same splash effect permanently defeated the Grand High Witch when she was stunned.
+
+Trivia [ ]
+
+This effect has the same icon as Food Poisoning , Stun and 50% Attack Speed .

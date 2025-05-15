@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Lava
+
+----------------------------------------
+
+Lava Type of block Liquid Best tool Luminous Transparent Lava is a fluid block created by placing lava buckets .
+
+Obtaining [ ]
+
+Lava is created by placing a lava bucket on a player island . Lava buckets are obtained by using a bucket on a lava source block or in a lava pool in the Underworld .
+
+Usage [ ]
+
+Swimming [ ]
+
+Swimming in lava deals one damage every 0.1 second, dealing 10 HP per second.
+
+Spreading [ ]
+
+Lava spreads horizontally and downward. It can spread downward infinitely until stopped by a block, and 4 blocks horizontally from a lava source block on a flat surface.
+
+Lava generally doesn't affect nearby blocks or items, but lava source blocks will break plowed grass, causing it to return to normal grass.
+
+Lava will not spread when placed on a trellis, and will float if the trellis is broken.
+
+Sound effects [ ]
+
+Source Audio Flowing lava https://robloxislands.fandom.com/wiki/File:Audio-water.ogg Jumping into lava https://robloxislands.fandom.com/wiki/File:Audio-water2.ogg
+
+History [ ]
+
+September 18, 2021 Added lava. July 9, 2022 Fixed an invisibility glitch caused by lava.

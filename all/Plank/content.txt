@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Plank
+
+----------------------------------------
+
+Plank Oak Pine Birch Maple Hickory Spirit Cherry Blossom Type of block Solid block Recipe 1 Log Crafted with Sawmill Industrial Sawmill Best tool Luminous Transparent Planks are blocks that are commonly used for building and crafting.
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Planks can be produced by putting logs (wood) in a sawmill or industrial sawmill along with coal or petrified petroleum for fuel.
+
+Input Item transformer Output 1 Log ➡ Sawmill ➡ 4 Plank ➡ Industrial Sawmill ➡
+
+Breaking [ ]
+
+Hickory Plank Breaking Data Hardness 4 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 6 12 Stone 4 7 Iron 3 4 Gilded Steel 2 3 Diamond 2 2 Opal 1 2 Void Mattock 1 Other Plank Breaking Data Hardness 2 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 3 6 Stone 2 4 Iron 2 2 Gilded Steel 1 2 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill 2 Wood Stairs ( Oak , Pine , Birch , Maple , Hickory , Spirit , Cherry Blossom ) 1 respective Plank Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None 2 Wood Slab ( Oak , Pine , Birch , Maple , Hickory , Spirit , Cherry Blossom ) 1 respective Plank Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Fence ( Oak , Pine , Birch , Maple , Hickory , Spirit , Cherry Blossom ) 5 respective Plank Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None File:Cherry Blossom Sign Post Render 2000x2000.png Sign ( Oak , Pine , Birch , Maple , Hickory , Spirit , Cherry Blossom ) 3 respective Plank Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Medium Chest 50 Oak Plank 30 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Nest 40 Wheat 20 Oak Plank Animal Bench Level 19 Animal Care Bell 10 Gold Ingot 30 Maple Plank 3 Pink Hibiscus Furniture Workbench None Modern Bench 25 Iron Ingot 10 Birch Plank Furniture Workbench None Bunk Bed 30 Pine Plank 1 Purple Hibiscus 1 Light Green Hibiscus Furniture Workbench None Mini Fishing Pond 20 Pine Plank Furniture Workbench None Gong 20 Gold Ingot 40 Maple Plank 5 Pink Hibiscus Furniture Workbench None Wooden Lamp 30 Oak Plank 10 Coal Furniture Workbench None Hanging Lantern 40 Oak Plank 20 Coal Furniture Workbench None Bamboo Plant 20 Maple Plank 5 Bamboo Furniture Workbench None Blue Flower Plant 20 Birch Plank 1 Cyan Daisy Furniture Workbench None Bonsai Plant 20 Maple Plank 1 Pink Flower Furniture Workbench None Hedge Plant 20 Oak Plank 1 Oak Sapling Furniture Workbench None Mushroom Plant 10 Maple Plank 1 Red Mushroom Furniture Workbench None Leaves Plant 20 Oak Plank 1 Oak Sapling Furniture Workbench None Ship in a Bottle 10 Maple Plank 2 Glass Block Furniture Workbench None Well 25 Birch Plank Furniture Workbench None Oak Walkway 1 Oak Plank Furniture Workbench None Spirit Lava Lamp 25 Spirit Plank 100 Spirit Jar 1 Green Spirit Essence 10 Spirit Crystal Furniture Workbench None Spirit Bed 100 Spirit Plank 100 Spirit Wood 15 Spirit Crystal Furniture Workbench None Gamepass required Lamp Post 10 Oak Plank 5 Coal 5 Iron Ingot Lighting Station None
+
+Pallet-packing [ ]
+
+Input Item transformer Output 100 respective Plank ➡ Pallet Packer ➡ 1 respective Pallet
+
+History [ ]
+
+April 10, 2020 Added oak and pine planks. May 10, 2020 Added birch and maple planks. August 2, 2020 Added hickory planks. May 8, 2021 Changed the texture for planks. May 21, 2021 Reverted textures to the previous version. June 30, 2021 Added spirit planks. August 21, 2021 Planks can now be used to make pallets . July 16, 2022 Spirit planks can now be used to craft spirit lava lamps and spirit beds . January 20, 2023 Added cherry blossom planks.

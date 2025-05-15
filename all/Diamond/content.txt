@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Diamond
+
+----------------------------------------
+
+Diamond Diamond Rock Spawns When Kor is killed or naturally spawning throughout the Diamond Mines Description Excavated from the Diamond Mines A diamond is an item obtained by breaking its respective rock . It is used to craft various items and blocks .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Diamond rocks naturally generate in the Diamond Mines and Emerald Mines . Mining a diamond rock yields 1 diamond after each stage and 57 Mining XP (225 with the 4x daily bonus or 6 when maxed out), resulting in a total of 2 diamonds and 225 Mining XP (450 with the 4x daily bonus or 12 when maxed out) per rock.
+
+Each diamond rock has a 0.25% - 0.5% chance of spawning as an enchanted diamond rock .
+
+Mob drop [ ]
+
+Four diamond rocks spawn upon killing Kor . Each rock that spawns has a 2% chance of being an enchanted diamond rock.
+
+Breaking [ ]
+
+Diamond Rock Breaking Data Hardness 100 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 150 Wooden 300 150 Stone 160 100 Iron 100 63 Gilded Steel 70 50 Diamond 50 30 Opal 40 20 Void Mattock 20
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Diamond Mines Orb 10 Glass Block 30 Diamond 2 Enchanted Diamond Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 46 Combat Diamond Block 10 Diamond Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Diamond Pickaxe 5 Gilded Steel Rod 50 Diamond Anvil Level 48 Mining Diamond Axe 5 Gilded Steel Rod 50 Diamond Anvil Level 44 Woodcutting Diamond War Hammer 5 Gilded Steel Rod 80 Diamond 10 Enchanted Diamond Anvil Level 46 Heavy Melee Diamond Great Sword 5 Gilded Steel Rod 80 Diamond 10 Enchanted Diamond Anvil Level 46 Light Melee Diamond Sickle 3 Gilded Steel Rod 25 Diamond Anvil Level 50 Farming Diamond Disco Ball 1 Diamond 10 Electrite Electrical Workbench None File:Pet Egg Stand 1 Render 2000x2000.png White Pet Egg Stand 7 Golden Plate 2 Glass Block 1 Diamond Workbench Tier 4 None File:Pet Egg Stand 2 Render 2000x2000.png Cyan Pet Egg Stand 7 Golden Plate 2 Cyan Glass Block 1 Diamond Workbench Tier 4 None Red Pet Egg Stand 7 Golden Plate 2 Red Glass Block 1 Diamond Workbench Tier 4 None Blue Pet Egg Stand 7 Golden Plate 2 Blue Glass Block 1 Diamond Workbench Tier 4 None Large Diamond Chest 30 Diamond 5 Enchanted Diamond 20 Steel Plate 15 Steel Bolt Workbench Tier 4 None Expanded Diamond Chest 50 Diamond 10 Enchanted Diamond 40 Steel Plate 30 Steel Bolt Workbench Tier 4 None Diamond ATM 1 Pink Sticky Gear 3 Blue Sticky Gear 5 Diamond 25 Electrite Workbench Tier 4 None
+
+History [ ]
+
+February 12, 2021 Added diamonds. April 9, 2022 Diamonds can now be used to craft Diamond Mines orbs . July 9, 2022 Fixed a bug that caused the diamonds in diamond rocks to float instead of embedding into the rock. October 28, 2022 Diamonds can now be used to craft diamond disco balls . November 4, 2022 Diamonds can now be used to craft pet egg stands , large diamond chests , and expanded diamond chests . December 16, 2022 Diamonds can now be used to craft diamond ATMs .
+
+Trivia [ ]
+
+This is the only ore to have an "enchanted" variant, while other ores have a " crystallized " variant or no variant at all.
+
+Gallery [ ]

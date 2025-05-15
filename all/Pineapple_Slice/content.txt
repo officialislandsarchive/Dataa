@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Pineapple_Slice
+
+----------------------------------------
+
+Pineapple Slice Recipe 1 Pineapple Crafted with Cutting Table Heals 20 HP Description Very sweet! A pineapple slice is a food item that heals 20 HP when consumed.
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Cutting [ ]
+
+Name Recipe Crafting station 5 Pineapple Slice 1 Pineapple Cutting Table
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Uncooked Pineapple Pizza 1 Dough 1 Tomato Sauce 2 Pineapple Slice Cooking Table Food Processor Level 14 Cooking Sweet Rice Dessert 1 Pineapple Slice 1 Rice 1 Yak Butter Cooking Table Food Processor Level 49 Cooking
+
+Eating [ ]
+
+Eating a pineapple slice restores 20 HP.
+
+History [ ]
+
+January 8, 2022 Added pineapple slices. Introduced where pineapple slices now cannot be sold to Petur . March 25, 2022 Pineapple slices can now be used to craft sweet rice desserts .
+
+Trivia [ ]
+
+This is the first and only edible item that can be crafted in the cutting table . Pineapple slices currently cannot be sold to Petur .

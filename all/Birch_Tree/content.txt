@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Birch_Tree
+
+----------------------------------------
+
+Birch Tree Type Birch Sapling Cost 500 Coins Growth Duration 90 seconds The birch tree is a tree added in the May 10, 2020 update along with the maple tree .
+
+Obtaining [ ]
+
+Birch trees are grown from birch saplings , which can be purchased from Cletus for 500 coins in the Hub . The approximate growing time for the saplings are 90 seconds from planting. It must be at least 3 unoccupied blocks to be able to grow.
+
+Drops [ ]
+
+When chopped, it drops:
+
+3 - 4 birch wood 1 birch sapling
+
+When harvested by leaf clippers , it drops:
+
+2 leaves
+
+Breaking [ ]
+
+Birch Tree Breaking Data Hardness 8 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 12 24 Stone 8 13 Iron 5 8 Gilded Steel 4 6 Diamond 3 4 Opal 2 4 Void Mattock 2

@@ -1,0 +1,41 @@
+Source: https://robloxislands.fandom.com/wiki/Iron_Ore
+
+----------------------------------------
+
+Iron Ore Iron Ore Rock Dropped by Buffalkor Spawns Hub Slime Island Buffalkor Island Diamond Mines Description Heat up to smelt into iron. Found in the Hub. Iron ore is an ore that can be mined from iron rocks.
+
+Obtaining [ ]
+
+Mining [ ]
+
+Iron rocks naturally generate in the mining zone in the Hub , Emerald Mines ， Slime Island , Buffalkor Island , and the Diamond Mines . Mining an iron rock yields 1 - 2 iron ore per stage, resulting in a total of 2 - 4 iron ore. There's also a 1.5% chance that the rock drops crystallized iron .
+
+Totems [ ]
+
+Iron totems can be purchased from Arius at the Hub for 4,000 coins after reaching level 18 in the Mining skill. An iron totem will spawn iron rocks around it when placed, or if placed next to a conveyor belt , the totem will drop iron ore directly onto the conveyor.
+
+The test totem has the same function as an iron totem but has a different appearance and cannot be purchased from the Arius. The rocks spawned by the test totem used to have a higher chance to drop crystallized iron but was made equal to the regular iron totem around May 10, 2020 .
+
+Mob drop [ ]
+
+Buffalkors are guaranteed to drop 1 iron ore upon defeat and a 50% chance of dropping 2.
+
+Breaking [ ]
+
+Iron Rock Breaking Data Hardness 20 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 30 Wooden 60 30 Stone 32 20 Iron 20 13 Gilded Steel 14 10 Diamond 10 6 Opal 8 4 Void Mattock 4
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Workbench Tier 1 5 Oak Wood 2 Iron Ore Workbench Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Smelting [ ]
+
+Smelting iron ore in a campfire , small furnace , desert furnace , or industrial smelter will turn it into iron ingots .
+
+Input Output 1 Iron Ore 1 Iron Ingot
+
+Trivia [ ]
+
+Prior the March 5, 2021 update, an iron rock will spawn on the player's island upon island creation.

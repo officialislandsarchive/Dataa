@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Treasure_Map
+
+----------------------------------------
+
+Treasure Map Item Hub Maple Isles Spirit Island Pirate Island Slime Island Buffalkor Island Wizard Island Desert Island Old Hub Patrick Star Halloween Buy cost 120 doubloons Description A map to find hidden treasure, use a shovel to dig it up! A treasure map is an item is used to locate a treasure chest . It cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Interacting [ ]
+
+If the player interacts with Davey when he comes to the player's island without having a treasure map in their inventory , the player may accept a free treasure map from him.
+
+Purchasing [ ]
+
+Treasure maps can be purchased from Davey for 120 doubloons each on Pirate Island if the player does not have a treasure map in their inventory.
+
+Usage [ ]
+
+Locating [ ]
+
+Holding a treasure map will reveal a map of the Hub , Pirate Island , Spirit Island , Maple Isles , Slime Island , Buffalkor Island , Wizard Island , or Desert Island with a red 'X' in a randomized location indicating a hidden treasure chest . Once the player has dug up the treasure chest, the map will disappear from the player's inventory.
+
+Each treasure map only locates one treasure chest and only one treasure map can be used per day. Treasure maps may be discarded in trash cans in order to obtain a new one from Davey.
+
+History [ ]
+
+July 17, 2021 Added treasure maps. October 18, 2021 Changed the bird's-eye view to match the Halloween-themed Hub . October 25, 2021 Fixed the accuracy of the player on the treasure map UI. November 13, 2021 Fixed treasure map issues. December 10, 2021 Fixed the bug preventing players from having and using multiple treasure maps from their inventory . Changed the bird's-eye view to match the current Hub. April 12, 2022 Changed the bird's-eye view to match the current Hub. April 16, 2022 Treasure maps can now show treasure chests on Slime Island , Maple Isles , Spirit Island , Pirate Island , Buffalkor Island , Wizard Island , and Desert Island . April 22, 2022 Fixed a bug that prevented treasure maps obtained before April 16, 2022 to correctly locate a buried treasure chest . April 29, 2022 Corrected the horizontal compression of the bird's-eye view of the Maple Isles. July 9, 2022 Changed the bird's-eye view of Slime Island. Treasure maps are now labeled with the island name the treasure is on. Treasure maps can now be discarded in trash cans . July 16, 2022 Fixed a bug that caused treasure maps to not be attainable after discarding them in trash cans. Changed the bird's-eye view of the Hub.
+
+Trivia [ ]
+
+Before the Halloween 2021 event, the bird's-eye view resembled the Hub during the Patrick Star event despite the event having already ended. There was a bug where if the player has two or more treasure maps in their inventory at once, only one of the treasure maps is usable and all other treasure maps that existed during the time will permanently be unusable. This was fixed in the December 10, 2021 update. From October 18, 2021 to October 25, 2021, the green dot representing the player was set at an offset, meaning that it had incorrectly shown the player's location. However, the location of the buried treasure chest marked by the red 'X' was still accurate in accordance to the surrounding terrain. Prior to April 29, 2022 , the red 'X' on the Maple Isles treasure map was off-scale as the map of the isles itself was horizontally compressed.

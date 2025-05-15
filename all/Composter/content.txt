@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Composter
+
+----------------------------------------
+
+Composter Type of block Solid block; Interactable Recipe 30 Birch Wood 10 Stone Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Required skill Level 14 Farming Best tool Luminous Transparent Description Converts fish into fertilizer. A composter is an item transformer used to convert certain fish into basic fertilizer .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Composter 30 Birch Wood 10 Stone Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 14 Farming
+
+Breaking [ ]
+
+Composter Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Composting [ ]
+
+Salmon , carp , tuna , grouper , trout , and red snapper can be placed in the composter to create basic fertilizer . Up to 20 fish can be placed inside at once, with each cycle transforming 2 fish at a time every 30 seconds.
+
+Players can only use composters after reaching level 14 Farming .
+
+History [ ]
+
+June 15, 2020 Added composters. January 22, 2021 Level 14 Farming is now required to craft and use the composter. April 1, 2022 Tuna , groupers , trouts , and red snappers can now be composted in composters. Two fish may now be composted at once, down from three.

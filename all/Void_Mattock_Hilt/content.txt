@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Void_Mattock_Hilt
+
+----------------------------------------
+
+Void Mattock Hilt A void mattock hilt is an item used to craft the void mattock .
+
+Obtaining [ ]
+
+Serpent eggs [ ]
+
+Opening a serpent egg has a 2% chance of rewarding a void mattock hilt, having a rarity of 'rare'.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Void Mattock 1 Void Mattock Hilt 100 Amethyst Crystal 15 Gilded Steel Rod Anvil Level 58 Mining
+
+History [ ]
+
+August 20, 2022 Added void mattock hilts.

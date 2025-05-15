@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Switch
+
+----------------------------------------
+
+Switch Type of block Solid block; Interactable; Electrical Recipe 5 Iron Ingot 20 Electrite Crafted with Electrical Workbench (Level 1) Best tool Luminous Transparent Description Electricity only flows when the switch is on.
+
+A switch is an electrical component used to turn the flow of electricity on/off in machinery.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Switch 5 Iron Ingot 20 Electrite Electrical Workbench (Level 1)
+
+Breaking [ ]
+
+Switch Breaking Data Hardness 5.5 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 17 9 Stone 9 6 Iron 6 4 Gilded Steel 4 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Electrical [ ]
+
+It has one input, and when the switch is on, the electricity will flow to the other side. If off, the electricity is cut. This is good for turning on and off circuits without disconnecting a wire or using a button that automatically turns off.
+
+History [ ]
+
+December 11, 2020 Added switches.
+
+Trivia [ ]
+
+The switch changes to the "off" position upon re-joining the game without actually turning off the flow of power .

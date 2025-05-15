@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Strength_Potion
+
+----------------------------------------
+
+Strength Potion Recipe 1 Gold Skorp Claw 1 Red Mushroom 1 Empty Potion Bottle Crafted with Brewing Stand Effect Strength A strength potion is an item that grants strength when consumed. Drinking the potion will not return the potion bottle .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Strength Potion 1 Gold Skorp Claw 1 Red Mushroom 1 Empty Potion Bottle Brewing Stand
+
+Usage [ ]
+
+Drinking [ ]
+
+Drinking a strength potion grants the player 90 seconds of Strength . Strength gives the player a 30% damage boost for all melee weapons . Damage dealt by ranged weapons is not affected.
+
+History [ ]
+
+August 9, 2020 Added strength potions. ? Decreased damage bonus from 50% to 30%.

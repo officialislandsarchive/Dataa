@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Terri
+
+----------------------------------------
+
+Terri Location Pirate Island Purpose Sells/buys kiwi products; gives quests Occupation Botanist Pirate Terri is a pirate located on Pirate Island .
+
+Shop [ ]
+
+Buying [ ]
+
+Image Name Price Kiwi 20 coins
+
+Selling [ ]
+
+Image Name Sell price Kiwi Tree Sapling 80 doubloons
+
+Dialogue [ ]
+
+"You been pickin' any kiwis up user ? A kiwi a day keeps the scurvy away!" >View Shop Opens the shop.
+
+Quests [ ]
+
+Terri currently only has one quest :
+
+Quest Reward Pick 15 wild kiwis 20 Doubloons
+
+History [ ]
+
+July 17, 2021 Added Terri. May 13, 2022 Terri now buys kiwis for 32 coins each. May 27, 2022 Terri now buys kiwis for 24 coins each. June 3, 2022 Terri now buys kiwis for 32 coins each. Removed Terri's quests. ? Terri now buys kiwis for 24 coins each. September 3, 2022 Terri now buys kiwis for 20 coins each. November 25, 2022 Terri now buys kiwis for 21 coins each.

@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Guitar
+
+----------------------------------------
+
+Guitar Recipe 10 Iron Ingot 10 Oak Wood Crafted with Instrument Workbench The guitar is an instrument .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+The instrument workbench gamepass is required to craft the guitar.
+
+Name Recipe Crafting station Gamepass required Guitar 10 Iron Ingot 10 Oak Wood Instrument Workbench
+
+Usage [ ]
+
+Owners of the instrument workbench gamepass can play a song by using the guitar; players without the gamepass will be prompted to purchase the gamepass if they attempt to play it.
+
+Audio [ ]
+
+https://robloxislands.fandom.com/wiki/File:Guitar.ogg
+
+History [ ]
+
+July 9, 2021 Added guitars.
+
+Gallery [ ]

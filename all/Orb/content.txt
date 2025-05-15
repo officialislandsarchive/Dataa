@@ -1,0 +1,45 @@
+Source: https://robloxislands.fandom.com/wiki/Orb
+
+----------------------------------------
+
+Orb Slime Island Player's Island Hub Pirate Island Maple Isles Spirit Island Buffalkor Island Diamond Mines Wizard Island Desert Island Underworld Void Isles Black Green Yellow Blue Lime Purple Pink Cyan Orange Red Slime King Fhanhorn Kor Wizard Boss Bhaa Infernal Dragon Slime Queen Void Serpent Recipe See Crafting Crafted with Island Orb: Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Personal Orb: Workbench Tier 3 Workbench Tier 4 Boss Orb: Workbench Tier 4 Required skill See Crafting Description Island Orb: Place in teleporter pad to unlock teleport access to [island]. Personal Orb: An orb that can be used in a teleporter to teleport to a specific location on your island. Use the item to set the location. Boss Orb: Place in teleporter pad to unlock teleport access to [boss]. An orb is an item that can placed into a teleporter pad to teleport the player to a certain location: island orbs teleport players to an island of their choice; personal orbs teleport players to a specific location on their island ; and boss orbs teleport players in front of a boss's spawn area. They cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Island orbs [ ]
+
+Image Name Recipe Crafting station Required skill Slime Island Orb 5 Glass Block 10 Bamboo 20 Green Slime Ball 1 Blue Slime Ball Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Island Orb 10 Glass Block 5 Milk Bucket 5 Pizza 3 Mayonnaise Jar 5 Jar of Honey Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Hub Island Orb 10 Glass Block 15 Oak Wood 15 Coal 10 Iron Ingot 10 Sand 8 Aquamarine Shard Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Pirate Island Orb 10 Glass Block 20 Kiwi 10 Bone Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Maple Isles Orb 10 Glass Block 20 Raspberry 10 Maple Syrup Bottle Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Spirit Island Orb 10 Glass Block 30 Spirit Crystal Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Buffalkor Island Orb 10 Glass Block 20 Electrite 5 Slate 5 Marble Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 7 Combat Diamond Mines Orb 10 Glass Block 30 Diamond 2 Enchanted Diamond Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 46 Combat Wizard Island Orb 10 Glass Block 15 Empty Potion Bottle 10 Red Mushroom 5 Daffodil Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 20 Combat Desert Island Orb 10 Glass Block 5 Gold Skorp Claw 2 Ruby Skorp Scale Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 36 Combat Underworld Orb 10 Glass Block 20 Opal 5 Infernal Fish Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 55 Combat Void Isles Orb 10 Glass Block 20 Void Grass 30 Respawn Block 9 Amethyst Crystal Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None
+
+Personal orbs [ ]
+
+Image Name Recipe Crafting station Black Personal Orb 5 Black Flower 5 Steel Plate 10 Glass Block Workbench Tier 3 Workbench Tier 4 Green Personal Orb 5 Dark Green Flower 5 Steel Plate 10 Glass Block Workbench Tier 3 Workbench Tier 4 Yellow Personal Orb 5 Yellow Flower 5 Steel Plate 10 Glass Block Workbench Tier 3 Workbench Tier 4 Blue Personal Orb 5 Blue Flower 5 Steel Plate 10 Glass Block Workbench Tier 3 Workbench Tier 4 Lime Personal Orb 5 Light Green Flower 5 Steel Plate 10 Glass Block Workbench Tier 3 Workbench Tier 4 Purple Personal Orb 5 Purple Flower 5 Steel Plate 10 Glass Block Workbench Tier 3 Workbench Tier 4 Pink Personal Orb 5 Pink Flower 5 Steel Plate 10 Glass Block Workbench Tier 3 Workbench Tier 4 Cyan Personal Orb 5 Cyan Flower 5 Steel Plate 10 Glass Block Workbench Tier 3 Workbench Tier 4 Orange Personal Orb 5 Orange Flower 5 Steel Plate 10 Glass Block Workbench Tier 3 Workbench Tier 4 Red Personal Orb 5 Red Flower 5 Steel Plate 10 Glass Block Workbench Tier 3 Workbench Tier 4
+
+Boss orbs [ ]
+
+Image Name Recipe Crafting station Required skill Slime King Orb 10 Glass Block 20 Red Bronze Ingot 1 Mysterious Fragment #1 Workbench Tier 4 Defeated the Slime King at least once Fhanhorn Orb 10 Glass Block 20 Red Bronze Ingot 10 Fhanhorn's Flower Workbench Tier 4 Defeated Fhanhorn at least once Kor Orb 10 Glass Block 20 Red Bronze Ingot 1 Mysterious Fragment #2 Workbench Tier 4 Level 46 Combat Defeated Kor at least once Wizard Boss Orb 10 Glass Block 20 Red Bronze Ingot 1 Mysterious Fragment #3 Workbench Tier 4 Level 20 Combat Defeated the Wizard Boss at least once Bhaa Orb 10 Glass Block 20 Red Bronze Ingot 1 Mysterious Fragment #4 Workbench Tier 4 Level 36 Combat Defeated Bhaa at least once Infernal Dragon Orb 10 Glass Block 20 Red Bronze Ingot 1 Infernal Flame Workbench Tier 4 Level 55 Combat Defeated the Infernal Dragon at least once Slime Queen Orb 10 Glass Block 20 Red Bronze Ingot 1 Pink Slime Crystal Workbench Tier 4 Level 60 Combat Defeated the Slime Queen at least once Void Serpent Orb 10 Glass Block 25 Amethyst Crystal 3 Serpent's Fang 3 Serpent's Scale Workbench Tier 4 Defeated the Void Serpent at least once.
+
+Usage [ ]
+
+Teleporting [ ]
+
+Up to five orbs can be placed into a teleporter pad at once. Of the inserted orbs, the player can choose to teleport to any of the orb's respective location .
+
+Island orbs allow the player to teleport to Slime Island , their own island , the Hub , Pirate Island , Maple Isles , Spirit Island , Buffalkor Island , the Diamond Mines , Wizard Island , Desert Island , the Underworld , or the Void Isles .
+
+Personal orbs can be used to teleport the player to a certain location of their island. The location can be set by equipping the personal orb and holding down the left click button while in the desired destination before inserting into the teleporter pad. The personal orb's destination can be changed at any time. They can be renamed by clicking the edit button at the right end of the banner in the teleporter pad UI with a max character limit of 30.
+
+Boss orbs can be used to teleport the player to the spawn area of the chosen boss .
+
+Displaying [ ]
+
+An orb stand can be used to display an orb as decoration.
+
+History [ ]
+
+April 9, 2022 Added Slime Island orbs, Island orbs, Hub Island orbs, Pirate Island orbs, Maple Isles orbs, Spirit Island orbs, Buffalkor Island orbs, Diamond Mines orbs, Wizard Island orbs, Desert Island orbs, and Underworld orbs. April 10, 2022 Orbs can no longer be dropped, traded , or put in vending machines and chests . Introduced a bug that prevents players from crafting any orb aside from Slime Island orbs. Grouped all island orbs into one group in the crafting UI. Changed the recipe of Slime Island orbs to require 5 glass blocks , down from 10. Changed the recipe of Buffalkor Island orbs to require 5 slate and marble each, down from 15 each. Changed the recipe of Desert Island orbs to require 2 ruby skorp scales , down from 5. Changed the recipe of Diamond Mines orbs to require 2 enchanted diamonds . Level 7 Combat is now required to craft and use Buffalkor Island orbs. Level 20 Combat is now required to craft and use Wizard Island orbs. Level 36 Combat is now required to craft and use Desert Island orbs. Level 46 Combat is now required to craft and use Diamond Mines orbs. Level 55 Combat is now required to craft and use Underworld orbs. April 16, 2022 Added black personal orbs, green personal orbs, yellow personal orbs, blue personal orbs, lime personal orbs, purple personal orbs, pink personal orbs, cyan personal orbs, orange personal orbs, red personal orbs, Slime King orbs, Fhanhorn orbs, Kor orbs, Wizard Boss orbs, Bhaa orbs, and Infernal Dragon orbs. April 29, 2022 Orbs inserted into teleporter pads and orb stands no longer have a hitbox. Fixed a model issue of the Hub Island orb. Certain personal orbs are no longer censored in the teleporter pad GUI. June 15, 2022 Fixed an issue regarding the Spirit Island orb's recipe. June 25, 2022 Personal orbs can now be renamed after being named. June 28, 2022 Fixed a bug that prevented personal orbs from being able to be renamed. July 2, 2022 Added Slime Queen orbs. July 9, 2022 Fixed a bug that caused Slime Queen orbs to crash servers. July 23, 2022 Fixed Slime Queen orb function and corrected the teleport location of it. July 30, 2022 Fixed Slime Queen orb collisions. August 13, 2022 Added Void Isles and Void Serpent orbs. August 27, 2022 Mob island orbs no longer give their respective boss orbs when on the island. ? Changed the recipe of Spirit Island orbs to require 30 spirit crystals , up from 20. September 26, 2023 Fixed a bug where you couldn't place or change positions of personal orbs.
+
+Trivia [ ]
+
+Holding a personal orb will show where the destination of the orb is. The black personal orb was incorrectly capitalized as "Black Personal orb" in-game. The purple personal orb was incorrectly referred to as a "Black Personal Orb" in-game. The Void Serpent orb is the only boss orb that does not require red bronze ingots .

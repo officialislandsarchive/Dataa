@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Blueprint
+
+----------------------------------------
+
+A blueprint was an item used to unlock crafting recipes in crafting stations . Blueprints were obtained in various ways, including fishing , killing hostile mobs , and completing quests . Blueprints will disappear from the player's inventory once used. As of June 3, 2022 , most blueprints can no longer be obtained and serve no use.
+
+Types of blueprints [ ]
+
+Furniture blueprints [ ]
+
+Furniture blueprints were used to unlock furniture items in the furniture workbench . Before the February 26, 2021 update, furniture blueprints were obtained by completing quests from certain villagers . Since the quest system used to obtain furniture blueprints has been removed, there is no way to obtain these blueprints without trading with other players. On May 27, 2022 , all furniture blocks were made accessible without the need of furniture blueprints.
+
+Fish tank decoration blueprints [ ]
+
+These blueprints were used to unlock crafting recipes for fish tank decorations in the furniture workbench. They were obtained by fishing or breaking coral . Since May 13, 2022 , fish tank decoration blueprints can no longer be obtained, being replaced by the Fishing skill instead.
+
+Fish tank anchor Fish tank castle Fish tank shipwreck Fish tank treasure chest
+
+Weapon blueprints [ ]
+
+These blueprints were used to unlock the recipe for certain weapons, with rageblade blueprints being the only obtainable and useful blueprint. Skorps could also drop the blueprint for the vamp bow before the September 17, 2022 update. Wizard Lizards could drop the blueprint for the tidal spellbook and the blueprint for the cactus spike could be purchased from Azur for 300 sand dollars before the June 3, 2022 update.
+
+Blueprint Obtained by Rageblade Killing a Buffalkor (0.025%) Cactus Spike Purchased from Azur for 300 sand dollars before the June 3, 2022 update Tidal Spellbook Killing a Wizard Lizard before the June 3, 2022 update (0.025%) Azarathian Longbow (Vamp Bow) Killing any Skorp before the September 17, 2022 update (0.025%)
+
+Test blueprint [ ]
+
+The test blueprint is an item used by the developers of the game to test the quests feature. When the May 31, 2020 update was first released, the item was accidentally left obtainable and had the chance of being awarded upon completing a quest, like any other blueprint. A few hours after the update was first released, it was made unobtainable by the developers. This blueprint was heavily duped afterwards. It currently has no use and clicking the screen while holding it will not consume it nor unlock anything.
+
+Pancake blueprints [ ]
+
+Pancake blueprints can be obtained from completing quests from the Maple Isles villagers , though they will not give a physical blueprint and instead immediately unlock the recipe. Bailey gives the player pancake dough and sweet pancakes recipes after completing her first and second quest. Emma gives the player berry pancakes recipe after completing her first quest. Don gives the player the Fhanhorn's pancakes recipe after completing her quest.
+
+Trivia [ ]
+
+Upon using a blueprint, it disappears from the player’s inventory and a visual icon of the item on will appear temporarily on the player’s head.

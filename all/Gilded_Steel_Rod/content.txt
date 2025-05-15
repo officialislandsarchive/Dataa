@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Gilded_Steel_Rod
+
+----------------------------------------
+
+Gilded Steel Rod Recipe 1 Steel Rod 20 Gold Ingot Crafted with Anvil Description Crafting component for advanced machinery. The gilded steel rod is an item used to craft many weapons and tools in the anvil .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Gilded Steel Rod 1 Steel Rod 20 Gold Ingot Anvil
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Gilded Steel Axe 3 Gilded Steel Rod 40 Iron Ingot 100 Gold Ingot Anvil Level 26 Woodcutting Gilded Steel Pickaxe 3 Gilded Steel Rod 40 Iron Ingot 100 Gold Ingot Anvil Level 24 Mining Gilded Steel Sickle 3 Gilded Steel Rod 20 Iron Ingot 35 Gold Ingot Anvil Level 36 Farming Diamond Axe 50 Diamond 5 Gilded Steel Rod Anvil Level 44 Woodcutting Diamond Pickaxe 50 Diamond 5 Gilded Steel Rod Anvil Level 48 Mining Diamond Sickle 3 Gilded Steel Rod 25 Diamond Anvil Level 50 Farming Diamond Great Sword 80 Diamond 5 Gilded Steel Rod 10 Enchanted Diamond Anvil Level 46 Light Melee Diamond War Hammer 80 Diamond 5 Gilded Steel Rod 10 Enchanted Diamond Anvil Level 46 Heavy Melee Gilded Steel Hammer 1 Buffalkor Crystal 5 Gilded Steel Rod 40 Gold Ingot Anvil Level 32 Heavy Melee Ruby Staff 10 Ruby 2 Gilded Steel Rod Anvil Level 36 Magic Infernal Hammer 1 Infernal Flame 200 Magma Block 5 Gilded Steel Rod 50 Steel Plate Anvil Level 55 Heavy Melee Serpent's Hook 3 Serpent's Fang 30 Amethyst Crystal 100 Iron Ingot 5 Gilded Steel Rod Anvil Level 68 Combat Serpent's Bane 3 Serpent's Scale 40 Amethyst Crystal 200 Iron Ingot 10 Gilded Steel Rod Anvil Level 68 Combat Void Mattock 1 Void Mattock Hilt 100 Amethyst Crystal 15 Gilded Steel Rod Anvil Level 58 Mining Noxious Stinger 2 Skorp Serpent's Tooth 8 Skorp Serpent's Scale 12 Bone 10 Steel Ingot 5 Gilded Steel Rod Anvil Level 55 Light Melee
+
+History [ ]
+
+May 17, 2020 Added gilded steel rods. February 12, 2021 Gilded steel rods can now be used to craft diamond war hammers , diamond great swords , diamond pickaxes , and diamond axes . April 4, 2021 Gilded steel rods can now be used to craft gilded steel sickles and diamond sickles . April 24, 2021 Gilded steel rods can now be used to craft ruby staffs . April 22, 2022 Gilded steel rods can now be used to craft infernal hammers . May 27, 2022 3 gilded steel rods are now required to craft gilded steel pickaxes and gilded steel axes , down from 5. August 13, 2022 Gilded steel rods can now be used to craft serpent's hooks and serpent's banes . August 20, 2022 Gilded steel rods can now be used to craft void mattocks . March 17, 2023 Gilded steel rods can now be used to craft Noxious Stinger
+
+Trivia [ ]
+
+The gilded steel rod uses the old steel rod model with a different texture. Although its description reads that it is used to create advanced machinery, it can't be used to craft any machines .

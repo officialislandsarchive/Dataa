@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Firework
+
+----------------------------------------
+
+Firework Recipe 2 Coal (small) 4 Coal (medium) 8 Coal (large) Crafted with Firework Barrel A firework is an item used for creating decorative explosions.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+The firework barrel gamepass is required to craft fireworks.
+
+Name Recipe Crafting station Gamepass required Small Firework 2 Coal Firework Barrel Medium Firework 4 Coal Firework Barrel Large Firework 8 Coal Firework Barrel
+
+Usage [ ]
+
+Launching fireworks [ ]
+
+Fireworks can be launched by equipping the item and then using it. Fireworks can also be launched with a firework launcher .
+
+A launched firework will fly into the air and explode in the sky. The size of the explosion depends on the size of the firework.
+
+History [ ]
+
+July 4, 2020 Added fireworks. December 11, 2020 Fireworks can now be launched with a firework launcher . March 6, 2022 Fireworks are disabled on published islands .

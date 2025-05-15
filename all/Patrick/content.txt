@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Patrick
+
+----------------------------------------
+
+Patrick Location Hub Purpose Providing quests and awarding the Patrick Star Trophy for the Patrick Star Event Patrick is an NPC added for the Patrick Star Event . He will reward the player the Patrick Star trophy once the player has completed his quest.
+
+Quests [ ]
+
+Help out Bunny , Cecil , GrandPat , and Squidina
+
+Rewards: Patrick Star Trophy , Patrick Star Show Badge
+
+Dialogue [ ]
+
+Hi user , I'm Patrick! [Hi] My family and I are visiting the hub.. we lost a lot of stuff though, huhuhu! [Offer help] Wow, thanks! Help my family members find their stuff and I'll give you a prize, huhuhu! [On it] End.
+
+During [ ]
+
+Hmmm.. you still need to help Bunny, Cecil, GrandPat and Squidina! [Okay] End.
+
+Completion [ ]
+
+Oh wow, thanks user ! Have this for helping.. [Take Gift] End. (A Patrick Star Trophy and the Patrick Star Show Badge will be given)
+
+Repeating conclusion [ ]
+
+Thanks again for your help! Come check out my show on Nickelodeon, huhuhu! [Thanks] End.
+
+History [ ]
+
+July 2, 2021 Added Patrick. July 17, 2021 Removed Patrick.

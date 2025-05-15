@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Fire_Chalice
+
+----------------------------------------
+
+Fire Chalice Small Tall Type of block Solid block Buy cost Small : 1,250 coins Tall: 1,500 coins Best tool Luminous Transparent A fire chalice is a luminous furniture block that could have been purchased from Kontos during the Halloween 2022 event. It comes in two sizes: small and tall.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Small and tall fire chalices could have been purchased for 1,250 coins and 1,500 coins each respectively from Kontos during the Halloween 2022 event.
+
+Breaking [ ]
+
+Fire Chalice Breaking Data Hardness 7 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 11 Wooden 21 11 Stone 12 7 Iron 7 5 Gilded Steel 5 4 Diamond 4 3 Opal 3 2 Void Mattock 2
+
+History [ ]
+
+October 15, 2022 Added small and tall fire chalices. October 22, 2022 Modified the collisions of fire chalices. October 28, 2022 Fixed a bug preventing blocks from being placed near small fire chalices. November 4, 2022 Small and tall fire chalices can no longer be purchased from Kontos .

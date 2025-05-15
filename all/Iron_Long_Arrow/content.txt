@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Iron_Long_Arrow
+
+----------------------------------------
+
+Iron Long Arrow Type Large arrow Physical class Piercing Attack damage 15 - 20 HP 26 - 34 HP (Fully charged) Recipe 4 Maple Wood 2 Iron Ingot Crafted with Anvil Required skill Level 25 Archery Description A more sturdy arrow that can be shot from longbows Iron long arrows are large arrows that can be shot from longbows .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill 2 Iron Long Arrow 4 Maple Wood 2 Iron Ingot Anvil Level 25 Archery
+
+Usage [ ]
+
+Ammunition [ ]
+
+Iron long arrows are used as ammunition in longbows , as at least one is required to be in the player's inventory in order for the bow to fire. Shooting an iron long arrow deals an extra 15 - 20 HP to mobs .
+
+Iron long arrows are a one-time use item , meaning they cannot be retrieved after they have been shot.
+
+History [ ]
+
+September 24, 2022 Added iron long arrows. ? Changed the recipe from 6 maple wood and 4 iron ingot to 4 maple wood and 2 iron ingot.
+
+Trivia [ ]
+
+Unlike stone short arrows , the limit of iron long arrows is 2,000 instead of 20,000.

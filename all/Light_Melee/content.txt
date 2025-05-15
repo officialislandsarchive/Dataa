@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Light_Melee
+
+----------------------------------------
+
+Light Melee Class Combat Base Stats +0.2 Light Melee DMG Unlocks Lowest Unlock LVL 46 Highest Unlock LVL 68 Light Melee is a skill that boosts damage of light melee weapons and unlocks the crafting recipe of several light melee weapons. It can be leveled up by defeating mobs using a light melee weapon.
+
+Roadmap [ ]
+
+Level Unlock Level 46 Diamond Great Sword Crafting Recipe Level 55 Noxious Stinger Crafting Recipe Level 60 Rageblade Crafting Recipe Level 66 Ruby Sword Crafting Recipe Level 68 Serpent's Hook Crafting Recipe
+
+List of light melee weapons [ ]
+
+Image Name Recipe Crafting station Required skill Physical type Magical type Wooden Sword 20 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Slashing None Stone Sword 40 Stone 10 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Slashing None Iron Sword 40 Iron Ingot 10 Oak Wood Anvil None Slashing None Aquamarine Sword 200 Aquamarine Shard 2 Crystallized Aquamarine Anvil None Slashing None Cactus Spike 100 Cactus Anvil Level 36 Combat Piercing None Diamond Great Sword 80 Diamond 5 Gilded Steel Rod 10 Enchanted Diamond Anvil Level 46 Light Melee Slashing None The Captain's Rapier N/A N/A N/A Piercing None Cutlass N/A N/A N/A Slashing None Maple Shield 150 Maple Wood 25 Iron Ingot Maple Workbench None Striking None Frost Sword N/A N/A N/A Slashing Frost Ruby Sword 20 Ruby Skorp Scale 200 Iron Ingot 6 Ruby Anvil Level 66 Light Melee Slashing None Serpent's Hook 3 Serpent's Fang 30 Amethyst Crystal 100 Iron Ingot 5 Gilded Steel Rod Anvil Level 68 Light Melee Slashing Void Noxious Stinger 2 Skorp Serpent's Tooth 8 Skorp Serpent's Scale 12 Bone 10 Steel Ingot 5 Gilded Steel Rod Anvil Level 55 Light Melee Piercing Toxin Blueprint required Rageblade 100 Red Bronze Ingot 20 Maple Wood Anvil Level 60 Light Melee Slashing None
+
+XP gained (mobs) [ ]
+
+Image Mob XP (with 4x daily bonus) XP (without 4x daily bonus) Green Slime 9 XP 3 XP Blue Slime 9 XP 3 XP Pink Slime 9 XP 3 XP Buffalkor 120 XP 30 XP Wizard Lizard 198 XP 51 XP Iron Skorp 300 XP 75 XP Gold Skorp 348 XP 87 XP Ruby Skorp 1998 XP 501 XP Angry Crab 24 XP 6 XP Bandit 48 XP 12 XP Magma Blob 99 XP 24 XP Rock Mimic (coal, iron, gold) 180 XP 45 XP Snowman 99 XP 25 XP
+
+XP gained (bosses) [ ]
+
+Image Name XP (with 4x daily bonus) XP (without 4x daily bonus) Slime King 150 XP 39 XP Wizard Boss 4998 XP 1251 XP Kor 9999 XP 2500 XP Bhaa 4998 XP 1251 XP Infernal Dragon 4998 XP 1251 XP Fhanhorn 4998 XP 1251 XP Percival the Pumpkin King 4998 XP 1251 XP Slime Queen 6000 XP 1500 XP Zombie Cletus 3039 XP 759 XP
+
+Damage increase [ ]
+
+Light Melee boosts the damage of light melee weapons by 0.2 HP per level.
+
+Level Damage increase Level Damage increase Level Damage increase Level Damage increase 1 (start) 0.2 26 5.2 51 10.2 76 15.2 2 0.4 27 5.4 52 10.4 77 15.4 3 0.6 28 5.6 53 10.6 78 15.6 4 0.8 29 5.8 54 10.8 79 15.8 5 1 30 6 55 11 80 16 6 1.2 31 6.2 56 11.2 81 16.2 7 1.4 32 6.4 57 11.4 82 16.4 8 1.6 33 6.6 58 11.6 83 16.6 9 1.8 34 6.8 59 11.8 84 16.8 10 2 35 7 60 12 85 17 11 2.2 36 7.2 61 12.2 86 17.2 12 2.4 37 7.4 62 12.4 87 17.4 13 2.6 38 7.6 63 12.6 88 17.6 14 2.8 39 7.8 64 12.8 89 17.8 15 3 40 8 65 13 90 18 16 3.2 41 8.2 66 13.2 91 18.2 17 3.4 42 8.4 67 13.4 92 18.4 18 3.6 43 8.6 68 13.6 93 18.6 19 3.8 44 8.8 69 13.8 94 18.8 20 4 45 9 70 14 95 19 21 4.2 46 9.2 71 14.2 96 19.2 22 4.4 47 9.4 72 14.4 97 19.4 23 4.6 48 9.6 73 14.6 98 19.6 24 4.8 49 9.8 74 14.8 99 19.8 25 5 50 10 75 15 100 (max) 20
+
+Trivia [ ]
+
+Prior to the October 1, 2022 update, the Light Melee roadmap only included the unlock for the diamond great sword .

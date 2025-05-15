@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Thorn_Block
+
+----------------------------------------
+
+Thorn Block Type of block Non-solid block Buy cost 35 coins Best tool Luminous Transparent A thorn block is a player-damaging block purchased from John .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Thorn blocks can be bought from John for 35 coins .
+
+Breaking [ ]
+
+Thorn Block Breaking Data Hardness ? Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+Usage [ ]
+
+Damaging [ ]
+
+Players inside thorn blocks will take 2 HP of damage per second. Animals are not affected.
+
+History [ ]
+
+February 17, 2023 Added thorn blocks.

@@ -1,0 +1,51 @@
+Source: https://robloxislands.fandom.com/wiki/Pig
+
+----------------------------------------
+
+Pig Pig Muddy Piggy Bank Behavior Passive Location Player's Island
+
+The pig is a small animal and passive mob that can be spawned using a pig spawn egg , which can be bought from Taliyah at level 31 Animal Care .
+
+It is the third animal passive mob in Islands .
+
+Uses [ ]
+
+Pigs can dig up a truffle from a tree when they're not hungry. They may also dig up a white truffle if your animal care level is high enough and your pig is happy. However, if the pig is hungry, it will eat the truffle instead. This can be avoided by placing truffle barrels or industrial truffle barrels on the ground. Pigs leave behind dirt piles by the trees where they can dig up the truffles, removing the hole grants you 1 grass block.
+
+Animal Skin [ ]
+
+A pig's skin can be changed to the Piggy Bank skin once the player buys its animal skin for 399 Robux .
+
+Ornaments [ ]
+
+Petting, feeding, or taking a truffle from a pig had a 0.1% chance of rewarding a pig ornament .
+
+Behavior [ ]
+
+Like all animals, the pig can breed. They can be lured and fed with carrots , but will have avocado toast , jam sandwich , or starfruit cake as their favorite food. If they fall into the void, they will respawn at the player's spawn point.
+
+Feeding a pig will increase its food and friendliness level. The food level is necessary to keep above 20% or the pig will start losing happiness.
+
+A wooden trough , metal trough , or automated trough can be used to feed pigs.
+
+Like other animals , if no troughs are in its vicinity, it will eat from a grass block , but doing so will not replenish its hunger meter nor give Animal Care XP.
+
+Mounting [ ]
+
+Pigs can be mounted by the player (requires Level 8 Animal Care ) through the inspection menu, located next to the "Sell Animal" button.
+
+A pig can be ridden anywhere within your server. To get off, press the dismount button on the right of the screen. You can use Tools / Weapons while mounting.
+
+When you dismount the animal when not in your own Players’ Island, the pig will teleport to the player's spawn point.
+
+Mounting a pig does not grant any boosts.
+
+History [ ]
+
+February 5, 2021 Added pigs. Introduced where pigs are now able to eat grass blocks if no troughs are nearby. February 19, 2021 Pigs can now be mounted. February 26, 2021 Pigs now count as small animals instead of large animals. April 24, 2021 Added piggy bank skin. Introduced where pigs no longer become muddy when sleeping on mud piles . December 18, 2021 Feeding, petting, or taking a truffle from a pig now has a 0.1% chance of rewarding a pig ornament . January 15, 2022 Feeding, petting, or taking a truffle from a pig can no longer reward a pig ornament. February 17, 2023 Pigs can now gather truffles to industrial truffle barrels .
+
+Trivia [ ]
+
+There used to be a typo in its description, reading "They will it eat," but this has since been corrected to "They will eat it." Even though it states they will dig truffles from a tree, they can dig truffles without trees. This was one of the two animals to get a banner styled after the animal. Like all other animals, pigs may eat from a grass block instead of from troughs, but doing so will not replenish their hunger meter nor give Animal Care XP. This can be done if no troughs are nearby. The eating sound of pigs is reduced when eating grass blocks. Pigs are the second-shortest animal model, the first-shortest being chickens . Pigs can get stuck in any non-full block such as slab or tree . Since the April 24, 2021 update, pigs may still perform the animation to remove mud despite being unable to become muddy. Pigs share many things with other animals . Pigs share the same eating sound as cows , sheep , turkeys , yaks , and horses . Pigs have the same animations as cows, sheep, and yaks. Pigs have the same eye model as cows, sheep, chickens, frogs , and rabbits . Pigs and horses have the least amount of favorite foods . Pigs rewards to most amount of Animal Care XP, with the second being sheep.
+
+Gallery [ ]

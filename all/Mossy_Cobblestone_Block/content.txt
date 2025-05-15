@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Mossy_Cobblestone_Block
+
+----------------------------------------
+
+Mossy Cobblestone Block Type of block Solid block Recipe 8 Stone Brick 4 Tall Grass Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent A mossy cobblestone block is a decorative block crafted with stone bricks and tall grass .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station 4 Mossy Cobblestone Block 8 Stone Brick 4 Tall Grass Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Mossy Cobblestone Block Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Mossy Cobblestone Stair 1 Mossy Cobblestone Block Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Mossy Cobblestone Slab 1 Mossy Cobblestone Block Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+History [ ]
+
+July 16, 2022 Added mossy cobblestone blocks.

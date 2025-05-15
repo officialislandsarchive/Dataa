@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Ruby
+
+----------------------------------------
+
+Ruby Dropped by Azarathian Serpent Bhaa Description A rare find from defeating Bhaa , the desert boss. A ruby is an item used to craft ruby-themed items.
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+The Azarathian Serpent has a 5% chance dropping a ruby upon defeat.
+
+Bhaa has a 10% chance of dropping a ruby upon defeat.
+
+Quests [ ]
+
+Quest Type Tasks Reward Prerequisites Cooldown duration Desert Heat Multiple Talk to Amir 200 coins Access to next task Level 46 Combat 5 days Mine 25x Sandstone Rock 300 coins Access to next task Mine 15x Red Sandstone Rock 300 coins Access to next task Harvest 50x Cactus 650 coins 6 ruby 80 Farming XP
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Ruby Block 4 Ruby Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Golden Shortbow 40 Gold Ingot 4 Ruby 2 Ancient Slime String Anvil Level 35 Archery Ruby Staff 10 Ruby 2 Gilded Steel Rod Anvil Level 36 Magic Ruby Sword 20 Ruby Skorp Scale 200 Iron Ingot 6 Ruby Anvil Level 66 Light Melee Ruby Disco Ball 1 Ruby 10 Electrite Electrical Workbench None Purple Pet Egg Stand 7 Golden Plate 2 Purple Glass Block 1 Ruby Workbench Tier 4 None
+
+History [ ]
+
+April 24, 2021 Added rubies. April 1, 2022 Decreased the drop chance from Bhaa from 20% to 10%. June 25, 2022 Rubies can now be used to craft ruby swords . July 30, 2022 Rubies can now be obtained from quests . August 6, 2022 6 rubies can now be obtained by completing the quest, "Desert Heat", up from 2. September 17, 2022 Rubies can now be used to craft golden shortbows . October 28, 2022 Rubies can now be used to craft ruby disco balls . November 4, 2022 Rubies can now be used to craft purple pet egg stands . March 17, 2023 Rubies can now be dropped from the Azarathian Serpent .
+
+Trivia [ ]
+
+This and gold ingots are the only minerals that can be dropped by a boss . In the "Desert Heat" quest , rubies are referred to as "Rubys" instead of "Rubies."

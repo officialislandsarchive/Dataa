@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Chandelier
+
+----------------------------------------
+
+Chandelier Type of block Solid block Recipe 20 Iron Ingot 15 Coal Crafted with Furniture Workbench Best tool Luminous Transparent The chandelier is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Chandelier 20 Iron Ingot 15 Coal Furniture Workbench
+
+Breaking [ ]
+
+Chandelier Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+January 4, 2021 Added chandeliers. March 12, 2022 Changed the model of chandeliers. April 22, 2022 Reverted chandeliers to old model. June 3, 2022 Changed the model of chandeliers.
+
+Trivia [ ]
+
+The chandelier used to share the exact same model as the medieval chandelier before the April 22, 2022 update.

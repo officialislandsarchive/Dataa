@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Squidina
+
+----------------------------------------
+
+Squidina Location Hub Purpose Giving a quest for the Patrick Star Event . Squidina is an NPC added for the Patrick Star Event who could have been found in the Hub next to the fishing pond during the event. The completion of her quest was required to complete Patrick's quest.
+
+Quests [ ]
+
+Find the box of Kelpo in the fishing pond .
+
+Rewards: N/A
+
+Dialogue [ ]
+
+"Listen up user ! There's a box of Kelpo in the lake and I need you to find it!" >On it!/Will do! End.
+
+When the player gives her the Kelpo [ ]
+
+"Nice! I'll take that!" >No problem! End.
+
+Dialogue after the quest is finished [ ]
+
+"Thanks for helping user !" >Cya! End.
+
+History [ ]
+
+July 2, 2021 Added Squidina to the Hub . July 17, 2021 Removed Squidina from the Hub.

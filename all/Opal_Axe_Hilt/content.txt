@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Opal_Axe_Hilt
+
+----------------------------------------
+
+Opal Axe Hilt Description The hilt for an opal axe, crafted on the anvil. An opal axe hilt is an item used to craft the opal axe .
+
+Obtaining [ ]
+
+Dragon eggs [ ]
+
+Opening an infernal dragon egg has a 9% chance of rewarding an opal axe hilt, having a rarity of 'rare'.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Opal Axe 1 Opal Axe Hilt 50 Opal 100 Iron Ingot Anvil Level 44 Woodcutting
+
+History [ ]
+
+September 11, 2021 Added opal axe hilts.

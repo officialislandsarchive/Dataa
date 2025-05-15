@@ -1,0 +1,63 @@
+Source: https://robloxislands.fandom.com/wiki/Bosco
+
+----------------------------------------
+
+Bosco Location None (Formerly Skull Island ) Purpose Giving quests Bosco is a villager located on Skull Island . He gave quests for players who joined the Kong team during the Godzilla vs. Kong event.
+
+Dialogue [ ]
+
+When first interacting with Bosco
+
+Watch out, user ! Head over to the river.. you can see Kong! ... I have some wonderful prizes if you can complete a few tasks around Skull Island ! View Quests I've been doing research on Kong, can you locate five bone sites? While you're at it, can you bring back ten coconuts from palm trees? On it! Exit Join team #Kong Amazing! Welcome to team #Kong. You can chat to show off your team! How powerful is Kong? As he appears in Godzilla Vs. Kong, Kong has a punch Richter Scale reading at magnitude 4.2 at its epicenter! The full grown Titan has developed the fight style of an epic brawler, quick on his feet with aerial traversal and sheers feral strength that confuses and disorients his opponent. Wow Exit
+
+Quests (Part 1) [ ]
+
+If the player hasn't finished even one quest
+(Part 1)
+
+I have some wonderful prizes if you can complete a few tasks around Skull Island ! View Quests Looks like you still need to discover <number> more bones.. Also, you still have to collect <number> more coconuts.. Keep at it! Ok Exit Join team #Kong Amazing! Welcome to team #Kong. You can chat to show off your team! How powerful is Kong? As he appears in Godzilla Vs. Kong, Kong has a punch Richter Scale reading at magnitude 4.2 at its epicenter! The full grown Titan has developed the fight style of an epic brawler, quick on his feet with aerial traversal and sheers feral strength that confuses and disorients his opponent. Wow Exit
+
+If the player finished one quest. (Part 1)
+
+I have some wonderful prizes if you can complete a few tasks around Skull Island ! View Quests (Unfinished Quest: Bones) Looks like you still need to discover <Number> more bones .. But nice work collecting the coconuts! Keep at it! (Unfinished Quest:Coconuts) Looks like you still need to collect <Number> more coconuts.. But nice work discovering the bones! Keep at it! Ok Exit Join team #Kong Amazing! Welcome to team #Kong. You can chat to show off your team! How powerful is Kong? As he appears in Godzilla Vs. Kong, Kong has a punch Richter Scale reading at magnitude 4.2 at its epicenter! The full grown Titan has developed the fight style of an epic brawler, quick on his feet with aerial traversal and sheers feral strength that confuses and disorients his opponent. Wow Exit
+
+If the player finished all the quests. (Part 1)
+
+I have some wonderful prizes if you can complete a few tasks around Skull Island ! View Quests Woah, amazing work! This will help a ton. As promised, here is your trophy. [Take Gift] I need a couple more things from you.. Would'ya like to do a couple more tasks? I have a powerful axe to give you if you can help Sure I can't see much down here, can you get a view from 3 different mountaintops? Also, I dropped my pouch in a large skull sculpted on a cliff, can you find it for me? Will do! Exit Not now Exit Join team #Kong Amazing! Welcome to team #Kong. You can chat to show off your team! How powerful is Kong? As he appears in Godzilla Vs. Kong, Kong has a punch Richter Scale reading at magnitude 4.2 at its epicenter! The full grown Titan has developed the fight style of an epic brawler, quick on his feet with aerial traversal and sheers feral strength that confuses and disorients his opponent. Wow Exit
+
+Quests (Part 2) [ ]
+
+If the player hasn't finished even one quest
+(Part 2)
+
+I have some wonderful prizes if you can complete a few tasks around Skull Island ! View Quests Looks like you still need to climb 3 more mountains.. Also, I see you haven't found my pouch yet. I think I dropped it in the eyes of a giant skull carved into the mountain.. Best luck! Ok Exit Join team #Kong Amazing! Welcome to team #Kong. You can chat to show off your team! How powerful is Kong? As he appears in Godzilla Vs. Kong, Kong has a punch Richter Scale reading at magnitude 4.2 at its epicenter! The full grown Titan has developed the fight style of an epic brawler, quick on his feet with aerial traversal and sheers feral strength that confuses and disorients his opponent. Wow Exit
+
+If the player finished one quest. (Part 2)
+
+I have some wonderful prizes if you can complete a few tasks around Skull Island ! View Quests (Unfinished Quest:Mountain) Looks like you still need to climb <Number> more mountains.. But thank you so much for returning my pouch! Best Luck! (Unfinished Quest:Pouch) Great job climing those mountains! But I see you haven't found my pouch yet. I think I dropped it in the eyes of the giant skull carved into the mountain.. Best luck! Ok Exit Join team #Kong Amazing! Welcome to team #Kong. You can chat to show off your team! How powerful is Kong? As he appears in Godzilla Vs. Kong, Kong has a punch Richter Scale reading at magnitude 4.2 at its epicenter! The full grown Titan has developed the fight style of an epic brawler, quick on his feet with aerial traversal and sheers feral strength that confuses and disorients his opponent. Wow Exit
+
+If the player finished all the quests. (Part 2)
+
+I have some wonderful prizes if you can complete a few tasks around Skull Island ! View Quests You truly are a life saver! Use this axe in good health! [Take Gift] Exit Join team #Kong Amazing! Welcome to team #Kong. You can chat to show off your team! How powerful is Kong? As he appears in Godzilla Vs. Kong, Kong has a punch Richter Scale reading at magnitude 4.2 at its epicenter! The full grown Titan has developed the fight style of an epic brawler, quick on his feet with aerial traversal and sheers feral strength that confuses and disorients his opponent. Wow Exit
+
+If player finished all the quests (Part 1 and Part 2)
+
+I have some wonderful prizes if you can complete a few tasks around Skull Island ! View Quests I'm all set! Remember you can keep harvesting coconuts for a chance at palm tree saplings! Cya! Exit Join team #Kong Amazing! Welcome to team #Kong. You can chat to show off your team! How powerful is Kong? As he appears in Godzilla Vs. Kong, Kong has a punch Richter Scale reading at magnitude 4.2 at its epicenter! The full grown Titan has developed the fight style of an epic brawler, quick on his feet with aerial traversal and sheers feral strength that confuses and disorients his opponent. Wow Exit
+
+Quests [ ]
+
+Part 1 [ ]
+
+Harvest 10 coconuts Study 5 bone piles
+
+Rewards: Kong Trophy , access to Part 2 [ ]
+
+Part 2 [ ]
+
+Find the pouch (located in the skull sculpture) Climb 3 different mountains (interact with the binoculars located on top of mountains)
+
+Rewards: Kong's Axe , Kong Badge [ ]
+
+Trivia [ ]
+
+Bosco had the same villager model as Cletus before Cletus' model was changed. Although he looked like Cletus, he used Thomas' model in conversations, similar to Holt .

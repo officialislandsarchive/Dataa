@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Conveyor_Sensor
+
+----------------------------------------
+
+Conveyor Sensor Off Powered Type of block Solid block; Electrical Recipe 1 Conveyor Belt 3 Ruby Skorp Scale 50 Electrite Crafted with Electrical Workbench (Level 3) Required skill Level 36 Forging Best tool Luminous Transparent The conveyor sensor is a conveyor used to detect when an item or block passes through it and to emit a short power signal.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Conveyor Sensor 1 Conveyor Belt 3 Ruby Skorp Scale 50 Electrite Level 3 Electrical Workbench Level 36 Forging
+
+Breaking [ ]
+
+Conveyor Sensor Breaking Data Hardness 2 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 6 Stone 4 4 Iron 2 2 Gilded Steel 2 2 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Detecting [ ]
+
+Conveyor sensors sends a short power signal when an item or block passes through it, allowing for other electrical components like LED lights or split conveyors to be powered momentarily but it uses power itself. It could also be used to activate the totem disabler when an autofarm is overflowing.
+
+History [ ]
+
+December 18, 2020 Added conveyor sensors. January 22, 2021 Level 50 Forging is now required to craft conveyor sensors. May 27, 2022 Level 36 Forging is now required to craft conveyor sensors.

@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Gondo_Datshi
+
+----------------------------------------
+
+Gondo Datshi Recipe 1 Tomato 1 Yak Butter 2 Chili Pepper 1 Egg Crafted with Cooking Table Food Processor Heals 40 HP Effect +10% crop seed yield multiplier (Currently cannot be stacked with Potato Salad ) Required skill Level 49 Cooking Description Consume for +10% crop seed yield multiplier. A gondo datshi is a food item that heals 40 HP and grants +10% crop seed yield multiplier when consumed.
+
+Its crop seed seed yield multiplier of gondo datshi currently cannot be stacked with potato salad 's crop seed seed yield multiplier.
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Gondo Datshi 1 Tomato 1 Yak Butter 2 Chili Pepper 1 Egg Cooking Table Food Processor Level 49 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a gondo datshi restores 40 HP and grants +10% crop seed yield multiplier for 5 minutes, increasing the chances of receiving an extra seed from harvesting non- fruit crops where applicable.
+
+Its crop seed yield multiplier effect of gondo datshis currently cannot be stacked with potato salads .
+
+History [ ]
+
+March 25, 2022 Added gondo datshis. Introduced where the crop seed yield multiplier of gondo datshis now cannot be stacked with potato salads . Introduced where gondo datshis now cannot be sold to Petur .
+
+Trivia [ ]
+
+The crop seed yield multiplier of gondo datshis cannot be stacked with potato salads . Gondo datshis currently cannot be sold to Petur .

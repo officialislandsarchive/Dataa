@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Gearbox
+
+----------------------------------------
+
+Gearbox Recipe 10 Copper Rod 50 Steel Bolt 25 Steel Plate Crafted with Anvil Required skill (to sell) Level 32 Forging Description Multipurpose mechanical gearbox. A gearbox is an item that can be sold for coins , used in various crafting recipes, and in totem upgrades.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Gearbox 10 Copper Rod 50 Steel Bolt 25 Steel Plate Anvil
+
+Usage [ ]
+
+Gearboxes can currently only be used to upgrade totems, and craft some industrial machines.
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Wool Vacuum 1 Medium Chest 1 Pink Sticky Gear 1 Gearbox Animal Bench Level 47 Animal Care Steam Generator 1 Gearbox 20 Copper Bolt 150 Electrite Electrical Workbench (Level 3) None Industrial Polishing Station 1 Gearbox 3 Steel Rod 10 Steel Bolt Workbench Tier 3 Workbench Tier 4 Level 24 Forging
+
+Selling [ ]
+
+Gearboxes can be sold to Jack for 30,000 coins after reaching level 32 in the Forging skill.
+
+Totem upgrades [ ]
+
+Gearboxes are used to upgrade totems .
+
+History [ ]
+
+September 18, 2020 Added gearboxes. It had no other purpose than to be sold to Jack . January 22, 2021 Gearboxes can now be used to craft wool vacuums . April 4, 2021 Gearboxes can now be used to craft steam generators . April 16, 2021 Gearboxes can now be used to upgrade totems . June 4, 2021 Gearboxes can now be used to craft industrial polishing stations .
+
+Trivia [ ]
+
+The gearbox is second-highest-selling merchant offer in the game, with the first being the large crate of plums (31,250 coins ). It was the highest-selling merchant offer in the game before the large crate of melons was introduced in the August 15, 2021 update. It was the third-highest-selling merchant offer in the game between August 15, 2021 and January 8, 2022 when the value of large crate of melons was 34,675 coins before being lowered to 27,000 coins.

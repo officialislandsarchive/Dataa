@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Mayonnaise_Jar
+
+----------------------------------------
+
+Mayonnaise Jar Recipe 1 Egg Crafted with Churner Sell price 240 coins Required skill Level 18 Animal Care (to sell) The mayonnaise jar is an item made by spinning eggs .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Eggs can be transformed into mayonnaise jars in a churner . It takes a total of 3 minutes and 25 seconds to fully transform an egg into a mayonnaise jar.
+
+Input Item transformer Output 1 Egg ➡ Churner ➡ 1 Mayonnaise Jar
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Island Orb 10 Glass Block 5 Milk Bucket 5 Pizza 3 Mayonnaise Jar 5 Jar of Honey Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Deviled Eggs 4 Egg 4 Mayonnaise Jar Cooking Table Level 20 Cooking Potato Salad 12 Potato 4 Tomato 4 Mayonnaise Jar Cooking Table Level 13 Cooking
+
+Selling [ ]
+
+Mayonnaise jars can be sold to Taliyah for 240 coins each after reaching level 18 Animal Care .
+
+History [ ]
+
+February 26, 2021 Added mayonaise jars. November 13, 2021 4 mayonnaise jars are now required to craft deviled eggs , up from 1. 4 mayonnaise jars are now required to craft potato salad , up from 1. April 9, 2022 Mayonnaise jars can now be used to craft Island orbs .
+
+Trivia [ ]
+
+The jar holding the mayonnaise does not need to be crafted. This trait is shared with other jars , such as bee jars , firefly jars , and frog jars .

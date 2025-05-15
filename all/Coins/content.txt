@@ -1,0 +1,41 @@
+Source: https://robloxislands.fandom.com/wiki/Coins
+
+----------------------------------------
+
+Coins are the main currency in Islands . Coins are used when selling and buying from vending machines or with villagers in the Hub .
+
+Earning coins [ ]
+
+Players can earn coins in various ways. The maximum amount of coins a player can hold is 1,500,000,000 (1.5 billion) coins. If a player earns 1,500,000,000 coins or more, the player's coins will be set to 1,500,000,000 at the start of their next session. It is possible to hold a balance over 1.5 billion, but the extra coins will disappear when the player goes through a portal (or begins a new game).
+
+Vending machines [ ]
+
+With a vending machine , players can put their items and blocks up for sale for coins. By inviting other players with an island code or using the " Publish Island " feature, the player can get other players to purchase what they put on sale, or sell an item to the player. Coins are displayed as "$" in vending machines.
+
+Villagers [ ]
+
+Players can sell various blocks and items to villagers in exchange for coins.
+
+VIP Rank [ ]
+
+All players who have purchased the VIP gamepass receive 250 coins every 30 minutes, which is also announced in the in-game chat. The gamepass costs 399 Robux .
+
+Pro Rank [ ]
+
+All players who have purchased the pro gamepass receive 650 coins every 20 minutes, which is also announced in the in-game chat. The gamepass costs 1699 Robux .
+
+Killing mobs [ ]
+
+Eating a roasted honey carrot will give a 50% chance of mobs dropping coins.
+
+Spending coins [ ]
+
+Players can spend their coins by purchasing items and blocks from a vending machine, buying items from villagers, or upgrading totems .
+
+Losing coins ( Hardcore Mode only) [ ]
+
+When a player dies in Hardcore Mode , they lose 5% - 8% of their maximum coins as penalty.
+
+Coin Bags [ ]
+
+Coin bags were items used for trading in the early days of Islands . They existed in 3 variations: 10 coins, 100 coins, and 1,000 coins. They were bought from and sold to the Banker . Coin bags were removed on January 22, 2021 along with the Banker due to them being an ineffective and unsecured way of trading, as many players used them to scam people and dupe coins.

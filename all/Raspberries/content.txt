@@ -1,0 +1,47 @@
+Source: https://robloxislands.fandom.com/wiki/Raspberries
+
+----------------------------------------
+
+Raspberries Seed cost 1,000 coins Planted on Grass Sell price 28 coins Edible Raspberries are a food item collected from raspberry bushes. Raspberry bushes are plants that grow raspberries and can only be harvested by turkeys .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Turkeys will harvest and deposit raspberries into a berry basket or industrial berry basket that is nearby. If there is none, players must spook the turkeys. Turkeys are only able to harvest one berry per bush, and attempting to harvest a raspberry bush normally or with a sickle will not yield any raspberries.
+
+Spooking turkeys [ ]
+
+Spooking turkeys on the Maple Isles has a chance to yield 1 - 2 raspberries.
+
+Growth [ ]
+
+A raspberry bush grows through three stages after it is planted. Its first growth stage is a small seed. It becomes a bush in its second stage, and produces berries in its third growth stage. Its growth time is not affected by water nor basic fertilizer .
+
+Raspberries Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 5s 5m 10s 5m 10s after harvesting Note: The durations of time above are on an unfertilized and unwatered plant Raspberries Growth Time Type Growth Time Normal 5m 10s Fertilized 5m 10s Watered 5m 10s Watered + Fertilized 5m 10s
+
+Usage [ ]
+
+Quests [ ]
+
+Giving Emma 20 raspberries is part of one of her quests.
+
+Eating [ ]
+
+Eating raspberries restores 20 HP.
+
+Selling [ ]
+
+Raspberries can be sold to Emma for 28 coins each.
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Maple Isles Orb 10 Glass Block 20 Raspberry 10 Maple Syrup Bottle Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Dragon Fruit Acai Bowl 1 Dragon Fruit 1 Starfruit 2 Blueberry 2 Raspberry Cooking Table Food Processor Blueprint required Berry Pancakes 1 Sweet Pancakes 6 Raspberry 6 Blueberry Cooking Table Food Processor
+
+History [ ]
+
+November 27, 2021 Added raspberries. Introduced where raspberries now cannot be harvested by players. November 28, 2021 Fixed a bug causing raspberry bushes to disappear when harvested with a sickle . February 27, 2022 Raspberries can now be used to craft dragon fruit acai bowls . April 9, 2022 Raspberries can now be used to craft Maple Isles orbs .
+
+Trivia [ ]
+
+Turkeys cannot reward Farming XP or extra raspberry seeds when harvesting raspberry bushes. Unlike most crops , raspberries are the first and only crop that cannot be harvested by players. In the Maple Isles , raspberries currently cannot be harvested by players.

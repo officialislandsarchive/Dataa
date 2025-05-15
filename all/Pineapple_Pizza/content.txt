@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Pineapple_Pizza
+
+----------------------------------------
+
+Pineapple Pizza Recipe 1 Uncooked Pineapple Pizza Crafted with Campfire Small Furnace Desert Furnace Industrial Oven Heals 50 HP Sell price 124 - 186 coins Hot sell price 186 - 279 coins Pineapple pizza is a food item that heals 50 HP when consumed.
+
+Obtaining [ ]
+
+Cooking uncooked pineapple pizza in a campfire , small furnace , desert furnace , or industrial oven will create pineapple pizza.
+
+Input Output 1 Uncooked Pineapple Pizza 1 Pineapple Pizza
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a pineapple pizza restores 50 HP.
+
+Selling [ ]
+
+Pineapple pizza can be sold to Petur for 124 - 186 coins each, or 186 - 279 coins if pineapple pizza is a hot offer.
+
+History [ ]
+
+January 8, 2022 Added pineapple pizzas. Introduced an oddly where pineapple pizzas now referred to as "Cooked Pineapple Pizza". January 15, 2022 Changed the base selling price from 186 - 279 coins to 124 - 186 coins.
+
+Trivia [ ]
+
+Pineapple pizza is referred to as "Cooked Pineapple Pizza" in-game. Pineapple pizza heals the third-most health out of any food item, with berry pancakes healing the second-most, and fish and chips healing the most.

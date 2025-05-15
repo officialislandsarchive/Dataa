@@ -1,0 +1,9 @@
+Source: https://robloxislands.fandom.com/wiki/Animal_Skins
+
+----------------------------------------
+
+Animal skins (aka animal costumes ) are skins that can be applied to animals. To equip a skin on an animal, a skin must first be purchased from the Robux Shop and then it can be added at the bottom of the inspection UI when inspecting an animal. A skin can only be applied to one animal at a time, but multiple animals can have skins (e.g. 3 cows can all have the "Lunar New Year" skin, 3 sheep can have the "Birthday" skin; the only requirement is that multiple skins have to be bought).
+
+List of animal skins [ ]
+
+Image Name Description Limited Time Animal Cost Lunar New Year Celebrate the Lunar New Year with a limited edition cow skin! February 12, 2021 - February 19, 2021 Cow Off-sale (Previously 499 Robux ) Birthday A sheep with sprinkles? Yes please!! February 19, 2022 - February 26, 2021 Sheep Off-sale (Previously 399 Robux ) Tuxedo A flightless bird never looked so fly. February 26, 2021 - April 24, 2021 Chicken Off-sale (Previously 399 Robux ) Piggy Bank You can't go wrong with a golden pig. April 24, 2021 - Current Pig 399 Robux

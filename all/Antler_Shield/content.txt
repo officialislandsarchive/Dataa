@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Antler_Shield
+
+----------------------------------------
+
+Antler Shield Type Heavy Melee/Shield Physical class Striking Attack damage 15 HP (Base) 23 HP (Critical)
+
+The antler shield is a heavy melee weapon able to attack and defend from attacks.
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Any mob has a 0.3% chance to drop either an antler shield or antler hammer upon defeat provided that the player has the Might of Fhanhorn effect.
+
+Usage [ ]
+
+Attacking [ ]
+
+At Heavy Melee level 1, the antler shield deals a base damage of 15 HP. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal 50% more damage. Its damage can be increased by leveling up the Heavy Melee skill.
+
+Defending [ ]
+
+Any damage taken from mobs will be reduced by 60% if the player is holding the antler shield.
+
+History [ ]
+
+November 27, 2021 Added antler shields.

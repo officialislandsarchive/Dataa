@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Crystallized_Obsidian
+
+----------------------------------------
+
+Crystallized Obsidian Dropped by Bandit Description Used to craft Obsidian Weaponry on the anvil Crystallized obsidian is the crystallized version of obsidian .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Crystallized obsidian has a 1.5% chance of dropping when breaking a obsidian rock . It can only drop by fully breaking an obsidian rock, and can never be dropped by breaking it to its halfway point.
+
+Mob drop [ ]
+
+Bandits have a 1% of dropping a crystallized obsidian upon defeat.
+
+Purchasing [ ]
+
+Crystallized obsidian can be bought from Evans for 10 doubloons .
+
+Treasure chest [ ]
+
+Opening a treasure chest has a 10% chance of rewarding crystallized obsidian, having a rarity of 'uncommon.'
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Obsidian Greatsword 1 Obsidian Hilt 6 Crystallized Obsidian Anvil Respawn Block 10 Magma Block 5 Crystallized Obsidian 20 Obsidian Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+History [ ]
+
+July 17, 2021 Added crystallized obsidian. July 2, 2022 Crystallized obsidian can now be used to craft void blocks .
+
+Trivia [ ]
+
+Crystallized obsidian is misspelled in-game as "Crystalized Obsidian." This is the only type of crystallized ore that can be purchased from a villager .

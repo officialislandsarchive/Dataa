@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Magic
+
+----------------------------------------
+
+Magic Class Combat Base Stats +0.2 Magic DMG Unlocks Lowest Unlock LVL 20 Highest Unlock LVL 40 Magic is a skill that boosts the damage of the spellbook , tidal spellbook , lightning scepter , staff of Godzilla , ruby staff , spirit spellbook , Slime Queen's scepter , and the candy cane scepter . For every level up, a 0.2 boost is applied to the weapon. To level it up, the player needs to kill hostile mobs with the weapons listed below.
+
+Roadmap [ ]
+
+Level Unlock Level 20 Tidal Spellbook Crafting Recipe Level 36 Ruby Staff Crafting Recipe Level 40 Spirit Spellbook Crafting Recipe
+
+List of magic weapons [ ]
+
+Image Name Recipe Crafting station Required skill Magical type Spellbook * 1 Green Page 1 Blue Page 1 Red Page Anvil None Inferno Tidal Spellbook 1 Spellbook 2 Crystallized Aquamarine Anvil Level 20 Magic Hydro Staff of Godzilla ** N/A N/A N/A Quake Lightning Scepter ** N/A N/A N/A Storm Ruby Staff 10 Ruby 2 Gilded Steel Rod Anvil Level 36 Magic Quake Spirit Spellbook 1 Spellbook 50 Spirit Crystal 200 Spirit Jar 1 Green Spirit Essence Anvil Level 40 Magic Void Slime Queen's Scepter * 1 Spellbook 100 Gold Ingot 50 Pink Slime Ball 10 Pink Slime Crystal Anvil None Ethereal Quake *** Candy Cane Scepter ** N/A N/A N/A Frost
+
+* The spellbooks and the Slime Queen's scepters are the only magic weapons that can be crafted without a Magic level requirement ** The staff of godzilla , the lightning scepters , and the candy cane scepters are the only magic weapons that cannot be crafted ** The health drain of the Slime Queen's scepters actually deals Quake damage instead of Ethereal damage
+
+XP gained (mobs) [ ]
+
+Image Mob XP (with 4x daily bonus) XP (without 4x daily bonus) Green Slime 9 XP 3 XP Blue Slime 9 XP 3 XP Pink Slime 9 XP 3 XP Buffalkor 120 XP 30 XP Wizard Lizard 198 XP 51 XP Iron Skorp 300 XP 75 XP Gold Skorp 348 XP 87 XP Ruby Skorp 1998 XP 501 XP Angry Crab 24 XP 6 XP Bandit 48 XP 12 XP Magma Blob 99 XP 24 XP Rock Mimic (coal, iron, gold) 180 XP 45 XP Snowman 99 XP 25 XP
+
+XP gained (bosses) [ ]
+
+Image Name XP (with 4x daily bonus) XP (without 4x daily bonus) Slime King 150 XP 39 XP Wizard Boss 4998 XP 1251 XP Kor 9999 XP 2500 XP Bhaa 4998 XP 1251 XP Infernal Dragon 4998 XP 1251 XP Fhanhorn 4998 XP 1251 XP Percival the Pumpkin King 4998 XP 1251 XP Slime Queen 6000 XP 1500 XP
+
+Trivia [ ]
+
+Magic weapons generally deal more damage than melee weapons , but are unable to deal critical hits , although since the September 24, 2022 update, it does raw damage rather than percentage based damage.

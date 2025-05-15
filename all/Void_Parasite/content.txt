@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Void_Parasite
+
+----------------------------------------
+
+Void Parasite Planted on Farmland Sell price 30 coins Required skill None Description Parasitic crop grown from corrupted seeds. Edible A void parasite is a crop that grows on farmland from void parasites seeds and naturally spawns in the Void Isles as foliage .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting a void parasite plant yields 1 - 3 void parasites, 1 void parasite seed , and 30 Farming XP (60 with the 4x daily bonus). The chance of obtaining more than one void parasite per plant is increased by the player's Farming level and for owners of the VIP gamepass . Extra void parasite seeds cannot be yielded.
+
+Void parasites also naturally spawn throughout the Void Isles as foliage . Void parasites harvested from the isles yield 1 void parasite and have a 3% chance to yield a void parasite seed.
+
+Growth [ ]
+
+The growth time of void parasites can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer .
+
+Void Parasite Growth Phases Phase 0 Phase 1 Phase 2 Time since planted 0m 0s 2m 5m Note: The durations of time above are on an unfertilized and unwatered plant Void Parasite Growth Time Type Growth Time Normal 5:00 Fertilized 4:30 Watered 4:25 Watered + Fertilized 4:15
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Void Potion 3 Amethyst Crystal 1 Empty Potion Bottle 5 Void Parasite Brewing Stand
+
+Selling [ ]
+
+Void parasites can be sold to Larry for 30 coins each.
+
+History [ ]
+
+August 20, 2022 Added void parasites.
+
+Trivia [ ]
+
+Void parasites are the third crop to have a unique seed model, the second being spirit crops , and the first being chili peppers .

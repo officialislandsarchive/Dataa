@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Petroleum_Petrifier
+
+----------------------------------------
+
+Petroleum Petrifier Type of block Solid block; Interactable Recipe 20 Red Bronze Ingot 3 Steel Plate 5 Steel Rod Crafted with Workbench Tier 4 Best tool Luminous Transparent Description Used to convert liquid petroleum in to [sic] solid petroleum fuel which that be used in any machine. The petroleum petrifier is an industrial item transformer that converts petroleum fuel into petrified petroleum .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Petroleum Petrifier 20 Red Bronze Ingot 3 Steel Plate 5 Steel Rod Workbench Tier 4
+
+Breaking [ ]
+
+Petroleum Petrifier Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Transforming [ ]
+
+Liquid petroleum can be inputted through the pipe opening at the front. It takes 20 seconds to convert one petroleum fuel into petrified petroleum , and does not require any fuel source to be powered, like the Oil Refinery , Fuel Barrel Filler , and Fuel Barrel Extractor .
+
+Presumably, the machine runs on part of the petroleum that it is fed, and therefore 1 Petrified Petroleum is "less than" 1 Petroleum Fuel.
+
+Input Output 1 Petroleum Fuel ➡ 1 Petrified Petroleum
+
+History [ ]
+
+August 15, 2021 Added petroleum petrifiers. August 16, 2021 Fixed the bug that prevented petrified petroleum from being outputted out of the back conveyor .

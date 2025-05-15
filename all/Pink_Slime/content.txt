@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Pink_Slime
+
+----------------------------------------
+
+Pink Slime Health 100 HP Behavior Hostile Attack strength 5 HP Drops Pink Slime Ball Pink Sticky Gear Ancient Slime String Slime King Token Slime Queen Token Jukebox Disk Location Slime Island A pink slime is a hostile mob and the rarest variant of slimes .
+
+Spawning [ ]
+
+Pink slimes have a 5% chance of spawning on Slime Island , which is accessible through the portal in the Hub located next to Ivon or through a Slime Portal .
+
+Drops [ ]
+
+A pink slime rewards 3 Combat XP (9 with the 4x daily bonus) and 3 Light Melee , Heavy Melee , Magic , or Archery XP (9 with the 4x daily bonus) depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Pink Slime Ball 150% Pink Sticky Gear 10% Ancient Slime String 2% Slime King Token 2500% Slime Queen Token 50% Jukebox Disks Blue Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Red Jukebox Disk 0.35% Purple Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Green Jukebox Disk 0.01%
+
+Resistances and Weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical None Hydro Slashing Inferno
+
+History [ ]
+
+May 2, 2020 Added pink slimes. May 17, 2020 Pink slimes are able to drop Buffalkor Island keys . August 9, 2020 Pink slimes are able to drop ancient slime string and jukebox disks . January 22, 2021 Pink slimes are no longer able to drop Buffalkor Island keys. Increased the spawn chance from 2% to 5%. February 5, 2021 Pink slimes are able to drop slime portal shards . July 9, 2021 Updated the appearance of pink slimes. September 18, 2021 Pink slimes are able to drop Slime King tokens . September 17, 2022 Pink slimes now have resistances and weaknesses. September 24, 2022 Changed the resistances and weaknesses of pink slimes.
+
+Trivia [ ]
+
+The spawn rate for the Pink Slime used to be 2%. It was buffed to 5% in the January 22, 2021 update.

@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Hotbar
+
+----------------------------------------
+
+The hotbar gameplay mechanic located at the bottom of a player's screen used to swiftly access items and blocks . It can hold 8 objects of the player’s choice.
+
+Access [ ]
+
+Assortment [ ]
+
+Players can add and/or take out items between the hotbar and the inventory .
+
+Using [ ]
+
+When players select an item in the hotbar by tapping on it, their avatar will promptly hold it out. When some items are held out, they can be placed, eaten, or simply held to demonstrate what they have in their inventory. Desktop players can quickly access an item by tapping the numbered key (1 to 8) assigned to it. On desktop, hovering over an item with the mouse arrow will display the item's name.
+
+Dropping [ ]
+
+To drop an item, desktop players tap or hold the "Q" key. Rarer items such as certain tools or weapons require that the player needs to hold the "Q" key in order to confirm dropping the item. Confirmation is not available on mobile. To one side of the mobile hotbar is a curved arrow. When tapped on, this allows the player to drop an item. Mobile players do not need to hold that button at all to confirm dropping any item.
+
+Currently, the only items that cannot be dropped are portal crystals , mysterious fragments , mysterious portal , the 2020 winter build trophy , treasure maps , pet spawn eggs , the spring build trophy and butterfly-themed furniture that can be purchased from Catherine .
+
+Bugs [ ]
+
+Some of the items in the hotbar may appear invisible, but the items and their amount are still there. Starter items such as the watering can cannot be picked up once dropped. The holding confirmation used to cause multiple items to be dropped. This is now fixed. Prior to November 1, 2020 , the hotbar order would not save once a player left the game. When the player rejoined during that time, their items would be randomized. Nowadays, the hotbar saves the order that it was left in. If your hotbar is full and you select another item from your inventory, it will replace the first item.
+
+Gallery [ ]

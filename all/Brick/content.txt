@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Brick
+
+----------------------------------------
+
+Brick Type of block Solid block Recipe 1 Clay Crafted with Campfire Small Furnace Desert Furnace Industrial Smelter Best tool Luminous Transparent Bricks are blocks made by smelting clay .
+
+Obtaining [ ]
+
+Smelting [ ]
+
+Clay can be smelted into bricks in a campfire , small furnace , blast furnace , desert furnace , or industrial smelter .
+
+Input Output 1 Clay 1 Brick
+
+Breaking [ ]
+
+Brick Breaking Data Hardness 8 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 12 Stone 13 8 Iron 8 5 Gilded Steel 6 4 Diamond 4 3 Opal 4 2 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Blast Furnace 50 Brick 20 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Brick Stair 1 Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Brick Slab 1 Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Flower Pot 20 Brick 1 Grass Pottery Bench Blueprint required Fireplace 30 Brick 30 Coal Furniture Workbench
+
+History [ ]
+
+April 24, 2020 Added bricks. May 8, 2021 Changed the texture of bricks. May 21, 2021 Changed the texture of bricks. May 20, 2022 Bricks can now be used to craft blast furnaces .
+
+Trivia [ ]
+
+Bricks are the only kind of brick block that cannot be cut in the stonecutter or industrial stonecutter .

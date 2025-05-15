@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Tree_Tap
+
+----------------------------------------
+
+Tree Tap Recipe 35 Iron Ingot Crafted with Maple Workbench A tree tap is an item used to tap maple sap from maple trees .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Tree Tap 35 Iron Ingot Maple Workbench
+
+Usage [ ]
+
+Tapping [ ]
+
+Tree taps can be placed on maple trees to extract maple sap . It can be connected to a wood tube to transport the sap to other areas of the player's island .
+
+History [ ]
+
+November 27, 2021 Added tree taps.

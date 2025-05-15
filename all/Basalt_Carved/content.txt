@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Basalt_Carved
+
+----------------------------------------
+
+Basalt Carved Type of block Solid block Recipe 1 Basalt Tiles Crafted with Stonecutter Industrial Stonecutter Best tool Luminous Transparent Basalt carved is a block that can be cut from basalt tiles .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Basalt tiles can be transformed into basalt carved in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Basalt Tiles ➡ Stonecutter ➡ 1 Basalt Carved ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Basalt Carved Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+History [ ]
+
+June 18, 2022 Added basalt carved.

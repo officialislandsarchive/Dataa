@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Poached_Duck_Egg
+
+----------------------------------------
+
+Poached Duck Egg Recipe 1 Duck Egg Crafted with Campfire Small Furnace Desert Furnace Heals 20 HP A poached duck egg is a food item obtained by cooking a duck egg .
+
+It is currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Cooking [ ]
+
+Cooking a duck egg in a campfire , small furnace , or desert furnace will create a poached duck egg.
+
+Input Output 1 Duck Egg 1 Poached Duck Egg
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Duck Eggs Benedict 1 Poached Duck Egg 1 Bread Cooking Table Food Processor Level 42 Cooking Scrambled Duck Eggs 2 Poached Duck Egg Cooking Table Food Processor Level 42 Cooking
+
+Eating [ ]
+
+Eating a poached duck egg restores 20 HP.
+
+History [ ]
+
+February 19, 2022 Added poached duck eggs. Introduced where poached duck eggs now cannot be sold to Petur .
+
+Trivia [ ]
+
+Poached duck eggs currently cannot be sold to Petur .

@@ -1,0 +1,41 @@
+Source: https://robloxislands.fandom.com/wiki/Palm_Tree
+
+----------------------------------------
+
+Palm Tree Type of block Solid block Spawns Player's Island Best tool Drops 3 - 4 Oak Wood 1 Palm Tree Sapling Luminous Transparent The Palm Tree is a Fruit Tree added during the Godzilla vs. Kong event. Unlike other trees, it can be planted on both grass and sand .
+
+The canopies of palm trees never change during seasons.
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Palm tree saplings have a 3% chance of dropping whenever a coconut is harvested from a palm tree on naturally-generated ones on Skull Island during the Godzilla vs. Kong event. It can be planted on grass or sand to be grown into a palm tree. It takes 1 minute and 25 seconds for a palm tree sapling to grow into a palm tree.
+
+Breaking [ ]
+
+Palm Tree Breaking Data Hardness 8 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 12 24 Stone 8 13 Iron 5 8 Gilded Steel 4 6 Diamond 3 4 Opal 2 4 Void Mattock 2
+
+Drops [ ]
+
+When cut down, the player will recieve:
+
+3 - 4 oak wood 1 palm tree sapling
+
+Usage [ ]
+
+Harvesting [ ]
+
+Coconuts grow every season on palm trees and can be obtained by harvesting them from the tree. There can be up to three coconuts on a tree at a time, and, during the Godzilla vs. Kong event, there was a 3% chance of getting an additional palm tree sapling when harvesting a coconut. Harvesting a coconut yields 3 Farming XP (12 XP with the 4x daily bonus). It takes 6 minutes for a palm tree to grow a coconut, adding up to a total of 18 minutes to grow three coconuts.
+
+Palm trees can be harvested with leaf clippers to drop 2 leaves .
+
+History [ ]
+
+March 19, 2021 Added palm trees. Fixed a bug causing players to be able to chop down the palm trees on Skull Island . Fixed a bug causing palm tree saplings to not drop from harvested coconuts . April 4, 2021 Palm tree saplings can no longer be obtainable on Skull Island. Palm trees may now spawn on player islands upon creation. May 21, 2021 Palm tree saplings can now be planted on sand . ? Palm trees may no longer spawn on player islands upon creation.
+
+Trivia [ ]
+
+If a palm tree is chopped down while having coconuts on it, it will only drop the sapling and not any of the coconuts. During the release of the Godzilla vs. Kong event, there was a glitch where players were able to chop down the palm trees on Skull Island , rendering the quest to collect 10 coconuts for Bosco to be very difficult. However, this was later patched around half an hour later. There was another bug that made palm trees unable to drop palm tree saplings when players harvested coconuts . This was shortly fixed in the same patch mentioned above. Before the official release of palm trees on March 19, 2021 , large palm trees can be found on Desert Island . However, players are unable to interact with them. Before the May 21, 2021 update, palm trees were only able to be grown on grass . The palm tree is the only tree that can be grown on anything other than grass .
+
+Gallery [ ]

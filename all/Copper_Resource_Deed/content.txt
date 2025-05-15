@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Copper_Resource_Deed
+
+----------------------------------------
+
+Copper Resource Deed Buy cost 150,000 coins Description Creates a temporary [sic] copper resource deposit on your island. A copper resource deed is an item that can be used to spawn a permanent copper resource island . It cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+A copper resource deed can be bought for 150,000 coins from Jade . The player can buy one every 4 hours.
+
+Usage [ ]
+
+Creating copper resources [ ]
+
+Copper resource deeds create a copper resource island with a permanent copper deposit . It is the only way to spawn a copper deposit. The resource island can be spawned by holding down with the deed equipped in the hotbar . The deed will only create the resource island if the player has not reached the max of 15 resource islands already.
+
+History [ ]
+
+June 3, 2022 Added copper resource deeds. June 10, 2022 Fixed a bug that caused copper resource deeds to not work. Copper resource deeds will only spawn an copper resource island if there are less than 15 resource islands on the player's island .

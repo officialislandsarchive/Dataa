@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Stonecutter
+
+----------------------------------------
+
+Stonecutter Type of block Solid block; Interactable Recipe 40 Iron Ingot Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description Converts stone into stone bricks. The stonecutter is an item transformer used to cut blocks into their brick, tiled, or carved variant.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Stonecutter 40 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Stonecutter Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Transforming [ ]
+
+Stonecutters can be used to cut certain blocks into their brick, tiled, or carved variant. It has three slots able to hold one item each in its user interface—two for unprocessed blocks and one for fuel. When powered with coal or petrified petroleum , the stonecutter will activate for approximately 50 seconds. During this time, it will begin cutting any uncut blocks inside, taking 16 seconds per block.
+
+If a stonecutter is depleted of fuel while cutting, any unprocessed blocks remaining inside will keep their conversion progress. Progress is lost upon removing the incomplete material or if the owner of the island the stonecutter is located on leaves.
+
+Input Output 1 Stone ➡ 1 Stone Brick 1 Aquamarine Block ➡ 1 Aquamarine Brick 1 Sandstone ➡ 1 Sandstone Brick 1 Red Sandstone ➡ 1 Red Sandstone Brick 1 Slate ➡ 1 Slate Brick 1 Marble ➡ 1 Marble Brick 1 Smooth Aquamarine ➡ 1 Smooth Aquamarine Brick 1 Smooth Sandstone ➡ 1 Smooth Sandstone Brick 1 Smooth Red Sandstone ➡ 1 Smooth Red Sandstone Brick 1 Compact Ice ➡ 1 Ice Brick 1 Andesite ➡ 1 Andesite Brick 1 Diorite ➡ 1 Diorite Brick 1 Granite ➡ 1 Granite Brick 1 Basalt ➡ 1 Basalt Brick 1 Void Stone Block ➡ 1 Void Stone Brick 1 Stone Brick ➡ 1 Stone Tiles 1 Aquamarine Brick ➡ 1 Aquamarine Tiles 1 Slate Brick ➡ 1 Slate Tiles 1 Marble Brick ➡ 1 Marble Tiles 1 Andesite Brick ➡ 1 Andesite Tiles 1 Diorite Brick ➡ 1 Diorite Tiles 1 Granite Brick ➡ 1 Granite Tiles 1 Basalt Brick ➡ 1 Basalt Tiles 1 Stone Tiles ➡ 1 Stone Carved 1 Aquamarine Tiles ➡ 1 Aquamarine Carved 1 Slate Tiles ➡ 1 Slate Carved 1 Marble Tiles ➡ 1 Marble Carved 1 Andesite Tiles ➡ 1 Andesite Carved 1 Diorite Tiles ➡ 1 Diorite Carved 1 Granite Tiles ➡ 1 Granite Carved 1 Basalt Tiles ➡ 1 Basalt Carved 1 Void Stone Brick ➡ 1 Void Stone Cobble 1 Void Stone Cobble ➡ 1 Void Stone Polished 1 Void Stone Polished ➡ 1 Void Stone Carved 1 Void Stone Carved ➡ 1 Void Stone Tiled
+
+History [ ]
+
+April 27, 2020 Added stonecutters. July 11, 2020 Stonecutters can now cut aquamarine blocks . August 9, 2020 Stonecutters can now cut red sandstone . September 6, 2020 Added a progress bar for blocks being transformed in the stonecutter. Added a quick collect shortcut. Fixed a bug causing blocks to become cut in 5 seconds instead of 16. September 8, 2020 Removed the stonecutter's working animation. Blocks no longer despawn inside stonecutters. September 18, 2020 Fixed a bug causing the stonecutter to consume all fuel items instead of just one. April 4, 2021 Stonecutters can now cut slate and marble . April 24, 2021 Stonecutters can now cut sandstone . June 4, 2021 Stonecutters can now cut smooth aquamarine , smooth sandstone , and smooth red sandstone . August 15, 2021 Stonecutters can now be powered with petrified petroleum . August 16, 2021 Fixed an issue preventing the progress bars of blocks from updating. December 18, 2021 Stonecutters can now cut compact ice . February 19, 2022 Stonecutters can now cut stone bricks , aquamarine bricks , slate bricks , marble bricks , stone tiles , aquamarine tiles , slate tiles , and marble tiles . March 6, 2022 Stonecutters can now cut andesite , diorite , granite , andesite bricks , diorite bricks , granite bricks , andesite tiles , diorite tiles , and granite tiles . April 1, 2022 Updated the GUI to have one slot for the unheated item, one for the final product, and one for the fuel instead of two for items and one for fuel. 50 items can now queued to be heated in a slot, up from 2. June 18, 2022 Stonecutters can now cut basalt , basalt bricks , and basalt tiles . August 27, 2022 Stonecutters can now cut void stone blocks , void stone bricks , void stone cobbles , void stone polished , and void stone carved .
+
+Trivia [ ]
+
+Despite the fact that stonecutters are able to cut various blocks since its release, its description remains unchanged, only stating that it can convert stone into stone bricks .

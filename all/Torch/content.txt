@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Torch
+
+----------------------------------------
+
+Torch Type of block Non-solid block Recipe 2 Oak Wood 1 Coal Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Torches are non-solid blocks that emit light.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Torch 2 Oak Wood 1 Coal Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Torch Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Medieval Chandelier 4 Torch 10 Pine Wood 10 Iron Ingot Furniture Workbench Plated Wall Torch 1 Torch 10 Iron Ingot Furniture Workbench Before November 1, 2020 Jack O' Lantern 1 Pumpkin 1 Torch Workbench Tier 1 Workbench Tier 2 Workbench Tier 3
+
+History [ ]
+
+? Torches are added without a crafting recipe. July 4, 2020 Changed the model and texture of torches. Torches can now be crafted. October 16, 2020 Torches can now be used to craft jack o' lanterns . November 1, 2020 Torches can no longer be used to craft jack o' lanterns. March 12, 2022 Torches can now be used to craft medieval chandeliers and plated wall torches .
+
+Gallery [ ]

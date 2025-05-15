@@ -1,0 +1,47 @@
+Source: https://robloxislands.fandom.com/wiki/Fossil
+
+----------------------------------------
+
+Fossil Rock T-Rex Head T-Rex Left Arm T-Rex Right Arm T-Rex Right Leg T-Rex Tail Spawns Underworld (T-Rex Head) Buffalkor Island (T-Rex Right Arm & Leg) Wizard Island (T-Rex Left Arm & Leg) Desert Island (T-Rex Tail) Slime Island (T-Rex Body) Description T-Rex (fossil) located on (island) Mammoth (fossil) located on (island) Dodo Bird (fossil) located on (island) A fossil is a decoration item that can be used for the T-Rex, Mammoth, and Dodo Bird statue outline.
+
+Carving fossils [ ]
+
+When carving a fossil pile, a UI will appear above the player's hotbar. The player must click when a blue bar, moving back and forth, aligns with a stationary green bar. The green bar changes its position each time the player successfully clicks when the blue bar aligns with it.
+
+If the player manages to click correctly five times without the blue bar being misaligned with the green bar, they will receive a fossil or other items. However, if the player clicks incorrectly four times, the UI will disappear, and they will have to start over again.
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+Various fossils can be found by carving fossil piles in specific islands:
+
+T-Rex heads can be found in the Underworld. T-Rex right arms and legs can be found on the Buffalkor Island. T-Rex left arms and legs can be found on the Wizard Island. T-Rex tails can be found on the Desert Island. T-Rex bodies can be found on the Slime Island. Mammoth heads can be found on the Wizard Island. Mammoth right arms and legs can be found on the Slime Island. Mammoth left arms and legs can be found in the Underworld. Mammoth tails can be found on the Buffalkor Island. Mammoth bodies can be found on the Desert Island. Dodo Bird heads can be found on the Desert Island. Dodo Bird right arms and legs can be found on the Wizard Island. Dodo Bird left arms and legs can be found on the Slime Island. Dodo Bird tails can be found on the Buffalkor Island. Dodo Bird bodies can be found in the Underworld Dodo Bird necks can be found on the Desert Island.
+
+Other items that can be yielded when carving a fossil pile are:
+
+Stone [Common] Granite [Common] Clay [Common] Copper Ingot [Common] Gold Ingot [Rare] Ancient Slime String [Rare] (Only at Slime Island) Ruby [Rare] (Only at Desert Island) Opal [Rare] (Only at the Underworld)
+
+Usage [ ]
+
+T-Rex statue outline [ ]
+
+The player can place the t-rex fossils in the T-Rex statue outline which can be purchased from Azur . The finished product serves no other purposes other than being purely decorative.
+
+Mammoth statue outline [ ]
+
+The player can place the mammoth fossils in the Mammoth statue outline which can also be purchased from Azur . The finished product yet again, is only decorative.
+
+Dodo Bird statue outline [ ]
+
+The player can place the dodo bird fossils in the Dodo Bird statue outline which can of course, be purchased from Azur . The finished product is purely for decoration, and serves no general purpose.
+
+Locations [ ]
+
+Raritys [ ]
+
+To Be Answered
+
+History [ ]
+
+July 7, 2023 Added fossils. July 21, 2023 Added Mammoth Fossil. Added Dodo Bird Fossil.

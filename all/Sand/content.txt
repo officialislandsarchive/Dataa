@@ -1,0 +1,47 @@
+Source: https://robloxislands.fandom.com/wiki/Sand
+
+----------------------------------------
+
+Sand Type of block Solid block Dropped by Angry Crab Buy cost 8 coins Best tool Luminous Transparent Sand is a block that can be obtained by buying it from John or dropped by angry crabs .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Sand can be bought from John for 8 coins each.
+
+Mob drop [ ]
+
+Angry crabs are guaranteed to drop sand upon defeat.
+
+Breaking [ ]
+
+Sand Breaking Data Hardness 2 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 3 Stone 4 2 Iron 2 2 Gilded Steel 2 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Hub Island Orb 10 Glass Block 15 Oak Wood 15 Coal 10 Iron Ingot 10 Sand 8 Aquamarine Shard Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Hourglass 2 Glass Block 5 Birch Wood 5 Sand Furniture Workbench
+
+Smelting [ ]
+
+Smelting sand in a campfire , small furnace , or desert furnace will turn it into a glass block . Sand cannot be heated in an industrial smelter .
+
+Input Output 1 Sand 1 Glass Block
+
+Farming [ ]
+
+Cactus seeds can be planted on sand to be grown into cacti.
+
+Palm trees [ ]
+
+Palm trees can grow on sand.
+
+History [ ]
+
+June 26, 2020 Added sand. November 20, 2020 Cacti can now be grown on sand. May 21, 2021 Palm trees can now be grown on sand. July 17, 2021 Sand can be obtained from defeating angry crabs . March 12, 2022 Sand can now be used to craft hourglasses . April 9, 2022 Sand can now be used to craft Hub Island orbs .
+
+Trivia [ ]
+
+There is a bug that causes sand to glow when too many light sources are placed near it.

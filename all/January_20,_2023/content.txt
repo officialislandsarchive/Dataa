@@ -1,0 +1,53 @@
+Source: https://robloxislands.fandom.com/wiki/January_20,_2023
+
+----------------------------------------
+
+January 20, 2023 Basic Information Day released January 20, 2023 Version number 114 Version Navigator Previous version Next version January 6, 2023 February 3, 2023 The January 20, 2023 update, also known as the Lunar New Year 2023 update, is an update in Islands that initiated the Lunar New Year Event , introduced achievements , a new type of wood , and various new lunar new year-themed furniture blocks .
+
+Content [ ]
+
+Additions [ ]
+
+Added achievements . Added gold envelope 2023s . Added red envelope 2023s . Added Lunar Rabbit . Added Lunar mooncakes . Added cherry blossom wood . Added cherry blossom stairs . Added cherry blossom slabs . Added cherry blossom signs . Added cherry blossom fences . Added trap door cherry blossoms . Added cherry blossom pallets . Added cherry blossom saplings . Added cherry blossom trees . Added new furniture blocks: Lunar Rabbit statues . Dumpling chairs . Dumpling couch . Lunar Rabbit banners . Lunar Rabbit plushies .
+
+Modifications [ ]
+
+Reworked the Explore Menu . Increased the sell price of cacti from 30 coins to 36 coins. Decreased the sell price of tomatoes from 9 coins to 5 coins.
+
+Bug fixes [ ]
+
+Fixed a bug causing the 'Year of the Rabbit' achievement to not work. Fixed a bug causing looted item tracking not to work in achievements. Fixed a bug causing cherry blossom trees not to save in players' islands . Fixed coin display issues. Fixed an issue where notifications would show double items after completing the rabbit arena. Fixed a bug causing cherry blossom blocks to replace tomato sauces when switching servers.
+
+January 25, 2023 [ ]
+
+Modifications [ ]
+
+Removed collisions from cherry blossom saplings .
+
+Bug fixes [ ]
+
+Fixed a bug causing some players to be randomly kicked when joining other islands. Fixed a bug causing players not craft more than one item in coloring stations at a time. Fixed a bug causing players to craft up to only 1 less than the maximum amount to craft. Fixed a bug causing join codes not to work on player islands . Fixed a bug causing other players without build permission to interact with Lunar Rabbit statues on the owner's island.
+
+January 26, 2023 [ ]
+
+Bug fixes [ ]
+
+Fixed a bug causing achievement points not to count correctly on progress upon completion. Fixed a bug causing players unable to collect water by water buckets . Fixed a bug causing players unable to trade some villagers . Fixed a bug causing players unable to interact with Davey on player islands .
+
+January 27, 2023 [ ]
+
+Modifications [ ]
+
+Added an event button on the side menu to queue for the Lunar Rabbit Arena to fight the Lunar Rabbit. Players can now view update notes from their mailbox under their profile. Added confirmation when returning to the owner's island with the side menu button. Added correct profile names to the title when removing or leaving profile slots. Added an “X” button when trading with other players. Increased coal capacity for industrial machines from 1 to 10 per slot.
+
+Bug fixes [ ]
+
+Fixed a bug causing lava and void smoke not to deal damage. Fixed a bug causing players falling into the Kor void would not kill them. Fixed a bug where shift-clicking coal would add multiple slots on the screen.
+
+January 31, 2023 [ ]
+
+Bug fixes [ ]
+
+Fixed a bug causing Don and Hannah unable to teleport players back to the Hub. Fixed a bug prevented players from getting treasure maps from Davey.
+
+Islands update history 2020 April April 10 • April 24 • April 27 May May 2 • May 4 • May 7 • May 10 • May 17 • May 26 • May 31 June June 15 • June 26 July July 4 • July 11 • July 17 • July 25 August August 2 • August 9 • August 16 • August 30 September September 6 • September 18 October October 3 • October 16 November November 1 • November 7 • November 20 • November 26 December December 11 • December 18 2021 January January 4 • January 22 • January 29 February Feburary 5 • Feburary 12 • Feburary 19 • Feburary 26 March March 5 • March 13 • March 19 April April 4 • April 10 • April 16 • April 24 May May 8 • May 21 June June 4 • June 30 July July 9 • July 17 • July 23 • July 30 August August 8 • August 15 • August 21 • August 28 September September 5 • September 11 • September 18 • September 25 October October 9 • October 18 November November 13 • November 27 December December 10 • December 18 • December 29 2022 January January 8 • January 15 • January 30 February February 7 • February 19 • February 27 March March 6 • March 12 • March 25 April April 1 • April 9 • April 16 • April 22 • April 29 May May 13 • May 20 • May 27 June June 3 • June 10 • June 18 • June 25 July July 2 • July 9 • July 16 • July 23 • July 30 August August 6 • August 13 • August 20 • August 27 September September 3 • September 10 • September 17 • September 24 October October 1 • October 8 • October 15 • October 22 • October 28 November November 4 • November 11 • November 18 • November 25 December December 2 • December 16 • December 23 2023 January January 6 • January 20 February February 3 • February 17 March March 3 • March 17 • March 31 April April 14 • April 28 May May 12 • May 26 June June 23 July July 7 • July 21 August August 18 October October 13 November November 7 Discontinuation

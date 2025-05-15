@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Cloth_Loom
+
+----------------------------------------
+
+Cloth Loom Type of block Solid block; Interactable Recipe 100 Pine Wood 25 Iron Ingot Crafted with Animal Bench Required skill Level 24 Animal Care Best tool Luminous Transparent Description Converts wool to cloth. The cloth loom is an item transformer used to transform wool into cloth .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Cloth Loom 100 Pine Wood 25 Iron Ingot Animal Bench Level 24 Animal Care
+
+Breaking [ ]
+
+Cloth Loom Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Transforming [ ]
+
+Input Item transformer Output 1 White Wool ➡ Cloth Loom ➡ 1 Cloth
+
+History [ ]
+
+January 22, 2021 Added cloth looms.
+
+Trivia [ ]
+
+Unlike some of the other item transformers , the cloth loom does not have an animation.

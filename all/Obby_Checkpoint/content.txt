@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Obby_Checkpoint
+
+----------------------------------------
+
+Obby Checkpoint Type of block Non-solid block; Interactable Recipe 10 Oak Wood 1 Blue Flower Crafted with Obby Kit Best tool Luminous Transparent
+
+The Obby Checkpoint was added in the August 16, 2020 update. It is used to add checkpoints to in-game obbies, built on Player Islands .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Obby checkpoints can be crafted with 1 blue flower and 10 oak wood after the player buys the obby kit gamepass for 399 Robux
+
+Name Recipe Crafting station Gamepass required Obby Checkpoint 1 Blue Flower 10 Oak Wood Obby Kit
+
+Breaking [ ]
+
+Obby Checkpoint Breaking Data Hardness 3 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 5 Stone 5 3 Iron 3 2 Gilded Steel 3 2 Diamond 2 1 Opal 2 1 Void Mattock 1
+
+Usage [ ]
+
+Obbies [ ]
+
+An obby checkpoint is used as a checkpoint so a player would not have to start from the obby start when they fall. Once a player touches this and after they fall into the void or restart, they will respawn on this instead of the obby start or the previous checkpoint.

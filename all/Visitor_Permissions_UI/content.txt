@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Visitor_Permissions_UI
+
+----------------------------------------
+
+The Visitor Permissions UI allows the owner of the island to give others build permission, ban, or kick them from their Islands .
+
+Accessing [ ]
+
+The lock icon is located below the Trading Icon in the middle of the screen at the left. Clicking on the lock icon will cause the Island Permissions page to pop up. The button does not appear in a private server.
+
+Permissions [ ]
+
+Build permissions [ ]
+
+Next to each player's name are two buttons. Clicking “X” will delete all invites sent to the player and kick them off one's Island. Clicking Build:Off will change it to Build:On and turn its box green. This gives that certain player build permission. All players with Build:On can place, destroy, take from chests , and open iron doors . Players with Build:Off can only pet animals , open pine doors and view chests .
+
+Banning [ ]
+
+When in the Islands Permissions menu, the player can ban a user from their island by pressing the ban button next to another player's name. Once pressed, a warning will pop up saying "Are you sure you want to ban the user: (Display Name of Player)" There is a yes and no button, if the player presses yes, the user the player pressed ban on will be banned from the Player's Island and will be added to the Banned List, if the player presses no, the player will not be banned from the Island.
+
+Unbanning [ ]
+
+In the Banned List, next to the Players List in the lock icon, any players banned from the Island will have their usernames displayed with an unban button next to it. When the unbanned button is pressed, a warning will pop up saying "Are you sure you want to unban the user: (Username of Player banned). If the player presses yes, the banned player will be unbanned and can come back to the island, if the player presses no, the banned player will remain banned. There is also an "Unban All" button if the player wants to unban all banned players from their island
+
+Gallery [ ]
+
+Trivia [ ]
+
+This used to be called “Player Permissions”, but was probably changed due to the server revamp update on November 1, 2020 .

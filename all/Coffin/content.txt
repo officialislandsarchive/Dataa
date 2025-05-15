@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Coffin
+
+----------------------------------------
+
+Coffin Standing Opened Slanding Closed Lying Opened Lying Closed Type of block Solid block; Seat Buy cost 3,000 coins Best tool Luminous Transparent Description Standing Opened: Standing opened coffin with spikes Standing Closed: Standing closed coffin with spikes Lying Opened: Lying opened coffin with spikes Lying Closed: Lying closed coffin with spikes A coffin is a furniture block that comes in four different variants: standing opened, standing closed, lying opened, and lying closed.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+All four variants of coffins could have been purchased for 3,000 coins each from Kontos each during the Halloween 2022 event.
+
+Breaking [ ]
+
+Coffin Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Sitting [ ]
+
+Coffins have one seat each, which means players, mobs , and villagers are able to sit in the coffins.
+
+History [ ]
+
+October 15, 2022 Added standing opened, standing closed, lying opened, and lying closed coffins. October 22, 2022 Coffins now have seats. November 4, 2022 Coffins can no longer be purchased from Kontos .

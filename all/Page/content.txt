@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Page
+
+----------------------------------------
+
+Page Blue Green Red Dropped by Wizard Lizard Wizard Boss Description Foreign writing covers the page Pages are items dropped by wizard lizards and the Wizard Boss . There are 3 different colors: blue, green, and red. They are used to craft the spellbook .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Wizard lizards have a 0.5% chance of dropping any one of the three pages while the Wizard Boss has a 7.5% chance of dropping one. More than one type of page can be dropped per defeat.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Spellbook 1 Green Page 1 Blue Page 1 Red Page Anvil
+
+History [ ]
+
+July 17, 2020 Added blue, green, and red pages.

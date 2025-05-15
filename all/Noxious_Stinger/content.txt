@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Noxious_Stinger
+
+----------------------------------------
+
+Noxious Stinger Type Light Melee Physical class Piercing Magical class Toxin Attack damage 63 HP (Base/Throw) +32 HP (Critical) 8 - 15 HP per tick (Poison) Recipe 2 Skorp Serpent's Tooth 8 Skorp Serpent's Scale 12 Bone 10 Steel Ingot 5 Gilded Steel Rod Crafted with Anvil Required skill Level 55 Light Melee Description A very pointy spear. A noxious stinger is a light melee weapon in the piercing and toxin classes.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Noxious Stinger 2 Skorp Serpent's Tooth 8 Skorp Serpent's Scale 12 Bone 10 Steel Ingot 5 Gilded Steel Rod Anvil Level 55 Light Melee
+
+Behavior [ ]
+
+Attacking [ ]
+
+At level 1 Light Melee , the noxious stinger deals a base damage of 63 HP and can be swung every 0.5 seconds. There is a small chance this weapon does a critical hit, meaning the attack will do an extra 32 HP of damage. Its damage can be increased by leveling up the Light Melee skill and it is in the piercing and toxin classes.
+
+Poison damage [ ]
+
+There is a 20% - 40% chance that a mob will take poison damage after being hit. 8 - 15 damage will be dealt every 0.3 seconds 11 times, resulting in 88 - 165 additional damage points dealt.
+
+Throwing [ ]
+
+The noxious stinger can be thrown to attack mobs out of the player's reach by holding left click. This feature has a cooldown of 2 seconds.
+
+History [ ]
+
+March 17, 2023 Added noxious stingers.
+
+Trivia [ ]
+
+It is the first and only spear weapon in Islands . It is the third-strongest weapon in the game, with the second being the serpent's bane and the strongest being the reaper's scythe . When lagging, noxious stingers can make hostile mobs "fly". This is because the poison damage is being registered as having knockback. The Skorp Stinger from BedWars is based off this weapon.
+
+This weapon is considered to be the best weapon by the community, due to it's high attack power and ranged ability.
+
+It is the strongest Light Melee weapon.

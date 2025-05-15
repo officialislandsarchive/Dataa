@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Red_Picnic_Blanket
+
+----------------------------------------
+
+Red Picnic Blanket Type of block Solid block Recipe 5 Red Carpet 5 Carpet Crafted with Furniture Workbench Best tool Luminous Transparent The red picnic blanket is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Red Picnic Blanket 5 Red Carpet 5 Carpet Furniture Workbench
+
+Breaking [ ]
+
+Red Picnic Blanket Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+History [ ]
+
+May 31, 2020 Added red picnic blankets. June 3, 2022 A red picnic blanket blueprint is no longer required to unlock the recipe of red picnic blankets.

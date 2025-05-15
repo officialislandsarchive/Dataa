@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Pirate_Ship_Wheel
+
+----------------------------------------
+
+Pirate Ship Wheel Type of block Solid block Best tool Luminous Transparent Description A pirate ship's wheel! The pirate ship wheel is a furniture block that has a chance to be obtained from treasure chests . It can only be placed on walls.
+
+Obtaining [ ]
+
+Treasure chest [ ]
+
+Opening a treasure chest has a 10% chance of rewarding a pirate ship wheel, having a rarity of 'uncommon'.
+
+Breaking [ ]
+
+Pirate Ship Wheel Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+History [ ]
+
+July 17, 2021 Added pirate ship wheels.

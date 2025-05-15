@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Tai_Nigiri
+
+----------------------------------------
+
+Tai Nigiri Recipe 10 Rice 2 Cut Red Snapper Crafted with Cooking Table Food Processor Effect +10% more output when crafting food Required skill Level 63 Cooking Description Eat for +10% more output when crafting food. A tai nigiri is a food item that grants +10% more output when crafting food in a cooking table .
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Tai Nigiri 10 Rice 2 Cut Red Snapper Cooking Table Food Processor Level 63 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a tai nigiri grants +10% more output when crafting food in a cooking table for 15 minutes. Only foods that can be eaten directly are affected by the bonus, meaning that uncooked foods aren't affected.
+
+History [ ]
+
+November 13, 2021 Added tai nigiris. Introduced where tai nigiris now cannot be sold to Petur .
+
+Trivia [ ]
+
+Tai nigiris currently cannot be sold to Petur .

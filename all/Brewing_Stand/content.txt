@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Brewing_Stand
+
+----------------------------------------
+
+Brewing Stand Type of block Solid block; Crafting Recipe 300 Maple Wood 100 Iron Ingot 10 Empty Potion Bottle Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Required skill Level 40 Cooking Best tool Luminous Transparent The brewing stand is a crafting station used to craft potions .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Brewing Stand 300 Maple Wood 100 Iron Ingot 10 Empty Potion Bottle Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 40 Cooking
+
+Breaking [ ]
+
+Brewing Stand Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Crafting recipes [ ]
+
+Image Name Recipe Required skill Strength Potion 1 Gold Skorp Claw 1 Red Mushroom 1 Empty Potion Bottle None Regen Potion 1 Starfruit 1 Red Mushroom 1 Empty Potion Bottle Level 40 Cooking Void Potion 3 Amethyst Crystal 1 Empty Potion Bottle None Toxin Potion 6 Crystalline 1 Empty Potion Bottle Level 40 Cooking
+
+Removed/Previous Recipes [ ]
+
+Image Name Recipe Required skill Formula 86 3 Chocolate Bar 3 Orange Candy 3 Lollipop None Resistance Potion No recipe Level 58 Cooking
+
+Trivia [ ]
+
+During Halloween 2020 , formula 86 was able to be crafted in the brewing stand. There was a potion in Maple Isles when it was still Turkey island.

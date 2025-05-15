@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Hourglass
+
+----------------------------------------
+
+Hourglass Type of block Solid block Recipe 2 Glass Block 5 Birch Wood 5 Sand Crafted with Furniture Workbench Best tool Luminous Transparent The hourglass is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Hourglass 2 Glass Block 5 Birch Wood 5 Sand Furniture Workbench
+
+Breaking [ ]
+
+Hourglass Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+March 12, 2022 Added hourglasses.

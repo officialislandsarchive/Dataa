@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Slate_Tiles
+
+----------------------------------------
+
+Slate Tiles Type of block Solid block Recipe 1 Slate Brick Crafted with Stonecutter Industrial Stonecutter Best tool Luminous Transparent Slate tiles is a block that can be cut from slate bricks .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Slate bricks can be transformed into slate tiles in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Slate Brick ➡ Stonecutter ➡ 1 Slate Tiles ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Slate Tiles Breaking Data Hardness 12 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 18 Wooden 36 18 Stone 20 12 Iron 12 8 Gilded Steel 9 6 Diamond 6 4 Opal 5 3 Void Mattock 3
+
+Usage [ ]
+
+Transforming [ ]
+
+Slate tiles can be transformed into slate carved in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Slate Tiles ➡ Stonecutter ➡ 1 Slate Carved ➡ Industrial Stonecutter ➡
+
+History [ ]
+
+February 19, 2022 Added slate tiles.

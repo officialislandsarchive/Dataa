@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Firefly
+
+----------------------------------------
+
+Firefly Behavior Passive Location Player's Island
+
+Fireflies are flying passive mobs that spawn on the player's island during night time.
+
+Spawning [ ]
+
+Fireflies will naturally spawn from trees on the player's island during night time. There are 5 types of colors: yellow, green, red, blue and purple. Purple fireflies were an unobtainable item, until a player obtained some, and the developers were forced to add it into the game. Fireflies will only be able to spawn if there are trees on the player's island.
+
+Icons Firefly Spawn Chance Yellow Firefly 90% Green Firefly 6% Red Firefly 2% Blue Firefly 0.9% Purple Firefly <0.1%
+
+Rainbow Firefly Event [ ]
+
+Every night, there's a 1.5% chance that the Rainbow Firefly Event will occur. During this event, every color of the firefly (except purple) will spawn on your island.
+
+Usage [ ]
+
+Catching [ ]
+
+Fireflies can be caught with a net . When caught, the player will receive a firefly jar in their inventory. Firefly jars can be used to craft various items or be stored in a display case .
+
+History [ ]
+
+September 6, 2020 Added fireflies. May 21, 2021 Fixed bug that stopped colored fireflies from spawning. March 31, 2023 Fixed bug causing fireflies to stop moving when spawned.
+
+Trivia [ ]
+
+Despite the name, the Rainbow Firefly Event does not spawn any rainbow fireflies. There is a glitch that, if the player captures another player's firefly in a firefly jar, the firefly disappears. This also applies to dropped firefly jars. So the jar's description would be "(color) firefly jar" but there is no firefly in the jar. The purple firefly exists in-game and is the rarest and a legitimate item. Not much is known about the purple firefly and most information about it is purely speculation and theories. It was most likely a test firefly. There was a glitch where colored fireflies didn't show up during night time; this was fixed in the May 21, 2021 update. If the player clicks a firefly light with any firefly jar, the color of the firefly light will be the color firefly the player "puts in". For example, if the player clicks a firefly light while holding a green firefly jar, it would take away one green firefly jar from the player's inventory and make the color of the firefly light green. This works for every firefly color. Fireflies are the smallest passive mob in the game. Fireflies share the same flying animation with bees .
+
+Gallery [ ]

@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Rabbit_(caged)
+
+----------------------------------------
+
+Rabbit White Brown Pink A caged rabbit is an item obtained by catching a rabbit with a net .
+
+Obtaining [ ]
+
+Catching [ ]
+
+A caged rabbit is obtained by catching a rabbit with a net .
+
+Usage [ ]
+
+Releasing [ ]
+
+Caged rabbits can be released by holding the item and holding down the left mouse button on PC or pressing and holding the ‘open’ button on mobile.
+
+History [ ]
+
+June 4, 2021 Added rabbits. November 13, 2021 Fixed large lag spikes when dropping or storing rabbits into chests.

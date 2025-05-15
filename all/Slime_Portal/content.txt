@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Slime_Portal
+
+----------------------------------------
+
+Slime Portal Type of block Solid block; Interactable Recipe 1 Slime Portal Shard 80 Stone Crafted with Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description A placeable portal that allows quick-travel to Slime Island. The slime portal is a portal that allows the player to travel to the Slime Island rather than going through the portal in the Hub .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Slime Portal 1 Slime Portal Shard 80 Stone Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Slime Portal Breaking Data Hardness 35 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 53 Wooden 105 105 Stone 56 56 Iron 35 35 Gilded Steel 25 25 Diamond 18 18 Opal 14 14 Void Mattock 7
+
+Usage [ ]
+
+Traveling [ ]
+
+If a player touches the central purple part of the portal, they will be teleported to Slime Island .
+
+History [ ]
+
+February 5, 2021 Added slime portals. July 9, 2022 Fixed the slime portal's incorrect destination.

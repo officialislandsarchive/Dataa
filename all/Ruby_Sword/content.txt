@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Ruby_Sword
+
+----------------------------------------
+
+Ruby Sword Type Light Melee Physical class Slashing Attack damage 60 HP (Base) +30 HP (Critical) Recipe 20 Ruby Skorp Scale 200 Iron Ingot 6 Ruby Crafted with Anvil Required skill Level 66 Light Melee Description Artifact crafted from shiny rubies. The ruby sword is a light melee weapon in the slashing class.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Ruby Sword 20 Ruby Skorp Scale 200 Iron Ingot 6 Ruby Anvil Level 66 Light Melee
+
+Attacking [ ]
+
+At level 1 Light Melee , the ruby sword deals a base damage of 60 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 30 HP of damage. Its damage can be increased by leveling up the Light Melee skill and it is in the slashing class.
+
+Like other melee weapon , only one player can hit damage in each hostile mob. Multiple players cannot hit damage together.
+
+History [ ]
+
+June 25, 2022 Added ruby swords. ? Changed the description from "Artifact crafted from enchanted rubies." to "Artifact crafted from shiny rubies." September 17, 2022 Ruby swords are now a slashing weapon. September 24, 2022 Ruby swords are now an ethereal weapon. October 1, 2022 Level 66 Light Melee is now required to craft ruby swords instead of level 60 Combat . October 8, 2022 Ruby swords are no longer an ethereal weapon.
+
+Trivia [ ]
+
+The ruby sword is the fourth-strongest melee weapon in terms of base damage, only behind the noxious stinger , serpent's bane , and the reaper's scythe .

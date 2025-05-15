@@ -1,0 +1,9 @@
+Source: https://robloxislands.fandom.com/wiki/World_Map_Guide
+
+----------------------------------------
+
+The world map guide is a feature in Islands that allows the player to read information on islands , view a bird's-eye view of most islands, and view their current location, which is represented by a green icon. It can be accessed by clicking the World Map Guide button when outside of any player island , which replaces the manage island permissions button in said location.
+
+Trivia [ ]
+
+Meshes will appear gray in the bird's-eye view of islands . The Maple Isles is incorrectly referred to as "Maple Island". There are only two permanent islands which the world map guide does not show: the Diamond Mines , which has its information merged with the Buffalkor Island page; and the Void Isles , which the world map guide has no information on. The Underworld page in the world map guide does not include a bird's-eye view of the island; instead, the text "UNKNOWN LOCATION" appears instead. This is because the bird's-eye view of each island are directly recycled from the ones that appear on treasure maps , which does not include a view of the Underworld.

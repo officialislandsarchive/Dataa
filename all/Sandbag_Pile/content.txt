@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Sandbag_Pile
+
+----------------------------------------
+
+Sandbag Pile Type of block Solid block Best tool Luminous Transparent Description A large sandbag pile for decor.
+
+The sandbag pile is a mining-themed furniture block that can be obtained by purchasing from Jed .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+The sandbag pile can be purchased from Jed for 15 emerald crystals .
+
+Breaking [ ]
+
+Sandbag Pile Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+April 28, 2023 Added sandbag piles. May 12, 2023 Sandbag piles are made unobtainable.

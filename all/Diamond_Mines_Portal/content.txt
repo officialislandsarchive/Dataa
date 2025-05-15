@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Diamond_Mines_Portal
+
+----------------------------------------
+
+Diamond Mines Portal Type of block Solid block; Interactable Recipe 1 Diamond Mines Portal Shard 15 Enchanted Diamond 150 Stone Brick Crafted with Workbench Tier 3 Workbench Tier 4 Required skill Level 46 Combat (To use) Best tool Luminous Transparent Description A placeable portal that allows quick-travel to Diamond Mines. The diamond mines portal is a placeable portal that allow players to directly travel to the Diamond Mines through the player's island .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Diamond Mines Portal 1 Diamond Mines Portal Shard 15 Enchanted Diamond 150 Stone Brick Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Diamond Mines Portal Breaking Data Hardness 35 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 53 Wooden 105 105 Stone 56 56 Iron 35 35 Gilded Steel 25 25 Diamond 18 18 Opal 14 14 Void Mattock 7
+
+Usage [ ]
+
+Traveling [ ]
+
+When a player touches the purple part of the portal, they will be teleported to the Diamond Mines . If their Combat level is below 46, a UI element will pop-up telling them they do not have a high enough Combat level to enter, and it won't teleport the player.

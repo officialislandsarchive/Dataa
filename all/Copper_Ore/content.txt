@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Copper_Ore
+
+----------------------------------------
+
+Copper Ore Copper Ore Rock Spawns Buffalkor Island Diamond Mines Description Heat up to smelt into a copper ingot. Copper ore is an ore that can be obtained from copper rocks and copper deposits .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Copper rocks naturally generate on Buffalkor Island , Emerald Mines and in the Diamond Mines . Mining a copper rock yields 1 - 2 copper ore after each stage and 3 Mining XP (6 with the 4x daily bonus), resulting in a total of 2 - 4 copper ore and 9 Mining XP (18 with the 4x daily bonus) per rock.
+
+Resource island [ ]
+
+Copper ore can be obtained by mining a copper deposit , which spawns in copper resource islands around the player's island . Mining a copper deposit drops 30 - 50 copper ore.
+
+Drilling [ ]
+
+Placing a drill on top of a copper deposit and fueling it with coal or petrified petroleum provides an infinite stream of copper ore, with one being generated every 5 seconds.
+
+Breaking [ ]
+
+Copper Rock Breaking Data Hardness 60 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 90 Wooden 180 90 Stone 96 60 Iron 60 38 Gilded Steel 42 30 Diamond 30 18 Opal 24 12 Void Mattock 12
+
+Usage [ ]
+
+Smelting [ ]
+
+Copper ore can be smelted into copper ingots using an industrial smelter .
+
+Input Output 1 Copper Ore 1 Copper Ingot
+
+History [ ]
+
+September 18, 2020 Added copper ore. June 3, 2022 Added copper rocks. Changed the description from "Can be drilled out and smelted with an industrial smelter. Found on your island." to "Heat up to smelt into a copper ingot."
+
+Trivia [ ]
+
+When copper ore was first released, it was the first ore that did not come from an ore rock ; instead, it could have only came from a resource block .

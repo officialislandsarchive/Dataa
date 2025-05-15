@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Void_Parasite_Seeds
+
+----------------------------------------
+
+Void Parasite Seeds Planted on Farmland Void parasite seeds are seeds used to grow void parasites .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting a void parasite plant on player islands will give 1 - 3 void parasites and 1 void seed, while harvesting a naturally-spawning void parasite in the Void Isles has a 3% chance of rewarding a void seed.
+
+Serpent eggs [ ]
+
+Opening a serpent egg has a 2% chance of rewarding void parasite seeds, having a rarity of 'rare'.
+
+Usage [ ]
+
+Planting [ ]
+
+Void parasite seeds can be planted on farmland be grown into void parasites.
+
+Growth [ ]
+
+The growth time of void parasites can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer .
+
+Void Parasite Seeds Growth Phases Phase 0 Phase 1 Phase 2 Time since planted 0m 0s 2m 30s 4m 45s Note: The durations of time above are on an unfertilized and unwatered plant Void Parasite Seeds Growth Time Type Growth Time Normal Fertilized Watered Watered + Fertilized
+
+History [ ]
+
+August 20, 2022 Added void parasite seeds. August 21, 2022 Increased chances of getting void parasite seeds from 0.5% to 3%.
+
+Trivia [ ]
+
+Void parasite seeds are the third crop seed to have a unique model, the second being spirit seeds , and the first being chili pepper seeds .

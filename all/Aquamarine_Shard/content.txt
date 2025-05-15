@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Aquamarine_Shard
+
+----------------------------------------
+
+Aquamarine Shard Aquamarine Shard Rock Spawns Hub Lake Slime Reef Description A small piece of prismarine. Found in ponds. An aquamarine shard is an item that can be obtained by mining aquamarine rocks in the Hub Lake , Slime Reef or player island.
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+Aquamarine rocks naturally spawn at the bottom of the Hub Lake and Slime Reef . Mining an aquamarine rock grants the player 1 - 2 aquamarine shards and 9 Mining XP (39 with the 4x daily bonus) per stage, resulting in a total of 2 - 4 aquamarine shards and 18 Mining XP (78 with the 4x daily bonus) per full rock. The rock has a 0.5% chance to yield a crystallized aquamarine when it is fully broken.
+
+Totems [ ]
+
+An aquamarine totem will spawn aquamarine rocks in a 5 block radius. After the totem has spawned 6 aquamarine rocks or has run out of space, the totem will begin to mine the rocks and hold rewards equivalent to a half of an ore rock, which can be collected by interacting with the totem.
+
+An aquamarine totem placed next to a conveyor belt will drop aquamarine shards onto the conveyor belt.
+
+Fishing [ ]
+
+Fishing with a wooden or iron fishing rod has a chance to reward 5 aquamarine shards as a treasure item, having a rarity of 'uncommon.'
+
+Breaking [ ]
+
+Aquamarine Rock Breaking Data Hardness 70 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 105 Wooden 210 105 Stone 112 70 Iron 70 44 Gilded Steel 49 35 Diamond 35 21 Opal 28 14 Void Mattock 14
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Aquamarine Block 4 Aquamarine Shard Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Teleporter Pad 20 Iron Ingot 10 Steel Ingot 30 Aquamarine Shard Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Hub Island Orb 10 Glass Block 15 Oak Wood 15 Coal 10 Iron Ingot 10 Sand 8 Aquamarine Shard Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Aquamarine Sword 200 Aquamarine Shard 2 Crystallized Aquamarine Anvil Aquamarine Potted Plant 10 Aquamarine Shard 2 Tall Grass 5 Grass Furniture Workbench Sink 50 Iron Ingot 5 Aquamarine Shard Furniture Workbench Orb Stand 5 Iron Ingot 5 Steel Ingot 5 Aquamarine Shard Furniture Workbench Gamepass required Sea Lantern 20 Aquamarine Shard 10 Coal Lighting Station
+
+History [ ]
+
+July 11, 2020 Added aquamarine shards. January 29, 2021 Aquamarine shards can be used to craft aquamarine potted plants and sinks . October 9, 2021 Aquamarine shards can be obtained from aquamarine totems . April 9, 2022 Aquamarine shards can now be used to craft teleporter pads , Hub Island orbs , and orb stands . May 13, 2022 Aquamarine shards can now be obtained from fishing .
+
+Trivia [ ]
+
+This is the first ore that can be obtained underwater, the second being clay .

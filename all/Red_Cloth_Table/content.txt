@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Red_Cloth_Table
+
+----------------------------------------
+
+Red Cloth Table Type of block Solid block Recipe 1 Red Carpet 10 Oak Wood Crafted with Furniture Workbench Best tool Luminous Transparent The red cloth table is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Red Cloth Table 1 Red Carpet 10 Oak Wood Furniture Workbench
+
+Breaking [ ]
+
+Red Cloth Table Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+History [ ]
+
+May 31, 2020 Added red cloth tables. June 3, 2022 A red cloth table blueprint is no longer required to unlock the recipe of red cloth tables.
+
+Trivia [ ]
+
+The red cloth on the table is a recolored '70s rug .

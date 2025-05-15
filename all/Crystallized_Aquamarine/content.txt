@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Crystallized_Aquamarine
+
+----------------------------------------
+
+Crystallized Aquamarine Description Rare drop from Aquamarine Rocks. Crystallized aquamarine is a crystal that has a chance of dropping when mining aquamarine rocks and fishing .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Crystallized aquamarine has a 0.5% of dropping when breaking aquamarine rocks . It can only be obtained by fully breaking an aquamarine rock, and can never be obtained by breaking it to its halfway point. Aquamarine totems cannot output crystallized aquamarine onto conveyor belts .
+
+Fishing [ ]
+
+Crystallized aquamarine can be obtained by fishing as a treasure item, having a rarity of 'rare'.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Aquamarine Sword 200 Aquamarine Shard 2 Crystallized Aquamarine Anvil Small Fish Tank 5 Glass 15 Oak Wood 2 Crystallized Aquamarine Furniture Workbench Blueprint required Tidal Spellbook 1 Spellbook 2 Crystallized Aquamarine Anvil
+
+History [ ]
+
+July 25, 2020 Added crystallized aquamarine. September 18, 2020 Crystallized aquamarine can now be used to craft small fish tanks . May 13, 2022 Crystallized aquamarine can now be used to craft aquamarine swords .

@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Green_Spirit_Essence
+
+----------------------------------------
+
+Green Spirit Essence Item Particles Dropped by Green Spirit Description A rare drop from Green Spirits, said to be imbued with healing power... A green spirit essence is an item that is used to craft spirit spellbooks and spirit lava lamps . It cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Catching [ ]
+
+Green spirits have a 40% chance to drop a green spirit essence when caught with a net .
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Spirit Spellbook 1 Spellbook 50 Spirit Crystal 200 Spirit Jar 1 Green Spirit Essence Anvil Level 40 Magic Spirit Lava Lamp 25 Spirit Plank 100 Spirit Jar 1 Green Spirit Essence 10 Spirit Crystal Furniture Workbench None
+
+Displaying [ ]
+
+A spirit essence holder can be used to display green spirit essence.
+
+History [ ]
+
+June 3, 2022 Added green spirit essences. June 4, 2022 Removed green spirit essences. June 10, 2022 Re-added green spirit essences. Green spirit essences can now be used to craft spirit spellbook . Green spirits now have a 40% chance to drop green spirit essences when caught. June 11, 2022 Fixed a bug that caused green spirits to not drop green spirit essences. June 18, 2022 Green spirit essences can now be displayed on spirit essence holders . July 16, 2022 Green spirit essences can now be used to craft spirit lava lamps .
+
+Trivia [ ]
+
+Green spirit essence was accidentally left obtainable on June 3, 2022 but was later removed the next day. It was re-added on June 10, 2022 for the addition of spirit spellbooks. The green spirit essence emits green light when held Despite the item description implying that it has healing powers, neither the spirit spellbook nor the spirit lava lamp heal the player.

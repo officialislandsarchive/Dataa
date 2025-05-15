@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Short_Table_Top
+
+----------------------------------------
+
+Short Table Top Type of block Solid block Recipe 8 Iron Ingot 1 Marble 1 Black Glass Block Crafted with Furniture Workbench Best tool Luminous Transparent A short table top is a furniture block .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Short Table Top 8 Iron Ingot 1 Marble 1 Black Glass Block Furniture Workbench
+
+Breaking [ ]
+
+Short Table Top Breaking Data Hardness 3.75 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 6 6 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+October 28, 2022 Added short table tops.

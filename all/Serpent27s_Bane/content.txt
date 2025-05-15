@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Serpent%27s_Bane
+
+----------------------------------------
+
+Serpent's Bane Type Heavy Melee Physical class Slashing Attack damage 65 HP (Base) +33 (Critical) Recipe 3 Serpent's Scale 40 Amethyst Crystal 200 Iron Ingot 10 Gilded Steel Rod Crafted with Anvil Required skill Level 68 Heavy Melee Description An almighty powerful greatsword forged from the Serpent's scales! The serpent's bane is a heavy melee weapon in the slashing class.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Serpent's Bane 3 Serpent's Scale 40 Amethyst Crystal 200 Iron Ingot 10 Gilded Steel Rod Anvil Level 68 Heavy Melee
+
+Attacking [ ]
+
+At level 1 Heavy Melee , the serpent's bane deals a base damage of 65 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 33 HP of damage. Its damage can be increased by leveling up the Heavy Melee skill and it is in the slashing class.
+
+Like other melee weapon , only one player can hit damage in each hostile mob. Multiple players cannot hit damage together.
+
+History [ ]
+
+August 13, 2022 Added serpent's banes. September 17, 2022 Serpent's banes are now a slashing weapon. October 1, 2022 Level 68 Heavy Melee is now required to craft serpent's banes instead of level 68 Combat .
+
+Trivia [ ]
+
+The serpent's bane is the second strongest melee weapon , with the reaper's scythe being the first. Unlike serpent's hooks and the reaper's scythes, it is not in the void class despite having void attributes.

@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/School_Desk
+
+----------------------------------------
+
+School Desk Red Blue Yellow Green Purple Type of block Solid block; Interactable Recipe 2 Colored Solid 20 Iron Ingot Crafted with Furniture Workbench Best tool Luminous Transparent Description A desk to store items in A school desk is a furniture block that comes in five color variants: red, blue, yellow, green, and purple. It can store up to 45 items .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Red School Desk 2 Solid Red 20 Iron Ingot Furniture Workbench Blue School Desk 2 Solid Blue 20 Iron Ingot Yellow School Desk 2 Solid Yellow 20 Iron Ingot Green School Desk 2 Solid Green 20 Iron Ingot Purple School Desk 2 Solid Purple 20 Iron Ingot
+
+Breaking [ ]
+
+School Desk Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+Usage [ ]
+
+Storage [ ]
+
+A school desk has 3 slots that can fit up to 15 items per slot, adding up to a total of 45 items per desk.
+
+History [ ]
+
+December 2, 2022 Added school desks.

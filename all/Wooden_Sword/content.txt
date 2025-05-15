@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Wooden_Sword
+
+----------------------------------------
+
+Wooden Sword Type Light Melee Physical class Slashing Attack damage 10 HP (Base) +5 HP (Critical) Recipe 20 Oak Wood Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 The wooden sword is a light melee weapon in the slashing class.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Wooden Sword 20 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Attacking [ ]
+
+At level 1 Light Melee , the wooden sword deals a base damage of 10 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing and moderate knockback. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 5 HP of damage. Its damage can be increased by leveling up the Light Melee skill and it is in the slashing class.
+
+Like other melee weapon , only one player can hit damage in each hostile mob. Multiple players cannot hit damage together.
+
+History [ ]
+
+May 2, 2020 Added wooden swords. May 4, 2020 Wooden swords no longer fall into the void when dropped. July 9, 2021 Changed the wooden sword's model. November 13, 2021 Fixed a bug that caused the wooden sword to swing very slowly. September 17, 2022 Wooden swords are now a slashing weapon.
+
+Trivia [ ]
+
+This was the first ever weapon to be released in Islands . This is the first craftable weapon not crafted in the anvil , the second being the stone sword . The wooden sword deals the second-lowest damage per attack, with the lowest being a tie between the lightning scepter and the maple shield . The weapon's current texture was taken from Easy.gg's other game, Bedwars .

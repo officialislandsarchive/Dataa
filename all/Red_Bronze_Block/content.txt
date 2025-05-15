@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Red_Bronze_Block
+
+----------------------------------------
+
+Red Bronze Block Type of block Solid block Recipe 10 Red Bronze Ingot Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent A red bronze block is a decorative block crafted with 10 red bronze ingots . It cannot be turned back into red bronze ingots once it has been crafted.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Red Bronze Block 10 Red Bronze Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Red Bronze Block Breaking Data Hardness 7 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 11 Wooden 21 21 Stone 12 12 Iron 7 7 Gilded Steel 5 5 Diamond 4 4 Opal 3 3 Void Mattock 2
+
+History [ ]
+
+March 25, 2022 Added red bronze blocks.

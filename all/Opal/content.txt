@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Opal
+
+----------------------------------------
+
+Opal Opal Rock Dropped by Magma Blob Magma Golem Spawns Underworld Description A beautiful and rare rock. An opal is an item obtained by breaking its respective rock or by defeating magma blobs and magma golems . It is used to craft various opal tools .
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+Opal rocks naturally generate throughout the Underworld . Mining an opal rock yields 1 - 2 opals after each stage and 8 Mining XP (15 with the 4x daily bonus), resulting in a total of 2 - 4 opals and 16 Mining XP (30 with the 4x daily bonus) per rock. 1 - 5 underworld tokens will also be rewarded after mining the entire rock.
+
+Mob drop [ ]
+
+Magma blobs and magma golems have a 10% chance of dropping an opal upon defeat.
+
+Dragon eggs [ ]
+
+Opening an infernal dragon egg has a 23% chance of rewarding 10 - 50 opals, having a rarity of 'common'.
+
+Breaking [ ]
+
+Opal Rock Breaking Data Hardness 50 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 75 Wooden 150 75 Stone 80 50 Iron 50 32 Gilded Steel 35 25 Diamond 25 15 Opal 20 10 Void Mattock 10
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Opal Block 10 Opal Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Underworld Orb 10 Glass Block 20 Opal 5 Infernal Fish Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 55 Combat The Dragonslayer 1 Opal Sword Hilt 60 Opal 100 Iron Ingot Anvil Level 55 Heavy Melee Opal Pickaxe 1 Opal Pickaxe Hilt 50 Opal 100 Iron Ingot Anvil Level 55 Mining Opal Axe 1 Opal Axe Hilt 50 Opal 100 Iron Ingot Anvil Level 55 Woodcutting
+
+History [ ]
+
+September 11, 2021 Added opals. March 25, 2022 Opal can be used to craft opal blocks . April 1, 2022 Decreased spawn rate of opal rocks. April 9, 2022 Opal can now be used to craft Underworld orbs . July 23, 2022 Opals can now be dropped from defeating magma golems .

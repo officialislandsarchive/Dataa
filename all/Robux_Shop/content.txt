@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Robux_Shop
+
+----------------------------------------
+
+The Robux Shop is a UI element that can be opened by pressing its button on the left side of a player's screen. When opened, it plays a sound before displaying all the gamepasses and animal skins that are currently purchasable with robux — Roblox's official currency. They are separated into three tabs: Ranks, Unlocks, and Skins.
+
+Ranks [ ]
+
+This tab holds gamepasses that grant the player a rank in the chat and special boosts.
+
+Unlocks [ ]
+
+This tab holds the other gamepasses that give the player access to exclusive items.
+
+On sale [ ]
+
+Offsale: [ ]
+
+Skins [ ]
+
+This tab holds all the current animal skins for sale. While gamepasses can only be bought once, animal skins can be purchased without a limit.
+
+On sale [ ]
+
+Offsale [ ]
+
+Trivia [ ]
+
+There has only ever been 1 animal skin for sale at a time.

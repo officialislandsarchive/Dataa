@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Melody
+
+----------------------------------------
+
+Melody Location Hub Purpose Gives 2 instruments and promotes the instrument workbench Occupation Musician Melody is a villager located in the Hub . Upon interacting with her for the first time, she will give the player a pan flute and kalimba .
+
+Dialogue [ ]
+
+First interaction [ ]
+
+"What's rockin', user ?" >That's a nice guitar! "Thanks! I happen to have some spare instruments on me if you want to jam yourself?" >Yes please! "Here you go. Enjoy." >Other instruments "If you're wantin' some other instruments to play with, you can create them in an instrument workbench." >Purchase Workbench Prompts gamepass purchase. >Thank you! "What can I do for you?" [Loops to beginning]
+
+After first interaction [ ]
+
+"What's rockin', user ?" (Without gamepass) >Purchase Workbench Prompts gamepass purchase. (With gamepass) >Goodbye End.
+
+History [ ]
+
+July 9, 2021 Added Melody. May 13, 2022 Fixed a bug causing Melody to appear inside the ground.

@@ -1,0 +1,49 @@
+Source: https://robloxislands.fandom.com/wiki/Azarathian_Serpent
+
+----------------------------------------
+
+Azarathian Serpent Health 30,000 Behavior Hostile Attack strength 20 - 30 Effect Food Poison Drops Ruby Skorp Serpent's Scale Bhaa Token Skorp Serpent's Tooth Gold Ingot Jukebox Disk Location Desert Island The Azarathian Serpent is a mini-boss found in Desert Island .
+
+Description [ ]
+
+The Azarathian Serpent is a mini-boss found in Desert Island that has a 15% chance of spawning every minute after 10 minutes from its last defeat or despawn.
+
+When it spawns, visibility everywhere on the desert map will be drastically decreased and a purple message appears in chat saying: "The winds in the Azarathian desert are picking up..."
+
+When no player is near the serpent spawn location, the serpent is killed, or it has despawned, visibility returns to normal and a purple message appears in chat saying:
+
+"The winds in the Azarathian desert have died down..."
+
+Like other bosses, if no player attacks it for 5 or more minutes, or if the fight lasts more than 10 minutes, the Azarathian Serpent will despawn and the player will have to wait for another spawning to fight it again.
+
+Drops [ ]
+
+The Azarthian Serpent rewards 1,740 Combat XP (4,485 with the 4x daily bonus) and 1,740 Light Melee , Heavy Melee , Magic , or Archery XP (4,485 with the 4x daily bonus) depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Skorp Serpent's Scale 30% Skorp Serpent's Tooth 15% Ruby 5% Gold Ingot 60% Bhaa Token 1000% Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Attacks [ ]
+
+Venomous Bite [ ]
+
+The Azarathian Serpent will attack the nearest player with a venomous bite, prohibiting natural or food health regeneration for 10 Seconds.
+
+Ball of Poison [ ]
+
+The Azarthian Serpent will attack the nearest player with a small green ball of poison, prohibiting the same things as the Venomous Bite attack.
+
+Burrow [ ]
+
+The Azarathian Serpent will burrow into the ground and dive up, damaging and flinging players within a large range of area of attack.
+
+Resistances and Weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical None Quake , Toxin , Inferno Slashing Storm
+
+History [ ]
+
+March 17, 2023 Added the Azarathian Serpent.
+
+Trivia [ ]
+
+The Azarathian Serpent is the first and only mini-boss in Islands that can be summoned by itself and cannot be summoned by players or tokens . It is the fourth boss in Islands that doesn't have its own token Upon defeat, it can drop other boss tokens, much like how the Slime King drops Slime Queen Tokens . When the Azaranthian Serpent burrows into the ground, its model is condensed into a ball and hidden until it unburrows and plays its pop-up animation. It is the only boss that can possibly spawn on another boss's arena

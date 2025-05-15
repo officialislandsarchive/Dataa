@@ -1,0 +1,17 @@
+Source: https://robloxislands.fandom.com/wiki/Ship_in_a_Bottle
+
+----------------------------------------
+
+Ship in a Bottle Type of block Solid block Recipe 10 Maple Plank 2 Glass Block Crafted with Furniture Workbench Best tool Luminous Transparent
+
+The ship in a bottle is a furniture block that can be crafted in the furniture workbench . It was added in the January 4, 2021 update.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Ship in a Bottle 10 Maple Plank 2 Glass Block Furniture Workbench
+
+Breaking [ ]
+
+Ship in a Bottle Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1

@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Orange_Honeycomb
+
+----------------------------------------
+
+Orange Honeycomb Recipe 8 Orange 8 Honeycomb Crafted with Cooking Table Food Processor Sell price 704 - 1,056 coins Hot sell price 1,056 - 1,584 coins Required skill Level 65 Cooking An orange honeycomb is a food item that does not heal the player or grant any additional effect when consumed.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Orange Honeycomb 8 Orange 8 Honeycomb Cooking Table Food Processor Level 65 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating an orange honeycomb does not restore any HP or grant any additional effect.
+
+Selling [ ]
+
+Orange honeycombs can be sold to Petur for 704 - 1,056 coins each, or 1,056 - 1,584 coins if orange honeycombs are a hot offer.
+
+History [ ]
+
+August 30, 2020 Added orange honeycombs. January 22, 2021 Level 65 Cooking is now required to craft orange honeycombs. February 26, 2021 Changed the base selling price from 140 coins to 220 coins. November 13, 2021 Orange honeycombs now grant +30% chance to catch 2 fish at once while fishing when consumed. Added a description. Changed the base selling price from 220 coins to 880 coins. Changed the recipe from 2 oranges and 2 honeycombs to 8 oranges and 8 honeycombs. Orange honeycombs no longer heal 35 HP when consumed. January 8, 2022 Changed the base selling price from 880 coins to 1,056 - 1,584 coins. January 15, 2022 Changed the base selling price from 1,056 - 1,584 coins to 704 - 1,056 coins. May 13, 2022 Orange honeycombs now grant +15% fishing speed when consumed. June 3, 2022 Orange honeycombs no longer grant +15% fishing speed when consumed. Removed the description.
+
+Trivia [ ]
+
+This is one of the two items that use oranges in their recipe, the other being orange cake batter .

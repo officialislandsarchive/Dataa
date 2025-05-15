@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Filter_Conveyor
+
+----------------------------------------
+
+Filter Conveyor Type of block Solid block; Interactable Recipe 3 Crystallized Iron 12 Steel Rod 40 Iron Ingot Crafted with Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description Splits one input into two outputs, based on a filter. A filter conveyor is a conveyor block used to filter items from a conveyor belt .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Filter Conveyor 3 Crystallized Iron 12 Steel Rod 40 Iron Ingot Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Filter Conveyor Breaking Data Hardness 4 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 6 Stone 7 4 Iron 4 3 Gilded Steel 3 2 Diamond 2 2 Opal 2 1 Void Mattock 1
+
+Usage [ ]
+
+Filtering conveyors [ ]
+
+A filter conveyor has 3 possible directions for an item to go: left, straight, and right. Through its user interface, the player can select an item that the conveyor will filter by adding the item into one of the four slots. The left and right directions have two slots each, meaning that only two different types of items can be filtered for the two directions. Any item that is not selected to be filtered to go left/right will be outputted through the conveyor belt at the back.
+
+Adding an item selection through the filter conveyor's UI doesn't use/hold one of the items.
+
+History [ ]
+
+August 21, 2021 Added filter conveyors.
+
+Trivia [ ]
+
+The filter conveyor used to be sorted in the 'Block' category in workbenches instead of the 'Factory' category. Certain items may get stuck in the gap between the filter conveyor and any adjacent conveyors leading to it.

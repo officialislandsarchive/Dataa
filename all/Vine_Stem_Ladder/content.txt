@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Vine_Stem_Ladder
+
+----------------------------------------
+
+Vine Stem Ladder Type of block Solid block; Climbable Recipe 10 Vine Stem Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent A vine stem ladder is a block that allows players to climb up blocks. These blocks can float, meaning they can be placed without blocks underneath or behind them.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Vine Stem Ladder 10 Vine Stem Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Vine Stem Ladder Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+Usage [ ]
+
+Climbing [ ]
+
+Players are able to climb up vine stem ladders by walking up to it and moving forward to go up and backwards to go down. Players can also stay still on a vine stem ladder by not pressing any movement keys.
+
+History [ ]
+
+March 17, 2023 Added vine stem ladders.

@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Spirit_Wood
+
+----------------------------------------
+
+Spirit Wood Type of block Solid block Sell price 34 coins Best tool Luminous Transparent Spirit wood is a block that can be obtained by cutting down spirit trees .
+
+Obtaining [ ]
+
+Cutting [ ]
+
+Cutting down a spirit tree will drop 3 - 4 spirit wood along with a spirit sapling .
+
+Breaking [ ]
+
+Spirit Wood Breaking Data Hardness 8 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 12 24 Stone 8 13 Iron 5 8 Gilded Steel 4 6 Diamond 3 4 Opal 2 4 Void Mattock 2
+
+Usage [ ]
+
+Transforming [ ]
+
+Input Item transformer Output 1 Spirit Wood ➡ Sawmill ➡ 4 Spirit Plank ➡ Industrial Sawmill ➡
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Trap Door Spirit 5 Spirit Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Spirit Bed 100 Spirit Plank 100 Spirit Wood 15 Spirit Crystal Furniture Workbench
+
+Fueling [ ]
+
+Spirit wood can be used to fuel campfires , small furnaces , or desert furnaces . The fuel lasts for about 20 seconds.
+
+Selling [ ]
+
+Spirit wood can be sold to John for 34 coins each.
+
+History [ ]
+
+June 30, 2021 Added spirit wood. August 21, 2021 Spirit wood can now be sold to John for 34 coins each. December 10, 2021 Spirit wood can now be used to craft trap door spirits . July 16, 2022 Spirit wood can now be used to craft spirit beds .

@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/School_Water_Fountain
+
+----------------------------------------
+
+School Water Fountain Type of block Solid block Recipe 5 Electrite 20 Iron Ingot 1 Water Bucket Crafted with Furniture Workbench Best tool Luminous Transparent Description A water fountain to hang on walls A school water fountain is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station School Water Fountain 5 Electrite 20 Iron Ingot 1 Water Bucket Furniture Workbench
+
+Breaking [ ]
+
+School Water Fountain Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+December 2, 2022 Added school water fountains.

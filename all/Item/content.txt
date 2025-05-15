@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Item
+
+----------------------------------------
+
+An item is an object that exists only within the player's inventory and hotbar.
+
+Behavior [ ]
+
+When used, some items place a block version of themselves into the game. For example, water buckets turn into a fluid when placed, and seeds turn into a plant block when placed. When selected in the hotbar , items briefly display their names above the UI.
+
+Some items can be displayed in the game environment by placing into a tool stand .
+
+If an item is dropped, it will lay on the ground until a player picks it up, the island owner leaves the game, it is despawned due to the dropped item limit, it is picked up by an industrial chest or an industrial machine , or it is destroyed or disappeared in the void.
+
+List of items [ ]
+
+Items that create blocks, fluids or entities [ ]
+
+Items with use in the game [ ]
+
+These items, when highlighted in a player's hotbar (a.k.a "held"), can be used by either attack or use, or can serve a specific purpose (for example, offer the player an advantage or disadvantage). Some can be used at any time, while others only when aiming at specific blocks or mobs .
+
+Items with indirect use in the game [ ]
+
+The player cannot interact with or directly use these items; however, some can be sold or used in crafting recipes for other items that do have direct uses.
+
+Removed items [ ]
+
+These items have at one point in time been obtainable, but has since been removed from players' inventories, vending machines, and chests. Despite this, they may still exist in some players' inventories.
+
+Unimplemented items [ ]
+
+These items exist in the game's files but have been left unused or unimplemented due to various reasons.

@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Instrument
+
+----------------------------------------
+
+Instruments are items that are crafted in the instrument workbench and can be used to play various different tunes. There are currently 6 different instruments in the game, with two being free to play without the instrument workbench gamepass and 4 requiring the gamepass to play, even if a non-gamepass owner owns one through trading .
+
+All instruments play a fixed tune, meaning that players are unable to play or compose pieces other than the default one.
+
+Instruments [ ]
+
+Free [ ]
+
+There are currently two free instruments that doesn't require the player to own the instrument workbench gamepass to play. However, the player is unable to craft duplicates of these instruments due to being unable to craft in the instrument workbench .
+
+Premium [ ]
+
+There are currently four premium instruments that require the player to own the instrument workbench gamepass to play. Any player who owns these instruments yet don't own the gamepass is unable to play them.
+
+Instrument Audio Artist Bongo Drum https://robloxislands.fandom.com/wiki/File:Bongo_Drum.ogg Micah Fischer Guitar https://robloxislands.fandom.com/wiki/File:Guitar.ogg Micah Fischer Kalimba https://robloxislands.fandom.com/wiki/File:Kalimba.ogg Micah Fischer Melodica https://robloxislands.fandom.com/wiki/File:Melodica.ogg Micah Fischer Pan Flute https://robloxislands.fandom.com/wiki/File:Pan_Flute.ogg Micah Fischer Tambourine https://robloxislands.fandom.com/wiki/File:Tambourine.ogg Micah Fischer All https://robloxislands.fandom.com/wiki/File:Ode_to_Mitsuda.mp3 Micah Fischer

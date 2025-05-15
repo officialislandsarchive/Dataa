@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Bee_Ottoman
+
+----------------------------------------
+
+Bee Ottoman Type of block Solid block; Seat Buy cost 50 Spirit Jars Best tool Luminous Transparent Description A small but comfy ottoman A bee ottoman is a furniture block that can be purchased from Catherine .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Bee ottomans can be purchased from Catherine on Spirit Island for 50 spirit jars each.
+
+Breaking [ ]
+
+Bee Ottoman Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+Usage [ ]
+
+Sitting [ ]
+
+The bee ottoman has a seat, which means players, mobs , and villagers are able to sit on it.
+
+History [ ]
+
+September 10, 2022 Added bee ottomans. October 10, 2022 Bee ottomans can now be traded .

@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Regeneration
+
+----------------------------------------
+
+Regeneration Causes The affected player will slowly regenerate health. Source Regen Potion Fortune Cookie Type Drink
+
+Regeneration , also known as Regen , is an effect that causes the player to regenerate health over time.
+
+Source [ ]
+
+Drinking a regen potion will grant 5 seconds of Regeneration, and eating a fortune cookie has a 4.55% chance of granting 15 minutes of Regeneration.
+
+Causes [ ]
+
+The affected player will gain about 10 HP every second the effect is active, meaning that one regen potion would heal the player 50 HP and one fortune cookie 9,000 HP.
+
+History [ ]
+
+August 9, 2020 Added Regeneration. February 7, 2022 Regeneration can now be obtained from eating fortune cookies .
+
+Trivia [ ]
+
+Both Tree Fruit Harvest Yield and Logging Yield use same icon as Regeneration.

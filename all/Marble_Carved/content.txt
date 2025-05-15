@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Marble_Carved
+
+----------------------------------------
+
+Marble Carved Type of block Solid block Recipe 1 Marble Tiles Crafted with Stonecutter Industrial Stonecutter Best tool Luminous Transparent Marble carved is a block that can be cut from marble tiles .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Marble tiles can be transformed into marble carved in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Marble Tiles ➡ Stonecutter ➡ 1 Marble Carved ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Marble Carved Breaking Data Hardness 12 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 18 Wooden 36 36 Stone 20 20 Iron 12 12 Gilded Steel 9 9 Diamond 6 6 Opal 5 5 Void Mattock 3
+
+History [ ]
+
+February 19, 2022 Added marble carved.

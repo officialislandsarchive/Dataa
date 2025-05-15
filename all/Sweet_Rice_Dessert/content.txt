@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Sweet_Rice_Dessert
+
+----------------------------------------
+
+Sweet Rice Dessert Recipe 1 Pineapple Slice 1 Rice 1 Yak Butter Crafted with Cooking Table Food Processor Heals 35 HP Effect +30% movement speed Required skill Level 49 Cooking Description Consume for 30% movement speed increase. A sweet rice dessert is a food item that heals 35 HP and grants +30% movement speed when consumed.
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Sweet Rice Dessert 1 Pineapple Slice 1 Rice 1 Yak Butter Cooking Table Food Processor Level 49 Cooking
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a sweet rice dessert restores 35 HP and grants +30% movement speed for 8 minutes.
+
+Its movement speed boost can be stacked with other movement speed boosts.
+
+History [ ]
+
+March 25, 2022 Added sweet rice desserts. Introduced where sweet rice desserts now cannot be sold to Petur .
+
+Trivia [ ]
+
+This is the third food item in Islands that grants a movement speed boost. Sweet rice desserts currently cannot be sold to Petur .

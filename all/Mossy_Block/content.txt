@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Mossy_Block
+
+----------------------------------------
+
+Mossy Block Type of block Solid block Recipe 4 Tall Grass Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent A mossy block is a decorative block crafted with tall grass .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station 4 Mossy Block 4 Tall Grass Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Mossy Block Breaking Data Hardness 4 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 6 Stone 7 4 Iron 4 3 Gilded Steel 3 2 Diamond 2 2 Opal 2 1 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Mossy Stair 1 Mossy Block Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Mossy Slab 1 Mossy Block Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+History [ ]
+
+July 16, 2022 Added mossy blocks.

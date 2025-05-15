@@ -1,0 +1,17 @@
+Source: https://robloxislands.fandom.com/wiki/Yuzi
+
+----------------------------------------
+
+Yuzi Location Hub Purpose Sells Lunar New Year-themed furniture blocks. Occupation Lunar Yuzi is a villager who was located in the Hub during the Lunar New Year event . She sold Lunar New Year-themed furniture and once every 20 hours, players could have claimed a red envelope from her.
+
+Shop [ ]
+
+Image Name Price Red Envelope 0 coins [ 1 ] Fortune Cookie 30,000 coins Lion Lounge 22,500 coins Lunar Banner 2,500 coins Lunar Drum 7,000 coins Lunar Gate 100,000 coins Lunar Lamp 3,000 coins Stacked Star Lunar Lantern 4,000 coins Star Lunar Lantern 3,000 coins Stacked Lunar Lantern 2,500 coins Lunar Lantern Small 2,000 coins Tiger Bean Bag 10,000 coins Tiger Coin Bag 15,000 coins Tiger Fridge 20,000 coins Tiger Jacuzzi 50,000 coins
+
+Dialogue [ ]
+
+"Happy Lunar New Year user !" >View Shop Leads to shop. >Tell me about Lunar New Year Yuzi randomly says one of the lines below: "Are you excited to see the fireworks too? Oh, did I speak too soon?" >Okay! "What can I do for you?" Returns to default options. "Can't wait for all of the delicious foods on Lunar New Year! My favorite is the bao! Thinking about it makes me hungry." >Okay! "What can I do for you?" Returns to default options. "They say people born in each Zodiac's year have some of that Zodiac's personality traits. That's probably why cats love me so much!" >Okay! "What can I do for you?" Returns to default options. "Giving people red envelopes brings me so much joy." >Okay! "What can I do for you?" Returns to default options. "Did you know that 2022 is the year of the water tiger? I thought cats hate water." >Okay! "What can I do for you?" Returns to default options.
+
+History [ ]
+
+January 30, 2022 Added Yuzi. February 7, 2022 Added offer for fortune cookies . February 19, 2022 Removed Yuzi.

@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Radish_Seeds
+
+----------------------------------------
+
+Radish Seeds Planted on Farmland Buy cost 1,450 coins Description This bitter radish can only grow in the spring season Radish seeds are seeds used to grow radishes .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Radish seeds can be purchased from Cletus during spring on the player's island , selling one for 1,450 coins . Players can only purchase 8 seeds before Cletus has to restock.
+
+Harvesting [ ]
+
+Harvesting a radish will give 1 radish seed and 1 - 3 radishes.
+
+Usage [ ]
+
+Planting [ ]
+
+Radish seeds can be planted on farmland to be grown into a radish.
+
+Growth [ ]
+
+The growth time of radishes can be shortened by 33% when watered with a watering can or basic sprinkler and by 50% when fertilized with basic fertilizer .
+
+Radish Seeds Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 2m 5s 4m 10s 6m 10s Note: The durations of time above are on an unfertilized and unwatered plant Radish Seeds Growth Time Type Growth Time Normal 6m 10s Fertilized 3m 5s Watered 4m 7s Watered + Fertilized 2m 3s
+
+History [ ]
+
+March 13, 2021 Added radish seeds. January 11, 2022 Introduced a bug that prevented players from purchasing radish seeds from Cletus . January 18, 2022 Fixed bug preventing players from purchasing radish seeds from Cletus. October 15, 2022 Radish seeds can now be bought from Tom . November 4, 2022 Radish seeds can now be bought from Cletus .
+
+Trivia [ ]
+
+Contrary to its description, radish is not restricted to growing in spring and can be grown in any season .

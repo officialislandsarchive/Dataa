@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Large_Chest
+
+----------------------------------------
+
+Large Chest Type of block Solid block; Interactable Recipe 20 Red Bronze Ingot 6 Copper Plate 2 Copper Bolt Crafted with Workbench Tier 4 Best tool Luminous Transparent Description Large sized container to hold more of your possessions. A large chest is a storage block that can be used to hold up to 1,800 items .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Large Chest 20 Red Bronze Ingot 6 Copper Plate 2 Copper Bolt Workbench Tier 4
+
+Breaking [ ]
+
+Large Chest Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Storage [ ]
+
+A large chest has 12 slots that can fit up to 150 items per slot, adding up to a total of 1,800 items per chest.
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Input/Output Chest Tier 2 1 Large Chest 2 Conveyor Belt Tier 2 5 Red Bronze Ingot Workbench Tier 4
+
+History [ ]
+
+October 9, 2021 Added large chests. December 29, 2021 Disabled manually placing items into large chests. January 2, 2022 Re-enabled the ability to manually place items into large chests. January 3, 2022 Disabled the ability to manually place items into large chests. Re-enabled the ability to manually place items into large chests. January 4, 2022 Disabled the ability to manually place items into large chests. January 6, 2022 Re-enabled the ability to manually place items into large chests.

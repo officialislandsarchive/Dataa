@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Chili_Pepper
+
+----------------------------------------
+
+Chili Pepper Seed cost 450 crops Planted on Farmland Description Consume for Speed. Edible A chili pepper is a crop that grows on farmland from chili pepper seeds , which were only purchasable during the Farming Festival event.
+
+It currently cannot be sold to Cletus .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting a chili pepper yields 1 - 3 chili peppers, 1 chili pepper seed , and 15 Farming XP (63 with the 4x daily bonus). The chance of obtaining more than one chili pepper per plant is increased by the player's Farming level and for owners of the VIP gamepass . Extra chili pepper seeds cannot be yielded.
+
+Growth [ ]
+
+The growth time of chili peppers can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Chili Pepper Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Phase 4 Time since planted 0m 0s 1m 0s 2m 0s 3m 0s 4m 5s Note: The durations of time above are on an unfertilized and unwatered plant Chili Pepper Growth Time Type Growth Time Normal 4m 5s Fertilized 3m 16s Watered 3m 16s Watered + Fertilized 2m 52s
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Gondo Datshi 1 Tomato 1 Yak Butter 2 Chili Pepper 1 Egg Cooking Table Food Processor Level 49 Cooking
+
+Eating [ ]
+
+Eating a chili pepper restores 30 HP and also grants 1 minute of Speed to the player, increasing their speed by 25%. The speed boost given by chili peppers will stack with the effects of riding a duck , yak , or horse , and eating a potato and duck egg scramble and sweet rice dessert . While under the effects of Speed, eating another pepper will reset the timer back to one minute, but it will not stack.
+
+History [ ]
+
+July 30, 2021 Added chilli peppers. December 18, 2021 Renamed chilli peppers to "Chili Pepper". February 19, 2022 Reduced the chili pepper's Speed effect from +50% to +25%. March 25, 2022 Chili peppers can now be used to craft gondo datshis .
+
+Trivia [ ]
+
+Chili peppers are the first ever crop to have a unique seed model. Players are still able to eat chili peppers while under the effects of Food Poison . Chili peppers and seaweed are the only crops that cannot be sold to Cletus .

@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Bee
+
+----------------------------------------
+
+Bee Behavior Passive Location Player's Island A bee is a flying passive mob introduced in the August 30, 2020 update. Bees make honey during the day and go to sleep in a bee hive at night. A bee can be captured with a net to get a bee jar . The bee can be released from the jar by holding down left click for computer users, or for mobile users, hold tapping anywhere to release the bee.
+
+Obtaining [ ]
+
+Bees will appear on player islands with a large quantity of flowers . If the bees like the island enough, they'll create a bee hive on a tree . A maximum of 12 bees can be on a player island at once.
+
+Behavior [ ]
+
+Once bees belonging to the same hive have collected pollen 7 - 10 times, the player is able to harvest a honeycomb from their hive. Do note that bees can only collect pollen from flowers , meaning that they won't collect pollen from crocuses or regular daffodills . However, crocuses and daffodils are still able to attract bees to the player's island. Bees may multiply or continue to be attracted to the island if more flowers are planted.
+
+History [ ]
+
+August 30, 2020 Added bees. September 6, 2020 Bees can be captured with a net to get a bee jar . September 18, 2020 Removed bee's buzzing sound. January 22, 2021 Capturing bees with a net will give XP. January 25, 2021 Capturing bees with a net will no longer gives XP. July 1, 2021 Fixed issue of bees stuck on flower forever. Removed bee's particles. October 1, 2022 Increased the limit on the number of bees on player islands from 6 to 10. October 8, 2022 Increased the limit on the number of bees on player islands from 10 to 12. March 31, 2023 Fixed bug causing bees to stop moving when spawned.
+
+Trivia [ ]
+
+Since the XP update , there has been a limit to the amount of bees a player can have on their island , so if a bee jar were to be opened when the limit has been reached, the jar won't be opened. If a tree housing bees is chopped down, the bees will create a new hive on another tree to live in. If the current amount of bees on an island exceeds the maximum capacity of bee hives, bees will fly away from the island. Unlike real life bees, bees do not fertilize flowers in any way. However, bees will pollinate fertile flower types to create rare flower breeds. Bees are the first flying passive mob in Islands . Bees share the same flying animation as fireflies . Bees have the same wing model as fireflies. Bees are the first passive mobs that can be released from jars. Bees can go through The Hub portal unlike any other passive mobs.
+
+Gallery [ ]

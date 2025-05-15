@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Honeycomb
+
+----------------------------------------
+
+Honeycomb Heals 10 HP A honeycomb is an item that can be harvested from bee hives .
+
+Obtaining [ ]
+
+Bee hives [ ]
+
+When a bee hive is full, indicated by dripping honey, the player can collect up to 4 honeycombs from the hive.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Honeycomb Block 4 Honeycomb Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Orange Honeycomb 8 Honeycomb 8 Orange Cooking Table Food Processor Level 65 Cooking
+
+Honey-making [ ]
+
+Honeycombs can be processed into jars of honey in a honey press . It takes about three and a half minutes to process one honeycomb into one jar of honey.
+
+Input Item transformer Output 1 Honeycomb ➡ Honey Press ➡ 1 Jar of Honey
+
+Eating [ ]
+
+Eating a honeycomb restores 10 HP.
+
+Animals [ ]
+
+Honeycombs can be used to feed animals by placing some in a wooden , metal , or automated trough .
+
+History [ ]
+
+August 30, 2020 Added honeycombs. November 13, 2021 8 honeycombs are now required to craft orange honeycombs , up from 2.

@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Dumpling
+
+----------------------------------------
+
+Dumpling Recipe 1 Dough 1 Egg 2 Spinach Crafted with Cooking Table Food Processor Heals 10 HP A dumpling is a food item that heals 10 HP when consumed. It can be crafted without any Cooking level requirement.
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Dumpling 1 Dough 1 Egg 2 Spinach Cooking Table Food Processor
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a dumpling restores 10 HP.
+
+History [ ]
+
+February 7, 2022 Added dumplings. Introduced where dumplings now cannot be sold to Petur .
+
+Trivia [ ]
+
+Dumplings can be crafted without any Cooking level requirement. Dumplings currently cannot be sold to Petur .

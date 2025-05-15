@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Kontos
+
+----------------------------------------
+
+Kontos Location Maple Isles Hub Purpose Giving out the Turkey Trophy (During the Halloween 2022 event) Selling Halloween related items Occupation Traveling Mercenary Halloween Mercenary Kontos is a villager . He is located on the first island of Maple Isles . He is the villager responsible for handing out turkey trophies to players who have successfully defeated Fhanhorn . During the Halloween 2022 event, he sold halloween related items.
+
+Halloween shop [ ]
+
+During the Halloween 2022 event, Kontos sold various Halloween-related items for coins or Zombie Cletus tokens .
+
+Image Name Cost Small Fire Chalice 1,200 coins . Tall Fire Chalice 1,500 coins Skull Gate 1,750 coins Standing Opened Coffin 3,000 coins Standing Closed Coffin 3,000 coins Lying Opened Coffin 3,000 coins Lying Closed Coffin 3,000 coins Gravestone 2,500 coins Gravestone 2,500 coins Gravestone 2,500 coins Pumpkin Candle 1,500 coins Pumpkin Happy 1,500 coins Pumpkin Angry 1,500 coins Yellow-Eyed Scarecrow 1,500 coins Green-Eyed Scarecrow 1,500 coins Long Crossbow Bolt 1,000 coins Cauldron 750 Zombie Cletus Token
+
+Dialogue [ ]
+
+First interaction [ ]
+
+"The legends are true... I was sent here to seek power of the Maple Isles... but it's too strong for me. Defeat the ancient guardian of these isles and you will be rewarded." >On it. End.
+
+After defeat [ ]
+
+"You... you did it? Take this trophy as thanks for your bravery." >[Take gift] Gives the turkey trophy .
+
+Following interactions [ ]
+
+"Your bravery will not be forgotten." >Ok End.
+
+During the Halloween 2022 event [ ]
+
+"Hey there stranger, I'll be selling goods here for halloween season but you can catch me in the Maple Isles too!" >[View shop] Opens the Halloween shop.
+
+History [ ]
+
+November 27, 2021 Added Kontos. December 10, 2021 Kontos is now able to give out turkey trophies. October 15, 2022 Kontos now sells small fire chalices , tall fire chalices , skull gates , standing opened coffins , standing closed coffins , lying opened coffins , lying closed coffins , gravestones , pumpkin candles , pumpkin happy's , pumpkin anrgy's , long crossbow bolts , and cauldrons . October 28, 2022 Kontos now sells yellow-eyed scarecrows and green-eyed scarecrows . November 4, 2022 Kontos no longer sells small fire chalices, tall fire chalices, skull gates, standing opened coffins, standing closed coffins, lying opened coffins, lying closed coffins, gravestones, pumpkin candles, pumpkin happy's, pumpkin anrgy's, long crossbow bolts, cauldrons, yellow-eyed scarecrows, and green-eyed scarecrows. Removed Kontos from the Hub .
+
+Trivia [ ]
+
+Kontos is the only male villager on Maple Isles.

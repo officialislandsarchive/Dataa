@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Castle_Shield
+
+----------------------------------------
+
+Castle Shield Type of block Solid block Recipe 20 Iron Ingot 1 Purple Flower 5 Coal 1 Iron Sword Crafted with Furniture Workbench Best tool Luminous Transparent The castle shield is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Castle Shield 20 Iron Ingot 1 Purple Flower 5 Coal 1 Iron Sword Furniture Workbench
+
+Breaking [ ]
+
+Castle Shield Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+March 12, 2022 Added castle shields.
+
+Trivia [ ]
+
+The castle shield is the fourth item to require 4 different items to craft. First being the tier 3 electrical workbench , second being the mysterious portal , and the third being the industrial flower picker .

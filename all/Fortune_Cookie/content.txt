@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Fortune_Cookie
+
+----------------------------------------
+
+Fortune Cookie Heals 50 HP Effect One random positive status effect Description Consume for Random [sic] positive potion effect.. [sic] The fortune cookie is a food item that heals 50 HP grants a random positive status effect for 15 minutes.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Fortune cookies could be bought from Yuzi for 30,000 coins .
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a fortune cookie restores 50 HP and grants a random positive status effect for 15 minutes. Obtaining a duplicate status effect will reset the duration back to 15 minutes.
+
+Icon Effect Chance Regeneration 4.55% Speed 4.55% Strength 4.55% Resistance 4.55% Fishing Luck 4.55% Mining Luck 4.55% Mob Drop Luck 4.55% Tree Fruit Harvest Yield 4.55% Logging Yield 4.55% Farming Yield 4.55% Seed Yield 4.55% Mob Damage 4.55% Mining Yield 4.55% Merchant Sell Boost 4.55% Mob Coins 4.55% Experience Boost 4.55% Fishing Double Catch 4.55% Break Speed 4.55% Food Crafting Yield 4.55% Carpentry Crafting Yield 4.55% Might of Fhanhorn 4.55% Random Positive Potion Effect 4.55%
+
+History [ ]
+
+February 7, 2022 Added fortune cookies. February 19, 2022 Fortune cookies can no longer be bought from Yuzi .

@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Stocking
+
+----------------------------------------
+
+Stocking Santa Stocking Elf Stocking Snowman Stocking Snowflake Stocking Cookie Stocking Type of block Solid block; Interactable Buy cost 35 snowflake tickets Best tool Luminous Transparent Description A stocking wall decor to put presents in! Stockings are furniture blocks that come in five different variants: Santa, elf, snowman, snowflake, and cookie. Each stocking can store up to 15 items each.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+All five stocking variants can be bought from Eddie for 35 snowflake tickets each.
+
+Breaking [ ]
+
+Stocking Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+Usage [ ]
+
+Storage [ ]
+
+Each stocking has 3 slots that can fit up to 5 items per slot, adding up to a total of 15 items per stocking.
+
+History [ ]
+
+December 16, 2022 Added stockings.

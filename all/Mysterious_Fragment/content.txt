@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Mysterious_Fragment
+
+----------------------------------------
+
+Mysterious Fragment #1 #2 #3 #4 Dropped by #1: Slime King , Slime Queen #2: Kor #3: Wizard Boss #4: Bhaa Description #1: A mysterious fragment from the Slime King... #2: A mysterious fragment from Kor... #3: A mysterious fragment from the Wizard Boss... #4: A mysterious fragment from Bhaa... A mysterious fragment is a mob drop rarely dropped by defeating the current bosses in the game. None of the four variants can be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Name Dropped by Drop chance Mysterious Fragment #1 Slime King Slime Queen 10% (Slime King) 6.67% (Slime Queen) Mysterious Fragment #2 Kor 5% Mysterious Fragment #3 Wizard Boss 5% Mysterious Fragment #4 Bhaa 5%
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Mysterious Portal 1 Mysterious Fragment #1 1 Mysterious Fragment #2 1 Mysterious Fragment #3 1 Mysterious Fragment #4 Workbench Tier 3 Workbench Tier 4 None Slime King Orb 10 Glass Block 20 Red Bronze Ingot 1 Mysterious Fragment #1 Workbench Tier 4 Defeated the Slime King at least once Kor Orb 10 Glass Block 20 Red Bronze Ingot 1 Mysterious Fragment #2 Workbench Tier 4 Level 46 Combat Defeated Kor at least once Wizard Boss Orb 10 Glass Block 20 Red Bronze Ingot 1 Mysterious Fragment #3 Workbench Tier 4 Level 20 Combat Defeated the Wizard Boss at least once Bhaa Orb 10 Glass Block 20 Red Bronze Ingot 1 Mysterious Fragment #4 Workbench Tier 4 Level 36 Combat Defeated Bhaa at least once
+
+History [ ]
+
+September 5, 2021 Added mysterious fragments. September 11, 2021 Changed the drop rate for fragment #2 from 3.33% to 5%. Changed the drop rate for fragment #3 from 2% to 5%. Changed the drop rate for fragment #4 from 4% to 5%. April 16, 2022 Mysterious fragments can now be used to craft Slime King orbs , Kor orbs , Wizard Boss orbs , and Bhaa orbs . July 2, 2022 The Slime Queen is now able to drop mysterious fragment #1s upon defeat. September 3, 2022 Changed the drop rate for fragment #1 from the Slime Queen from 10% to 6.67%.

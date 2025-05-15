@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Void_Stone_Block
+
+----------------------------------------
+
+Void Stone Block Void Stone Block Rock Type of block Solid block Best tool Luminous Transparent A void stone block is a block that can be mined from a void stone rock .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Void stone rocks naturally generate throughout the Void Isles . Mining a void stone rock yields 1 - 2 void stone blocks after each stage and 9 Mining XP (36 with the 4x daily bonus), resulting in a total of 2 - 4 void stone blocks and 18 Mining XP (72 with the 4x daily bonus) per rock.
+
+Breaking [ ]
+
+Void Stone Block Breaking Data Hardness 8 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 12 Stone 13 8 Iron 8 5 Gilded Steel 6 4 Diamond 4 3 Opal 4 2 Void Mattock 2 Void Stone Rock Breaking Data Hardness 60 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 90 Wooden 180 90 Stone 96 60 Iron 60 38 Gilded Steel 42 30 Diamond 30 18 Opal 24 12 Void Mattock 12
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Void Stone Stair 1 Void Stone Block Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Void Stone Slab 1 Void Stone Block Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Void Stone Brick 1 Void Stone Block Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Void stone blocks can be transformed into void stone bricks in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Void Stone Block ➡ Stonecutter ➡ 1 Void Stone Brick ➡ Industrial Stonecutter ➡
+
+History [ ]
+
+August 13, 2022 Added void stone blocks. August 27, 2022 Void stone blocks can now be used to craft void stone slabs , void stone stairs , and void stone bricks .

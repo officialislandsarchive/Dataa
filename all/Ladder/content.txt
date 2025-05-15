@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Ladder
+
+----------------------------------------
+
+Ladder Type of block Solid block; Climbable Recipe 1 Oak Wood Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Ladders are blocks that allow players to climb up blocks. These blocks can float, meaning they can be placed without blocks underneath them or even behind them.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Ladder 1 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Ladder Breaking Data Hardness 1 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 2 Stone 2 1 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Climbing [ ]
+
+Players are able to climb up ladders by walking up to it and moving forward to go up and backwards to go down. Players can also  stay still on a ladder by not pressing any movement keys.
+
+Trivia [ ]
+
+The ladder does not have a white box around it to show its hitbox when a cursor hovers over it with a pickaxe or an axe .

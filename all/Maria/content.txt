@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Maria
+
+----------------------------------------
+
+Maria Location City of Azarath ( Desert Island ) Purpose Sells seeds and buys crops Occupation Crops Maria is a villager located in City of Azarath , which is on Desert Island . Players can buy seeds from Maria and sell crops to them.
+
+Shop [ ]
+
+Buy [ ]
+
+Image Name Sell price Crystalline 35 coins Vine Stem 38 coins Opuntia 42 coins
+
+Sell [ ]
+
+Image Name Cost Required skill Crystalline Ivy Seeds 3,500 coins Level 55 Combat Vine Stem Seeds 3,800 coins Level 65 Combat Opuntia Seeds 4,200 coins Level 72 Combat
+
+Dialogue [ ]
+
+"Check out my shop for the best crops in the entire Desert!" >Buy Seeds Opens sell shop. >Sell Crops Opens buy shop.
+
+History [ ]
+
+March 3, 2023 Added Maria. March 17, 2023 Maria can now sell vine stem seeds and opuntia seeds , and buy vine stems and opuntias .

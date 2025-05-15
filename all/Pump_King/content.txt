@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Pump_King
+
+----------------------------------------
+
+Pump King Health 300 HP Behavior Hostile Attack strength 115 HP Drops Chocolate Bar Orange Candy Lollipop Jukebox Disk Location Witch Island The pump king was a hostile mob available during the Halloween 2020 event.
+
+Spawning [ ]
+
+Witch Island [ ]
+
+Pump kings spawned naturally on the Witch Island , which could have been accessed through its portal in the Hub in the Halloween 2020 event.
+
+Grand High Witch [ ]
+
+2 pump kings spawn during the final phase of the Grand High Witch fight.
+
+Drops [ ]
+
+Image Name Drop chance Chocolate Bar 350% (only one candy) Orange Candy Lollipop Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Behavior [ ]
+
+The pump king had a unique style of attacking players; when a player came into range, it would follow the player and start shaking when close, eventually exploding and dealing AOE damage.
+
+History [ ]
+
+October 16, 2020 Added pump kings. October 19, 2020 Fixed a bug that caused pump kings to ragdoll when hit with spellbooks , tidal spellbooks , or vamp bows . November 1, 2020 Removed pump kings.
+
+Trivia [ ]
+
+The pump king's name is a play on the word "pumpkin".

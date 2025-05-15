@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Desert_Chest
+
+----------------------------------------
+
+Desert Chest Type of block Solid block; Interactable Best tool Luminous Transparent Description A desert themed chest. The desert chest is an unobtainable desert-themed chest that can be used to hold up to 720 items .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Desert chests could have been purchased from Azur for 30 sand dollars each before the June 3, 2022 update.
+
+Breaking [ ]
+
+Desert Chest Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Storage [ ]
+
+A medium chest has 12 slots that can fit up to 60 items per slot, adding up to a total of 720 items per chest.
+
+History [ ]
+
+November 20, 2020 Added desert chests. December 29, 2021 Disabled manually placing items into desert chests. January 2, 2022 Re-enabled the ability to manually place items into desert chests. January 3, 2022 Disabled the ability to manually place items into desert chests. Re-enabled the ability to manually place items into desert chests. January 4, 2022 Disabled the ability to manually place items into desert chests. January 6, 2022 Re-enabled the ability to manually place items into desert chests. June 3, 2022 Desert chests can no longer be purchased from Azur .
+
+Trivia [ ]
+
+Despite having the exact same function as medium chests , desert chests have a slightly larger hitbox that prevents blocks from being placed directly in front of or behind it.

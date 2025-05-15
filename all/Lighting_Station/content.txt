@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Lighting_Station
+
+----------------------------------------
+
+Lighting Station Block Gamepass Icon Type of block Solid block; Interactable Recipe 10 Oak Wood Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Buy cost Gamepass: 149 Robux Best tool Luminous Transparent Description Gamepass: 💡 Craft unique decoration blocks The lighting station is a gamepass crafting station that is used to craft various luminous blocks .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Gamepass required Lighting Station 10 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Gamepass [ ]
+
+The gamepass can be purchased from the in-game Robux shop UI for 149 Robux . Or via the Islands' Roblox game page under the store tab. Upon purchasing the gamepass, the player will be given one free lighting station, the ability to craft in lighting stations, and the ability to craft the station itself.
+
+Breaking [ ]
+
+Lighting Station Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Crafting recipes [ ]
+
+Image Name Recipe Required skill Gamepass required Candle 3 Oak Wood 2 Coal 2 Clay None Lantern 5 Iron Ingot 2 Coal 2 Clay None Lamp Post 10 Oak Plank 5 Coal 5 Iron Ingot None Sea Lantern 20 Aquamarine Shard 10 Coal None Firefly Wall Lamp 1 Yellow Firefly Jar 10 Iron Ingot Level 13 Animal Care Firefly Garden Light 1 Yellow Firefly Jar 25 Oak Wood None
+
+History [ ]
+
+May 17, 2020 Added lighting stations. September 6, 2020 Lighting stations can now craft firefly garden lights and firefly wall lamps.
+
+Trivia [ ]
+
+The lighting station was the second gamepass crafting station added to the game, the first being the floral bench .

@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Seaweed
+
+----------------------------------------
+
+Seaweed Planted on Pond Planter Edible Seaweed is a crop that grows in pond planters from seaweed seeds . Seaweed cannot be watered nor fertilized.
+
+It currently cannot be sold to Cletus .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting a seaweed plant yields 1 - 4 seaweed, 1 seaweed seed , and 27 Farming XP (108 XP with the 4x daily bonus). The chance of obtaining more than one seaweed per plant is increased by the player's Farming level and for owners of the VIP gamepass . Extra seaweed seeds cannot be yielded.
+
+Growth [ ]
+
+Seaweed Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 0s 2m 05s 3m 10s Note: The durations of time above are on an unfertilized and unwatered plant Seaweed Growth Time Type Growth Time Normal 3m 10s Fertilized N/A Watered N/A Watered + Fertilized N/A
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Sushi Roll 5 Seaweed 10 Rice Cooking Table Food Processor Level 63 Cooking
+
+History [ ]
+
+November 13, 2021 Added seaweed.
+
+Trivia [ ]
+
+Seaweed and chili peppers are the only crops that cannot be sold to Cletus .

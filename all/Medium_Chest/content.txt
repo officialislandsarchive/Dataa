@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Medium_Chest
+
+----------------------------------------
+
+Medium Chest Type of block Solid block; Interactable Recipe 30 Iron Ingot 50 Oak Plank Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Description Medium sized container to hold more of your possessions. A medium chest is a storage block that can be used to hold up to 720 items .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Medium Chest 30 Iron Ingot 50 Oak Plank Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Medium Chest Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Storage [ ]
+
+A medium chest has 12 slots that can fit up to 60 items per slot, adding up to a total of 720 items per chest.
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Industrial Chest 1 Conveyor Belt 30 Iron Ingot 1 Medium Chest Workbench Tier 3 Workbench Tier 4 Level 8 Forging Input/Output Chest 1 Medium Chest 2 Conveyor Belt 50 Iron Ingot Workbench Tier 3 Workbench Tier 4 Level 62 Forging Wool Vacuum 1 Medium Chest 1 Pink Sticky Gear 1 Gearbox Animal Bench Level 47 Animal Care
+
+History [ ]
+
+May 2, 2020 Added medium chests. It had 8 storage slots able to hold 30 items per slot. July 11, 2020 Medium chests can now be used to craft input/output chests . August 30, 2020 Medium chests now has 12 slots, each able to hold 60 items per slot. January 22, 2021 Medium chests can be used to craft wool vacuums . December 29, 2021 Disabled manually placing items into medium chests. January 2, 2022 Re-enabled the ability to manually place items into medium chests. January 3, 2022 Disabled the ability to manually place items into medium chests. Re-enabled the ability to manually place items into medium chests. January 4, 2022 Disabled the ability to manually place items into medium chests. January 6, 2022 Re-enabled the ability to manually place items into medium chests.

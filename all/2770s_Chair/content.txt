@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/%2770s_Chair
+
+----------------------------------------
+
+'70s Chair Type of block Solid block; Seat Recipe 30 Birch Wood 1 Yellow Flower Crafted with Furniture Workbench Best tool Luminous Transparent The '70s chair is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station '70s Chair 30 Birch Wood 1 Yellow Flower Furniture Workbench
+
+Breaking [ ]
+
+'70s Chair Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+Usage [ ]
+
+Sitting [ ]
+
+The '70s chair has a seat, which means players, mobs , and villagers are able to sit in the chair.
+
+History [ ]
+
+May 31, 2020 Added '70s chairs. June 3, 2022 A '70s chair blueprint is no longer required to unlock the recipe of '70s chairs.

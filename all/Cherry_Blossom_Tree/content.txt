@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Cherry_Blossom_Tree
+
+----------------------------------------
+
+Cherry Blossom Tree Type of block Solid block Best tool Drops 1 Cherry Blossom Sapling 3 - 4 Cherry Blossom Wood Luminous Transparent A cherry blossom tree is a type of tree in game.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Cherry Blossom trees are grown from cherry blossom saplings , which has a 25% chance of being obtained from opening a red envelope 2023 . It takes 90 seconds for a cherry blossom sapling to grow into a cherry blossom tree.
+
+Breaking [ ]
+
+Cherry Blossom Tree Breaking Data Hardness 24 Best Tool Axe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 36 Wooden 36 72 Stone 24 39 Iron 15 24 Gilded Steel 12 17 Diamond 8 12 Opal 5 10 Void Mattock 5
+
+Drops [ ]
+
+When cut down, the player will recieve:
+
+1 cherry blossom sapling 3 - 4 cherry blossom wood
+
+Usage [ ]
+
+Cherry blossom trees can be harvested with leaf clippers to drop 2 leaves .
+
+Trivia [ ]
+
+This, the Hickory Tree , the Palm Tree , the Spirit tree and the Pine Tree the only trees whose colour is not affected by any seasons. This is the second event sapling, the first being Palm Tree sapling.
+
+History [ ]
+
+January 20, 2023 Added cherry blossom trees.

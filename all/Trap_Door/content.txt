@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Trap_Door
+
+----------------------------------------
+
+Trap Door Oak Pine Birch Maple Hickory Spirit Iron Cherry Blossom Type of block Solid block; Interactable Recipe Wood: 5 respective Log Iron: 5 Iron Ingot Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent Trap doors are blocks used to act as doors on a vertical plane.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Trap Door Oak 5 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Trap Door Pine 5 Pine Wood Trap Door Birch 5 Birch Wood Trap Door Hickory 5 Hickory Wood Trap Door Maple 5 Maple Wood Trap Door Spirit 5 Spirit Wood Trap Door Iron 5 Iron Ingot Trap Door Cherry Blossom 5 Cherry Blossom Wood
+
+Breaking [ ]
+
+Wooden Trap Door Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1 Iron Trap Door Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Opening [ ]
+
+Players can interact with trap doors to open them. Players need build permission to open both version of trap doors.
+
+History [ ]
+
+December 10, 2021 Added trap doors. January 20, 2023 Added trap door cherry blossoms.
+
+Trivia [ ]
+
+Trap doors were added because of suggestion #35496 on the official Islands suggestions website . If a trap door is placed under water or lava , it will instantly break and not be returned to the player's inventory.

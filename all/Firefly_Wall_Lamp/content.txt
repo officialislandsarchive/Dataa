@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Firefly_Wall_Lamp
+
+----------------------------------------
+
+Firefly Wall Lamp Default Yellow Green Red Blue Purple Recipe 1 Yellow Firefly Jar 10 Iron Ingot Crafted with Lighting Station (requires gamepass) Required skill Level 13 Animal Care Best tool Luminous Transparent A firefly wall lamp is a luminous block whose light can be changed using firefly jars .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Firefly wall lamps can be crafted in the lighting station if the player owns the lighting station gamepass .
+
+Name Recipe Crafting station Required skill Gamepass required Firefly Wall Lamp 1 Yellow Firefly Jar 10 Iron Ingot Lighting Station Level 13 Animal Care
+
+Breaking [ ]
+
+Firefly Wall Lamp Breaking Data Hardness 2 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 6 Stone 4 4 Iron 2 2 Gilded Steel 2 2 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Colored light [ ]
+
+Firefly wall lamps emit different colored light based on which color firefly is inside. It emits white light when placed, but can be changed to yellow, green, red, blue, or purple light by clicking/tapping on it while holding a firefly jar . Breaking the lamp will drop the lamp and the firefly jar inside of it.
+
+History [ ]
+
+September 6, 2020 Added firefly wall lamps. January 22, 2021 Level 13 Animal Care is now required to craft firefly wall lamps.
+
+Trivia [ ]
+
+Despite being crafted with a yellow firefly jar , the lamp emits white light on default when placed.

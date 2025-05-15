@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Steam_Generator
+
+----------------------------------------
+
+Steam Generator Type of block Solid block; Interactable; Electrical Recipe 1x Gearbox 20x Copper Bolt 150 Electrite Crafted with Electrical Workbench (Level 3) Best tool Luminous Transparent Description Burn coal for power. The steam generator is a block that turns coal into electrical power . It has 60 power output.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Steam Generator 1 Gearbox 20 Copper Bolt 150 Electrite Electrical Workbench (Level 3)
+
+Breaking [ ]
+
+Steam Generator Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Power source [ ]
+
+Steam generators make electrical power by burning coal , it can hold up to 10 coal at a time. It is currently the only infinite power source that is not a bug since it can be fueled with a coal totem , when placed next to a conveyor belt .
+
+History [ ]
+
+April 4, 2021 Added steam generators.

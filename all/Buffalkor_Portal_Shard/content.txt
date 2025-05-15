@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Buffalkor_Portal_Shard
+
+----------------------------------------
+
+Buffalkor Portal Shard Dropped by Buffalkor Description Rare elemental item used to craft portals. The buffalkor portal shard is an item used to craft the buffalkor portal .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Buffalkors have a 0.05% chance of dropping a buffalkor portal shard upon defeat.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Buffalkor Portal 1 Buffalkor Portal Shard 120 Iron Ingot Workbench Tier 3 Workbench Tier 4
+
+Trivia [ ]
+
+The buffalkor portal shard uses the same model and texture as the Buffalkor Island key .

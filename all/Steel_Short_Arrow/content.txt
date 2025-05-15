@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Steel_Short_Arrow
+
+----------------------------------------
+
+Steel Short Arrow Type Small arrow Physical class Piercing Attack damage 18 - 24 HP 31 - 41 HP (Fully charged) Recipe 2 Maple Wood 1 Steel Ingot Crafted with Anvil Required skill Level 33 Archery Description An elegant arrow that can be fired from shortbows Steel short arrows are small arrows that can be shot from shortbows .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill 2 Steel Short Arrow 2 Maple Wood 1 Steel Ingot Anvil Level 33 Archery
+
+Usage [ ]
+
+Ammunition [ ]
+
+Steel short arrows are used as ammunition for shortbows , as at least one is required to be in the player's inventory in order for the shortbow to fire. Shooting steel short arrows deals an extra 18 - 24 HP to mobs .
+
+Steel short arrows are a one-time use item, meaning they cannot be retrieved after being shot.
+
+History [ ]
+
+September 24, 2022 Added steel short arrows. ? Changed the recipe from 4 maple wood and 3 steel ingot to 2 maple wood and 1 steel ingot.
+
+Trivia [ ]
+
+Unlike stone short arrows , the limit of steel short arrows is 2,000 instead of 20,000. Unlike steel long arrows , it is the only arrow that can be crafted with maple woods instead of hickory woods .

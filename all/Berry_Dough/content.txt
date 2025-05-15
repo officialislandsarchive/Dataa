@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Berry_Dough
+
+----------------------------------------
+
+Berry Dough Recipe 5 Red Berry 1 Dough Crafted with Cooking Table Food Processor Required skill Level 2 Cooking Berry dough is an uncooked food item that turns into berry pie once cooked.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Berry Dough 1 Dough 5 Red Berry Cooking Table Food Processor Level 2 Cooking
+
+Usage [ ]
+
+Cooking [ ]
+
+Berry dough can be cooked into a berry pie in a campfire , small furnace , desert furnace , or industrial oven .
+
+Input Output 1 Berry Dough 1 Berry Pie
+
+History [ ]
+
+May 10, 2020 Added berry dough. January 22, 2021 Level 2 Cooking is now required to craft berry dough.

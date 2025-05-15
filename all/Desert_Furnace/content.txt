@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Desert_Furnace
+
+----------------------------------------
+
+Desert Furnace Type of block Solid block; Interactable Best tool None Luminous Transparent Description A desert themed small furnace. The desert furnace is an unobtainable heating device used to smelt, heat, or cook items and blocks . Its stats are identical to that of the small furnace .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Desert furnaces could have been purchased from Azur for 50 sand dollars each before the June 3, 2022, update.
+
+Breaking [ ]
+
+Desert Furnace Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Heating, smelting, and cooking [ ]
+
+Desert furnaces can be used to smelt, heat, or cook different items and blocks into other items and blocks. It has a total of three slots able to hold 50 items each — one slot on the top left for the item to be smelted, one in the top right for the smelted items, and one in the bottom row for fuel. When powered with coal or petrified petroleum , the desert furnace will activate for approximately xx seconds. During this time, it will begin smelting the queued items inside, taking xx seconds per item.
+
+Input Output 1 Iron Ore 1 Iron Ingot 1 Gold Ore 1 Gold Ingot 1 Clay 1 Brick 1 Sand 1 Glass Block 1 Bamboo 1 Dried Bamboo 1 Grass 1 Dried Grass 1 Dough 1 Bread 1 Carrot 1 Roasted Carrot 1 Berry Dough 1 Berry Pie 1 Uncooked Pizza 1 Pizza 1 Carrot Cake Batter 1 Carrot Cake 1 Potato 1 Baked Potato 1 Uncooked Apple Pie 1 Apple Pie 1 Orange Cake Batter 1 Orange Cake 1 Lemon Bread Dough 1 Lemon Bread 1 Uncooked Starfruit Cake 1 Starfruit Cake 1 Uncooked Pineapple Pizza 1 Pineapple Pizza 1 Pancake Dough 1 Pancakes
+
+History [ ]
+
+November 20, 2020 Added desert furnaces. July 23, 2021 The desert furnace can now hold up to 5 fuel items per slot, up from 1 per slot. November 27, 2021 Desert furnaces can now cook pancake dough into pancakes . January 8, 2022 Desert furnaces can now cook uncooked pineapple pizzas into pineapple pizzas . April 1, 2022 Updated the GUI to have one slot for the unheated item, one for the final product, and one for the fuel instead of two for items and one for fuel. 50 items can now queued to be heated in a slot, up from 5. June 3, 2022 Desert furnaces can no longer be purchased from Azur .

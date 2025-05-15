@@ -1,0 +1,17 @@
+Source: https://robloxislands.fandom.com/wiki/Beans
+
+----------------------------------------
+
+Beans Beans Seeds Planted on Trellis
+
+Beans are an unimplemented vine crop in Islands .
+
+Information [ ]
+
+If beans would've been implemented on the date its models were added, June 26, 2020 , it would've been the second vine crop to exist in-game. Beans would've been planted in trellises with bean seeds . It is unknown why beans were never implemented.
+
+Beans Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s ? ? ? Note: The durations of time above are on an unfertilized and unwatered plant
+
+History [ ]
+
+June 26, 2020 Added beans. January 4, 2021 Removed the beanVine block from the game. The item form of the crop and the seeds remain.

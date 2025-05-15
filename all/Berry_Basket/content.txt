@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Berry_Basket
+
+----------------------------------------
+
+Berry Basket Type of block Solid block; Interactable Recipe 60 Maple Wood Crafted with Maple Workbench Best tool Luminous Transparent The berry basket is a block used for storing berries .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+The berry basket's recipe will automatically be unlocked upon completing Emma 's second quest in Maple Isles .
+
+Name Recipe Crafting station Blueprint required Berry Basket 60 Maple Wood Maple Workbench
+
+Breaking [ ]
+
+Berry Basket Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Blueprint required Industrial Berry Basket 1 Berry Basket 1 Conveyor Belt 3 Blue Sticky Gear Maple Workbench
+
+Storage [ ]
+
+A berry basket has 3 slots that can fit up to 4 items per slot, adding up to a total of 12 items per basket. Turkeys will deposit harvested berries from berry bushes into the basket.
+
+History [ ]
+
+November 27, 2021 Added berry baskets.

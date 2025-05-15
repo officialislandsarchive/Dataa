@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Iron_War_Axe
+
+----------------------------------------
+
+Iron War Axe Type Heavy Melee Physical class Slashing Attack damage 16 HP (Base) +8 HP (Critical) Recipe 3 Crystallized Iron 1 Steel Rod 40 Iron Ingot Crafted with Anvil Required skill Level 12 Heavy Melee Description A hardened battle axe. The iron war axe is a heavy melee weapon in the slashing class. Despite being an axe , this weapon cannot destroy blocks and is only used to attack mobs .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Iron War Axe 3 Crystallized Iron 1 Steel Rod 40 Iron Ingot Anvil Level 12 Heavy Melee
+
+Attacking [ ]
+
+At level 1 Heavy Melee , the iron war axe deals a base damage of 16 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 8 HP of damage. Its damage can be increased by leveling up the Heavy Melee skill and it is in the slashing class.
+
+History [ ]
+
+May 17, 2020 Added iron war axes. January 22, 2021 Level 12 Light Melee is required to craft iron war axes. February 12, 2021 Level 12 Combat is now required to craft the iron war axe instead of level 12 Light Melee. September 17, 2022 Iron war axes are now a slashing weapon.
+
+Trivia [ ]
+
+Despite being a heavy melee weapon , the iron war axe required level 12 Light Melee to craft before the February 12, 2021 update.

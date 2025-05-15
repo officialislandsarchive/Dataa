@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Luxury_Bathtub
+
+----------------------------------------
+
+Luxury Bathtub Type of block Solid block Buy cost 5,000,000 coins Best tool Luminous Transparent The luxury bathtub is a furniture block that can be purchased from John .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+The luxury bathtub can be purchased for 5,000,000 coins from John , who can be found in the Hub .
+
+Breaking [ ]
+
+Luxury Bathtub Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+January 29, 2021 Added luxury bathtubs.
+
+Trivia [ ]
+
+This is the second-most expensive item a player can buy from the villager , the first being the luxury egg sculpture , costing 10,000,000 coins .

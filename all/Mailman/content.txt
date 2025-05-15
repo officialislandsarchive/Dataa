@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Mailman
+
+----------------------------------------
+
+Mailman Location Player's Island Purpose Conduct a survey Occupation Mailman The Mailman is a villager that players can interact with on their island to complete a survey .
+
+Spawning [ ]
+
+From February 7, 2022 to April 1, 2022 , the Mailman would spawn on the player's island to conduct a survey . The Mailman only spawns once per Roblox account, which means that even if the player resets their island or moves to another save slot another Mailman will not spawn. Players can still interact with the Mailman after April 1, 2022.
+
+Purpose [ ]
+
+Players can interact with the Mailman to take part in a survey. Players will be rewarded 200 coins once they have completed the survey.
+
+Dialogue [ ]
+
+"Hey there user ! I have a survey for you to do if you have time, I'll reward you for your time." >[Do survey] Opens the Survey . The Mailman leaves the player's island once the survey is completed.
+
+After survey completion [ ]
+
+If the player interacts with a Mailman after they have already completed the survey, he will say the following line:
+
+"Hey there user ! I have a survey for you to do if you have time, I'll reward you for your time." >[Ask to leave island] Exits and the Mailman leaves the player's island.
+
+History [ ]
+
+February 7, 2022 Added the Mailman. April 1, 2022 The Mailman no longer spawns on player islands .
+
+Trivia [ ]
+
+There was a bug that caused the Mailman to appear on a player's island more than once, allowing the player to complete the survey multiple times.

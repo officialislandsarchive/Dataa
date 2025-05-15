@@ -1,0 +1,11 @@
+Source: https://robloxislands.fandom.com/wiki/Block
+
+----------------------------------------
+
+Blocks are placeable objects that exist outside the player's inventory . Players can use blocks to build up their island .
+
+List of blocks
+
+Technical blocks
+
+Technical blocks are blocks which serve various purposes during events within the game, or are unreleased/unused in-game. These blocks cannot be obtained in the player's inventory through normal gameplay and can only be spawned in through the use of exploits or by a developer.

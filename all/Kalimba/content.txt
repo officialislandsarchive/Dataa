@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Kalimba
+
+----------------------------------------
+
+Kalimba Recipe 10 Iron Ingot 10 Oak Wood Crafted with Instrument Workbench The kalimba is an instrument .
+
+Obtaining [ ]
+
+Melody [ ]
+
+The player will receive a kalimba and a pan flute upon first interacting with Melody in the Hub .
+
+Crafting [ ]
+
+The instrument workbench gamepass is required to craft the kalimba.
+
+Name Recipe Crafting station Gamepass required Kalimba 10 Iron Ingot 10 Oak Wood Instrument Workbench
+
+Usage [ ]
+
+The player can play a song by using the kalimba by clicking, and just like all the other instruments it emits a multicolored effect of music notes when played. Using the kalimba also causes an animation to play on the player.
+
+Audio [ ]
+
+History [ ]
+
+July 9, 2021 Added kalimbas.
+
+Gallery [ ]

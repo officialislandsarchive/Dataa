@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Beach_Table
+
+----------------------------------------
+
+Beach Table Type of block Solid block Recipe 30 Birch Wood Crafted with Furniture Workbench Best tool Luminous Transparent The beach table is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Beach Table 30 Birch Wood Furniture Workbench
+
+Breaking [ ]
+
+Beach Table Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+History [ ]
+
+May 31, 2020 Added beach tables. June 3, 2022 A beach table blueprint is no longer required to unlock the recipe of beach tables.

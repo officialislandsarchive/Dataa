@@ -1,0 +1,53 @@
+Source: https://robloxislands.fandom.com/wiki/Weapon
+
+----------------------------------------
+
+Weapons are items that are used to attack and defeat mobs or other players if PVP is enabled. There are four different categories of weapons: Light Melee , Heavy Melee , Archery , and Magic . Defeating hostile mobs will award the player with Combat XP and XP for the combat skill of the weapon currently held. If no weapon is held, no weapon class XP will be awarded. The damage for each weapon increases for each level of the corresponding weapon skill that the players have.
+
+When multiple players simultaneously attack a hostile mob, only the damage dealt by a randomly selected player will register.
+
+Weapons [ ]
+
+Melee weapons are weapons specialized for close-combat attacks. They have a chance to do critical hits which increases damage by 50% of the base damage.
+
+Heavy Melee weapons [ ]
+
+Heavy Melee weapons generally deal more damage than Light Melee weapons .
+
+Light Melee weapons [ ]
+
+Light Melee weapons generally deal less damage than Heavy Melee weapons. Most of these weapons have the same attack speed as Heavy Melee weapons, but the rageblade has the fastest attack speed.
+
+Shields [ ]
+
+Shields are weapons that can damage and reduce damage from mobs. They can also push mobs in a straight line.
+
+Ranged weapons [ ]
+
+Ranged weapons are not as effective in close combat, but more so at attacking mobs from a distance.
+
+Archery [ ]
+
+Bows deal different amounts of damage depending on the duration that the bow has been drawn and the player's Archery level. Full charges will deal full damage, while short charges deal less. Bows require arrows to fire, using 1 arrow per released charge.
+
+Magic [ ]
+
+Magic weapons do not need ammunition of any sort. Some magic weapons, such as the Slime Queen's scepter , may heal the player when an enemy is hit.
+
+Critical hits [ ]
+
+Melee weapons have a chance of dealing a critical hit (referred to as "star strikes" by Ivon ). Critical hits deal 1.5x of the weapon's base damage. All ranged weapons except for the lightning scepter do not possess the ability to land critical hits.
+
+Since the January 22, 2021 update, critical hits from melee weapons will deal a fixed amount of damage instead of a ranged amount.
+
+Event weapons [ ]
+
+Event weapons are limited items that can no longer be obtained after their respective events have ended. They can still be obtained through trading with other players.
+
+Weapon stats [ ]
+
+Name Base damage Other damage Damage increase DPS (approx.) Other info Weapon type/types Wooden Sword 10 HP +5 HP (critical) +0.2 per Light Melee skill level 22.5 HP This was the first weapon added to the game. Slashing Stone Sword 15 HP +8 HP (critical) 30 HP None. Slashing Iron Sword 22 HP +11 HP (critical) 33.75 HP None. Slashing Rageblade 13 HP +7 HP (critical) 52 HP - 130 HP (max speed; without crits) This weapon, after hitting an enemy or a player (without dealing any damage) a few (approximately 15) times, will start to increase its rate of attack from about 4 hits per second to 10 hits per second. Slashing Cutlass 18 HP +9 HP (critical) 40.5 HP This was the first event weapon in the game. Slashing Aquamarine Sword 18 HP +9 HP (critical) 40.5 HP This weapon deals very high knockback and has a wide range. Slashing Cactus Spike 25 HP +13 HP (critical) 56.25 HP This weapon deals very little knockback. Piercing Diamond Great Sword 28 HP +14 HP (critical) 63 HP None. Slashing The Captain's Rapier 30 HP +15 HP (critical) 67.5 HP This weapon deals very high knockback towards mobs and increases the drop chances of items from mobs by 20%. Piercing Maple Shield 7 HP +4 HP (critical) 11.25 HP Any damage taken from mobs will be reduced by 40% if the player is holding the maple shield. Striking Frost Sword 18 HP +9 HP (critical) 40.5 HP Every four hits dealt to a hostile mob inflicts the slowness effect, causing the attacked mob to become slow. Slashing, Frost Ruby Sword 60 HP +30 HP (critical) ~135 HP This weapon does the most damage of the Light Melee weapons. Slashing Serpent's Hook 55 HP +28 HP (critical) ? It has the ability to spin, doing 18 damage 2 times a second. Slashing, Void Antler Dagger 24 HP +12 HP (critical) ? It is unimplemented in-game, but appears in the Combat Catalogue . Slashing Jolly Dagger 52 HP +26 HP (critical) ~41 HP Heals the player when successfully damaged a hostile mob . Slashing, Ethereal Wooden Mallet 12 HP +6 HP (critical) +0.2 per Heavy Melee skill level 24 HP None. Striking Granite Hammer 14 HP +7 HP (critical) 28 HP None. Striking Iron War Axe 16 HP +8 HP (critical) 28.8 HP None. Slashing Obsidian Greatsword 24 HP +12 HP (critical) 36 HP None. Slashing Gilded Steel Hammer 25 HP +13 HP (critical) 45 HP None. Striking Diamond War Hammer 32 HP +16 HP (critical) 56 H.P None. Striking Kong's Axe 17 HP +8.5 HP (critical) 30.6 HP None. Slashing Pumpkin Hammer 20 HP +10 HP (critical) 40 HP This weapon has increased knockback. Striking The Dragonslayer 45 HP +23 HP (critical) 90 HP None. Slashing Antler Shield 15 HP +8 HP (critical) 33.75 HP This weapon can be obtained by defeating any mobs while having Might of Fhanhorn Effect. Any damage taken from mobs will be reduced by 60% if the player is holding the antler shield. Striking Antler Hammer 35 HP +18 HP (critical) 78.75 HP This weapon can be obtained by defeating any mobs while having Might of Fhanhorn effect. Striking Frost Hammer 24 HP +12 HP (critical) ? Every four hits dealt to a hostile mob inflicts the slowness effect, causing the attacked mob to become slow. Striking, Frost Infernal Hammer 48 HP +24 HP (critical) Deals inferno damage additionally Striking, Inferno Trout's Fury 11 HP +6 HP (critical) ? This weapon deals extremely high knockback to mobs. Does Hydro damage additionally Striking, Hydro Serpent's Bane 65 HP +33 HP (critical) ? This weapon deals the second most raw damage out of all melee weapons. Slashing The Reaper's Scythe 68 HP +34 HP (Critical) ? This weapon deals the most raw damage out of all melee weapons. Slashing, Void Wooden Shortbow 10 HP 1x-1.7x Base damage (charged) +0.2 per Archery skill level 40 HP Requires a stone short arrow , iron short arrow , or steel short arrow to shoot. Piercing (With a small arrow) Iron Shortbow 18 HP 1x-1.7x Base damage (charged) ? Requires a stone short arrow , iron short arrow , or steel short arrow to shoot. to shoot Piercing (With a small arrow) Golden Shortbow 22 HP 1x-1.7x Base damage (charged) ? Requires a stone short arrow , iron short arrow , or steel short arrow to shoot. to shoot Piercing (With a small arrow) Ancient Longbow 20 HP 1x-1.7x Base damage (charged) 60 HP Requires a stone long arrow , iron long arrow , or steel long arrow to shoot. Piercing (With a large arrow) Azarathian Longbow 26 HP 1x-1.7x Base damage (charged) 70 HP This weapon, upon shooting an enemy, will heal the player wielding it. Piercing (With a large arrow) The Reaper's Crossbow 34 HP 1x-1.7x Base Damage (charged) ? This weapon is the only current crossbow in-game. Piercing (With a bolt) Spellbook 22 HP None +0.2 damage per Magic skill level 22 HP None. Inferno Tidal Spellbook 36 HP None 36 HP None. Hydro Staff of Godzilla 20 HP None 20 HP None. Quake Lightning Scepter 6 HP N/A 30 HP This weapon attacks using a unique lighting blast similar to the Wizard Boss 's attack with a very high attack rate but low damage per hit. Storm Ruby Staff 36 HP None 36 HP None. Quake Spirit Spellbook 30 - 46 HP None 30 - 46 HP The color of the fireball determines the base damage that is taken. Void Slime Queen's Scepter 46 HP 1x-1.35x Base damage (charged) 46 HP When hitting an enemy 3 times, a beam similar to the Slime Queen's beam attack that drains 20 HP from the enemy 5 times, dealing 100 HP in total(has the properties of quake). Ethereal Candy Cane Scepter 38 HP None 38 HP None. Frost
+
+Shield damage reduction [ ]
+
+Shield Damage reduction Maple Shield 40% Antler Shield 60%

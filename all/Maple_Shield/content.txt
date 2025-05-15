@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Maple_Shield
+
+----------------------------------------
+
+Maple Shield Type Light Melee/Shield Physical class Striking Attack damage 5 HP (Base) 8 HP (Critical) Recipe 150 Maple Wood 25 Iron Ingot Crafted with Maple Workbench
+
+The maple shield is a light melee weapon able to attack and defend from attacks. It is in the striking class.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Maple Shield 150 Maple Wood 25 Iron Ingot Maple Workbench
+
+Usage [ ]
+
+Attacking [ ]
+
+At Light Melee level 1, the maple shield deals a base damage of 5 HP. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal 50% more damage. Its damage can be increased by leveling up the Light Melee skill.
+
+Defending [ ]
+
+Any damage taken from mobs will be reduced by 40% if the player is holding the maple shield.
+
+History [ ]
+
+November 27, 2021 Added maple shields. September 17, 2022 Maple shields are now a striking weapon.
+
+Trivia [ ]
+
+Prior to November 11, 2022 , this weapon is tied with the lightning scepter for the lowest damage per hit in the game.

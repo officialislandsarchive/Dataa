@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Heavy_Melee
+
+----------------------------------------
+
+Heavy Melee Class Combat Base Stats +0.2 Heavy Melee DMG Unlocks Lowest Unlock LVL 12 Highest Unlock LVL 68
+
+Heavy Melee is a skill that boosts damage of heavy melee weapons every level-up. It is needed to unlock the recipes for most heavy melee weapons.
+
+Roadmap [ ]
+
+Level Unlock(s) Level 12 Iron War Axe Crafting Recipe Level 32 Gilded Steel Hammer Crafting Recipe Level 36 Obsidian Greatsword Crafting Recipe Level 46 Diamond War Hammer Crafting Recipe Level 55 Infernal Hammer Crafting Recipe The Dragonslayer Crafting Recipe Level 68 Serpent's Bane Crafting Recipe
+
+List of heavy melee weapons [ ]
+
+Image Name Recipe Crafting station Required skill Wooden Mallet 40 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Granite Hammer 20 Granite 10 Iron Ingot Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 None Iron War Axe 3 Crystallized Iron 1 Steel Rod 40 Iron Ingot Anvil Level 12 Heavy Melee Gilded Steel Hammer 40 Gold Ingot 5 Gilded Steel Rod 1 Buffalkor Crystal Anvil Level 32 Heavy Melee Diamond War Hammer 80 Diamond 5 Gilded Steel Rod 10 Enchanted Diamond Anvil Level 46 Heavy Melee Kong's Axe N/A N/A N/A Obsidian Greatsword 1 Obsidian Hilt 6 Crystallized Obsidian Anvil Level 36 Heavy Melee The Dragonslayer 1 Opal Sword Hilt 60 Opal 100 Iron Ingot Anvil Level 55 Heavy Melee Pumpkin Hammer N/A N/A N/A Antler Hammer N/A N/A N/A Antler Shield N/A N/A N/A Frost Hammer N/A N/A N/A Infernal Hammer 1 Infernal Flame 200 Magma Block 5 Gilded Steel Rod 50 Steel Plate Anvil Level 55 Heavy Melee Trout's Fury N/A N/A N/A Serpent's Bane 3 Serpent's Scale 40 Amethyst Crystal 200 Iron Ingot 10 Gilded Steel Rod Anvil Level 68 Heavy Melee The Reaper's Scythe N/A N/A N/A
+
+XP gained (mobs) [ ]
+
+Image Mob XP (with 4x daily bonus) XP (without 4x daily bonus) Slime (green, blue, pink) 9 XP 3 XP Buffalkor 120 XP 30 XP Wizard Lizard 198 XP 51 XP Iron Skorp 300 XP 75 XP Gold Skorp 348 XP 87 XP Ruby Skorp 1998 XP 501 XP Angry Crab 24 XP 6 XP Bandit 48 XP 12 XP Magma Blob 99 XP 24 XP Rock Mimic (coal, iron, gold) 180 XP 45 XP Snowman 99 XP 25 XP
+
+XP gained (bosses) [ ]
+
+Image Name XP (with 4x daily bonus) XP (without 4x daily bonus) Slime King 150 XP 39 XP Wizard Boss 4998 XP 1251 XP Kor 9999 XP 2500 XP Bhaa 4998 XP 1251 XP Infernal Dragon 4998 XP 1251 XP Fhanhorn 4998 XP 1251 XP Percival the Pumpkin King 4998 XP 1251 XP Slime Queen 6000 XP 1500 XP
+
+Damage increase [ ]
+
+Number of levels Damage increase 1 (start) 0.2 2 0.4 3 0.6 4 0.8 5 1 6 1.2 7 1.4 8 1.6 9 1.8 10 2 11 2.2 12 2.4 13 2.6 14 2.8 15 3 16 3.2 17 3.4 18 3.6 19 3.8 20 4 21 4.2 22 4.4 23 4.6 24 4.8 25 5 26 5.2 27 5.4 28 5.6 29 5.8 30 6 31 6.2 32 6.4 33 6.6 34 6.8 35 7 36 7.2 37 7.4 38 7.6 39 7.8 40 8 41 8.2 42 8.4 43 8.6 44 8.8 45 9 46 9.2 47 9.4 48 9.6 49 9.8 50 10 51 10.2 52 10.4 53 10.6 54 10.8 55 11 56 11.2 57 11.4 58 11.6 59 11.8 60 12 61 12.2 62 12.4 63 12.6 64 12.8 65 13 66 13.2 67 13.4 68 13.6 69 13.8 70 14 71 14.2 72 14.4 73 14.6 74 14.8 75 15 76 15.2 77 15.4 78 15.6 79 15.8 80 16 81 16.2 82 16.4 83 16.6 84 16.8 85 17 86 17.2 87 17.4 88 17.6 89 17.8 90 18 91 18.2 92 18.4 93 18.6 94 18.8 95 19 96 19.2 97 19.4 98 19.6 99 19.8 100 20

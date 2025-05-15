@@ -1,0 +1,39 @@
+Source: https://robloxislands.fandom.com/wiki/Spellbook
+
+----------------------------------------
+
+Spellbook Type Magic weapon Magical class Inferno Magic weapon type Spellbook Attack damage 22 HP Recipe 1 Green Page 1 Blue Page 1 Red Page Crafted with Anvil Description Cast wizard spells. The spellbook is a ranged magic weapon that can shoot fireballs horizontally. It is in the inferno class.
+
+It can be crafted without any Magic level requirement.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Spellbook 1 Green Page 1 Blue Page 1 Red Page Anvil
+
+Mob drop [ ]
+
+The Wizard Boss has a 0.45% chance of dropping a spellbook upon defeat.
+
+Attacking [ ]
+
+Casting [ ]
+
+At level 1 Magic , fireballs can be shot from the spellbook to deal a base damage of 45 HP every second. The fireballs are shot horizontally in the direction the player is facing, or where the camera is pointing in first person mode, and its damage can be increased by leveling up the Magic skill and it is in the inferno class.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Slime Queen's Scepter * 1 Spellbook 100 Gold Ingot 50 Pink Slime Ball 10 Pink Slime Crystal Anvil None Tidal Spellbook 1 Spellbook 2 Crystallized Aquamarine Anvil Level 20 Magic Spirit Spellbook 1 Spellbook 50 Spirit Crystal 200 Spirit Jar 1 Green Spirit Essence Anvil Level 40 Magic
+
+* The Slime Queen's Scepter can be crafted without any Magic level requirement
+
+History [ ]
+
+July 17, 2020 Added spellbooks. July 20, 2020 Fixed an issue that prevented spellbooks from dealing damage. July 25, 2020 Changed model of spellbooks. Spellbooks can now be used to craft tidal spellbooks . January 24, 2021 Fixed a bug that prevented projectiles shot from spellbooks from disappearing. February 12, 2021 Changed the animation played from using the spellbook from "two hand shove" to the melee swing animation. Nerfed the base damage from 60 HP to 55 HP. September 18, 2021 Introduced a bug that prevented projectiles shot from spellbooks from disappearing. September 21, 2021 Introduced a bug that prevented spellbooks from dealing damage in private servers. December 18, 2021 Reduced the sound of spellbooks. ? Fixed a bug that prevented spellbooks from dealing damage. ? Fixed a bug that prevented spellbook projectiles from disappearing. April 22, 2022 Spellbooks can now be placed in tool stands . May 27, 2022 Spellbooks are now able to be charged to deal more damage Changed the appearance of projectiles fired by spellbooks. June 3, 2022 The Wizard Boss now has a chance of dropping spellbooks upon defeat. June 10, 2022 Spellbooks can now be used to craft spirit spellbooks . Nerfed spellbook damage from 55 to 45. Nerfed charging damage. July 23, 2022 Spellbooks can now be used to craft Slime Queen's scepters . September 17, 2022 Nerfed spellbook damage from 45 to 22 HP. Removed the spellbook's charging ability. Spellbooks are now an inferno class. October 1, 2022 Changed the model of spellbooks. October 8, 2022 Spellbooks, along with all other Inferno Weapons , give enemies the burning effect.
+
+Trivia [ ]
+
+The spellbook used to use the tidal spellbook's model from July 25, 2020 - October 1, 2022 before being changed to a new one on July 25, 2020 when the aforementioned weapon was released. The spellbook's animation used to be a "two hand shove" animation. However, it was changed to the melee swing animation after the March 19, 2021 update. Despite wizard lizards using spellbooks, they continue to use the two hand shove animation instead of the melee swing animation. Despite exploding upon disappearing, fireballs shot from spellbooks don't deal AOE damage. The spellbook's projectiles can collide with a wizard lizard's projectile, causing one or both projectiles to explode mid-path. The spellbook can fire through terrain and island parts, but cannot fire through game-generated structures or water. The angle the fireball launches is slightly delayed from the player's actual rotation, making shots inaccurate if the player is moving their camera very quickly. Spellbooks do not function correctly on private servers, as well as tidal spellbooks and ruby staffs . Spellbooks and Slime Queen's scepters are the only magic weapons that can be crafted without a Magic level requirement.

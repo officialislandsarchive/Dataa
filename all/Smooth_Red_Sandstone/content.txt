@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Smooth_Red_Sandstone
+
+----------------------------------------
+
+Smooth Red Sandstone Type of block Solid block Recipe 1 Red Sandstone Crafted with Polishing Station Industrial Polishing Station Best tool Luminous Transparent Smooth red sandstone is the smooth version of red sandstone .
+
+Obtaining [ ]
+
+Polishing [ ]
+
+Red sandstone can be polished into smooth red sandstone in a polishing station or an industrial polishing station .
+
+Input Item transformer Output 1 Red Sandstone ➡ Polishing Station ➡ 1 Smooth Red Sandstone ➡ Industrial Polishing Station ➡
+
+Breaking [ ]
+
+Smooth Red Sandstone Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Smooth Red Sandstone Stair 1 Smooth Red Sandstone Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Smooth Red Sandstone Slab 1 Smooth Red Sandstone Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Smooth red sandstone can be polished into smooth red sandstone bricks in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Smooth Red Sandstone ➡ Stonecutter ➡ 1 Smooth Red Sandstone Brick ➡ Industrial Stonecutter ➡
+
+History [ ]
+
+June 4, 2021 Added smooth red sandstone.

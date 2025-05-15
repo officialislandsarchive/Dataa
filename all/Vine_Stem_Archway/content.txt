@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Vine_Stem_Archway
+
+----------------------------------------
+
+Vine Stem Archway Type of block Solid block Recipe 20 Vine Stem Crafted with Furniture Workbench Best tool Luminous Transparent Description An archway made from harvested vines A vine stem archway is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Vine Stem Archway 20 Vine Stem Furniture Workbench
+
+Breaking [ ]
+
+Vine Stem Archway Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+March 31, 2023 Added vine stem archways.

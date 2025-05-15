@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Neon_Light_Shake
+
+----------------------------------------
+
+Neon Light Shake White Yellow Pink Type of block Solid block; Luminous Recipe 1 Colored Neon 1 Neon Red 5 Electrite Crafted with Furniture Workbench Best tool Luminous Transparent Description A wall mounted neon light sign of a shake A neon light shake is a luminous furniture block that can be crafted in the furniture workbench . It can only be placed on walls and comes in three color variants: white, yellow, and pink.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station White Neon Light Shake 1 Neon White 1 Neon Red 5 Electrite Furniture Workbench Yellow Neon Light Shake 1 Neon Yellow 1 Neon Red 5 Electrite Pink Neon Light Shake 1 Neon Pink 1 Neon Red 5 Electrite
+
+Breaking [ ]
+
+Neon Light Shake Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+January 6, 2023 Added neon light shakes. Neon light shakes can now be crafted in the furniture workbench instead of in the level 1 electrical workbench .

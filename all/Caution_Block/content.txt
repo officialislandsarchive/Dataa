@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Caution_Block
+
+----------------------------------------
+
+Caution Block Type of block Solid block Buy cost 25 coins Best tool Luminous Transparent
+
+A caution block is a decorative block purchased from John .
+
+Obtaining [ ]
+
+Buying [ ]
+
+Caution blocks can be bought from John for 25 coins .
+
+Breaking [ ]
+
+Caution Block Breaking Data Hardness 1 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 2 Stone 2 1 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Caution Block Stair 1 Caution Block Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Caution Block Slab 1 Caution Block Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+History [ ]
+
+October 15, 2022 Added caution blocks.

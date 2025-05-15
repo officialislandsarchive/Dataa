@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Rageblade
+
+----------------------------------------
+
+Rageblade Normal Rage Type Light Melee Physical class Slashing Attack damage 13 HP (Base) +7 HP (Critical) Recipe 100 Red Bronze Ingot 20 Maple Wood Crafted with Anvil (requires blueprint) Required skill Level 60 Light Melee Description "If everything seems under control, you're not going fast enough" The Rageblade is a light melee weapon in the slashing class whose attack speed increases when "heated up."
+
+Obtaining [ ]
+
+Blueprint [ ]
+
+Buffalkors have a 0.025% of dropping a rageblade blueprint upon defeat.
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Blueprint required Rageblade 100 Red Bronze Ingot 20 Maple Wood Anvil Level 60 Light Melee
+
+Behavior [ ]
+
+Attacking [ ]
+
+At level 1 Light Melee , the Rageblade deals a base damage of 13 HP and can be swung every 0.5 seconds at default. It has the ability to damage multiple mobs in one swing and deals large knockback. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 7 HP of damage. Its damage can be increased by leveling up the Light Melee skill and it is in the slashing class.
+
+Like other melee weapon , only one player can hit damage in each hostile mob. Multiple players cannot hit damage together.
+
+Rage effect [ ]
+
+After 15 consecutive hits to a player, hostile mob , or passive mob , the rageblade will turn red and start to emit flame particles. The player can swing the rageblade from 2 swings per second to 4.5 swings per second in proportion to its redness.
+
+History [ ]
+
+October 3, 2020 Added rageblades. October 5, 2020 Rageblades can now be displayed on tool stands . February 12, 2021 Nerfed the base damage from 15 HP to 13 HP. August 8, 2021 Introduced a bug that prevented the rage effect from being activated. September 5, 2021 Increased the base damage from 13 HP to 15 HP. September 11, 2021 Fixed a bug that prevented the rage effect to activate. May 27, 2022 Level 60 Combat is now required to craft rageblades. September 17, 2022 Rageblades are now a slashing weapon. Decreased the base damage from 15 HP to 13 HP. October 1, 2022 Changed the model of rageblades. Level 60 Light Melee is now required to craft rageblades instead of level 60 Combat .
+
+Trivia [ ]
+
+It is possible to "fly" on some mobs such as the buffalkor or skorps by jumping on one and continuously attacking it. This is due to the combination of the rageblade's knockback and fast attack speed and the mobs' large hitbox. The old model of the rageblade resembles a katana , a type of sword from ancient Japan . The in-game description for the rageblade is a quote by Mario Andretti , an Italian racer. Prior to November 11, 2022 , the rageblade was the second-fastest weapon , the fastest being the lightning scepter . This was the second weapon to have an ability, the first being the azarathian longbow . The rageblade model is equivalent to the Rageblade model in BedWars .

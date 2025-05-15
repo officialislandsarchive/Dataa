@@ -1,0 +1,65 @@
+Source: https://robloxislands.fandom.com/wiki/Red_Berries
+
+----------------------------------------
+
+Red Berries Planted on Grass Sell price 22 coins Edible Red berries (formerly berry ) are a food item collected from red berry bushes. A red berry bush is a plant that grows red berries and will occasionally produce an extra red berry seed when harvested by a player.
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+The player will begin with one red berry bush on their island upon creation.
+
+Harvesting [ ]
+
+Red berries can be grown on the player's island by planting red berry seeds on grass . Red berry bushes can be harvested by hand, sickle , or turkeys , although turkeys cannot reward extra red berry seeds. When harvested, the player will obtain 1 - 2 red berries, 0 - 1 red berry seeds, and 6 Farming XP (18 XP with the 4x daily bonus). The number of berries received per harvest can be increased to 2 - 3 with the VIP or pro gamepasses .
+
+Totems [ ]
+
+A red berry totem will collect red berries from bushes in a 3 block radius. The red berries can be collected by interacting with the totem. A red berry totem placed next to a conveyor belt will drop the red berries onto the conveyor. Red berry bushes harvested by totems cannot yield red berry seeds.
+
+Christmas presents [ ]
+
+Opening a Christmas present 2020 has a chance to reward an unknown range of red berries.
+
+Spooking turkeys [ ]
+
+Spooking turkeys on the Maple Isles will reward the player with 1 - 2 red berries or raspberries.
+
+Growth [ ]
+
+A red berry bush grows through three stages after it is planted. Its first growth stage is a small seed. It becomes a bush in its second stage and produces berries in its third growth stage. Its growth time is not affected by water nor basic fertilizer .
+
+Red Berries Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 2m 35s 7m 45s 5m 10s after harvesting Note: The durations of time above are on an unfertilized and unwatered plant Red Berries Growth Time Type Growth Time Normal 7m 45s Fertilized 7m 45s Watered 7m 45s Watered + Fertilized 7m 45s
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Berry Dough 1 Dough 5 Red Berries Cooking Table Food Processor Level 2 Cooking
+
+Eating [ ]
+
+Eating a red berry restores 20 HP.
+
+Selling [ ]
+
+Red berries can be sold to Cletus for 22 coins each.
+
+Chickens [ ]
+
+Red berries are the main food source of chickens . Feeding a red berry to a chicken will make the chicken lay eggs .
+
+Frogs [ ]
+
+Players are able to feed red berries to frogs by dropping them close to them. However, feeding them currently serves no purpose.
+
+History [ ]
+
+April 10, 2020 Added berries. May 10, 2020 Decreased the sell price of berries from 30 coins to 25 coins to Tom . Berry seeds could now only be dropped from berry bushes after 20 minutes of playtime. June 15, 2020 Red berry bushes can now be watered with watering cans and basic sprinklers . September 18, 2020 Decreased the sell price of berries from 25 coins to 22 coins. ? Waiting 20 minutes is no longer necessary to have a chance of receiving an extra berry seed. January 22, 2021 Red berry bushes now grant 6 Farming XP when harvested. February 26, 2021 Red berries can now be used to feed chickens . April 4, 2021 Red berry bushes can now be harvested with sickles . Red berries can now be used to feed frogs . July 30, 2021 Red berry bushes can now be harvested with Cletus' lucky sickle . October 9, 2021 Renamed berries to red berries. Red berries can be obtained and harvested from red berry totems . November 27, 2021 Red berries can be obtained by spooking turkeys . Red berry bushes can now be harvested by turkeys. Red berries can now be used to feed turkeys. June 3, 2022 Red berries can now be sold to Cletus instead of to Tom. October 15, 2022 Red berries can now be sold to Tom instead of to Cletus. November 4, 2022 Red berries can now be sold to Cletus instead of Tom.
+
+Trivia [ ]
+
+While it is possible to water berry bushes with the watering can and basic sprinkler , watering it will not have an effect on the growth time of berries. The developers hinted that Roblox YouTuber KonekoKitten brought the issue of berry farming using alts to their attention in his video, " i BROKE roblox skyblock by accident LOL ," thus causing them to add a 20 minute time period upon joining the game where the player cannot receive extra red berry seeds. This was later removed a few months later. A red berry bush , wheat , and a fruit tree are the three crops that naturally generate upon a new island creation. Turkeys cannot reward Farming XP and extra red berry seeds when harvesting red berry bushes.
+
+Gallery [ ]

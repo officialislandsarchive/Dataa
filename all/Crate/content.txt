@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Crate
+
+----------------------------------------
+
+Crate Wheat Tomatoes Potatoes Carrots Onions Starfruit Pumpkins Melons Pineapples Cactus Spinach Radishes Apples Avocados Coconuts Kiwis Lemons Oranges Plums Wheat Tomatoes Potatoes Carrots Onions Starfruit Pumpkins Melons Pineapples Cactus Spinach Radishes Apples Avocados Coconuts Kiwis Lemons Oranges Plums Recipe Crates: 100 of a respective crop/fruit Large crates: 250 of a respective crop/fruit Crafted with Crates: Crate Packer Large crates: Tier 2 Crate Packer Description All crates but onion: A crate of 100 [crop/fruit] Onion crates: A crate of 100 onions... sure to make you cry. All large crates but onion: A crate of 250 [crop/fruit] Large onion crates: A crate of 250 onions... sure to make you cry. A crate is an item created with a crate packer or tier 2 crate packer used to store 100 or 250 crops or fruits respectively of a certain type.
+
+Obtaining [ ]
+
+Packing [ ]
+
+Normal crates are packed by a crate packer when it has 100 of any crop . Large crates are packed by a tier 2 crate packer when it has 250 of any crop .
+
+Usage [ ]
+
+Selling [ ]
+
+Crates can be sold to Dom for coins .
+
+Image Name Sell price Crate of Wheat 840 coins Crate of Tomatoes 1,080 coins Crate of Potatoes 2,040 coins Crate of Carrots 2,520 coins Crate of Onions 3,600 coins Crate of Starfruit 7,200 coins Crate of Pumpkins 6,240 coins Crate of Melons 9,600 coins Crate of Pineapples 11,040 coins Crate of Cactus 3,600 coins Crate of Spinach 2,160 coins Crate of Radishes 7,680 coins Crate of Apples 4,000 coins Crate of Avocados 6,400 coins Crate of Coconuts 9,000 coins Crate of Kiwis 3,800 coins Crate of Lemons 4,000 coins Crate of Oranges 4,000 coins Crate of Plums 10,000 coins Large Crate of Wheat 2,362 coins Large Crate of Tomatoes 3,037 coins Large Crate of Potatoes 5,737 coins Large Crate of Carrots 7,087 coins Large Crate of Onions 10,125 coins Large Crate of Starfruit 20,250 coins Large Crate of Pumpkins 17,550 coins Large Crate of Melons 27,000 coins Large Crate of Pineapples 31,050 coins Large Crate of Cactus 10,125 coins Large Crate of Spinach 6,075 coins Large Crate of Radishes 21,600 coins Large Crate of Apples 12,500 coins Large Crate of Avocados 20,000 coins Large Crate of Coconuts 28,125 coins Large Crate of Kiwis 11,875 coins Large Crate of Lemons 12,500 coins Large Crate of Oranges 12,500 coins Large Crate of Plums 31,250 coins
+
+History [ ]
+
+June 4, 2021 Added crates. August 15, 2021 Added large crates. August 21, 2021 Added normal and large apple , avocado , coconut , kiwi , lemon , and orange crates. October 9, 2021 Added normal and large plum crates. January 8, 2022 Decreased the multiplier of the value of crop crates from 1.25x to 1.20x. Decreased the multiplier of the value of large crop crates from 1.46x to 1.35x. January 15, 2022 Increased the sell price of crates and large crates of starfruit from 5,400 coins and 15,187 coins to 7,200 coins and 20,250 coins respectively. March 6, 2022 Changed the model for large and normal wheat, tomato, potato, and radish crates. April 1, 2022 Increased the sell price of crates of tomatoes from 1,080 coins to 1,800 coins. May 13, 2022 Decreased the sell price of crates and large crates of melons from 9,600 coins and  27,000 coins to 9,000 coins and 25,312 coins respectively. Increased the sell price of crates and large crates of kiwis from 4,800 coins and 15,000 coins to 6,400 coins and 20,000 coins respectively. July 30, 2022 Added normal and large pineapple , cactus , and spinach crates. Increased the sell price of normal and large melon crates from 9,600 and 24,000 coins to 10,200 and 28,688 coins respectively. October 1, 2022 Decreased the sell price of normal and large tomato crates from x and x coins to 480 and 1,350 coins respectively. Increased the sell price of normal and large pineapple crates from x and x coins to 11,520 and 32,400 coins respectively.
+
+Trivia [ ]
+
+Crates are one of the two ways to sell seasonal crops off-season, the other way being using the industrial merchant teleseller . Every crate except for the crate of onions has a description that reads, "A crate of 100/250 [crop/fruit]". The crate of onions, however, reads "A crate of 100/250 onions... sure to make you cry." The large crate of plums is the highest-selling merchant offer in the game.

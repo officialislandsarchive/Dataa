@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Enchanted_Diamond
+
+----------------------------------------
+
+Enchanted Diamond Enchanted Diamond Rock Spawns Small chance to get after defeating Kor or in the Diamond Mines . Description Excavated from enchanted nodes in the Diamond Mines An enchanted diamond is an item that is the enchanted variant of diamonds .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Enchanted diamond rocks have a 0.25% - 0.5% chance of spawning in the Diamond Mines . Mining an enchanted diamond rock yields 1 enchanted diamond after each stage and 125 Mining XP (499 with the 4x daily bonus), resulting in a total of 6 (Rate up period, February 17 - March 3 ) enchanted diamonds and 250 Mining XP (998 with the 4x daily bonus) per rock.
+
+Mob drops [ ]
+
+Four diamond rocks spawn upon killing Kor . Each diamond rock that spawns has a 2% chance of being enchanted.
+
+Breaking [ ]
+
+Enchanted Diamond Rock Breaking Data Hardness 100 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 150 Wooden 300 150 Stone 160 100 Iron 100 63 Gilded Steel 70 50 Diamond 50 30 Opal 40 20 Void Mattock 20
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Diamond Mines Orb 10 Glass Block 30 Diamond 2 Enchanted Diamond Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 46 Combat Diamond War Hammer 80 Diamond 10 Enchanted Diamond 5 Gilded Steel Rod Anvil Level 46 Heavy Melee Diamond Great Sword 80 Diamond 10 Enchanted Diamond 5 Gilded Steel Rod Anvil Level 46 Light Melee Greg's Hammer 2 Enchanted Diamond 30 Steel Plate 20 Pine Wood Workbench Tier 4 Master Breaker Achievement Forge Hammer 2 Enchanted Diamond 30 Steel Plate 20 Pine Wood Workbench Tier 4 Master Breaker Achievement Diamond Mines Portal 1 Diamond Mines Portal Shard 15 Enchanted Diamond 150 Stone Brick Workbench Tier 3 Workbench Tier 4 (to use) Level 46 Combat Large Diamond Chest 30 Diamond 5 Enchanted Diamond 20 Steel Plate 15 Steel Bolt Workbench Tier 4 None Expanded Diamond Chest 50 Diamond 10 Enchanted Diamond 40 Steel Plate 30 Steel Bolt Workbench Tier 4 None
+
+History [ ]
+
+February 12, 2021 Added enchanted diamonds. April 10, 2022 Enchanted diamonds can now be used to craft Diamond Mines orbs . November 4, 2022 Enchanted diamonds can now be used to craft large diamond chests and expanded diamond chests .
+
+Trivia [ ]
+
+The enchanted diamond rock currently gives the most Mining XP, with the diamond rock being second. This is the only ore that replaces its crystallized variant with an enchanted variant.
+
+Gallery [ ]

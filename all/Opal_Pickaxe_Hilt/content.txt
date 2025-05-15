@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Opal_Pickaxe_Hilt
+
+----------------------------------------
+
+Opal Pickaxe Hilt Description The hilt for an opal pickaxe, crafted on the anvil. An opal pickaxe hilt is an item used to craft the opal pickaxe .
+
+Obtaining [ ]
+
+Dragon eggs [ ]
+
+Opening an infernal dragon egg has a 9% chance of rewarding an opal pickaxe hilt, having a rarity of 'rare'.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Opal Pickaxe 1 Opal Pickaxe Hilt 50 Opal 100 Iron Ingot Anvil Level 55 Mining
+
+History [ ]
+
+September 11, 2021 Added opal pickaxe hilts.

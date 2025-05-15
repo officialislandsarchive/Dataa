@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Skeleton
+
+----------------------------------------
+
+Skeleton Health 100 HP Behavior Hostile Attack strength 8 HP Drops Chocolate Bar Orange Candy Lollipop Jukebox Disk Location Witch Island Skeletons were hostile mobs available during Halloween 2020 .
+
+Spawning [ ]
+
+Witch Island [ ]
+
+Skeletons spawned naturally on the Witch Island which could be accessed through the portal in the Hub . However, since the November 1 2020 update, this portal is no longer accessible.
+
+Grand High Witch [ ]
+
+12 skeletons are spawned in total during all phases of the Grand High Witch fight.
+
+Drops [ ]
+
+Icon Item Drop chance Chocolate Bar 100% (only one candy) Orange Candy Lollipop Jukebox Disks drops Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+October 16, 2020 Added skeletons. October 17, 2020 Fixed a bug that caused skeletons to ragdoll when hit with spellbooks or tidal spellbooks . November 1, 2020 Removed skeletons.
+
+Trivia [ ]
+
+Before the October 17, 2020, patch, if a skeleton was hit by the tidal spellbook or the spellbook , it would rag-doll and would not be able to move. Skeletons were able to hide in rocks, where projectiles could not hit them. However, it was still possible to still attack them with melee weapons .

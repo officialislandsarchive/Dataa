@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Thomas%27_Lucky_Fishing_Rod
+
+----------------------------------------
+
+Thomas' Lucky Fishing Rod Type Tool Buy cost 600 Fishing Tickets Description Fisherman Thomas' lucky fishing rod - which gives 25% more luck while fishing using it. Thomas' lucky fishing rod is a tool used for fishing .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Thomas' lucky fishing rod could have been purchased from Thomas on Fishing Festival Island for 600 fishing tickets during the 2022 Fishing Festival event.
+
+Usage [ ]
+
+Fishing [ ]
+
+Fishing rods can be cast into bodies of water . After a short period of time, a fish shadow will approach the bobber and “bite” it. A UI will appear above the player's hotbar where they must keep a red block within a certain area until the yellow progress bar reaches the end. If the player fails to fill the bar within 25 seconds, the fish will disappear and the rod will reel itself in.
+
+History [ ]
+
+July 23, 2022 Added Thomas' lucky fishing rods. July 30, 2022 Thomas' lucky fishing rod is now unobtainable. August 1, 2022 Thomas' lucky fishing rod can now be dropped, traded , and put in vending machines and chests .
+
+Trivia [ ]
+
+It is a reskinned version of the iron fishing rod .

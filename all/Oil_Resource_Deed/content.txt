@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Oil_Resource_Deed
+
+----------------------------------------
+
+Oil Resource Deed Buy cost 500,000 coins Description Creates a temporary oil resource deposit on your island, 3.3x faster than a regular deposit, capable of producing 5,000 units of oil. An oil resource deed is an item that can be bought from Doug . It cannot be dropped, traded , or put in vending machines and chests .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+An oil resource deed can be bought for 500,000 coins from Doug , located in the Hub . The player can buy one every 4 hours.
+
+Usage [ ]
+
+Creating oil resources [ ]
+
+Oil resource deeds create an oil resource island with a temporary oil deposit that produces 5.000 units of oil before depleting and disappearing. The resource island can be spawned by holding down with the deed equipped in the hotbar . The deed will only create the resource island if the player has a workbench tier 4 placed on their island and has not reached the max of 15 resource islands already.
+
+History [ ]
+
+August 15, 2021 Added oil field deeds. August 16, 2021 Changed the model of oil field deeds. Renamed oil field deeds to "Oil Resource Deed." Oil resource deeds are now sold by Doug . June 3, 2022 Purchasing an oil resource deed from Doug no longer immediately spawns an oil resource island . Oil resource deeds are now the only way to obtain an oil deposit Oil resource deeds can now be collected into the player's inventory . Oil resource deeds no longer function as intended and cannot spawn an oil resource island. June 10, 2022 Fixed a bug that caused oil resource deeds to not work. Oil resource deeds will only spawn an oil resource island if there are less than 15 resource islands on the player's island .

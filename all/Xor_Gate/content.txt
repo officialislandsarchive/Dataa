@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Xor_Gate
+
+----------------------------------------
+
+Xor Gate Type of block Solid block; Electrical Recipe 20 Iron Ingot 40 Electrite Crafted with Electrical Workbench (Level 2) Best tool Luminous Transparent Description A logic gate that allows electrical passthrough if ONLY ONE input receives power.
+
+The xor gate is an electrical component that can be crafted with 20 iron and 40 electrite in a level 2 electrical workbench . The xor gate is a logic gate has two inputs and a passthrough. A xor gate will only allow passthrough if only one input is powered.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Xor Gate 20 Iron Ingot 40 Electrite Electrical Workbench (Level 2)
+
+Breaking [ ]
+
+Xor Gate Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Electrical circuits [ ]
+
+Xor gates work similarly to or gates in that they both let power through if one input is powered. The difference is an or gate will let the greater input through, while this one will only let power through if one is powered.
+
+History [ ]
+
+December 11, 2020 Added xor gates.
+
+Trivia [ ]
+
+This block works just like real XOR gates in real life. The reason NAND Gate, NOR Gate, NOT Gate, and XNOR Gate weren't added because then it would be possible to make an infinite power source. However, this could be solved by having a power requirement in order for these gates to function.

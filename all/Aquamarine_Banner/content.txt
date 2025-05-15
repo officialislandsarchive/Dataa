@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Aquamarine_Banner
+
+----------------------------------------
+
+Aquamarine Banner Standing Hanging Type of block Solid block Recipe 5 Oak Wood 1 Blue Flower Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Banner Workbench Best tool Luminous Transparent The aquamarine banner is a decorative banner block .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Aquamarine Banner 5 Oak Wood 1 Blue Flower Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Banner Workbench
+
+Breaking [ ]
+
+Aquamarine Banner Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+May 8, 2021 Added aquamarine banners.

@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Andesite_Carved
+
+----------------------------------------
+
+Andesite Carved Type of block Solid block Recipe 1 Andesite Tiles Crafted with Stonecutter Industrial Stonecutter Best tool Luminous Transparent Andesite carved is a block that can be cut from andesite tiles .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Andesite tiles can be transformed into andesite carved in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Andesite Tiles ➡ Stonecutter ➡ 1 Andesite Carved ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Andesite Carved Breaking Data Hardness 8 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 12 Wooden 24 24 Stone 13 13 Iron 8 8 Gilded Steel 6 6 Diamond 4 4 Opal 4 4 Void Mattock 2
+
+History [ ]
+
+March 6, 2022 Added andesite carved.

@@ -1,0 +1,117 @@
+Source: https://robloxislands.fandom.com/wiki/Flower
+
+----------------------------------------
+
+A flower is a naturally generating plant that spawns in various forms and colors. Bees can collect pollen from a flower and transfer it to their bee hive to turn it into a collectible honeycomb .
+
+Types of flowers [ ]
+
+There are nine types of flowers that have their own unique color variations: lilies, daisies, hyacinths, daffodils, hibiscuses, roses, tulips, chrysanthemums, and lavenders. The color variations are the colors red, orange, yellow, dark green, light green, cyan, blue, purple, pink, white, mundane (gray), and black. Chrysanthemum and lavender flowers have a "Chrome" variant. Crocuses and the daffodils found on Wizard Island cannot be bred and can only be used for decoration purposes.
+
+Color variations [ ]
+
+Color Species Lily Daisy Hyacinth Hibiscus Daffodil Rose Tulip Chrysanthemum Lavender Mundane Yes Yes Yes Yes Yes Yes Yes Yes No Black Yes No No Yes No No No Yes Yes White No Yes No Yes Yes Yes Yes Yes Yes Pink No No No Yes Yes Yes Yes Yes Yes Red Yes Yes Yes No Yes Yes Yes Yes Yes Orange No No Yes Yes Yes No Yes No Yes Yellow Yes Yes Yes No Yes No Yes No Yes Dark Green Yes Yes No No Yes No Yes No Yes Light Green No Yes Yes Yes Yes No Yes Yes Yes Cyan Yes Yes Yes No No No No Yes Yes Blue Yes No Yes Yes No Yes No Yes Yes Purple No No No Yes No Yes No Yes Yes Chrome No No No No No No No Yes Yes
+
+(Note: Just because lavender doesn't possess the mundane variant, does not mean breeding combinations can't fail, the flower(s) will just not give an output)
+
+Chrome variant [ ]
+
+Chrome chrysanthemums and chrome lavenders are a special variant of chrysanthemum and lavender flowers. Their color changes in accordance to the day/night cycle; during the day, they have a purple color to them, and during the night, they have a navy blue color.
+
+Daffodil [ ]
+
+Aside from the colored variations of daffodils, a non-colored variation of daffodils spawn on Wizard Island .
+
+Crocus [ ]
+
+Crocuses can naturally spawn on Wizard Island. It can be used for bee pollination.
+
+Legacy flower [ ]
+
+Before the November 20, 2020 update, flowers didn't have a specific type and were simply named "[Color] Flowers" (referred to as a "wild flower" by Cletus ). They also were unable to be fertile or infertile and the only color variations at the time were red, yellow, and blue. They behaved similar to crops , meaning that the harvested flower could not be placed and could only be grown by planting a seed.
+
+After the update, all placed flowers were turned into fertile lilies, and flowers in inventories or storage blocks were turned into regular, infertile lilies. Flower seeds were also completely removed from inventories and storage blocks in this update.
+
+At some point, the red and yellow legacy flower models changed to the one daisies use. All three colors of the legacy flowers also received fertile variants.
+
+Obtaining [ ]
+
+Breaking [ ]
+
+Flowers can be collected and harvested instantly by picking them up, but can also be broken using an axe or a pickaxe .
+
+Flower Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Natural generation [ ]
+
+Some fertile flowers naturally spawn on the player's island , while daffodils and crocuses only naturally generate on Wizard Island .
+
+The flowers that may naturally generate on the player's island are:
+
+Fertile red, yellow, and blue lilies Fertile red and yellow daisies Fertile red, yellow, and blue hyacinths Fertile light green and blue hibiscuses Fertile red and yellow tulips Fertile black and red chrysanthemums Fertile purple and white lavenders
+
+Excluding mundane flowers, non-fertile flowers of all species and their respective color variants were able to spawn on Butterfly Festival Island as foliage , including ones that can only be bought as a fertile flower and ones that normally spawn as a fertile flower.
+
+Mob drop [ ]
+
+Fertile red and yellow daisies both have a 1% chance of dropping when killing any type of slime .
+
+Fulco [ ]
+
+Fertile red and yellow daffodils and fertile red and black chrysanthemums can be bought from Fulco with flower tokens in the Hub .
+
+In the summer , Fulco visits the player's island and has an equal chance of selling either fertile red or blue roses, but not both at once. The roses can be bought for 220 coins each at a limited stock of 2.
+
+In the winter , there is a rare chance for Fulco to visit the player's island. If he does, Fulco sells fertile white roses for 450 coins each at a limited stock of 2.
+
+Like with Cletus , other players can visit each other's island and buy roses from another player's Fulco.
+
+Image Name Availability Source Price Fertile Yellow Daffodil All time Hub 35 flower tokens Fertile Red Daffodil All time Hub 35 flower tokens Fertile Red Chrysanthemum All time Hub 50 flower tokens Fertile Black Chrysanthemum All time Hub 50 flower tokens Fertile Blue Rose Summer Player's Island 220 coins Fertile Red Rose Summer Player's Island 220 coins Fertile White Rose Winter Player's Island 450 coins
+
+Quests [ ]
+
+Quest Type Tasks Reward Prerequisites Cooldown duration Grow Flowers Multiple Talk to Fulco 50 coins Access to next task Level 6 Farming N/A (non-repeatable) Catch 1x bee 50 Farming XP 2 fertile red lily 30 coins Access to next task Place 2x Fertile Red Lily Water 2x Fertile Red Lily 100 Farming XP 30 coins Access to next task Breed the red lilies together 150 Farming XP 50 coins Access to next task Breed the lilies 200 Farming XP Access to next task Talk to Fulco 2 fertile yellow daisy Breed Flowers Multiple Breed a White Daisy 50 Farming XP 1 fertile red daisy Access to next task Grow Flowers N/A (non-repeatable) Breed a Cyan Daisy 150 Farming XP 10 flower token Access to next task Craft a Furniture Workbench 100 coins Access to next task Craft a Blue Flower Plant 150 Farming XP 1 cyan daisy 30 flower token
+
+Usage [ ]
+
+All flowers can be used as decoration and placed on grass , while specific color variants can be used in several crafting recipes in decorative workbenches.
+
+Crafting recipes prioritize the kind of flower the player has the most. For example, if a player has 10 infertile white daisies and 1 fertile white daisy, the infertile version will be used first.
+
+Bees [ ]
+
+Bees engage in a pollinating behavior with flowers regardless of color or fertility, increasing the honey level in bee hives . Bees do not affect the fertility or breeding rates of a flower. They are, however, required in certain combinations of breeding, as well as increasing the chance of rare flowers in some instances.
+
+Cross-breeding [ ]
+
+The player can cross-breed two flowers of any color of the same species to create a new color variation , with a small chance for the flower to create a fertile flower. To cross-breed, simply place two fertile flowers or one fertile flower and one non-fertile flower next to each other and water the fertile one(s) with a watering can . Fertile flowers have colored particles and are marked as fertile in their icon name.
+
+After around 10 minutes, a new flower will spawn adjacent to a watered flower. Watering flowers multiple times does not increase the yield or rarity of grown flowers, nor does it reset the growth duration.
+
+Sometimes, after breeding flowers, the child (Offspring of the 2 flowers) will breed with a parent, for example, when breeding white and purple lavender, the purple lavender may produce a blue lavender, that may breed with the white lavender that hasn't produced an offspring yet, leading to a possibility of a yellow lavender. (Data that I found while breeding flowers, approx. 1/3 of lavender will show this interesting phenomenon)
+
+Quests [ ]
+
+Decoration [ ]
+
+Flowers can be placed in flower pots (crafted in the pottery bench ) as decoration or it can be placed around the island.
+
+Breeding combinations [ ]
+
+This table shows outcome colors for breeding two flowers of the same species. With the exception of lavenders, any flower combination that is not on the chart has a 100% chance of producing a mundane flower.
+
+Note that every breeding combination has exactly a 25.14% chance of producing a mundane flower instead of a colored flower. It is also possible for a fertile flower to breed with newly bred flowers produced by other flowers instead of the desired one and there is also a 6.45% chance for the bred flowers to have another fertile colored flower. Flowers of different species cannot cross-breed to produce a flower.
+
+indicates that a bee must pollinate one or both fertile flowers at least once for the breeding to successfully produce a colored flower. Otherwise, a mundane flower will be produced.
+
+Crafting ingredient [ ]
+
+Any colored flower can be used to craft colored clay , glass , wool , neon , or solid blocks regardless of their flower type. Mundane flowers cannot be used to craft colored blocks.
+
+Image Name Recipe Crafting station Required skill Elephant Banner 5 Oak Wood 1 Light Green Flower 1 Mundane Flower Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Banner Workbench None Jungle Banner 5 Oak Wood 1 Dark Green Flower Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Banner Workbench None Lovely Cow Banner 5 Oak Wood 1 Red Flower 1 White Flower Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Banner Workbench None Aquamarine Banner 5 Oak Wood 1 Blue Flower Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Banner Workbench None Wizard Island Orb 10 Glass Block 15 Empty Potion Bottle 10 Red Mushroom 5 Daffodil Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 20 Combat Personal Orb 5 Matching Colored Flower 5 Steel Plate 10 Glass Block Workbench Tier 3 Workbench Tier 4 None Colored Clay 1 Clay 1 Matching Colored Flower Coloring Station None Colored Glass Pane 1 Glass Pane 1 Matching Colored Flower Coloring Station None Colored Glass Block 1 Glass Block 1 Matching Colored Flower Coloring Station None Chrome Glass Block 1 (Fertile) Chrome Chrysanthemum 1 Glass Block Coloring Station None Colored Wool 1 Wool 1 Matching Colored Flower Coloring Station None Colored Neon 4 Spirit Crystal 1 Matching Colored Flower Coloring Station None Colored Solid 1 Matching Colored Flower Coloring Station None Colored Pastel 1 Matching Colored Flower 1 White Flower Coloring Station None '70s Baby Blue Cabinet 30 Birch Wood 1 Blue Flower Furniture Workbench None '70s Chair 30 Birch Wood 1 Yellow Flower Furniture Workbench None '70s Single Bed 30 Birch Wood 3 Yellow Flower Furniture Workbench None King's Blue Bed 80 Maple Wood 3 Blue Flower Furniture Workbench None Red Lounge Chair 30 Oak Wood 3 Red Flower Furniture Workbench None Red Sofa 25 Pine Wood 4 Red Flower Furniture Workbench None Umbrella 10 Iron Ingot 2 Red Flower Furniture Workbench None Beach Umbrella 10 Iron Ingot 2 Red Flower Furniture Workbench None Beach Ball 1 Red Flower 1 Yellow Flower 1 Blue Flower Furniture Workbench None Stripe Red Beach Towel 5 Carpet 1 Red Flower Furniture Workbench None Bacon Beach Towel 5 Carpet 1 Red Flower Furniture Workbench None Blue Beach Towel 5 Carpet 1 Blue Flower Furniture Workbench None Striped Blue Beach Towel 5 Carpet 1 Blue Flower Furniture Workbench None Red Fire Hydrant 25 Iron Ingot 2 Red Flower Furniture Workbench None Red Lantern 20 Iron Ingot 10 Coal 10 Red Flower Furniture Workbench None Bunk Bed 30 Pine Plank 1 Purple Hibiscus 1 Light Green Hibiscus Furniture Workbench None Bell 10 Gold Ingot 30 Maple Plank 3 Pink Hibiscus Furniture Workbench None Gong 20 Gold Ingot 40 Maple Plank 5 Pink Hibiscus Furniture Workbench None Blue Flower Plant 20 Birch Plank 1 Cyan Daisy Furniture Workbench None Bonsai Plant 20 Maple Plank 1 Pink Flower Furniture Workbench None Portrait 5 Blue Flower 3 Red Flower 1 Yellow Flower Furniture Workbench None Castle Shield 20 Iron Ingot 1 Purple Flower 5 Coal 1 Iron Sword Furniture Workbench None Medieval Green Vanity 10 Maple Wood 2 Dark Green Flower 1 Glass Block Furniture Workbench None Throne 10 Maple Wood 2 Black Flower 2 Red Wool Furniture Workbench None White Lounge Chair 5 White Wool 1 White Flower Furniture Workbench None Gamepass required Bush 3 Matching Colored Flower 10 Leaves Floral Bench None Maple Bush 2 Matching Colored Flower 10 Maple Leaves Floral Bench None Flower Pot (Floral Bench) 1 Matching Colored Flower 3 Brick Floral Bench None Obby Start 1 Yellow Flower 10 Oak Wood Obby Kit None Obby Checkpoint 1 Blue Flower 10 Oak Wood Obby Kit None Obby Finish 1 Red Flower 10 Oak Wood Obby Kit None Guardian Banner 5 Oak Wood 1 Blue Flower Banner Workbench None King Banner 5 Oak Wood 1 Yellow Flower Banner Workbench None Life Banner 5 Oak Wood 1 Purple Flower 1 Cyan Flower Banner Workbench None Lotus Banner 5 Oak Wood 1 Pink Flower 1 Light Green Flower Banner Workbench None Lucky Banner 5 Oak Wood 1 Light Green Flower Banner Workbench None Lunar Banner 5 Oak Wood 1 Mundane Flower 1 White Flower Banner Workbench None Pig Banner 5 Oak Wood 1 Pink Flower 1 Red Flower Banner Workbench None Rising Phoenix Banner 5 Oak Wood 1 Red Flower 1 Orange Flower Banner Workbench None Sol Banner 5 Oak Wood 1 Orange Flower Banner Workbench None Snowflake Banner 5 Oak Wood 1 White Flower 1 Cyan Flower Banner Workbench None Spark Banner 5 Oak Wood 1 Purple Banner 1 White Flower Banner Workbench None The Eye Banner 5 Oak Wood 1 Red Flower 1 Black Flower Banner Workbench None Warrior Banner 5 Oak Wood 1 Orange Flower 1 Black Flower Banner Workbench None
+
+Trivia [ ]
+
+The in-game loading tips refer to fertile flowers as "source flowers". Before breeding became possible, flowers could not be placed. If a player were to pick up a flower while it was breeding, it would become unwatered and not breed until watered again. Only infertile flowers used to be able to be used to craft dyed blocks . This was later changed to make it easier for players to complete Fulco 's quests and both fertile and regular flowers can be used to make dyed blocks now. The elephant banner and the lunar banner are the only items that can be crafted using mundane flowers. Although unobtainable, fertile mundane flowers show up in the crafting recipe for the two banners. Prior March 6, 2022 , tulips were composed of solid elements that could collide with players. Since the update, tulips became non-solid like the other species of flowers. Daffodils and tulips have the exact same color variations and all but one breeding combination, with the only difference being that red and light green tulips cannot be bred for yellow ones. Roses have the least number of variants. Lavenders have the most number of variants, having all colors but mundane. Tulips are the tallest flowers. Hibiscuses are the shortest flowers. Roses are the only species of flowers that do not require bees for any breeding combination. Other than mundane, the most common flower color is red. Chrome is the least common color. The fertile light green chrysanthemum is the second longest item name in Islands , the longest being the fish tank treasure chest blueprint . Walking with a chrome flower in the Void Isles will cause it to constantly change color from black to purple due to the island's lighting. As mundane lavenders cannot be bred from any breeding combination, it is the only flower type whose mundane variant is unobtainable. Daffodils used to have no mundane variant. The daffodil that spawns on Wizard Island may have been an early version of the daffodils that you buy from Fulco.
+
+Gallery [ ]

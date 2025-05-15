@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Marble_Brick
+
+----------------------------------------
+
+Marble Brick Type of block Solid block Recipe 1 Marble Crafted with Stonecutter Industrial Stonecutter Best tool Luminous Transparent Marble bricks are the brick variant of marble .
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Marble can be transformed into marble bricks in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Marble ➡ Stonecutter ➡ 1 Marble Brick ➡ Industrial Stonecutter ➡
+
+Breaking [ ]
+
+Marble Brick Breaking Data Hardness 4 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 6 Stone 7 4 Iron 4 3 Gilded Steel 3 2 Diamond 2 2 Opal 2 1 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station 2 Marble Brick Stair 1 Marble Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 2 Marble Brick Slab 1 Marble Brick Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Transforming [ ]
+
+Marble bricks can be transformed into marble tiles in a stonecutter or an industrial stonecutter .
+
+Input Item transformer Output 1 Marble Brick ➡ Stonecutter ➡ 1 Marble Tiles ➡ Industrial Stonecutter ➡
+
+History [ ]
+
+May 8, 2021 Added marble bricks. February 19, 2022 Marble bricks can now be cut into marble tiles .

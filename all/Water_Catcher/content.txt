@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Water_Catcher
+
+----------------------------------------
+
+Water Catcher Type of block Solid block; Interactable Recipe 10 Iron Ingot 10 Oak Wood Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent
+
+The water catcher is a block that was added in the June 15, 2020 update . It is used to take water from the environment to fill water jugs or basic sprinklers .
+
+Note: rain does NOT affect water catchers.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Water Catcher 10 Iron Ingot 10 Oak Wood Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Water Catcher Breaking Data Hardness 10 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 15 Wooden 30 30 Stone 16 16 Iron 10 10 Gilded Steel 7 7 Diamond 5 5 Opal 4 4 Void Mattock 2
+
+Usage [ ]
+
+Collecting water [ ]
+
+Water catchers will collect water over time, regardless of the current in-game weather or season . To fill a water jug , interact with the water catcher and hold a water jug then click/tap the fill button. This can be used to transport the water to another water catcher or water barrel .
+
+Filling sprinklers [ ]
+
+Placing a water catcher within a 10 block radius of a basic sprinkler will automatically fill it, which will then water any farmland within a 1 block radius.
+
+History [ ]
+
+June 15, 2020 Added water catchers.
+
+Trivia [ ]
+
+Despite the water catcher having a funnel for collecting rainfall and the fact that Islands does have rain , the water catcher will catch water any time, any weather, and anywhere (even indoors). When the Water Catcher was first released, there was a bug that allowed the player to have a set amount of water and you could keep on replacing it to get more. This has since then been patched in the following bug fix update. Watering cans used to be fillable in a water catcher, but this was changed in the November 1, 2020 update, which made them have an infinite amount of water.

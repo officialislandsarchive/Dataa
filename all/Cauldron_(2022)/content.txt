@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Cauldron_(2022)
+
+----------------------------------------
+
+Cauldron Type of block Solid block; Interactable Dropped by Zombie Cletus Buy cost 750 Zombie Cletus Tokens Best tool Luminous Transparent The cauldron is an unobtainable roulette block that could have been obtained by defeating Zombie Cletus or purchasing it from Kontos during the Halloween 2022 event.
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Zombie Cletus was guaranteed to drop a cauldron upon defeat.
+
+Purchasing [ ]
+
+Cauldrons could have been purchased for 750 Zombie Cletus tokens each from Kontos during the Halloween 2022 event.
+
+Breaking [ ]
+
+Cauldron (2022) Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Loot [ ]
+
+Cauldrons can be opened by holding "F" on PC, holding the button on mobile, or holding X on Xbox while hovering over it. Once opened, the cauldron will scroll through the items like a roulette wheel and reward one item. After collecting the rewarded item, the cauldron will act as a storage block with 9 slots able to hold 90 items per slot.
+
+The listed reward chances are community made and may not be accurate .
+
+Item Rarity Estimated % chance Spider Pet Spawn Egg Mythic 0.33% The Reaper's Scythe Mythic 1.25% The Reaper's Crossbow Mythic 1% Halloween Event Trophy 2022 Legendary 2.5% 8 Candy Basket Uncommon 7% ?-? Group of Ghosts Common 10% 5 Happy Ghost Common 10% 5 Angry Ghost Common 10% 5 Surprised Ghost Common 10% 65 - 1800 Zombie Cletus Token Common 10%
+
+Storage [ ]
+
+A used cauldron has 9 slots that can fit up to 90 items per slot, adding up to a total of 810 items per cauldron.
+
+History [ ]
+
+October 15, 2022 Added cauldrons. October 16, 2022 Decreased the chances of getting the reaper's scythe , Halloween event trophy 2022s and the reaper's crossbow . October 22, 2022 Cauldrons may now reward spider pet spawn eggs . Cauldrons now have an icon to differentiate unopened and opened ones. October 23, 2022 Cauldrons now allow players to collect trade-locked items. November 4, 2022 Cauldrons are no longer obtainable.

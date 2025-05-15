@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Neon_Light_Diner_Sign
+
+----------------------------------------
+
+Neon Light Diner Sign Blue Yellow Pink Type of block Solid block; Luminous Recipe Blue: 1 Neon Blue , 15 Iron Ingot , 5 Electrite Yellow: 1 Neon Yellow , 1 Neon Red , 15 Iron Ingot , 5 Electrite Pink: 1 Neon Pink , 15 Iron Ingot , 5 Electrite Crafted with Furniture Workbench Best tool Luminous Transparent Description A wall mounted neon light sign A neon light diner sign is a luminous furniture block that can be crafted in the furniture workbench . It can only be placed on walls and comes in three color variants: blue, yellow, and pink.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Blue Neon Light Diner Sign 1 Neon Blue 15 Iron Ingot 5 Electrite Furniture Workbench Yellow Neon Light Diner Sign 1 Neon Yellow 1 Neon Red 15 Iron Ingot 5 Electrite Pink Neon Light Diner Sign 1 Neon Pink 15 Iron Ingot 5 Electrite
+
+Breaking [ ]
+
+Neon Light Diner Sign Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+January 6, 2023 Added neon light diner signs. Neon light dinner signs can now be crafted in the furniture workbench instead of in the level 1 electrical workbench .

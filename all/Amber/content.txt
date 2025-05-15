@@ -1,0 +1,17 @@
+Source: https://robloxislands.fandom.com/wiki/Amber
+
+----------------------------------------
+
+Amber Location Desert Island Purpose None Occupation Weaponsmith Amber is a villager located in the city of Azarath on Desert Island .
+
+Dialogue [ ]
+
+"I've been forging the sharpest blades in Azarath, come back soon if you are interested." >Will do End.
+
+History [ ]
+
+May 8, 2021 Added Amber. July 30, 2022 Added quests for Amber.
+
+Trivia [ ]
+
+Amber uses the idle animation from the Bubbly animation package . Amber is the second female NPC, with Taliyah being the first.

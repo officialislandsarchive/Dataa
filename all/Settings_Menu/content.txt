@@ -1,0 +1,61 @@
+Source: https://robloxislands.fandom.com/wiki/Settings_Menu
+
+----------------------------------------
+
+The Settings Menu is UI element added on March 13, 2021 . The settings menu can be opened by pressing the gear icon on the left side of the player's screen.
+
+Settings
+
+Sound
+
+Music
+
+A 10-position slider that adjusts the volume of the in-game music .
+
+Atmosphere
+
+A 10-position slider that adjusts the volume atmospheric/ambient sounds, such as the cave noises in the Diamond Mines .
+
+Sound effects
+
+A 10-position slider that adjusts the volume of items that emit sounds.
+
+Graphics
+
+Enable shadows
+
+Toggles shadows (turning shadows off can reduce lag)
+
+Social
+
+Invite notifications
+
+Stops island invite notifications from appearing if disabled.
+
+Friend join notifications
+
+Stops the notifications that appear when a friend joins the game if disabled.
+
+Gameplay
+
+Auto replant saplings
+
+Stops tree saplings from automatically replanting after a player cuts one down if disabled.
+
+PVP
+
+Enables PvP if turned on.
+
+Hide Icons
+
+Hides the icon of a player's status over a player's island if turned on.
+
+History
+
+March 13, 2021 Added settings menu. July 23, 2021 Added auto replant sapling setting. November 18, 2022 Added the PVP setting. Moved the Hide Icons setting from the Permissions Menu to the Settings Menu. November 25, 2022 Removed animations from the Settings Menu.
+
+Gallery
+
+Trivia
+
+The sound effects for Weapons , Kor , Breaking Rock Nodes, and industrial machines do not fall into a category and will therefore still make noise regardless of a player's settings. There is a bug where settings does not save while leave server or teleport to other servers sometimes.

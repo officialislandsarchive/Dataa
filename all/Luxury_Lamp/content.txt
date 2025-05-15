@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Luxury_Lamp
+
+----------------------------------------
+
+Luxury Lamp Type of block Solid block Buy cost 50,000 coins Best tool Luminous Transparent
+
+The luxury lamp is a furniture block that can be purchased from John .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+The luxury lamp can be purchased for 50,000 coins from John , located on the Hub .
+
+Breaking [ ]
+
+Luxury Lamp Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+January 29, 2021 Added luxury lamps.
+
+Trivia [ ]
+
+It is tied for the lowest cost out of all of the luxury furniture with the luxury ceiling light , luxury candle , and luxury wall lamp .

@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Pump
+
+----------------------------------------
+
+Pump Health 150 HP Behavior Hostile Attack strength 60 HP Drops Chocolate Bar Orange Candy Lollipop Pumpkin Seeds Jukebox Disk Location Witch Island The pump was an event hostile mob available during the Halloween 2020 event and the Halloween 2021 event.
+
+Spawning [ ]
+
+Witch Island [ ]
+
+Pumps spawned naturally on the Witch Island which could be accessed through the portal in the Hub .
+
+Grand High Witch [ ]
+
+6 pumps are spawned in total during phase 2 to 4 of the Grand High Witch fight.
+
+Percival the Pumpkin King [ ]
+
+1-8 pumps are spawned by Percival the Pumpkin King depending on how many players there are.
+
+Drops [ ]
+
+Icon Item Drop chance Chocolate Bar 150% (only one type of candy) Orange Candy Lollipop Pumpkin Seeds 10% Jukebox Disk drops Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Behavior [ ]
+
+The pump had a unique style of attacking players; when a player came into range, it would follow the player and start shaking when close, eventually exploding, and dealing AOE damage.
+
+History [ ]
+
+October 16, 2020 Added pumps. October 19, 2020 Fixed a bug that made pumps ragdoll when hit with spellbooks , tidal spellbooks , and vamp bow . November 1, 2020 Removed pumps. October 18, 2021 Re-added pumps November 13, 2021 Removed pumps again.
+
+Trivia [ ]
+
+The pump could sometimes go through stones, making it hard for a player to find it.

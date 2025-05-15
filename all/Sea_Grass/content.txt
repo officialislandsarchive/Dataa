@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Sea_Grass
+
+----------------------------------------
+
+Sea Grass Type of block Non-solid block Dropped by Angry Crab Spawns Ponds in the Hub and Slime Island Best tool Luminous Transparent Sea grass is a non-solid block that naturally generates in ponds and can be dropped by defeating angry crabs .
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+Sea grass naturally spawns in the ponds in the Hub and Slime Island .
+
+Mob drop [ ]
+
+Angry crabs are guaranteed to drop 5 sea grass upon defeat.
+
+Breaking [ ]
+
+Sea Grass Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Fish tank blueprints [ ]
+
+Breaking naturally-generated sea grass has a small chance of rewarding the player with a fish tank decoration blueprint.
+
+Fish tank castle blueprint . Fish tank anchor blueprint . Fish tank shipwreck blueprint . Fish tank teasure chest blueprint .

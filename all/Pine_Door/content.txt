@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Pine_Door
+
+----------------------------------------
+
+Pine Door 1 2 Type of block Solid block; Interactable Recipe 10 Pine Wood Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent The pine door is a block that can be opened and closed upon interaction by any player even without build permission .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Pine Door 10 Pine Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Pine Door 10 Pine Wood
+
+Breaking [ ]
+
+Pine Door Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Opening [ ]
+
+To open a pine door interact with it, players do not need build permission to open them.
+
+History [ ]
+
+April 10, 2020 Added pine doors. March 31, 2023 Added a second variant of pine doors.
+
+Trivia [ ]
+
+Despite there being six other types of wood , this is the only wooden door in the game.

@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Buffalkor
+
+----------------------------------------
+
+Buffalkor Health 400 Behavior Hostile Attack strength 10 Drops Iron Ore Gold Ore Buffalkor Crystal Baby Buffalkor Pet Spawn Egg Rageblade Blueprint Buffalkor Portal Shard Kor Token Jukebox Disk Location Buffalkor Island A buffalkor is a hostile mob that can be found on Buffalkor Island .
+
+Spawning [ ]
+
+Buffalkors spawn on Buffalkor Island , which is accessible through the portal on the Slime Island or the Buffalkor Portal . The player needs Combat level 7 to access Buffalkor Island.
+
+Drops [ ]
+
+A buffalkor rewards 30 Combat XP (120 XP with the 4x daily bonus) and 30 Light Melee , Heavy Melee , Magic , or Archery XP (120 with the 4x daily bonus) depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Kor Token 500% Iron Ore 150% Gold Ore 50% Buffalkor Crystal 0.5% Buffalkor Portal Shard 0.05% Rageblade Blueprint 0.025% Baby Buffalkor Pet Spawn Egg 0.02% Jukebox Disks Red Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Green Jukebox Disk 0.01% Orange Jukebox Disk 0.01% Purple Jukebox Disk 0.01%
+
+Resistances and Weaknesses [ ]
+
+Resistances Weaknesses Physical Magical Physical Magical None Quake Striking Storm
+
+History [ ]
+
+May 17, 2020 Added buffalkors. May 26, 2020 Fixed the issue causing buffalkors to get stuck in portals . August 16, 2020 Fixed the issue causing buffalkors to fall through the ground before dying, preventing players from getting loot. November 7, 2020 Fixed an issue causing a third invisible crystal on the buffalkor's back to light up when hit. January 22, 2021 Buffalkors now reward 30 Combat XP (120 with the 4x daily bonus) and 30 Light Melee , Heavy Melee , Magic , or Archery XP (120 with the 4x daily bonus) depending on the weapon the player used to defeat it. November 27, 2021 Increased the spawn rate of buffalkors on Buffalkor Island . April 1, 2022 Increased the drop chance of buffalkor crystals from 0.2% to 0.5%. April 29, 2022 Buffalkors are now able to drop baby buffalkor pet spawn eggs . May 1, 2022 Decreased the drop chance of baby buffalkor pet spawn eggs from 0.33% to 0.02%. June 18, 2022 Buffalkors are now able to drop Kor pet spawn eggs instead of baby buffalkor pet spawn eggs. June 25, 2022 Buffalkors now drop baby buffalkor pet spawn eggs instead of Kor pet spawn eggs.
+
+Trivia [ ]
+
+Before the May 26, 2020 update, buffalkors and slimes could get trapped in portals . Prior to the November 7, 2020 update, the buffalkor would show a third, usually invisible crystal on its back when hit. This has since been patched. Buffalkors used to have a high chance of falling through the ground prior to dying, depriving the player of any loot from it, although this bug was been fixed in the August 16, 2020 update. A buffalkor shows up in error messages. From June 18, 2022 - June 25, 2022 , buffalkors were able to drop Kor pet spawn eggs instead of baby buffalkor pet spawn eggs .
+
+Gallery [ ]

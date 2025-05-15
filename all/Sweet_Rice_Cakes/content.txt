@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Sweet_Rice_Cakes
+
+----------------------------------------
+
+Sweet Rice Cakes Recipe 3 Rice 1 Maple Syrup Bottle Crafted with Cooking Table Food Processor Heals 25 HP Sweet rice cakes are a food item that heals 25 HP when consumed. It can be crafted without any Cooking level requirement.
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Crafting sweet rice cakes yields 150 Cooking XP.
+
+Name Recipe Crafting station Sweet Rice Cakes 3 Rice 1 Maple Syrup Bottle Cooking Table Food Processor
+
+Usage [ ]
+
+Eating [ ]
+
+Eating sweet rice cakes restores 25 HP.
+
+History [ ]
+
+February 7, 2022 Added sweet rice cakes. Introduced where sweet rice cakes now cannot be sold to Petur .
+
+Trivia [ ]
+
+Sweet rice cakes can be crafted without any Cooking level requirement. Sweet rice cakes currently cannot be sold to Petur .

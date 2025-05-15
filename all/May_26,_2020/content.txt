@@ -1,0 +1,49 @@
+Source: https://robloxislands.fandom.com/wiki/May_26,_2020
+
+----------------------------------------
+
+May 26, 2020 Basic Information Version number 9 Version Navigator Previous version Next version May 17, 2020 May 31, 2020
+
+The May 26th, 2020 Update (Xbox Update) is the eighth major update for Islands. This update introduces Xbox Support, allowing Xbox users to play on the console. This also adds controller support for PC players.
+
+Patchnotes [ ]
+
+Patchnote #1 [ ]
+
+New patch is rolling out!
+
+🎮 Xbox Support 🥔 Potatoes 📔 Carpet 🧱 Wood, Stonebrick & Brick Slabs 🥬 Mossy Stonebrick 📦 Breaking a chest gives you the contents ⚔️ Crit chance & improved combat 👕 Merchant clothing
+
+A huge part of this week's time was spent on Xbox support & college midterms. Next patch is primarily focused on new content ✨
+
+EDIT: Looks like there are some issues with the UI and mobs. Working on some fixes.
+
+Link: https://discord.com/channels/699869792445792348/699870693675892746
+
+Patchnote #2 [ ]
+
+Pushed out a patch that fixes FPS lag and mob speed issues. It's live on new servers but we aren't doing a global restart for it. 
+Going to bundle some more UI improvements + bug fixes and global restart in a few hours 🙂
+
+Link: https://discord.com/channels/699869792445792348/699870693675892746/714924512994525275
+
+Patchnote #3 [ ]
+
+Rolling out a small bug fix patch.
+
+⚡ Fixed client FPS lag when fighting mobs
+💻 Reverted the desktop GUI size changes (plus some improvements)
+
+link: https://discord.com/channels/699869792445792348/699870693675892746/715026880276725871
+
+Changes [ ]
+
+Added [ ]
+
+General: Xbox and controller support has been added Crops: Potatoes have been added and can be purchased from the Seeds Merchant Baking: Baked potatoes which sells for 30 coins Potato salad which sells for 80 coins (Now for 355) Blocks: The following blocks can now be obtained: Carpets Wooden slabs Stonebrick slabs Brick slabs Mossy stonebricks Combat: Weapons now have a chance to deal critical damage to enemies
+
+Modified [ ]
+
+Breaking a small chest will now drop its contents FPS lag when fighting enemies UI improvements and size fixes for Desktop users Villager now have 3D clothing Banker rotation has been changed
+
+Islands update history 2020 April April 10 • April 24 • April 27 May May 2 • May 4 • May 7 • May 10 • May 17 • May 26 • May 31 June June 15 • June 26 July July 4 • July 11 • July 17 • July 25 August August 2 • August 9 • August 16 • August 30 September September 6 • September 18 October October 3 • October 16 November November 1 • November 7 • November 20 • November 26 December December 11 • December 18 2021 January January 4 • January 22 • January 29 February Feburary 5 • Feburary 12 • Feburary 19 • Feburary 26 March March 5 • March 13 • March 19 April April 4 • April 10 • April 16 • April 24 May May 8 • May 21 June June 4 • June 30 July July 9 • July 17 • July 23 • July 30 August August 8 • August 15 • August 21 • August 28 September September 5 • September 11 • September 18 • September 25 October October 9 • October 18 November November 13 • November 27 December December 10 • December 18 • December 29 2022 January January 8 • January 15 • January 30 February February 7 • February 19 • February 27 March March 6 • March 12 • March 25 April April 1 • April 9 • April 16 • April 22 • April 29 May May 13 • May 20 • May 27 June June 3 • June 10 • June 18 • June 25 July July 2 • July 9 • July 16 • July 23 • July 30 August August 6 • August 13 • August 20 • August 27 September September 3 • September 10 • September 17 • September 24 October October 1 • October 8 • October 15 • October 22 • October 28 November November 4 • November 11 • November 18 • November 25 December December 2 • December 16 • December 23 2023 January January 6 • January 20 February February 3 • February 17 March March 3 • March 17 • March 31 April April 14 • April 28 May May 12 • May 26 June June 23 July July 7 • July 21 August August 18 October October 13 November November 7 Discontinuation

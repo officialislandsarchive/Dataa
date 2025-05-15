@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Hedge
+
+----------------------------------------
+
+Hedge Hedge Maple Hedge Type of block Solid block Recipe Hedge: 10 Leaves Maple Hedge: 10 Maple Leaves Crafted with Floral Bench Best tool Luminous Transparent Description Decorative hedge for your island. A hedge is a decorative block that can be crafted with 10 normal or maple leaves . There are two variants: normal and maple.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Image Name Recipe Crafting station Gamepass required Hedge 10 Leaves Floral Bench Maple Hedge 10 Maple Leaves Floral Bench
+
+Breaking [ ]
+
+Hedge Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+History [ ]
+
+May 4, 2020 Added hedges.
+
+Trivia [ ]
+
+The hedge plant isn't crafted with an actual hedge.

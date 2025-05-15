@@ -1,0 +1,69 @@
+Source: https://robloxislands.fandom.com/wiki/Yak
+
+----------------------------------------
+
+Yak Behavior Passive Effect Speed (+25% when mounted) Location Player's Island A yak is a large passive mob that was added in the March 25, 2022 update and a source of yak milk . Players can ride it to receive a 25% speed boost.
+
+It is the seventh animal passive mob in Islands .
+
+Spawning [ ]
+
+The number of yaks that can exist on the player's island varies depending on their level in Animal Care .
+
+Yak spawn egg [ ]
+
+Yaks can be spawned with yak spawn eggs . Yak spawn eggs are obtained by breeding yaks or purchasing them from Taliyah .
+
+Behavior [ ]
+
+A yak can be lured with radishes and can sleep on hay beds .
+
+Milking [ ]
+
+A yak can be milked with a bucket or automatically with an industrial milker to create a yak milk bucket . Yaks can be milked after fully feeding them.
+
+Breeding [ ]
+
+After two yaks have been given a potion of fertility each, they will breed, creating a yak spawn egg . The egg will be of a tier between 1 and 3.
+
+Sleeping [ ]
+
+When it becomes night in-game, yaks will go to sleep. While they can sleep anywhere and sometimes will, they prefer to sleep on a hay bed.
+
+Inspecting [ ]
+
+Yaks can be inspected to show a menu that allows the player to see information about the yak, listed below:
+
+Mount Sell value Information Food level Favorite foods Happiness level Traits (fertility, productivity, and friendliness) Personality
+
+Feeding [ ]
+
+Yaks can be fed approximately every 90 - 100 seconds. Yaks eat radishes , but will also each have its own favorite foods. The foods a yak can have as its favorite food are bread , sushi rolls , tomato soup , and avocado toast .
+
+Feeding a yak will increase its food and friendliness level. The food level is necessary to keep above 20% or the yak will start losing happiness. The milking cooldown can also be skipped if a yak is fully fed.
+
+A wooden trough , metal trough , or automated trough can be used to feed yaks.
+
+Like other animals , if no troughs are in its vicinity, it will eat from a grass block , but doing so will not replenish its hunger meter nor give Animal Care XP.
+
+Petting [ ]
+
+A yak can be petted every 5 minutes, which increases its happiness level. The action yields 5 Animal Care XP (18 XP with the 4x daily bonus).
+
+Mounting [ ]
+
+Yaks can be mounted via the button in the inspect menu if the player is level 8 or higher in Animal Care. A mounted yak can be ridden anywhere within the server. If the yak is dismounted outside the player's island or falls into the void, the yak will respawn on the island spawn point. Mounting a yak will grant a 25% speed boost that stacks with other items that grant bonus movement speed. When the player taking any damage while mounting a yak, it will no longer automatically be dismounted.
+
+Personality [ ]
+
+Yaks are assigned a personality upon spawning. All personalities have the same possibility, except for resourceful which is more uncommon.
+
+Personality Description Effects Trivia Lazy "Your yak is lazy. They sleep for a long time, but gain a bit of happiness while sleeping." Yak will sleep during the afternoon and evening, but will still gain happiness while sleeping. Level-headed "Your yak is level-headed. They will not gain or lose happiness quickly." Self-Explanatory Loyal "Your yak is loyal. They are extra happy around players and animals but can become very lonely when left alone." Yak will gain happiness faster if players and/or animals are within an unknown number blocks, but will lose happiness fast if they are further than that threshold. Friendly "Your yak is friendly. They will bring you extra gifts." Unknown Resourceful "Woah! Your yak is resourceful. They will produce items faster than other animals." Yak will make products (yak milk) faster than normal. This is the rarest personality.
+
+History [ ]
+
+March 25, 2022 Added yaks. Introduced where yaks are now able to eat grass blocks . Changed the "Info" section of the yak's inspection UI to reference itself instead of cows . April 9, 2022 Fixed a bug that prevented yaks from being milked with a bucket . Fixed a bug that prevented yaks from eating from wooden troughs , metal troughs , or automated troughs .
+
+Trivia [ ]
+
+Yaks can move with the sleeping animation, but this can be fixed by mounting and dismounting. Like all other animals, yaks may eat from a grass block instead of from troughs, but doing so will not replenish their hunger meter nor give Animal Care XP. This can be done if no troughs are nearby. The eating sound of yaks is reduced when eating grass blocks. Although yaks can jump over 3-height blocks, yaks cannot jump over half-height blocks such as slabs . If a player mounts another animal while being mounted on a yak, they will continue to have the speed boost even when unmounted. The yak's inspection UI incorrectly states that it can be fed wheat instead of radishes . The "Info" section in the yak's inspection UI was a direct copy of the cows before it was changed half an hour after the update was released. Before April 9, 2022 , yaks could only be milked using an industrial milker and could not eat from troughs. Yaks are the third-tallest animal model, only behind the old model of cows and horses . Yaks share many things with other animals . Yaks share the same eating sound as cows, sheep , pigs , turkeys , and horses. Yaks have the same eye model as turkeys, ducks , horses, and the old model of cows. Yaks have the same animations as cows, sheep, and pigs. Yaks have the same horn model as cows. Yaks do not have a sound when mooing, awake, or being petted. Like ducks and horses, there was a bug where the extra boosts granted when mounting a yak will wear off when joining other servers. This was fixed in the July 9, 2022 update. The hitbox of players is slightly increased when mounting a yak. Yaks are the second animal that granted a speed boost when mounted, with the other being ducks and horses. Yaks, cows, and turkeys have the same amount of Animal Care XP and number of favorite foods .

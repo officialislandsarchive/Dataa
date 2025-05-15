@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Candy_Cluster
+
+----------------------------------------
+
+Candy Cluster Rainbow Red Green Type of block Solid block Buy cost 25 snowflake tickets Best tool Luminous Transparent Description A decorative pile of candy A candy cluster is a furniture block that comes in three color variants: rainbow, red, and green.
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+All three candy cluster variants can be purchased from Eddie for 25 snowflake tickets each.
+
+Breaking [ ]
+
+Candy Cluster Breaking Data Hardness 5 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 8 Wooden 15 8 Stone 8 5 Iron 5 4 Gilded Steel 4 3 Diamond 3 2 Opal 2 1 Void Mattock 1
+
+History [ ]
+
+December 23, 2022 Added candy clusters.

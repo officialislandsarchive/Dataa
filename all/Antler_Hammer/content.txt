@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Antler_Hammer
+
+----------------------------------------
+
+Antler Hammer Type Heavy Melee Physical class Striking Attack damage 35 HP (Base) +18 HP (Critical) Description A hammer imbued with the Might of Fhanhorn The antler hammer is a heavy melee weapon in the striking class that can only be obtained while under the Might of Fhanhorn effect.
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Any mob has a 0.3% chance to drop either an antler hammer or antler shield upon defeat provided that the player has the Might of Fhanhorn effect.
+
+Attacking [ ]
+
+At level 1 Heavy Melee , the antler hammer deals a base damage of 35 HP and can be swung every 0.5 seconds. It has the ability to damage multiple mobs in one swing. There's also a small chance of landing a critical hit when using this weapon, meaning the attack will deal an extra 18 HP of damage. Its damage can be increased by leveling up the Heavy Melee skill and it is in the striking class.
+
+History [ ]
+
+November 27, 2021 Added antler hammers. September 17, 2022 Antler hammers are now a striking weapon. October 1, 2022 Changed the model of antler hammers.

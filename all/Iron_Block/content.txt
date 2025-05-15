@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Iron_Block
+
+----------------------------------------
+
+Iron Block Current Old Type of block Solid block Recipe 10 Iron Ingot Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Best tool Luminous Transparent The iron block is a decorative block crafted using iron ingots . It cannot be turned back into ingots once it has been crafted.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Iron Block 10 Iron Ingot Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Breaking [ ]
+
+Iron Block Breaking Data Hardness 2 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 3 Wooden 6 3 Stone 4 2 Iron 2 2 Gilded Steel 2 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+History [ ]
+
+May 17, 2020 The iron block is added. May 8, 2021 The appearance of the iron block is updated.

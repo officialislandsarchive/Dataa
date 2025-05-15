@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Crystallized_Gold
+
+----------------------------------------
+
+Crystallized Gold Description Rare drop from Gold Nodes. Crystallized gold is a crystal that has a 10% chance of dropping when fully mining gold rocks .
+
+Obtaining [ ]
+
+Mining [ ]
+
+Crystallized gold has a 10% chance of dropping when breaking gold rocks . It can only be obtained by breaking a gold rock fully; breaking it to its halfway point cannot yield crystallized gold.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Food Processor 2 Crystallized Gold 5 Green Sticky Gear 2 Steel Rod Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 25 Forging
+
+History [ ]
+
+June 26, 2020 Added crystallized gold. September 18, 2020 Crystallized gold can no longer be used to craft food processors . October 3, 2020 Increased the drop rate of crystallized gold from 2% to 10%. Crystallized gold can now be used to craft food processors again.
+
+Trivia [ ]
+
+Crystallized gold used to have a drop rate of 2% — equivalent to the old drop rate of crystallized iron ; however, it had its drop rate buffed to 10% on October 3, 2020 in order to make it easier to obtain due to gold rocks being rarer. Crystallized gold has the same model as crystallized iron, crystallized aquamarine , crystallized obsidian , buffalkor crystals , and amethyst crystals , with the only difference among them being color and transparency. When the September 18, 2020 update was released, crystallized gold could no longer be used to craft the food processor and therefore had no use. This recipe of the food processor was later changed on October 3, 2020 and now requires 2 crystallized gold to craft instead of the initial 3.

@@ -1,0 +1,67 @@
+Source: https://robloxislands.fandom.com/wiki/Taliyah
+
+----------------------------------------
+
+Taliyah Location Hub Purpose Buys and sells animal-related items Occupation Animals Taliyah is a villager in the Hub . Players can sell and buy various animal-related items from her.
+
+Shop [ ]
+
+Taliyah buys and sells animal-related items in exchange for coins .
+
+Buy [ ]
+
+Image Name Price Required skill Potion of Fertility 1,500 coins None Cow Spawn Egg Tier 1 3,500 coins Level 2 Animal Care Chicken Spawn Egg Tier 1 4,500 coins Level 12 Animal Care Sheep Spawn Egg Tier 1 5,500 coins Level 21 Animal Care Pig Spawn Egg Tier 1 12,500 coins Level 31 Animal Care White Truffle 1 Token Level 38 Animal Care Duck Spawn Egg Tier 1 15,000 coins Level 40 Animal Care Yak Spawn Egg Tier 1 17,500 coins Level 49 Animal Care Horse Spawn Egg Tier 1 20,000 coins Level 51 Animal Care
+
+Sell [ ]
+
+Image Name Sell price Required skill Milk Bucket 80 coins None Jar of Honey 20 coins Level 6 Animal Care Cheese 100 coins Level 8 Animal Care Egg 145 coins Level 12 Animal Care Mayonnaise Jar 240 coins Level 18 Animal Care White Wool 160 coins Level 21 Animal Care Cloth 380 coins Level 24 Animal Care Black Truffle 220 coins Level 37 Animal Care White Truffle 550 coins Level 38 Animal Care Duck Egg 300 coins Level 40 Animal Care Yak Milk Bucket 360 coins Level 49 Animal Care
+
+Quests [ ]
+
+Before the January 4, 2021 update, Taliyah provided quests to unlock certain offers, alike other villagers. Taliyah's quests were removed and replaced with attaining certain skill levels to unlock merchant offers instead.  However, her quests were readded on November 13, 2021 update. Completing  her quests gives tokens. Though they were removed once again on the November 27, 2021 update.
+
+Dialogue [ ]
+
+"Hey user ! What's on your mind?" >View Shop Opens shop menu. >Tell me about animals "I have so many animals! I love them all the same... But Lucy is my favorite!" "I'm trying to get an order of new animals... This town could use more of them! I'm just not sure what kind yet." "Cows can't resist a handful of wheat. That's how I get Lucy into her bath!" "Did you know happy cows produce milk more often? Mmm... Now I want a glass of milk!" "Make sure to feed your animals every day. Lucy usually get hungry in the morning." "Some animals have favorite foods. My cow Lucy loves oranges... They always cheer her up!" "Animals love to sleep on hay beds. If you place one in a cozy spot I'm sure your animal will love you for it!" >Okay! "What can I do for you?" Repeat. >Quests Opens quest menu.
+
+During the Godzilla vs. Kong Event [ ]
+
+"Hey user !.. What a wild time.. Just remember, all creatures are sacred." >View offer Opens shop. >Tell me about animals "I have so many animals! I love them all the same... But Lucy is my favorite" "I'm trying to get an order of new animals... This town could use more of them! I'm just not sure what kind yet" "Cows can't resist a handful of wheat. That's how I get Lucy into her bath!" "Did you know happy cows produce milk more often? Mmm... Now I want a glass of milk!" "Make sure to feed your animals every day. Lucy usually get hungry in the morning." "Some animals have favorite foods. My cow Lucy loves oranges... They always cheer her up!" "Animals love to sleep on hay beds. If you place one in a cozy spot I'm sure your animal will love you for it!" >Okay! "What can I do for you?" Repeat.
+
+First Anniversary Event [ ]
+
+"It's the Islands anniversary week! One year of Islands .. I can't believe it!" >Wow! "Lucy and I baked you an Anniversary Cake to celebrate it! Hope you like it!" >Thanks! Player receives an Islands anniversary cake and Taliyah leaves the player's island .
+
+"I brought a gift for user . Could you let them know?  " >[Will Do!] End.
+
+Second Anniversary Event [ ]
+
+"It's the Islands anniversary week! Two years of Islands ... I can't believe it!" >That's awesome! "I baked you an Anniversary Cake to celebrate it! Hope you like it!" >[Take Gift] "Enjoy!" >Thanks! Player receives an Islands second anniversary cake and Taliyah leaves the player's island.
+
+"I brought a gift for user . Could you let them know?" >[Will Do!] End.
+
+Third Anniversary Event [ ]
+
+"It's the three year anniversary of Islands ! I can't believe it!" >That's amazing! "Enjoy your new pet and other gifts I have for you! Take care!" >Thanks! End.
+
+On the Farming Festival island [ ]
+
+If a player talked to Taliyah on the Farming Festival Island she would say one of the three lines below.
+
+"This harvest could last my animals all winter!" >Great! End.
+
+"This would be a great place to build a barn!" >Totally! End.
+
+"I'm not sure which of my animals is going to eat these chili peppers!" >Oh no End.
+
+During the mystery [ ]
+
+"Hey user ! What's on your mind?" >Talk about mystery "The animals at the barn aren't sleeping well, something's got them spooked!" >Oh dear... End.
+
+History [ ]
+
+October 3, 2020 Added Taliyah. ? Taliyah now hosts a shop. Added new dialogue. January 22, 2021 Taliyah now sells cow spawn eggs , sheep spawn eggs , and potions of fertility . Taliyah now buys wool and cloth . Added new dialogue. Removed Taliyah's quests. ? Taliyah now buys jars of honey . February 5, 2021 Taliyah now sells pig spawn eggs . Taliyah now buys black truffles and white truffles . February 26, 2021 Taliyah now sells chicken spawn eggs . Taliyah now buys eggs and mayonnaise jars . November 13, 2021 Taliyah now sells white truffles for 1 token. Added new quests. November 27, 2021 Removed Taliyah's quests. February 19, 2022 Taliyah now sells duck spawn eggs Taliyah now buys duck eggs . March 25, 2022 Taliyah now sells yak spawn eggs . Taliyah now buys yak milk buckets . April 9, 2022 Taliyah now arrives on player islands to grant an Islands second anniversary cake . April 16, 2022 Taliyah no longer arrives on player islands to grant an Islands second anniversary cake. June 3, 2022 Taliyah now sells horse spawn eggs . April 14, 2023 Taliyah now arrives on player islands to grant an Islands third anniversary cake .
+
+Trivia [ ]
+
+Taliyah is the first character to have a unique GUI when talked to, and also have a character design unique from the rest of the villagers' design. Taliyah was the first named NPC. Taliyah uses the Freckles face texture while loading. Jed seems to have a crush on Taliyah, indicated by his dialogue during the Fishing Festival . In celebration of Islands' 1 year anniversary , Taliyah would visit the player's island and reward them an Islands anniversary cake when interacted with. In the Skill UI , it reads that players are able to sell mud piles to her, but this is not possible. In the November 13, 2021 update, players could buy white truffles from her for one token. Though tokens are not obtainable as her quests are inaccessible. It has been confirmed that Lucy is a cow. However, she likes oranges, a food no longer liked or eaten by cows.

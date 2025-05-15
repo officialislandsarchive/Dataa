@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Trellis
+
+----------------------------------------
+
+Trellis Type of block Solid block; Plantable; Climbable Recipe 30 Birch Wood 1 Tall Grass Crafted with Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Required skill Level 35 Farming Best tool Luminous Transparent A trellis is a block used to plant vine crops .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Trellis 30 Birch Wood 1 Tall Grass Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 35 Farming
+
+Breaking [ ]
+
+Trellis Breaking Data Hardness 6 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 18 Stone 10 10 Iron 6 6 Gilded Steel 5 5 Diamond 3 3 Opal 3 3 Void Mattock 2
+
+Usage [ ]
+
+Farming [ ]
+
+Grape seeds , candy cane seeds , and dragon fruit seeds can be planted at the bottom of trellises to be grown into grape , candy canes , and dragon fruit respectively.
+
+Climbing [ ]
+
+Players are able to climb up trellises by walking up to it and moving forward to go up and backwards to go down. Players can also stay still on a trellis by not pressing any movement keys.
+
+History [ ]
+
+May 10, 2020 Added trellises. December 18, 2021 Changed the model for trellises. Candy cane seeds can now be planted on trellises. February 27, 2022 Dragon fruit seeds can now be planted on trellises.
+
+Trivia [ ]
+
+The trellis is the first block that requires tall grass or birch wood to craft. Despite having farmland at the bottom of it, there are no grass blocks in the recipe. Despite requiring birch wood to craft, the wood color of the trellis is that of maple wood since December 18, 2021 . Placing lava on the top of a trellis will make the lava unable to spill, and breaking the trellis will make the lava float.

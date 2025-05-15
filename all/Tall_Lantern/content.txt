@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Tall_Lantern
+
+----------------------------------------
+
+Tall Lantern Type of block Solid block; Luminous Recipe 5 Cloth 20 Coal 5 Maple Wood Crafted with Furniture Workbench Best tool Luminous Transparent The tall lantern is a luminous furniture block that can be crafted in a furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Tall Lantern 5 Cloth 20 Coal 5 Maple Wood Furniture Workbench
+
+Breaking [ ]
+
+Tall Lantern Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+January 29, 2021 Added tall lanterns.

@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Carrot_Cake
+
+----------------------------------------
+
+Carrot Cake Recipe 1 Carrot Cake Batter Crafted with Campfire Small Furnace Desert Furnace Industrial Oven Effect +15% more output when crafting in the furniture workbench Sell price 480 - 720 coins Hot sell price 720 - 1,080 coins Description Eat for +15% more output when crafting in carpentry station. A carrot cake is a food item that grants +15% more output when crafting in the furniture workbench when consumed.
+
+Obtaining [ ]
+
+Cooking [ ]
+
+Cooking carrot cake batter in a campfire , small furnace , desert furnace , or industrial oven will create carrot cake.
+
+Input Output 1 Carrot Cake Batter 1 Carrot Cake
+
+Usage [ ]
+
+Eating [ ]
+
+Eating a carrot cake grants +15% more output when crafting in the furniture workbench for 15 minutes. This means that every block crafted in it has a 15% chance of granting an extra block.
+
+Selling [ ]
+
+Carrot cakes can be sold to Petur for 480 - 720 coins , or 720 - 1,080 coins if carrot cake is a hot offer.
+
+History [ ]
+
+May 17, 2020 Added carrot cakes. November 13, 2021 Carrot cakes now grant +15% more output when crafting in the furniture workbench when consumed. Added a description. Changed the base selling price from 180 coins to 600 coins . Carrot cakes no longer heal 28 HP when consumed. January 8, 2022 Changed the base selling price from 600 coins to 720 - 1,080 coins. January 15, 2022 Changed the base selling price from 720 - 1,080 coins to 480 - 720 coins.
+
+Trivia [ ]
+
+Its description refers to the furniture workbench as the "carpentry station."

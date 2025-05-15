@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Automated_Trough
+
+----------------------------------------
+
+Automated Trough Type of block Solid block; Interactable Recipe 3 Red Bronze Ingot 3 Steel Plate Crafted with Workbench Tier 4 Best tool Luminous Transparent Description A metal trough with a conveyor input. An automated trough is an industrial machine that can be used to automatically feed animals.
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Automated Trough 3 Red Bronze Ingot 3 Steel Plate Workbench Tier 4
+
+Breaking [ ]
+
+Automated Trough Breaking Data Hardness 12 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 18 Wooden 36 18 Stone 20 12 Iron 12 8 Gilded Steel 9 6 Diamond 6 4 Opal 5 3 Void Mattock 3
+
+Usage [ ]
+
+Feeding animals [ ]
+
+The automated trough can be used to feed animals, like the wooden trough and metal trough . Food can be inputted manually or through a conveyor belt on the side of the machine. The trough has 2 slots that are able to hold 20 items each.
+
+History [ ]
+
+August 15, 2021 Added automated troughs. December 29, 2021 Disabled the ability to manually place items into automated troughs. January 2, 2022 Re-enabled the ability to manually place items into automated troughs. January 3, 2022 Disabled the ability to manually place items into automated troughs. Re-enabled the ability to manually place items into automated troughs. January 4, 2022 Disabled the ability to manually place items into automated troughs. January 6, 2022 Re-enabled the ability to manually place items into automated troughs. April 9, 2022 Fixed a bug that prevented ducks and yaks from eating from automated troughs.

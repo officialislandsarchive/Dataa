@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Primordial_Plushie
+
+----------------------------------------
+
+Primordial Plushie Type of block Solid block; Interactable Best tool Luminous Transparent Description ??? The primordial plushie is a plushie that has a chance to be obtained from dungeon chests .
+
+Obtaining [ ]
+
+Dungeon chest [ ]
+
+Opening a dungeon chest has a 1% chance of rewarding a primordial plushie, having a rarity of 'mythic'.
+
+Breaking [ ]
+
+Primordial Plushie Breaking Data Hardness ? Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel ? Wooden ? ? Stone ? ? Iron ? ? Gilded Steel ? ? Diamond ? ? Opal ? ? Void Mattock ?
+
+History [ ]
+
+June 23, 2023 Added primordial plushies.

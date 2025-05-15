@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Long_Crossbow_Bolt
+
+----------------------------------------
+
+Long Crossbow Bolt Physical class Piercing Attack damage 25 - 34 HP 43 - 58 HP (Fully charged) Recipe 4 Steel Ingot Crafted with Anvil Buy cost 1,000 coins Description A metal bolt shot from a Crossbow Long crossbow bolts are arrows that can be shot from crossbows .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station 4 Long Crossbow Bolt 4 Steel Ingot Anvil
+
+Purchasing [ ]
+
+Long crossbow bolts could have been purchased for 1,000 coins each from Kontos during the Halloween 2022 event.
+
+Long crossbow bolts can now be purchased from Ivon for 1,000 coins .
+
+Usage [ ]
+
+Ammunition [ ]
+
+Long crossbow bolts are used as ammunition in crossbows and at least one is required to be in the player's inventory in order for them to fire a crossbow. Shooting a long crossbow bolt deals an extra 25 - 34 HP to mobs .
+
+Long crossbow bolts are a one-time use item provided that a mob is hit, meaning they cannot be retrieved after they have been shot as long as damage has been dealt. Unlike other arrows though, long crossbow bolts have a small chance to return upon defeating a mob.
+
+History [ ]
+
+October 15, 2022 Added long crossbow bolts. November 4, 2022 Long crossbow bolts can now be purchased from Ivon instead of Kontos .
+
+Trivia [ ]
+
+Unlike stone short arrows , the limit of long crossbow bolts is 2,000 instead of 20,000. This is the first and only crossbow bolt in Islands . Long crossbow bolts and stone short arrows are the only arrows that can be crafted without an Archery level requirement.

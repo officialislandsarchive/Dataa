@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Potted_Tree
+
+----------------------------------------
+
+Potted Tree Type of block Solid block Recipe 1 Oak Sapling 20 Stone 5 Grass Crafted with Furniture Workbench Best tool Luminous Transparent The potted tree is a furniture block that can be crafted in the furniture workbench .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Potted Tree 1 Oak Sapling 20 Stone 5 Grass Furniture Workbench
+
+Breaking [ ]
+
+Potted Tree Breaking Data Hardness 3 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 5 Wooden 9 9 Stone 5 5 Iron 3 3 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+January 29, 2021 Added potted trees.

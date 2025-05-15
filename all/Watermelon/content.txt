@@ -1,0 +1,47 @@
+Source: https://robloxislands.fandom.com/wiki/Watermelon
+
+----------------------------------------
+
+Watermelon Seed cost 1,850 coins Planted on Farmland Sell price 85 coins Description A tasty melon grown in the summer Edible A watermelon is a placeable crop that grows on farmland from watermelon seeds .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting a watermelon plant yields 1 - 3 watermelons, 1 watermelon seed , and 6 Farming XP (24 XP with the 4x daily bonus). The chance of obtaining more than one waterlemon per plant is increased by the player's Farming level and for owners of the VIP gamepass . Extra watermelon seeds cannot be yielded.
+
+Totems [ ]
+
+A watermelon totem will collect and replant watermelons in a 3-block radius, which can then be collected by interacting it. A watermelon totem placed next to a conveyor belt will drop the watermelons onto the conveyor. This process cannot yield extra watermelon seeds.
+
+Breaking [ ]
+
+Watermelon Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+Growth [ ]
+
+The growth time of watermelons can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Watermelon Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 45s 3m 33s 5m Note: The durations of time above are on an unfertilized and unwatered plant Watermelon Growth Time Type Growth Time Normal 5m Fertilized 4m Watered 4m Watered + Fertilized 3m 30s
+
+Trivia [ ]
+
+It is one of the five only crops that cannot be crafted into any food product, aside from Pumpkins , Blackberries , Plums , and Radishes .
+
+Crate-packing [ ]
+
+Image Name Recipe Crafting station Crate of Melons 100 Watermelon Crate Packer Large Crate of Melons 250 Watermelon Tier 2 Crate Packer
+
+Selling [ ]
+
+Watermelon can be sold to Tom during the summer on the player's island for 85 coins each.
+
+History [ ]
+
+April 4, 2021 Added watermelons. June 4, 2021 Watermelons can be packed into crates of melons . Changed the sell price of watermelons from 105 coins to 95 coins. August 15, 2021 Watermelons can be packed into large crates of melons . January 8, 2022 Changed the sell price of watermelons from 95 coins to 80 coins. May 13, 2022 Changed the sell price of watermelons from 80 coins to 75 coins. July 30, 2022 Changed the sell price of watermelons from 75 coins to 85 coins. ? Changed the sell price of watermelons from 85 coins to 80 coins. September 24, 2022 Changed the sell price of watermelons from 80 coins to 85 coins. October 15, 2022 Watermelons can now be sold to Tom instead of to Cletus. November 4, 2022 Watermelons can now be sold to Cletus again. December 23, 2022 Changed the sell price of watermelons from 80 coins to 85 coins.
+
+Trivia [ ]
+
+Despite being a seasonal crop, watermelons can grow in any season . Besides the seed and the actual watermelon, all growth stages of the watermelon are nearly identical to that of pumpkins . The watermelon's second to last stage of growth has a melon that is slightly darker than the final harvestable crop. Despite the fact that Cletus says the player can eat it as a "refreshing snack," and the description saying it is a "tasty melon", watermelons currently cannot be eaten. Prior to the January 8, 2022 update, watermelons sold for the highest amount of coins out of any crop . The second to last stage of the watermelon is slightly floating.
+
+Gallery [ ]

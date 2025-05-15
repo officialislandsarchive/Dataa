@@ -1,0 +1,23 @@
+Source: https://robloxislands.fandom.com/wiki/Red_Rug
+
+----------------------------------------
+
+Red Rug Type of block Solid block Buy cost 100 coins Best tool Luminous Transparent
+
+Red rugs are decorative furniture blocks that can be bought from John .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Red rugs can be bought from John for 100 coins , whom can be found on the Hub .
+
+Breaking [ ]
+
+Red Rug Breaking Data Hardness 1 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 2 Stone 2 1 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+April 10, 2020 Added red rugs.
+
+Trivia [ ]
+
+During the game's early release, red rugs could be jointed with another if placed correctly, making it being widely used in building and decorating. This was later patched in later update.

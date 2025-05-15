@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Bunny
+
+----------------------------------------
+
+Bunny Location Hub Purpose Offering a quest for the Patrick Star Event
+
+Bunny is villager whom could be found in the Hub across the Hub river , during the Patrick Star Event .
+
+Quest [ ]
+
+Bunny's quest is to find her orange juice in the maze-like cave that was next to her.
+
+Dialogue [ ]
+
+"Oh gosh, I think I lost my orange juice in that cave! Could you find it for me?" >Will do! End.
+
+After the player finds her juice:
+
+"Golly! Great find, thanks!" >No problem! End.
+
+After her quest has been completed:
+
+"Thanks for your help!" >Cya! End.
+
+History [ ]
+
+July 2, 2021 Added Bunny. July 17, 2021 Removed Bunny.

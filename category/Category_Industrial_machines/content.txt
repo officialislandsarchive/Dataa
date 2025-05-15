@@ -1,0 +1,37 @@
+Source: https://robloxislands.fandom.com/wiki/Category:Industrial_machines
+
+----------------------------------------
+
+This category holds articles on all of the industrial machines in Islands . Some can only be crafted once the player reaches a certain level in Forging .
+
+Auto-crafters [ ]
+
+Auto-crafters each have a recipe selection menu that allows players to choose what item they'd like to make, each recipe takes multiple items.
+
+Deposit collectors [ ]
+
+Deposit collector are machines that are used to collect certain types of ore/ fuel from deposits .
+
+Industrial animal equipment [ ]
+
+Industrial animal equipment are machines that are used to aid in the production of animal products such as wool or milk buckets .
+
+Industrial crop/tree equipment [ ]
+
+A crop/tree equipment are machines used to collect or place crops/trees/flowers.
+
+Industrial heating devices [ ]
+
+An industrial heating device is any automatable machine that can heat, cook or smelt.
+
+Industrial item transformers [ ]
+
+An industrial item transformer is any automatable machine that takes one type of item, and turns it into another type of item, players can only pick what goes in and cannot select what it is going to make. Some may require a factory mold to craft a specific item.
+
+Miscellaneous [ ]
+
+These are automatable machines that don't fit into any of the sub-categories above.
+
+Details [ ]
+
+Name Sub-category Use Industrial Smelter Heating devices Automatically smelts gold , iron , copper , or clay into their respective ingots or bricks . Industrial Oven Heating devices Automatically cooks food items. Steel Mill Item transformers Automatically turns iron ingots into steel ingots . Copper Press Item transformers Presses copper ingots into bolts , plates , and rods using molds . Steel Press Item transformers Presses steel ingots into bolts , plates , and rods using molds. Industrial Washing Station Item transformers Converts oily crops into regular, sellable crops . Industrial Stonecutter Item transformers Converts certain blocks into their respective brick type. Industrial Sawmill Item transformers Automatically turns wood types into their respective planks . Industrial Polishing Station Item transformers Converts certain blocks into their respective smooth block type. Oil Refinery Item transformers Refines oil fuel into petroleum fuel . Petroleum Petrifier Item transformers Petrifies petroleum fuel and turns it into petrified petroleum . Fuel Barrel Filler Item transformers Turns oil fuel into oil barrels . Fuel Barrel Extractor Item transformers Extracts oil fuel from oil barrels. Sap Boiler Item transformers Turns maple sap into maple syrup . Syrup Bottler Item transformers Turns maple syrup into maple syrup bottle . Red Bronze Refinery Auto-crafters Turns gold ingots and copper ingots into red bronze ingots . Crate Packer Auto-crafters Packs crops into crates of 100 crops each. Tier 2 Crate Packer Auto-crafters Packs crops into large crates of 250 crops each. Food Processor Auto-crafters Automatically crafts food items from their respective ingredients. Pallet Packer Auto-crafters Makes pallets out of 100 planks. Wool Vacuum Animal equipment Takes the wool off sheep when they're ready to be sheared. Industrial Milker Animal equipment Milks cows or yaks when they're ready to be milked. Automated Trough Animal equipment Automatically refills its trough for animals to eat from. Industrial Berry Basket Animal equipment Stores berries from turkeys . Industrial Lumbermill Industrial crop/tree equipment Chops down trees in front of it when fully grown. Sapling Automatic Planter Industrial crop/tree equipment Plants inputted saplings in front of it. Industrial Flower Picker Industrial crop/tree equipment Automatically collects flowers in a radius. Drill Deposit collectors Extracts gold or copper ore from gold or copper deposits . Pumpjack Deposit collectors Extracts oil fuel from oil deposits . Industrial Merchant Teleseller Miscellaneous Automatically sells items to certain villagers .

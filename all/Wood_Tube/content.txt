@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Wood_Tube
+
+----------------------------------------
+
+Wood Tube Horizontal Vertical Ascend Descend Corner Type of block Solid block Recipe 5 Oak Wood Crafted with Maple Workbench (blueprint required) Best tool Luminous Transparent A wood tube is a block used to transport maple sap from tree taps .
+
+Obtaining [ ]
+
+Name Recipe Crafting station Blueprint required Wood Tube 5 Oak Wood Maple Workbench
+
+Giving Bailey 5 Pancakes will reward you with the blueprint got the wood tube.
+
+Breaking [ ]
+
+Wood Tube Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Transporting maple sap [ ]
+
+Wood tubes can be connected from tree taps to a sap boiler and from the latter to a syrup bottler . Wood tubes will only appear full if they are connected on both sides. Two wood tube pathways can be merged into one using a wood tube merger .
+
+History [ ]
+
+November 27, 2021 Added wood tubes.
+
+Trivia [ ]
+
+There is a visual bug where fluid within wood tubes will appear black instead of their usual color when a wood tube merger is connected to another wood tube merger.

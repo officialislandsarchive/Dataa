@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Iron_Short_Arrow
+
+----------------------------------------
+
+Iron Short Arrow Type Small arrow Physical class Piercing Attack damage 13 - 18 HP 22 - 31 HP (Fully charged) Recipe 2 Maple Wood 1 Iron Ingot Crafted with Anvil Required skill Level 20 Archery Description A sturdy arrow that can be fired from shortbows Iron short arrows are small arrows that can be shot from shortbows .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill 2 Iron Short Arrow 2 Maple Wood 1 Iron Ingot Anvil Level 20 Archery
+
+Usage [ ]
+
+Ammunition [ ]
+
+Iron short arrows are used as ammunition in shortbows , as at least one is required to be in the player's inventory in order for the shortbow to fire. Shooting an iron short arrow deals an extra 13 - 18 HP to mobs .
+
+Iron short arrows are a one-time use item , meaning they cannot be retrieved after they have been shot.
+
+History [ ]
+
+September 24, 2022 Added iron short arrows. ? Changed the recipe from 4 maple wood and 3 iron ingot to 2 maple wood and 1 iron ingot.
+
+Trivia [ ]
+
+Unlike stone short arrows , the limit of iron short arrows is 2,000 instead of 20,000.

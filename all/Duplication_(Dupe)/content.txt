@@ -1,0 +1,17 @@
+Source: https://robloxislands.fandom.com/wiki/Duplication_(Dupe)
+
+----------------------------------------
+
+A duplication , or a dupe , is the act of a player creating multiple copies of an item using an exploit or glitch. Duplicating items may result in a permanent ban from the game.
+
+Information [ ]
+
+Duplication of items has been done since Islands' release. High-value items such as event-exclusive items , low-drop rate items, and hard-to-get items are usually the main targets of dupes. This usually causes the trading value of these items to significantly decrease.
+
+On January 22, 2021 , an update introduced an economy wipe that removed coins and items that were above a certain limit. The update also introduced additional safeguards to slow down the distribution of duped items by limiting the use vending machines for players with a low Economy level. Despite the continued developments implemented to fix duplication bugs, dupes can still appear and should be reported in Islands' official Discord server here .
+
+On December 29, 2021 , nearly all forms of trading were disabled due to a massive duplication exploit. The exploits have since been patched, but another economy wipe has not followed up.
+
+Visual dupe [ ]
+
+A visual dupe makes another hotbar slot appear to have a duplicate of the other. These items are often called "ghost items". The game will treat the items as if they exist, but they cannot be used for actions such as crafting or combat. The creation of ghost items is usually unintentional and has no penalty as it can be resolved by rejoining the game.

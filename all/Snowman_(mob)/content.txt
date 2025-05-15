@@ -1,0 +1,31 @@
+Source: https://robloxislands.fandom.com/wiki/Snowman_(mob)
+
+----------------------------------------
+
+Snowman (mob) Health 250 HP Behavior Neutral Attack strength 15 HP ( Punch ) 10 HP ( Snowball Throw ) Drops Snow Christmas Present 2021 Jukebox Disk Location Hub A snowman is a neutral mob that was added during the Christmas 2021 event.
+
+Spawning [ ]
+
+Snowmen spawned at various locations around the Hub during the Christmas 2021 event.
+
+Attacks [ ]
+
+As snowmen are neutral mobs ; they will not attack the player unless attacked first.
+
+Punch [ ]
+
+The snowman will reel back its arms before swinging at the player, dealing 15 HP and significant knockback to the player if hit.
+
+Snowball Throw [ ]
+
+The snowman form a snowball from the snow of its body and throw it at the player, dealing 10 HP and significant knockback to the player if hit.
+
+Drops [ ]
+
+A snowman rewards 25 (99 with the 4x daily bonus) Combat XP and 25 (99 with the 4x daily bonus) Light Melee , Heavy Melee , Magic , or Archery XP depending on the weapon the player used to defeat it.
+
+Image Name Drop chance Snow 550% Christmas Present 2021 5% Jukebox Disks Red Jukebox Disk 0.35% Blue Jukebox Disk 0.35% Yellow Jukebox Disk 0.35% Green Jukebox Disk 0.01% Purple Jukebox Disk 0.01% Orange Jukebox Disk 0.01%
+
+History [ ]
+
+December 18, 2021 Added snowmen. January 15, 2022 Snowmen no longer spawn in the Hub .

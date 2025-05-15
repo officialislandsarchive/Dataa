@@ -1,0 +1,35 @@
+Source: https://robloxislands.fandom.com/wiki/Coral
+
+----------------------------------------
+
+Coral Teal Yellow Pink Blue Type of block Non-solid block Dropped by Angry Crab Spawns Ponds in the Hub and Slime Island Best tool Luminous Transparent Coral are non-solid blocks that naturally generate in ponds and can be dropped by defeating angry crabs .
+
+Obtaining [ ]
+
+Natural generation [ ]
+
+Different coral naturally generate in the ponds in the Hub and Slime Island .
+
+Mob drop [ ]
+
+Angry crabs are guaranteed to drop 5 of a particular coral upon defeat.
+
+Breaking [ ]
+
+Coral Breaking Data Hardness 1 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 2 Wooden 3 3 Stone 2 2 Iron 1 1 Gilded Steel 1 1 Diamond 1 1 Opal 1 1 Void Mattock 1
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Blue Coral Block 3 Blue Coral Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Light Blue Coral Block 3 Teal Coral Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Pink Coral Block 3 Pink Coral Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Yellow Coral Block 3 Yellow Coral Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Fish tank blueprints [ ]
+
+Prior to May 13, 2022 , breaking naturally-generated coral had a small chance of rewarding the player with a fish tank decoration blueprint.
+
+Fish tank castle blueprint . Fish tank anchor blueprint . Fish tank shipwreck blueprint . Fish tank treasure chest blueprint .
+
+History [ ]
+
+July 11, 2020 Added coral. September 18, 2020 Fish tank decoration blueprints can now be obtained from breaking coral. December 10, 2021 Coral can now be used to craft coral blocks . May 13, 2022 Fish tank decoration blueprints can no longer be obtained from breaking coral.

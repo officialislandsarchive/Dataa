@@ -1,0 +1,33 @@
+Source: https://robloxislands.fandom.com/wiki/Duck_Egg
+
+----------------------------------------
+
+Duck Egg Sell price 300 coins Required skill Level 40 Animal Care (to sell) Description Infertile egg laid by ducks. A duck egg is an item laid by ducks .
+
+Obtaining [ ]
+
+Ducks [ ]
+
+Adult and baby ducks will lay duck eggs shortly after being fed with their favorite foods or bread . Ducks will lay their eggs in a nest if it is accessible and hasn't reached its max capacity of 3.
+
+If there is no nest that is able to accommodate an extra egg, the duck will lay its egg on a random block on the player's island . Each block is only able to hold one egg.
+
+Usage [ ]
+
+Cooking [ ]
+
+Cooking a duck egg in a campfire , small furnace , or desert furnace will create a poached duck egg .
+
+Input Output 1 Duck Egg 1 Poached Duck Egg
+
+Selling [ ]
+
+Duck eggs can be sold to Taliyah for 300 coins each after reaching level 40 Animal Care .
+
+History [ ]
+
+February 19, 2022 Added duck eggs.
+
+Trivia [ ]
+
+Whenever a duck egg is laid from a duck , an item port spawns with it, keeping the egg from despawning. Unlike eggs , duck eggs are the first and only egg in Islands that cannot be manually placed into nests .

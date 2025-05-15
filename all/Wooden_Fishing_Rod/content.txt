@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Wooden_Fishing_Rod
+
+----------------------------------------
+
+Wooden Fishing Rod Type Tool Recipe 10 Oak Wood Crafted with Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 The Wooden Fishing Rod is a tool used for fishing .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Wooden Fishing Rod 10 Oak Wood Workbench Tier 1 Workbench Tier 2 Workbench Tier 3 Workbench Tier 4
+
+Usage [ ]
+
+Fishing [ ]
+
+Fishing rods can be cast into water. After a short period of time, a fish "shadow" will approach the bobber and "bite" it. Particles will appear and a sound will play, the fish will start vibrating rapidly. If the rod is reeled in quickly enough the player obtains a fish or treasure. Walking away from the water source will cause the player to lose the shadow, making you try again.
+
+Trivia [ ]
+
+There is a glitch in which even if the player unequip it, they will still be doing the animation of holding it. However, this has since been patched. The bobber used to be able to be dragged around, making fishing easier. This has since been changed. If a player casts the rod and jump off from their island, it will ragdoll the player when the player is teleported. The bobber can allow the player to hang from a ledge, if positioned above the blocks a player wants to hang from. Wooden fishing rods can no longer catch high tier fish and treasures such as pearls and propellers. These can only be caught with an Iron Fishing Rod.

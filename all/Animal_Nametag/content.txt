@@ -1,0 +1,27 @@
+Source: https://robloxislands.fandom.com/wiki/Animal_Nametag
+
+----------------------------------------
+
+Animal Nametag Recipe 5 Bamboo 1 Ancient Slime String Crafted with Animal Bench Required skill Level 15 Animal Care Description Give your animal a name! An animal nametag is an item used to name animals .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Animal Nametag 5 Bamboo 1 Ancient Slime String Animal Bench Level 15 Animal Care
+
+Usage [ ]
+
+Naming animals [ ]
+
+To name an animal, equip the nametag and interact with chosen animal. The game will prompt you to enter a name.
+
+The names are affected by Roblox's filter, meaning some words and phrases may be censored.
+
+History [ ]
+
+February 5, 2021 Added animal nametags. April 29, 2022 Fixed animal nametags' UI.
+
+Trivia [ ]
+
+Before the February 12, 2021 update, players could only view an animal's name if inspected with an animal well-being kit . There was a glitch where players were able to name anything, even if it wasn't an animal. It was shortly patched.

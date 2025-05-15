@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Banker_(old)
+
+----------------------------------------
+
+Banker Location None (Formerly Hub ) Purpose Buys and sells Coin Bags and provides quests The Banker was a villager located in the Hub . The player could buy and sell coin bags and also complete quests given by him to earn various rewards. He was removed in the January 22, 2021 update along with coin bags.
+
+Shop [ ]
+
+The Banker bought and sold coin bags that could be used to trade with.
+
+Image Name Price Coins 10 Coins Coins 100 Coins Coins 1000 Coins
+
+Legacy Quests [ ]
+
+Before his removal in January 2021, the Banker offered legacy quests . Players could not start the next quest until they had finished the current quest. Finishing a quest awarded more bond points with the respective NPC. Once enough points were gained to level up, blocks, seeds, or a furniture blueprint would be awarded randomly.
+
+Quest Sell 10 logs . Sell 10 wheat . Sell 5 iron ingots . Buy 3 glass . Buy 3 carpets . (includes red rug ) Buy 3 saplings . Purchase 5 pieces of grass . Sell 25 logs . Sell 25 iron ingots . Buy 10 glass . Buy 10 carpets . (includes red rug ) Buy 8 saplings . Purchase 50 pieces of grass . Sell 15 maple logs . Sell 15 birch or pine logs . Sell 10 onions . Sell 30 potatoes . Sell 30 tomatoes . Sell 15 carrots . Sell 5 grapes . Sell 40 wheat . Sell 30 berries . Sell 100 logs . Sell 100 iron ingots . Sell 50 maple logs . Sell 100 birch or pine logs . Sell 40 onions . Sell 80 potatoes . Sell 80 tomatoes . Sell 50 carrots . Sell 30 grapes . Sell 125 wheat . Sell 100 berries .
+
+History [ ]
+
+? Added the Banker. January 22, 2021 Removed the Banker.
+
+Trivia [ ]
+
+The Banker shares the same model as Holt .

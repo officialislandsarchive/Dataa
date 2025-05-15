@@ -1,0 +1,19 @@
+Source: https://robloxislands.fandom.com/wiki/Frost
+
+----------------------------------------
+
+Frost Causes The affected mob will move slower. Source Frost Sword Frost Hammer Candy Cane Scepter Type Weapon-inflicted
+
+Frost is an effect that causes the mob attacked by frost swords , frost hammers , and candy cane scepters to take extra damage occasionally.
+
+Causes [ ]
+
+Frost is inflicted by all weapons of the frost magic class, such as frost swords, frost hammers, and candy cane scepters.
+
+Information [ ]
+
+Frost is applied by frost weapons which when inflicts will cause you to occasionally deal extra damage, dealing 50% of the attacks initial damage once. Despite claiming to inflict slowness, it does not.
+
+History [ ]
+
+December 23, 2022 Added Frost.

@@ -1,0 +1,43 @@
+Source: https://robloxislands.fandom.com/wiki/Spinach
+
+----------------------------------------
+
+Spinach Seed cost 550 coins Planted on Farmland Sell price 15 coins Required skill Level 22 Farming (to sell) Description Feed to animals to slightly improve traits. Edible Spinach is a crop that grows on farmland from spinach seeds .
+
+Obtaining [ ]
+
+Harvesting [ ]
+
+Harvesting spinach plant yields 1 - 3 spinach, 1 - 2 spinach seeds , and 6 Farming XP (24 with the 4x daily bonus). The chance of obtaining more than one spinach per plant is increased by the player's Farming level and for owners of the VIP gamepass . The 5% chance of obtaining an extra spinach seed is increased for owners of the pro gamepass .
+
+Totems [ ]
+
+A spinach totem will collect and replant spinach in a 3-block radius, which can then be collected by interacting it. A spinach totem placed next to a conveyor belt will drop the spinach onto the conveyor. This process cannot yield extra spinach seeds.
+
+Growth [ ]
+
+The growth time of spinach can be shortened by 20% when watered with a watering can or basic sprinkler , or fertilized with basic fertilizer . If watered and fertilized, the growth time will be shortened by 30%.
+
+Spinach Growth Phases Phase 0 Phase 1 Phase 2 Phase 3 Time since planted 0m 0s 1m 30s 3m 5s 4m 35s Note: The durations of time above are on an unfertilized and unwatered plant Spinach Growth Time Type Growth Time Normal 4m 35s Fertilized 3m 50s Watered 3m 50s Watered + Fertilized 3m 15s
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Dumpling 2 Spinach 1 Dough 1 Egg Cooking Table Food Processor None Spring Rolls 2 Spinach 1 Dough 1 Carrot Cooking Table Food Processor None
+
+Crate-packing [ ]
+
+Image Name Recipe Crafting station Crate of Spinach 100 Spinach Crate Packer Large Crate of Spinach 250 Spinach Tier 2 Crate Packer
+
+Animals [ ]
+
+Spinach can be fed to animals to improve their traits. This can only be done up to 50 times per animal and does not reward any Animal Care XP.
+
+Selling [ ]
+
+Spinach can be sold to Cletus for 15 coins each after reaching Level 22 Farming .
+
+History [ ]
+
+January 22, 2021 Added spinach. February 5, 2021 Spinach can now be used to feed pigs . February 26, 2021 Spinach can now be used to feed chickens . November 27, 2021 Spinach can now be used to feed turkeys . February 7, 2022 Spinach can now be used to craft dumplings or spring rolls . February 19, 2022 Spinach can now be used to feed ducks . March 25, 2022 Spinach can now be used to feed yaks . June 3, 2022 Spinach can now be sold to Cletus instead of to Tom . June 10, 2022 Spinach can now be used to feed horses . July 9, 2022 Changed the sell price of spinach from 18 coins to 14 coins. July 16, 2022 Changed the sell price of spinach from 14 coins to 18 coins. July 30, 2022 Spinach can be packed into normal and large crates of spinach . August 6, 2022 Changed the sell price of spinach from 18 coins to 14 coins. Spinach can now be harvested by spinach totems . August 13, 2022 Changed the sell price of spinach from 14 coins to 18 coins. September 24, 2022 Changed the sell price of spinach from 18 coins to 14 coins. October 15, 2022 Spinach can now be sold to Tom instead of to Cletus. November 4, 2022 Spinach can now be sold to Cletus instead of Tom. November 18, 2022 Changed the sell price of spinach from 18 coins to 15 coins.

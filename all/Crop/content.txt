@@ -1,0 +1,91 @@
+Source: https://robloxislands.fandom.com/wiki/Crop
+
+----------------------------------------
+
+Crops are plants grown from seeds or saplings that, when fully grown, can either be harvested or produce their respective fruit. There are five types of crops: Ground, Bush, Vine, Tree (Fruits), and Wetland. Each can be planted on grass , farmland , trellises , pond planters , or sand .
+
+Most crops can be sold to Cletus for coins , sold in bulk to Dom , or crafted into other food items. Harvesting crops will give a varying number of Farming XP and a 0.02% chance of a Cletus ornament during the Christmas 2021 event.
+
+Crop types [ ]
+
+Bush crops [ ]
+
+Bush crops can only be planted on grass and the bush itself is not collected upon harvesting. Harvesting a bush crop will drop some of its berries and, very rarely, a seed. The exact number of berries rewarded is scaled with the player's Farming level and is boosted for owners of the VIP gamepass .
+
+The bushes can be watered but not fertilized, but watering one does not quicken its growth time. There are currently 4 bush crops, 2 of which are seasonal .
+
+Ground crops [ ]
+
+Ground crops are crops whose seed can either be planted on sand or farmland , but never grass . Harvesting a ground crop may reward the player 1 - 2 of the crop's seed along with the crop itself; the number of crops given is dependent on the crop type, the player's Farming level, and is boosted for owners of the VIP gamepass .
+
+All ground crops have a respective crop totem except for cacti , chili peppers , spirit crops , and void parasites . Ground crops that can be planted on farmland can also be watered or fertilized to quicken their growth time. There are currently 15 ground crops, 14 that are planted on farmland, 4 of which are seasonal ; and 1 that is planted on sand.
+
+Oily crops [ ]
+
+When some ground crops are harvested by a totem and outputted onto a conveyor belt , they become oily. Oily crops can only be sold to the oily crops villager through the industrial merchant teleseller or washed in a washing station or industrial washing station to become their non-oily counterpart. There are currently 6 types of oily crops. (Oily Starfruit and Oily Pineapple are not obtained by having a totem output them onto a conveyor)
+
+Vine crops [ ]
+
+Vine crops can only be planted in trellises and cannot be fertilized. Harvesting a vine crop will reward the player the crop's seed along with the crop itself; the number of crops given is scaled to the player's Farming level and is boosted for owners of the VIP gamepass . There are currently 3 vine crops.
+
+Wetland crops [ ]
+
+Wetland crops can only be planted in pond planters . There are currently 2 wetland crops.
+
+Tree crops [ ]
+
+Tree crops, or fruits , are harvested from their respective fruit tree . All tree saplings can be planted on grass, but palm trees can also be planted on sand. Harvesting a fruit from its tree will always give one fruit and a 4% chance of dropping its respective sapling too. There are currently 7 types of tree crops.
+
+Selling [ ]
+
+Most harvested crops can be sold to Cletus , but the seasonal ones can only be sold to him on player islands during certain seasons . Crops can be packed into crates and large crates and sold to Dom for a higher value. Oily crops can only be sold to the oily crops villager through the industrial merchant teleseller . The sell prices of certain crops change for every update, but the sell prices will be reverted back to its original amount on the next update.
+
+Cletus [ ]
+
+These crops can be sold to Cletus in the Hub during any season :
+
+Image Name Sell price Required skill Wheat 7 coins None Candy Cane 24 coins None Rice 24 coins None Red Berries 22 coins None Blueberries 24 coins None Blackberries 26 coins None Apple 20 coins None Orange 20 coins None Lemon 20 coins None Plum 50 coins None Coconut 45 coins None Spirit Crystal 23 coins None Tomato 9 coins Level 3 Farming Starfruit 60 coins Level 7 Combat Potato 16 coins Level 9 Farming Avocado 32 coins Level 12 Woodcutting Carrot 21 coins Level 18 Farming Spinach 18 coins Level 22 Farming Onion 25 coins Level 31 Farming Grape 22 coins Level 35 Farming Cactus 30 coins Level 38 Farming Dragon Fruit 45 coins Level 41 Farming
+
+Seasonal [ ]
+
+These crops can only be sold to Cletus when he visits the player's island during a specific season:
+
+Image Name Sell price Season Pumpkin 52 coins Fall Radish 59 coins Spring Pineapple 92 coins Spring Watermelon 85 coins Summer
+
+Oily crops [ ]
+
+Oily crops used to be sellable to the oily crops villager before the February 26, 2021 update, but can since be sold to him through the industrial merchant teleseller .
+
+Image Name Sell price Hub (removed) Industrial merchant teleseller (removed) Oily Tomato 3 coins 3 coins Oily Potato 4 coins 3 coins Oily Carrot 10 coins 7 coins Oily Onion 12 coins 8 coins Oily Starfruit 20 coins 14 coins
+
+Terri (Pirate Island) [ ]
+
+These crops can only be sold to Terri :
+
+Image Name Sell price Kiwi 24 coins
+
+Emma (Maple Isles) [ ]
+
+These crops can only be sold to Emma :
+
+Image Name Sell price Raspberries 28 coins
+
+Larry (Void) [ ]
+
+These crops can only be sold to Larry :
+
+Image Name Sell price Void Parasite 30 coins
+
+Quests [ ]
+
+Harvesting/planting crops are required to complete some quests :
+
+Quest Type Tasks Reward Prerequisites Cooldown duration Getting Started Multiple Harvest 5x Wheat Access to next task None N/A Plant the wheat seeds Access to next task Starting a Farm Multiple Harvest more wheat 10 tomato seeds Access to next task Entering the Mines N/A Harvest tomatoes 50 coins Access to next task Harvest more crops 150 coins 1 Small Furnace Collect kiwifruit Harvest Pick 15x Kiwifruit 20 doubloon Level 10 Combat 1 day Harvest Crops Harvest Harvest Wheat 20 coins 1 wheat seeds Access to next task Level 10 Farming 1 day Harvest Tomatoes 30 coins 1 tomato seeds Access to next task Harvest Potatoes 40 coins 1 potato seeds Access to next task Harvest Carrots 50 coins 1 carrot seeds Access to next task Harvest Spinach 60 coins 1 spinach seeds Access to next task Harvest Onions 70 coins 1 onion seeds Access to next task Harvest Grapes 100 coins 1 grape seeds Access to next task Harvest Cacti 120 coins 1 cactus seeds Access to next task Harvest Dragonfruit [sic] 150 coins 1 dragon fruit seeds Access to next task Harvest Rice 150 coins 1 rice seeds Access to next task Harvest Spirit Crystals 150 coins 1 spirit seeds Harvest fruit Harvest Pick 10x Apple 20 coins Access to next task Level 15 Farming 1 day Pick 10x Orange 30 coins Access to next task Pick 10x Lemon 40 coins Access to next task Pick 10x Avocado 50 coins Access to next task Pick 10x Kiwifruit 60 coins Access to next task Pick 10x Coconut 80 coins Access to next task Pick 10x Plum 100 coins
+
+Stats [ ]
+
+Crop type Crop Planted on Buyer Sell price Required skill Possible extra seed/sapling? Ground crops Wheat Farmland Cletus 11 coins None Yes Tomato Farmland Cletus 5 coins Level 3 Farming Yes [ 1 ] Potato Farmland Cletus 11 coins Level 9 Farming Yes Carrot Farmland Cletus 16 coins Level 18 Farming Yes Onion Farmland Cletus 30 coins Level 31 Farming Yes Starfruit Farmland Cletus 60 coins Level 7 Combat Yes [ 2 ] Watermelon Farmland Cletus [ 3 ] 85 coins None No Pumpkin Farmland Cletus [ 4 ] 58 coins None No Radish Farmland Cletus [ 5 ] 59 coins None No Cactus Sand Cletus 25 coins Level 38 Farming No Spinach Farmland Cletus 18 coins Level 22 Farming Yes Spirit Crop Farmland Catherine 23 coins None No Chili Pepper Farmland N/A N/A N/A No Pineapple Farmland Cletus [ 6 ] 92 coins None No Void Parasite Farmland Larry 30 coins None No Bush crops Red Berries Grass Cletus 22 coins None Yes Blueberries Grass Cletus 24 coins None Yes Blackberries Grass Cletus 26 coins None Yes Raspberries Grass Emma 28 coins None No (Currently cannot be harvested by players, but turkeys ) Vine crops Grape Trellis Cletus 22 coins Level 35 Farming Yes Candy Cane Trellis Cletus 24 coins None No Dragon Fruit Trellis Cletus 45 coins Level 41 Farming No Wetland crops Rice Pond Planter Cletus 24 coins None Yes Seaweed Pond Planter N/A N/A N/A No Tree crops Apple Grass Cletus 24 coins None Yes Orange Grass Cletus 20 coins None Yes Lemon Grass Cletus 20 coins None Yes Avocado Grass Cletus 36 coins Level 12 Woodcutting Yes Coconut Grass / Sand Cletus 48 coins None Yes Kiwi Grass Terri 24 coins None Yes Plum Grass Cletus 46 coins None Yes
+
+Trivia [ ]
+
+Even though starfruits and pineapples have an oily variant and recipe in the washing station , it cannot become oily. There is currently an unpatched bug in game where if a player leaves then rejoins on their island, all planted crops will be instantly grown. Chili peppers and seaweed are the only crops that cannot be sold. Pineapples are the highest-selling crop. Plums are the highest-selling non-seasonal crop. Before the January 15, 2022 , players were still able to obtain extra candy cane seeds when harvesting candy canes. Pumpkins , watermelons , radishes , blackberries , coconuts , kiwis and Plum are the only crops that cannot be used to craft other food items. Raspberries are the only crop that cannot be harvested by players. Turkeys cannot reward extra berry seeds when harvesting berry bushes . Prior to the June 3, 2022 update, Cletus could not buy crops from the player in the Hub ; instead, the shop belonged to Tom . During the Halloween 2022 event, Tom replaced Cletus due to Cletus being zombified.

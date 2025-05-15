@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Crate_Packer
+
+----------------------------------------
+
+Crate Packer Type of block Solid block; Interactable Buy cost 10,000 coins Best tool Luminous Transparent Description Packs large amounts of crops into crates. A crate packer is an industrial machine that packs 100 of a crop or fruit into crates .
+
+Obtaining [ ]
+
+Purchasing [ ]
+
+Crate packers can be bought from Dom for 10,000 coins each.
+
+Breaking [ ]
+
+Crate Packer Breaking Data Hardness 6 Best Tool Pickaxe Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 9 Wooden 18 9 Stone 10 6 Iron 6 4 Gilded Steel 5 3 Diamond 3 2 Opal 3 2 Void Mattock 2
+
+Usage [ ]
+
+Auto-crafting [ ]
+
+Image Name Recipe Crate of Wheat 100 Wheat Crate of Tomatoes 100 Tomato Crate of Apples 100 Apple Crate of Potatoes 100 Potato Crate of Lemons 100 Lemon Crate of Carrots 100 Carrot Crate of Coconuts 100 Coconut Crate of Onions 100 Onion Crate of Radishes 100 Radish Crate of Starfruit 100 Starfruit Crate of Avocados 100 Avocado Crate of Pumpkin 100 Pumpkin Crate of Kiwis 100 Kiwi Crate of Melons 100 Watermelon Crate of Oranges 100 Orange Crate of Plums 100 Plum
+
+History [ ]
+
+June 4, 2021 Added crate packers. August 21, 2021 Crate packers can now pack apples , lemons , coconuts , avocados , kiwis , and oranges into their respective crates. October 9, 2021 Crate packers can now pack plums .
+
+Trivia [ ]
+
+This is the only industrial machine that can be bought. Despite the crates appearing to be made out of wood, the crate packer does not require wood to pack the crops . Crops within the crate packer will not drop if the machine is broken, but can be collected by changing the input crop.

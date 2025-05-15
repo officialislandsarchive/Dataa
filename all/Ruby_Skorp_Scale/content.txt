@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Ruby_Skorp_Scale
+
+----------------------------------------
+
+Ruby Skorp Scale Dropped by Ruby Skorp Sell price 1,000 coins Required skill (to sell) Level 36 Combat Description A rare drop from killing Skorps. A ruby skorp scale is a mob drop dropped from ruby skorps .
+
+Obtaining [ ]
+
+Mob drop [ ]
+
+Ruby skorps are guaranteed to drop 1 ruby skorp scale upon defeat and a 50% chance of dropping 2.
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Desert Island Orb 10 Glass Block 5 Gold Skorp Claw 2 Ruby Skorp Scale Workbench Tier 2 Workbench Tier 3 Workbench Tier 4 Level 36 Combat Azarathian Longbow 2 Ruby Skorp Stinger 70 Steel Ingot 20 Ruby Skorp Scale 5 Ancient Slime String Anvil Level 40 Archery Ruby Sword 20 Ruby Skorp Scale 200 Iron Ingot 6 Ruby Anvil Level 66 Light Melee Conveyor Sensor 1 Conveyor Belt 3 Ruby Skorp Scale 50 Electrite Electrical Workbench (Level 3) Level 50 Forging
+
+Selling [ ]
+
+Ruby skorp scales can be sold to Ivon for 1,000 coins each after reaching level 36 Combat .
+
+Buying [ ]
+
+Ruby skorp scales can be used to buy a T-Rex fossil from the Desert Nomad for 35 scales.
+
+History [ ]
+
+August 9, 2020 Added ruby skorp scales. December 18, 2020 Ruby skorp scales can now be used to craft conveyor sensors . January 22, 2021 Level 36 Combat is now required to sell ruby skorp scales to Ivon . April 9, 2022 Ruby skorp scales can now be used to craft Desert Island orbs . April 10, 2022 2 ruby skorp scales are now required to craft Desert Island orbs, down from 5. June 25, 2022 Ruby skorp scales can now be used to craft ruby swords . September 17, 2022 Ruby skorp scales can now be used to craft azarathian longbows .

@@ -1,0 +1,25 @@
+Source: https://robloxislands.fandom.com/wiki/Sea_Lantern
+
+----------------------------------------
+
+Sea Lantern Type of block Solid block; Luminous Recipe 20 Aquamarine Shard 10 Coal Crafted with Lighting Station Best tool Luminous Transparent A sea lantern is a block that emits light .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Sea lanterns can only be crafted by players who own the lighting station gamepass.
+
+Name Recipe Crafting station Gamepass required Sea Lantern 20 Aquamarine Shard 10 Coal Lighting Station
+
+Breaking [ ]
+
+Sea Lantern Breaking Data Hardness 4 Best Tool None Max Hits Needed Material/Tool Axe Pickaxe Stone Shovel 6 Wooden 12 12 Stone 7 7 Iron 4 4 Gilded Steel 3 3 Diamond 2 2 Opal 2 2 Void Mattock 1
+
+History [ ]
+
+July 11, 2020 Added sea lanterns. July 17, 2020 Changed the texture of sea lanterns.
+
+Trivia [ ]
+
+The sea lantern is one of the few light-emitting full size blocks , and is also the first block light source to be introduced into the game, the second being the jack o' lantern . The sea lantern is the only light-emitting block that emits a teal color.

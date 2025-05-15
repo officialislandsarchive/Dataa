@@ -1,0 +1,21 @@
+Source: https://robloxislands.fandom.com/wiki/Copper_Rod
+
+----------------------------------------
+
+Copper Rod Recipe 25 Copper Ingot Crafted with Copper Press Description Supportive rod made of copper. Used for crafting. A copper rod is an item used to craft advanced machinery.
+
+Obtaining [ ]
+
+Transforming [ ]
+
+Input Item transformer + Factory Mold Output 25 Copper Ingot ➡ Copper Press + Rod Factory Mold ➡ 1 Copper Rod
+
+Usage [ ]
+
+Crafting ingredient [ ]
+
+Image Name Recipe Crafting station Required skill Steel Press 100 Copper Plate 250 Copper Rod 25 Steel Rod Workbench Tier 3 Workbench Tier 4 Level 32 Forging Red Bronze Refinery 100 Steel Plate 250 Copper Rod 25 Steel Rod Workbench Tier 3 Workbench Tier 4 None Gearbox 10 Copper Rod 50 Steel Bolt 25 Steel Plate Anvil None
+
+History [ ]
+
+September 18, 2020 Added copper rods.

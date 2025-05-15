@@ -1,0 +1,29 @@
+Source: https://robloxislands.fandom.com/wiki/Glass_of_Milk
+
+----------------------------------------
+
+Glass of Milk Recipe 1 Milk Bucket Crafted with Cooking Table Food Processor Heals 10 HP Effect +30% damage to mobs Required skill Level 42 Cooking Description Consume for +30% damage to mobs . A glass of milk is a food item that heals 10 HP and grants +30% damage to mobs when consumed.
+
+It currently cannot be sold to Petur .
+
+Obtaining [ ]
+
+Crafting [ ]
+
+Name Recipe Crafting station Required skill Glass of Milk 1 Milk Bucket Cooking Table Food Processor Level 42 Cooking
+
+Usage [ ]
+
+Drinking [ ]
+
+Drinking a glass of milk restores 10 HP and grants +30% damage to mobs for 22 seconds.
+
+Its damage boost can be stacked with the mob damage bonus granted from consuming a starfruit cake , allowing a maximum increase of 55%, or 1.55x, to be applied to damage dealt to mobs.
+
+History [ ]
+
+July 23, 2022 Added glasses of milk. 1 empty jar is no longer required to craft glasses of milk. Introduced where glasses of milk now cannot be sold to Petur . July 30, 2022 Decreased the damage bonus from 50% to 30% and effect duration from 1 minute to 22 seconds. Changed the description from "Consume for +50% damage to mobs ." to "Consume for +30% damage to mobs ."
+
+Trivia [ ]
+
+Glasses of milk currently cannot be sold to Petur . Prior to July 30, 2022 , it was +50% damage to mobs due to it being unbalanced.
